@@ -49,10 +49,10 @@ tools/   共用查询、构建、校验、公开边界检查及自动化测试
 
 ## 私人工作区（Private Workspace）
 
-Fork 使用者可创建被 Git 忽略的本地 `workspace/`：
+Fork 使用者首次由 Agent 从简历整理 `profile.md`，提出候选职业方向，并确认行业、岗位、期望地点与用户输入的薪资口径。默认工作区只有事实、偏好、`resume/`、`applications/` 及入口／规则文件；目录程序仅创建骨架，可导入明确指定的简历：
 
 ```bash
-python3 skills/setup-workspace/scripts/init_local.py
+python3 skills/setup-workspace/scripts/init_local.py --resume-file /path/to/resume.pdf
 ```
 
 若已有现成的私人工作区，直接绑定路径，保持唯一档案：

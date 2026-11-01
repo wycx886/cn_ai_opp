@@ -47,8 +47,13 @@ class WorkspaceTests(unittest.TestCase):
         self.assertTrue(all((target / name).is_dir() for name in DIRECTORIES))
         self.assertIn("待填写", (target / "profile.md").read_text())
         self.assertFalse(list((target / "applications").glob("*/log.md")))
-        self.assertTrue((target / "applications/inbox").is_dir())
-        self.assertFalse((target / "research/inbox").exists())
+        self.assertEqual(set(DIRECTORIES), {"resume"})
+        self.assertEqual({p.name for p in target.iterdir()},
+                         {"AGENTS.md", "README.md", "profile.md", "preferences.md", "resume", "applications"})
+        self.assertEqual({p.name for p in (target / "applications").iterdir()}, {"AGENTS.md", "README.md"})
+        for optional in ("applications/inbox", "applications/archive", "applications/headhunters",
+                         "drafts", "research", "playbooks", "legacy", "tmp"):
+            self.assertFalse((target / optional).exists(), optional)
         self.write("workspace/profile.md", "Synthetic facts; preserve me.\n")
         self.write("workspace/applications/example/log.md", "Synthetic progress; preserve me.\n")
         before = {p.relative_to(target): p.read_bytes() for p in target.rglob("*") if p.is_file()}
@@ -72,6 +77,85 @@ class WorkspaceTests(unittest.TestCase):
         self.git("add", ".")
         self.assertNotIn(CONFIG_NAME, self.git("ls-files").decode().splitlines())
         self.assertEqual(audit(self.root), [])
+
+    def synthetic_resume(self, suffix=".pdf", content=b"Synthetic resume content; no actual personal data.\x00\n"):
+        path = Path(self.temp.name) / ("synthetic-resume" + suffix)
+        path.write_bytes(content)
+        return path
+
+    def test_explicit_resume_import_preserves_bytes_source_and_blank_facts(self):
+        for suffix in (".pdf", ".docx", ".md", ".txt"):
+            with self.subTest(suffix=suffix):
+                source = self.synthetic_resume(suffix)
+                original = source.read_bytes()
+                initialize(self.root, resume_file=source)
+                target = self.root / "workspace/resume" / source.name
+                self.assertEqual(target.read_bytes(), original)
+                self.assertEqual(source.read_bytes(), original)
+        templates = self.root / "skills/setup-workspace/assets/templates"
+        for name, template in (("profile.md", "profile.md"), ("preferences.md", "preferences.md")):
+            self.assertEqual((self.root / "workspace" / name).read_bytes(), (templates / template).read_bytes())
+
+    def test_reimport_of_identical_resume_is_idempotent(self):
+        source = self.synthetic_resume()
+        initialize(self.root, resume_file=source)
+        target = self.root / "workspace"
+        before = {p.relative_to(target): p.read_bytes() for p in target.rglob("*") if p.is_file()}
+        config_before = (self.root / CONFIG_NAME).read_bytes()
+        created, _ = initialize(self.root, resume_file=source)
+        self.assertFalse(created)
+        self.assertEqual(before, {p.relative_to(target): p.read_bytes() for p in target.rglob("*") if p.is_file()})
+        self.assertEqual((self.root / CONFIG_NAME).read_bytes(), config_before)
+
+    def test_resume_name_collision_preserves_existing_resume_and_source(self):
+        source = self.synthetic_resume(content=b"Synthetic first version\n")
+        initialize(self.root, resume_file=source)
+        target = self.root / "workspace"
+        before = {p.relative_to(target): p.read_bytes() for p in target.rglob("*") if p.is_file()}
+        config_before = (self.root / CONFIG_NAME).read_bytes()
+        source.write_bytes(b"Synthetic conflicting second version\n")
+        with self.assertRaises((ValueError, FileExistsError)):
+            initialize(self.root, resume_file=source)
+        self.assertEqual(before, {p.relative_to(target): p.read_bytes() for p in target.rglob("*") if p.is_file()})
+        self.assertEqual((self.root / CONFIG_NAME).read_bytes(), config_before)
+        self.assertEqual(source.read_bytes(), b"Synthetic conflicting second version\n")
+
+    def test_invalid_resume_is_rejected_before_workspace_creation(self):
+        missing = Path(self.temp.name) / "missing.pdf"
+        unsupported = self.synthetic_resume(".bin")
+        directory = Path(self.temp.name) / "directory.pdf"
+        directory.mkdir()
+        for source in (missing, unsupported, directory):
+            with self.subTest(source=source.name), self.assertRaises((ValueError, FileNotFoundError)):
+                initialize(self.root, resume_file=source)
+            self.assertFalse((self.root / "workspace").exists())
+            self.assertFalse((self.root / CONFIG_NAME).exists())
+
+    def test_bind_existing_and_resume_import_cannot_be_combined(self):
+        target = Path(self.temp.name) / "existing-private"
+        target.mkdir()
+        for name in ("profile.md", "preferences.md"):
+            (target / name).write_text("Synthetic existing private facts\n", encoding="utf-8")
+        before = {p.name: p.read_bytes() for p in target.iterdir()}
+        source = self.synthetic_resume()
+        original = source.read_bytes()
+        with self.assertRaises(ValueError):
+            initialize(self.root, workspace=target, use_existing=True, resume_file=source)
+        self.assertEqual(before, {p.name: p.read_bytes() for p in target.iterdir()})
+        self.assertEqual(source.read_bytes(), original)
+        self.assertFalse((self.root / CONFIG_NAME).exists())
+        self.assertFalse((self.root / "workspace").exists())
+
+    def test_imported_resume_and_workspace_remain_git_ignored(self):
+        source = self.synthetic_resume(".docx")
+        initialize(self.root, resume_file=source)
+        self.git("add", ".")
+        public_paths = self.git("ls-files").decode().splitlines()
+        self.assertFalse(any(name.startswith("workspace/") for name in public_paths))
+        self.assertNotIn(CONFIG_NAME, public_paths)
+        self.assertNotIn(source.name, public_paths)
+        self.assertEqual(audit(self.root), [])
+        self.assertEqual((self.root / "workspace/resume" / source.name).read_bytes(), source.read_bytes())
 
     def test_invalid_workspace_targets_are_rejected(self):
         for target in (".", "..", "data/personal"):
