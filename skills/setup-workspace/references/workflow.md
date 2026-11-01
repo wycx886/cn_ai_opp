@@ -46,9 +46,9 @@ python3 skills/setup-workspace/scripts/init_local.py --workspace ../my-private-w
 
 ## 个人机会与记录
 
-用 [日志模板](../assets/templates/application-log.md)、[沟通模板](../assets/templates/communication-note.md)、[未发送草稿模板](../assets/templates/outreach-draft.md)。公司日志是详细事实入口，`applications/index.md` 链接各公司日志并从日志汇总状态摘要；沟通原件进公司 `records/`，定制简历、联系草稿和面试准备进 `materials/`。按用户原有简历构建约定生成，不能手改其要求通过源文件构建的成品。
+用 [日志模板](../assets/templates/application-log.md)、[沟通模板](../assets/templates/communication-note.md)、[未发送草稿模板](../assets/templates/outreach-draft.md)。`applications/index.md` 是公司路由；公司 `log.md` 汇总当前状态、各联系线结论与下一步，并链接公司内的 records、materials 和历史依据。每次会话或独立沟通事件的详细经过单独记入公司 `records/YYYY-MM-DD 渠道 人物.md`，同日重复时用已知 `HHmm` 或递增序号区分；未知部分标待核实，不编人物或日期。log 不重复堆积完整聊天流水；定制简历、联系草稿和面试准备进 `materials/`。按用户原有简历构建约定生成，不能手改其要求通过源文件构建的成品。
 
-多 Agent 按公司分工，同一公司由一个写入者维护日志；其他补充直接存该公司 `records/` 的唯一原始记录，再核对合并。主体不明时记在索引的待核实区，跨公司原始依据确需保留时可存 `applications/records/` 并由日志引用，不另建待处理队列。公开研究直接写共享 `data/companies/`。
+多 Agent 按公司分工，同一公司由一个写入者维护日志；其他补充直接存该公司 `records/` 的唯一原始记录，再核对并更新公司 log 的摘要与路由。主体不明时记在索引的待核实区，跨公司原始依据确需保留时可存 `applications/records/` 并由日志引用，不另建待处理队列。公开研究直接写共享 `data/companies/`。
 
 无论本人主动拒绝还是招聘方拒绝，先更新对应联系线；不自动归档整家公司。仅按用户明确要求移到 `applications/archive/`，保留原记录、其他联系线状态及不再接触要求，并同步索引与链接。
 
