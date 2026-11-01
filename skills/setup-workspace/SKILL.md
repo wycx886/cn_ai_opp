@@ -1,11 +1,11 @@
 ---
 name: setup-workspace
-description: Onboard a new private career workspace from a user-supplied resume, or bind an existing workspace without duplicating or overwriting records. Use for first setup, extracting sourced profile facts, proposing career directions, confirming industry/location/role preferences and user-entered salary expectations, or locating the active private workspace. Keep the default workspace to profile, preferences, resume and applications, with navigation/rules files; public research needs no personal onboarding.
+description: Onboard a new private career workspace from a user-supplied resume, or bind an existing workspace without duplicating or overwriting records. Use for first setup, extracting sourced profile facts, proposing career directions, confirming industry/location/role preferences and user-entered salary expectations, or locating the active private workspace. Keep the default workspace to profile, preferences, resume and applications, with one combined AGENTS.md entry; public research needs no personal onboarding.
 ---
 
 # Setup Workspace · 从简历初始化私人工作区
 
-默认只维护 `profile.md`、`preferences.md`、`resume/`、`applications/`，加 `README.md` 与 `AGENTS.md` 两个入口。工作方法和空白模板随本 Skill 保存，不在私人工作区重复建立方法、研究、草稿或历史目录。公司定制草稿与面试材料按需放该公司 `materials/`，原始沟通放 `records/`。
+默认只维护 `profile.md`、`preferences.md`、`resume/`、`applications/`，以一个 `AGENTS.md` 合并目录说明与 Agent 规则，不再初始化工作区根目录的 `README.md`。工作方法和空白模板随本 Skill 保存，不在私人工作区重复建立方法、研究、草稿或历史目录。公司定制草稿与面试材料按需放该公司 `materials/`，原始沟通放 `records/`。
 
 ## 1. 先识别已有资料
 

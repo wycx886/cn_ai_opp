@@ -5,7 +5,6 @@ from pathlib import Path
 from workspace import ROOT, bind_workspace, resolve_workspace, workspace_path
 
 COPIES = {
-    "README.md": "workspace-guide.md",
     "AGENTS.md": "workspace-agent-rules.md",
     "profile.md": "profile.md",
     "preferences.md": "preferences.md",

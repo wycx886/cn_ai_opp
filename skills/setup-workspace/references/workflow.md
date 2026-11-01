@@ -7,7 +7,6 @@
 ```text
 workspace/
   AGENTS.md
-  README.md
   profile.md
   preferences.md
   resume/
@@ -15,6 +14,8 @@ workspace/
     AGENTS.md
     README.md
 ```
+
+工作区根目录的 `AGENTS.md` 同时承载目录说明与维护规则，不再另建根目录 `README.md`。`applications/README.md` 是个人进展总览，不是另一份工作区说明。
 
 公司 `log.md`、`records/`、`materials/` 按具体个人任务创建；个人 inbox、archive 和 headhunters 也按需创建。不初始化重复的方法、研究、通用草稿或临时目录；简历原件和生成版本进 `resume/`，公司定制草稿进其 `materials/`。
 

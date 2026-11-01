@@ -49,11 +49,12 @@ class WorkspaceTests(unittest.TestCase):
         self.assertFalse(list((target / "applications").glob("*/log.md")))
         self.assertEqual(set(DIRECTORIES), {"resume"})
         self.assertEqual({p.name for p in target.iterdir()},
-                         {"AGENTS.md", "README.md", "profile.md", "preferences.md", "resume", "applications"})
+                         {"AGENTS.md", "profile.md", "preferences.md", "resume", "applications"})
         self.assertEqual({p.name for p in (target / "applications").iterdir()}, {"AGENTS.md", "README.md"})
         for optional in ("applications/inbox", "applications/archive", "applications/headhunters",
                          "drafts", "research", "playbooks", "legacy", "tmp"):
             self.assertFalse((target / optional).exists(), optional)
+        self.write("workspace/AGENTS.md", "Synthetic custom workspace rules; preserve me.\n")
         self.write("workspace/profile.md", "Synthetic facts; preserve me.\n")
         self.write("workspace/applications/example/log.md", "Synthetic progress; preserve me.\n")
         before = {p.relative_to(target): p.read_bytes() for p in target.rglob("*") if p.is_file()}
@@ -66,8 +67,8 @@ class WorkspaceTests(unittest.TestCase):
     def test_binding_existing_external_workspace_does_not_copy_or_modify_it(self):
         target = Path(self.temp.name) / "private-workspace"
         target.mkdir()
-        for name in ("profile.md", "preferences.md"):
-            (target / name).write_text("Synthetic existing record\n")
+        for name in ("AGENTS.md", "README.md", "profile.md", "preferences.md"):
+            (target / name).write_text("Synthetic existing record; preserve original layout.\n")
         before = {p.name: p.read_bytes() for p in target.iterdir()}
         created, kept = initialize(self.root, workspace="../private-workspace", use_existing=True)
         self.assertEqual((created, kept), ([], []))

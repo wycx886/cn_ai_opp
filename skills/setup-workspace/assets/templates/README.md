@@ -4,8 +4,7 @@
 
 | 模板 | 私人工作区中的用途 |
 | --- | --- |
-| [workspace-guide.md](workspace-guide.md) | `README.md`，本人的目录导航 |
-| [workspace-agent-rules.md](workspace-agent-rules.md) | `AGENTS.md`，本人的维护规则 |
+| [workspace-agent-rules.md](workspace-agent-rules.md) | `AGENTS.md`，合并目录说明与维护规则的唯一工作区入口 |
 | [profile.md](profile.md) | `profile.md`，本人事实基准 |
 | [preferences.md](preferences.md) | `preferences.md`，目标和约束 |
 | [applications-agent-rules.md](applications-agent-rules.md) | `applications/AGENTS.md` |
