@@ -11,13 +11,12 @@ workspace/
   preferences.md
   resume/
   applications/
-    AGENTS.md
-    README.md
+    index.md
 ```
 
-工作区根目录的 `AGENTS.md` 同时承载目录说明与维护规则，不再另建根目录 `README.md`。`applications/README.md` 是个人进展总览，不是另一份工作区说明。
+工作区根目录的 `AGENTS.md` 同时承载目录说明与维护规则，不再另建根目录 `README.md`。投递与沟通规则也合并在这一份文件中，applications 不另设 AGENTS 或 README；`applications/index.md` 只作公司路由与状态摘要。
 
-公司 `log.md`、`records/`、`materials/` 按具体个人任务创建；个人 inbox、archive 和 headhunters 也按需创建。不初始化重复的方法、研究、通用草稿或临时目录；简历原件和生成版本进 `resume/`，公司定制草稿进其 `materials/`。
+公司 `log.md`、`records/`、`materials/` 按具体个人任务创建，不设 inbox。只有用户明确要求时才建立 `archive/` 并移动指定公司；猎头关系按实际任务记录。不初始化重复的方法、研究、通用草稿或临时目录；简历原件和生成版本进 `resume/`，公司定制草稿进其 `materials/`。
 
 ## 新使用者
 
@@ -47,8 +46,10 @@ python3 skills/setup-workspace/scripts/init_local.py --workspace ../my-private-w
 
 ## 个人机会与记录
 
-用 [日志模板](../assets/templates/application-log.md)、[沟通模板](../assets/templates/communication-note.md)、[未发送草稿模板](../assets/templates/outreach-draft.md)。公司日志是当前状态入口，总览从日志汇总；沟通原件进公司 `records/`，定制简历、联系草稿和面试准备进 `materials/`。按用户原有简历构建约定生成，不能手改其要求通过源文件构建的成品。
+用 [日志模板](../assets/templates/application-log.md)、[沟通模板](../assets/templates/communication-note.md)、[未发送草稿模板](../assets/templates/outreach-draft.md)。公司日志是详细事实入口，`applications/index.md` 链接各公司日志并从日志汇总状态摘要；沟通原件进公司 `records/`，定制简历、联系草稿和面试准备进 `materials/`。按用户原有简历构建约定生成，不能手改其要求通过源文件构建的成品。
 
-多 Agent 按公司分工，同一公司的一个写入者维护日志；其他补充先存唯一原始记录，只有待归属或待合并的个人进展才进入按需创建的 `applications/inbox/`。公开研究直接写共享 `data/companies/`，不进入私人 inbox。
+多 Agent 按公司分工，同一公司由一个写入者维护日志；其他补充直接存该公司 `records/` 的唯一原始记录，再核对合并。主体不明时记在索引的待核实区，跨公司原始依据确需保留时可存 `applications/records/` 并由日志引用，不另建待处理队列。公开研究直接写共享 `data/companies/`。
+
+无论本人主动拒绝还是招聘方拒绝，先更新对应联系线；不自动归档整家公司。仅按用户明确要求移到 `applications/archive/`，保留原记录、其他联系线状态及不再接触要求，并同步索引与链接。
 
 草稿、真实发送和收到回复分别记录；对外动作沿用使用者明确授权与本地规则。共享提交与私人隔离见 [工具说明](../../../tools/README.md)。

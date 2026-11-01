@@ -8,8 +8,7 @@ COPIES = {
     "AGENTS.md": "workspace-agent-rules.md",
     "profile.md": "profile.md",
     "preferences.md": "preferences.md",
-    "applications/README.md": "applications-index.md",
-    "applications/AGENTS.md": "applications-agent-rules.md",
+    "applications/index.md": "applications-index.md",
 }
 DIRECTORIES = ("resume",)
 RESUME_SUFFIXES = frozenset({".pdf", ".docx", ".md", ".txt"})

@@ -21,4 +21,4 @@
 
 ## 已同步
 
-写入实际进展后，同步本公司 `log.md` 和 `applications/README.md`。
+写入实际进展后，同步本公司 `log.md` 和 `applications/index.md`。

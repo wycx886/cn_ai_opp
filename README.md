@@ -61,6 +61,6 @@ python3 skills/setup-workspace/scripts/init_local.py --resume-file /path/to/resu
 python3 skills/setup-workspace/scripts/init_local.py --workspace ../my-private-workspace --use-existing
 ```
 
-初始化后的工作区根目录仅有 `AGENTS.md`、`profile.md`、`preferences.md`、`resume/` 和 `applications/`。`AGENTS.md` 合并目录说明与 Agent 规则。完整初始化由 Agent 接着完成：读取用户简历 → 整理事实 → 建议方向 → 确认行业、岗位、地点与薪资偏好；只创建空白目录不算完成。已有资料直接复用。
+初始化后的工作区根目录仅有 `AGENTS.md`、`profile.md`、`preferences.md`、`resume/` 和 `applications/`。`AGENTS.md` 合并目录说明与全部个人记录规则；applications 只初始化公司路由 `index.md`，不设额外 AGENTS、README 或 inbox。拒绝先记录，归档只按用户明确要求执行。完整初始化由 Agent 接着完成：读取用户简历 → 整理事实 → 建议方向 → 确认行业、岗位、地点与薪资偏好；只创建空白目录不算完成。已有资料直接复用。
 
 个人事实、简历、偏好、针对某位核心人物或 HR 的实际建联消息、私聊记录与投递进展只留在私人工作区（空白模板见 [setup-workspace/assets/templates](skills/setup-workspace/assets/templates/README.md)）；`workspace.local.json` 同样被 Git 忽略，绝不上传。

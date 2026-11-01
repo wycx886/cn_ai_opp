@@ -57,7 +57,7 @@ git remote -v
 | 公开事实、字段约束、统一索引及阅读版 | `data/` | 是 |
 | 共用工具、依赖与测试 | `tools/`、`.github/` | 是 |
 | 个人事实、简历、草稿、聊天与投递 | 本地 `workspace/` 或绑定的外部工作区 | 否 |
-| 个人投递／沟通待整理记录 | 私人 `applications/inbox/` | 否 |
+| 个人投递／沟通与原始依据 | 私人 `applications/<公司>/log.md`、`records/`；路由见 `applications/index.md` | 否 |
 | 尚未核实的新机构草稿 | 私人 `drafts/research/` | 否 |
 | 私人工作区路径 | `workspace.local.json` | 否 |
 

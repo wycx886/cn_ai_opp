@@ -50,7 +50,8 @@ class WorkspaceTests(unittest.TestCase):
         self.assertEqual(set(DIRECTORIES), {"resume"})
         self.assertEqual({p.name for p in target.iterdir()},
                          {"AGENTS.md", "profile.md", "preferences.md", "resume", "applications"})
-        self.assertEqual({p.name for p in (target / "applications").iterdir()}, {"AGENTS.md", "README.md"})
+        self.assertEqual({p.name for p in (target / "applications").iterdir()}, {"index.md"})
+        self.assertEqual(list(target.rglob("AGENTS.md")), [target / "AGENTS.md"])
         for optional in ("applications/inbox", "applications/archive", "applications/headhunters",
                          "drafts", "research", "playbooks", "legacy", "tmp"):
             self.assertFalse((target / optional).exists(), optional)
