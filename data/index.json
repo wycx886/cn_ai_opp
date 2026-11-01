@@ -16,7 +16,7 @@
     "operating_organizations": {
       "organizations": 80,
       "categories": 10,
-      "source_records": 399,
+      "source_records": 400,
       "recruitment_links": 76,
       "public_recruitment_emails": 38
     },
@@ -3215,7 +3215,8 @@
       "aliases": [
         "智谱华章(02513.HK)",
         "02513.HK",
-        "智谱华章"
+        "智谱华章",
+        "智谱·AI"
       ],
       "organization_type": "operating_organization",
       "focus": "通用基座模型、模型服务与智能体",

@@ -12,7 +12,7 @@
 
 标记依据：s01, s02。标记日期不更新业务事实核查日。
 
-别名与原表名称：智谱华章(02513.HK)；02513.HK；智谱华章
+别名与原表名称：智谱华章(02513.HK)；02513.HK；智谱华章；智谱·AI
 
 ## 业务与产品
 
@@ -51,6 +51,7 @@ GLM、BigModel、智谱清言、CogAgent、CodeGeeX
 | 类别 | 平台与用途 | 公开链接 | 归属 | 核查日期 | 状态／来源 |
 | --- | --- | --- | --- | --- | --- |
 | Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://www.zhipin.com/gongsi/18815b858c0b88250nd72N66Fw~~.html) | 智谱 Z.ai | 2026-10-31 | confirmed / s05 |
+| Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/10087865/) | 智谱 Z.ai | 2026-11-01 | confirmed / s06 |
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
@@ -67,3 +68,4 @@ GLM、BigModel、智谱清言、CogAgent、CodeGeeX
 | s03 | [智谱投资者关系](https://www.zhipuai.cn/investor_relations/) | 年报、招股书与IR邮箱 | 未标明 | 2026-10-30 |
 | s04 | [36氪智谱档案](https://pitchhub.36kr.com/project/1958565851436035) | 历史融资方（非完整当前股东） | 未标明 | 2026-10-30 |
 | s05 | [智谱华章招聘-BOSS直聘 公司页(工商信息已核对)](https://www.zhipin.com/gongsi/18815b858c0b88250nd72N66Fw~~.html) | 公开企业主页主体：智谱华章；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s06 | [【智谱·AI招聘】-猎聘](https://www.liepin.com/company/10087865/) | 页面品牌为智谱·AI；简介列清华技术成果转化、GLM-130B、ChatGLM、Bigmodel.ai、CodeGeeX，与智谱业务对应。工商信息需登录，本轮未核验；只确认公开企业入口归属，不保证具体岗位持续开放。 | 未标明 | 2026-11-01 |

@@ -5,7 +5,8 @@
   "aliases": [
     "智谱华章(02513.HK)",
     "02513.HK",
-    "智谱华章"
+    "智谱华章",
+    "智谱·AI"
   ],
   "category_id": "01",
   "focus": "通用基座模型、模型服务与智能体",
@@ -74,6 +75,15 @@
       "supports": "公开企业主页主体：智谱华章；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "channel",
+      "title": "【智谱·AI招聘】-猎聘",
+      "url": "https://www.liepin.com/company/10087865/",
+      "supports": "页面品牌为智谱·AI；简介列清华技术成果转化、GLM-130B、ChatGLM、Bigmodel.ai、CodeGeeX，与智谱业务对应。工商信息需登录，本轮未核验；只确认公开企业入口归属，不保证具体岗位持续开放。",
+      "published_date": null,
+      "checked_at": "2026-11-01"
     }
   ],
   "provenance": {
@@ -111,6 +121,24 @@
         "s05"
       ],
       "notes": null
+    },
+    {
+      "id": "ch-471a2a43ad31891f",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/10087865/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "智谱 Z.ai",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-01",
+      "source_ids": [
+        "s06"
+      ],
+      "notes": "通过平台品牌名与GLM、ChatGLM、BigModel等公开产品简介核对归属；工商信息登录受限，未作工商主体核验。"
     }
   ]
 }
