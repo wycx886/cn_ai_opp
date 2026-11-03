@@ -5,8 +5,7 @@
   "aliases": [
     "拼多多",
     "PDD Holdings",
-    "PDD",
-    "拼多多(上海)网络科技"
+    "PDD"
   ],
   "category_id": "07",
   "focus": "电商零售集团（拼多多／Temu 等）；公开披露将 AI 用于平台与运营，未见具名对外大模型旗舰",
@@ -32,7 +31,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "上市主体为 PDD Holdings；中国招聘常用拼多多品牌站 careers.pinduoduo.com／careers.pddglobalhr.com。猎聘主页主体为拼多多(上海)网络科技有限公司（境内运营实体），已列入 aliases。BOSS 路径来自「拼多多集团-PDD」公开页。",
+  "notes": "上市主体为 PDD Holdings；中国招聘常用拼多多品牌站 careers.pinduoduo.com／careers.pddglobalhr.com。猎聘主页主体为拼多多(上海)网络科技有限公司（境内运营实体），已列入 aliases。BOSS 路径来自「拼多多集团-PDD」公开页。 原“拼多多(上海)网络科技”别名改作关联法人说明，不当作开曼上市主体同一法人；具体全称见本次BOSS证据。",
   "checked_at": "2026-11-02",
   "sources": [
     {
@@ -76,6 +75,15 @@
       "published_date": null,
       "checked_at": "2026-11-02",
       "scope": "channel"
+    },
+    {
+      "id": "s06",
+      "scope": "channel",
+      "title": "BOSS直聘：拼多多集团-PDD（工商主体为拼多多上海网络科技公司）",
+      "url": "https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html",
+      "supports": "本次已实际读取工商信息和上海办公地址；这是境内运营／招聘法人，不是开曼上市主体PDD Holdings。保留为集团关联入口，具体劳动合同雇主另核。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
   "provenance": {
@@ -140,15 +148,18 @@
       "purpose": "recruitment",
       "owner": {
         "scope": "organization",
-        "name": "拼多多集团 PDD Holdings",
-        "role": null
+        "name": "拼多多（上海）网络科技有限公司",
+        "role": "关联机构／候选入口；目标主体关系待核实"
       },
-      "verification_status": "confirmed",
-      "checked_at": "2026-11-02",
+      "verification_status": "partial",
+      "checked_at": "2026-11-03",
       "source_ids": [
-        "s04"
+        "s06"
       ],
-      "notes": "反爬页未能完整渲染。"
+      "notes": "本次已实际读取工商信息和上海办公地址；这是境内运营／招聘法人，不是开曼上市主体PDD Holdings。保留为集团关联入口，具体劳动合同雇主另核。",
+      "historical_source_ids": [
+        "s04"
+      ]
     },
     {
       "id": "ch-2decdf46a5aeb9d2",
@@ -166,7 +177,7 @@
       "source_ids": [
         "s05"
       ],
-      "notes": "境内运营实体页，非开曼上市主体本身。 待核实：页面观察主体为“拼多多上海运营实体”；不能作为“拼多多集团 PDD Holdings”本地团队、法人或岗位归属已确认的证据。"
+      "notes": "境内运营实体页，非开曼上市主体本身。 待核实：页面观察主体为“拼多多上海运营实体”；不能作为“拼多多集团 PDD Holdings”本地团队、法人或岗位归属已确认的证据。 2026-11-03 本次打开跳至登录／验证页，未重新读到企业正文；保留此前核验标记与原日期，不宣称本轮再次确认。"
     }
   ]
 }

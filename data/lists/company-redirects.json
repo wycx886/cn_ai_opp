@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "redirects": {
+    "alibaba-shanghai": "alibaba",
+    "baidu-shanghai": "baidu",
+    "bytedance-shanghai": "bytedance",
+    "meituan-shanghai": "meituan",
+    "tencent-shanghai": "tencent",
+    "huawei-suzhou-research-institute": "huawei",
+    "cloudwalk-suzhou": "cloudwalk",
+    "deepglint-suzhou": "deepglint",
+    "iflytek-suzhou": "iflytek",
+    "intellifusion-suzhou": "intellifusion",
+    "tesla-shanghai-rd": "tesla",
+    "inventec-kunshan": "inventec",
+    "quanta-computer-kunshan": "quanta-computer"
+  }
+}

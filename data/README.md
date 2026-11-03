@@ -34,6 +34,14 @@
 
 原来 `data/investors/<id>.json` 的完整资料现统一位于 `data/companies/<id>.json`；原 `data/platforms.json` 改为 `data/lists/incumbents.json`。Agent 先读当前 `data/index.json` 获取路径，勿拼接旧目录。索引 v4 的 `counts.companies` 从经营型数量改为全部公司数量，类型分项与 `statistics` 改用 `operating_organizations`／`investment_firms`；分项日期相应为 `latest_operating_check`／`latest_investment_firm_check`。
 
+## 公司主体与地区信息
+
+同一公司统一保存一个主档案，上海／苏州等办公地、当地岗位线索与渠道适用范围收进主档案，不按城市复制公司。真实法人名称中的地名保留；有不同主体或业务／项目边界的机构不能仅因品牌相同而合并。
+
+`regional_notes[]` 按 `region`、`summary`、`source_ids`、`checked_at` 保留地区研究、原地区名称与 ID、组织边界、历史判断、导入出处和未核实范围。来源仍位于同一公司的 `sources[]`，不得把地区结论扩张为集团全部业务事实。地区资料有独立日期，其引用的业务来源可晚于主档案业务 `checked_at`；合并不刷新该主档案日期，也不提升渠道核验状态。地区来源不能凭日期较新就当作集团全部事实重新核验。
+
+旧地区 ID 在 `lists/company-redirects.json` 单向映射到现存主公司 ID，不允许循环、链式跳转或旧 ID 继续建公司 JSON。生成的旧 Markdown 页只兼容历史阅读链接，不进入机构索引或公司计数。`tools/query.py --id <旧ID>` 返回主档案；写入工具要求使用当前主公司 ID，避免把地区别名静默当作法人归属依据。
+
 ## 第一波与机构类型
 
 主分类是新进玩家与已有玩家，经营型机构／投资机构是第二个维度。新进不是固定年份阈值，也不由上市状态或 VC 融资单独判断；成熟机构品牌变化不自动成为新进机构。
@@ -61,6 +69,7 @@
 | `name`／`aliases` | 当前整理名称、别名及历史名称，不单凭旧名称确认运营主体 |
 | `category_id`、`focus`、`products` | 经营型机构的主赛道、业务和交付方式 |
 | `locations_text` | 公开城市记录，保留总部、团队或招聘地等限定 |
+| `regional_notes` | 主公司内的地区研究、历史线索、限定范围及独立来源／日期，不形成地区公司副本 |
 | `comparison` | 编辑分析和比较对象，不表示性能排名或完整竞争清单 |
 | `investment` | 经营型机构的历史投资披露、未确认范围与核验状态 |
 | `organizational_context` | 经营型记录可选的组织形式、母平台关系及核验信息；缺失不表示独立 |
@@ -146,6 +155,8 @@
 `owner.name` 为网页实际观察到的主体名称，不能统一替换为档案标签。`confirmed` 必须匹配目标名称或有来源确认的同一主体别名；母集团、其他城市法人、关联销售公司的入口保留为 `partial`，用 `owner.role` 和 `notes` 说明范围与待核实关系。`partial` 不计入已确认渠道覆盖率，阅读版同时展示这些说明。地区业务集合不自动成为独立公司；注册地址、历史基地、当前办公地与具体岗位地点分别判断，地域不确定时直接在 `locations_text` 标明待核实和依据。
 
 已有玩家底表的可选 `company_id` 只路由到同层级完整机构档案，稳定底表 ID 不必与档案 ID 相同（例如 `trip-com` → `ctrip`）。未绑定时省略，不用上海／苏州团队替代集团档案；完整研究仍只维护在 `data/companies/`。
+
+渠道复核替换当前主体／证据时，原观察的来源、支持内容和日期保留在 `sources`，通过该渠道的 `historical_source_ids` 引用。历史依据不参与当前归属和核查日期判断；当前依据仍放 `source_ids`。写入工具新增观察，不覆盖旧观察来伪装成一次重新核查。
 
 ## 人物资料与公开主页
 

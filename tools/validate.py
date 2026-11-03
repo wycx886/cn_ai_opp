@@ -6,6 +6,7 @@ import re
 import subprocess
 import sys
 from urllib.parse import unquote, urlparse
+from company_routes import redirects
 from record_checks import load, normalized_organization_name, record_path, reject_placeholders, schema_validator, today, validate_record
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -56,6 +57,7 @@ def validate_data(root=ROOT):
     assert all_records,'Empty company dataset'
     assert len(all_records)==len({r['id'] for r in all_records}),'Duplicate company IDs across types'
     assert len(all_records)==len({r['name'] for r in all_records}),'Duplicate company names across types'
+    redirects(root)
     validate_platform_bindings(platforms, all_records)
     for kind in ('operating_organization','investment_firm'):
         records=[r for r in all_records if r['organization_type']==kind]

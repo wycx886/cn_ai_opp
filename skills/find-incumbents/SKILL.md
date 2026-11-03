@@ -36,6 +36,8 @@ description: Discover and verify established players in a specified market, incl
 
 按集团 → 法人／业务群 → 产品／实验室／团队定位实际对象。集团规模不代表每个团队的业务规模或招聘状态；一个模型、实验室与品牌也不应重复计成三家公司。
 
+同一公司的办公地、地区岗位与区域渠道收进主公司档案，不按城市复制公司记录。地区研究及证据保留在主档案的 `regional_notes[]`；真正不同的法人、产品或研究项目按证据区分，不机械合并名称带地名的机构。
+
 组织归属遵循 [共同 SOP](references/corporate-ventures.md)。若发现有明确新目标与活动证据的新孵化项目、正式拆分或新独立机构，交给 [find-startups](../find-startups/SKILL.md) 判断新进定位；母平台和具体单元可由不同方法研究，但共享同一正式事实源，不复制两套档案。成熟常规业务继续由本 Skill 研究。
 
 ## 5. 输出与保存

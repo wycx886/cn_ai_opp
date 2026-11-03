@@ -2,19 +2,20 @@
   "schema_version": 3,
   "organization_type": "operating_organization",
   "id": "inovance-technology",
-  "name": "苏州汇川技术",
+  "name": "苏州汇川技术有限公司",
   "aliases": [
-    "Inovance Technology Suzhou",
-    "汇川技术苏州研发中心",
-    "汇川技术"
+    "苏州汇川技术",
+    "苏州汇川",
+    "Inovance Technology Suzhou"
   ],
   "targeting": {
     "kind": "editorial_assessment",
     "player_group": "incumbent",
     "wave": "later",
-    "rationale": "2003年成立、2010年创业板上市（300124）的工业自动化核心部件与机器人供应商，属成熟工控平台；苏州单元本轮未核实。列为 later。",
+    "rationale": "已有工业自动化平台旗下的具名苏州经营子公司，列 later；深圳母公司上市身份与苏州子公司分开。",
     "source_ids": [
-      "s06"
+      "s07",
+      "s08"
     ],
     "labelled_at": "2026-11-03"
   },
@@ -27,15 +28,15 @@
       "purpose": "general",
       "owner": {
         "scope": "organization",
-        "name": "苏州汇川技术",
-        "role": null
+        "name": "汇川技术集团",
+        "role": "集团入口；不是已确认的苏州法人专属渠道"
       },
-      "verification_status": "confirmed",
+      "verification_status": "partial",
       "checked_at": "2026-11-02",
       "source_ids": [
         "s02"
       ],
-      "notes": null
+      "notes": "集团／品牌入口保留，苏州法人专属适用性待核实。 本次仅纠正归属，不刷新原网页核查日期。"
     },
     {
       "id": "ch-fec6a6bb28eaa5a2",
@@ -45,15 +46,15 @@
       "purpose": "recruitment",
       "owner": {
         "scope": "organization",
-        "name": "汇川技术",
-        "role": null
+        "name": "汇川技术集团",
+        "role": "集团入口；不是已确认的苏州法人专属渠道"
       },
-      "verification_status": "confirmed",
+      "verification_status": "partial",
       "checked_at": "2026-11-02",
       "source_ids": [
         "s03"
       ],
-      "notes": null
+      "notes": "集团／品牌入口保留，苏州法人专属适用性待核实。 2026-11-03 猎聘打开跳至登录页，主体名称沿用旧观察，未重新确认。"
     },
     {
       "id": "ch-aefc4f67ec948879",
@@ -63,15 +64,15 @@
       "purpose": "recruitment",
       "owner": {
         "scope": "organization",
-        "name": "苏州汇川技术",
-        "role": null
+        "name": "汇川技术集团",
+        "role": "集团入口；不是已确认的苏州法人专属渠道"
       },
-      "verification_status": "confirmed",
+      "verification_status": "partial",
       "checked_at": "2026-11-02",
       "source_ids": [
         "s04"
       ],
-      "notes": null
+      "notes": "集团／品牌入口保留，苏州法人专属适用性待核实。 本次仅纠正归属，不刷新原网页核查日期。"
     },
     {
       "id": "ch-725166959489f9ee",
@@ -81,20 +82,41 @@
       "purpose": "recruitment",
       "owner": {
         "scope": "organization",
-        "name": "苏州汇川技术",
-        "role": null
+        "name": "苏州汇川技术有限公司",
+        "role": "实际页面具名主体；具体团队／岗位另核"
       },
       "verification_status": "confirmed",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "source_ids": [
-        "s05"
+        "s09"
       ],
-      "notes": null
+      "notes": "实际读取企业名称为苏州汇川技术有限公司，注册地址及苏州办公地址为吴中区天鹅荡路52号；存在多城市职位，不代替具体用人单位核验。",
+      "historical_source_ids": [
+        "s05"
+      ]
+    },
+    {
+      "id": "ch-9604da30ee69c037",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://m.liepin.com/company/9801729/",
+      "purpose": "recruitment",
+      "source_ids": [
+        "s10"
+      ],
+      "notes": "平台检索摘要具名苏州汇川技术有限公司；实际打开桌面／移动页均跳至登录或验证，暂不标 confirmed。",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州汇川技术有限公司",
+        "role": "关联机构／候选入口；目标主体关系待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03"
     }
   ],
   "contacts": {
-    "website": "https://www.inovance.com",
-    "careers_url": "https://recruit.inovance.com/",
+    "website": null,
+    "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": null
@@ -154,13 +176,49 @@
       "published_date": null,
       "checked_at": "2026-11-03",
       "supports": "2003-04-10成立、2010-09-28上市、变频器/伺服/PLC/机器视觉等主营、深圳注册地址。"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "汇川技术2025年年度报告：释义中的苏州汇川",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225208488.PDF",
+      "supports": "2025年年报第6页将苏州汇川技术有限公司列为深圳市汇川技术股份有限公司全资子公司；报告期股权不自动等于2026年11月的最新工商结构。",
+      "published_date": "2026-04-28",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "汇川官网投资者关系：深圳与苏州通讯地址",
+      "url": "https://www.inovance.com/portal/investor",
+      "supports": "通过浏览器实际读取官方投资者关系页：具名上市主体为深圳市汇川技术股份有限公司，苏州通讯地址为吴中区天鹅荡路52号；不把母公司上市身份写成苏州子公司上市。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "BOSS直聘：汇川技术（工商主体为苏州汇川技术有限公司）",
+      "url": "https://www.zhipin.com/gongsi/51148f5b7a4421193nR93925FA~~.html",
+      "supports": "实际读取企业名称为苏州汇川技术有限公司，注册地址及苏州办公地址为吴中区天鹅荡路52号；存在多城市职位，不代替具体用人单位核验。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s10",
+      "scope": "channel",
+      "title": "猎聘：苏州汇川技术有限公司（仅检索摘要；正文受限）",
+      "url": "https://m.liepin.com/company/9801729/",
+      "supports": "平台检索摘要具名苏州汇川技术有限公司；实际打开桌面／移动页均跳至登录或验证，暂不标 confirmed。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
-  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 原关联名称保留为历史线索，不再作为同一主体别名：汇川技术苏州研发中心、汇川技术。 原 website https://www.inovance.com 作为集团关联入口保留在 channels，不当作苏州法人专属入口。 原 careers_url https://recruit.inovance.com/ 作为集团关联入口保留在 channels，不当作苏州法人专属入口。",
   "category_id": "08",
   "focus": "工业自动化驱动器、PLC、机器人控制系统+AI运控",
   "products": "工业自动化驱动器、PLC、机器人控制系统+AI运控",
-  "locations_text": "苏州高新区",
+  "locations_text": "苏州吴中区天鹅荡路52号（官网苏州通讯地址及BOSS苏州法人信息）；原“苏州高新区”更正",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "研究方向：工业自动化驱动器、PLC、机器人控制系统+AI运控。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
@@ -169,12 +227,24 @@
     ]
   },
   "investment": {
-    "summary": "深交所创业板上市（300124，2010-09-28）；本轮未核对最新财报数字。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "上市归因：原披露中的300124及深圳上市身份属于母公司，不代表苏州汇川独立上市。原记录：深交所创业板上市（300124，2010-09-28）；本轮未核对最新财报数字。",
+    "verification_status": "partial"
   },
   "provenance": {
     "original_name": "苏州汇川技术",
     "original_track": "08",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "corporate_subsidiary",
+    "parent_platform_ids": [
+      "inovance-group"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "2025年年报明确为深圳汇川的全资子公司；本条研究苏州具名法人，非集团品牌或抽象研发中心，当前持股变化及具体团队另核。",
+    "source_ids": [
+      "s07"
+    ],
+    "checked_at": "2026-11-03"
   }
 }

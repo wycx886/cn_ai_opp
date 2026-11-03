@@ -10,7 +10,7 @@
   "category_id": "02",
   "focus": "ICT 与终端集团；AI 切面覆盖盘古大模型与昇腾云等算力／模型基础设施",
   "products": "通信设备、终端、华为云、盘古大模型、昇腾云／ModelArts 等",
-  "locations_text": "深圳；岗位城市以招聘官网为准",
+  "locations_text": "深圳；岗位城市以招聘官网为准；苏州工业园区",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "分析：相对互联网 hyperscaler，华为公开 AI 叙事更偏 ICT／算力与行业大模型；与金山云等同列基础设施向，但盘古亦提供模型产品线。",
@@ -31,7 +31,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "category_id=02 取昇腾云／训推基础设施主切面；盘古模型证据见来源，不因此改写成纯基座公司。不将全部 ICT 业务定义为互联网平台。",
+  "notes": "category_id=02 取昇腾云／训推基础设施主切面；盘古模型证据见来源，不因此改写成纯基座公司。不将全部 ICT 业务定义为互联网平台。 地区资料已由 huawei-suzhou-research-institute 归入本公司 regional_notes；不另计公司，不改变原业务核查日或渠道归属判断。",
   "checked_at": "2026-11-02",
   "sources": [
     {
@@ -75,6 +75,60 @@
       "published_date": null,
       "checked_at": "2026-11-02",
       "scope": "channel"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "华为（苏州研究院） 公开入口",
+      "url": "https://career.huawei.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "关联网站观察（原采集标签：华为（苏州研究院）官网）",
+      "url": "https://www.huawei.com/cn",
+      "supports": "公开官网主体与标题观察：华为官网；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "【华为招聘】-猎聘",
+      "url": "https://www.liepin.com/company/12211625/",
+      "supports": "公开企业主页主体：华为；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州华为技术研发有限公司（园区江韵路，118岗）",
+      "url": "https://www.zhipin.com/gongsi/45a17ba7c953f1321XRz3tq1EVY~.html",
+      "supports": "公开企业主页主体：苏州华为技术研发有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "“园易链”系列活动之“走进华为”顺利举办 - 苏州工业园区管理委员会",
+      "url": "http://www.sipac.gov.cn/szgyyq/dthg202503/202503/25a465ca0fc74fff80e2c0b05d668f92.shtml",
+      "published_date": "2025-03-21",
+      "checked_at": "2026-11-03",
+      "supports": "华为苏州研究所作为企业业务BG中国总部与智能汽车解决方案BU总部，业务涵盖WLAN、网络云引擎、行业解决方案、智能汽车集成方案测试等。"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "华为官网",
+      "url": "https://www.huawei.com/cn",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "华为创立于1987年，全球领先的ICT基础设施和智能终端提供商。"
     }
   ],
   "provenance": {
@@ -166,6 +220,72 @@
         "s05"
       ],
       "notes": null
+    },
+    {
+      "id": "ch-b5a826df0f215528",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.huawei.com/cn",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "华为",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s07"
+      ],
+      "notes": "合并原地区条目 huawei-suzhou-research-institute 的观察：2026-11-02 / partial；网页主体：华为；原渠道 ID：ch-b5a826df0f215528；原 URL：https://www.huawei.com/cn。\n待核实：页面观察主体为“华为”；不能作为“华为（苏州研究院）”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-36528153f5cd9ccf",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/12211625/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "华为",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s08"
+      ],
+      "notes": "合并原地区条目 huawei-suzhou-research-institute 的观察：2026-11-02 / partial；网页主体：华为；原渠道 ID：ch-36528153f5cd9ccf；原 URL：https://www.liepin.com/company/12211625/。\n猎聘为华为集团主页，未见苏州研究院单独企业主页。 待核实：页面观察主体为“华为”；不能作为“华为（苏州研究院）”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-678039415ad2f29f",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/45a17ba7c953f1321XRz3tq1EVY~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州华为技术研发有限公司",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s09"
+      ],
+      "notes": "合并原地区条目 huawei-suzhou-research-institute 的观察：2026-11-02 / partial；网页主体：苏州华为技术研发有限公司；原渠道 ID：ch-678039415ad2f29f；原 URL：https://www.zhipin.com/gongsi/45a17ba7c953f1321XRz3tq1EVY~.html。\n待核实：页面观察主体为“苏州华为技术研发有限公司”；不能作为“华为（苏州研究院）”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "regional_notes": [
+    {
+      "region": "苏州",
+      "summary": "原地区检索条目：华为（苏州研究院）（历史 ID：huawei-suzhou-research-institute）；现并入公司档案，不再作为独立公司或地区副本管理。\n\n原地区标签：华为苏州；苏州华为技术研发有限公司\n\n地点与核实范围：苏州工业园区\n\n业务研究线索：业务研究线索（当前本地团队归属待核实）：工业AI/数字化（工业互联网）、5G、昇腾AI、ICT研发\n\n产品研究线索：原采集产品／业务关注点（不表示本地单元当前归属）：工业AI/数字化（工业互联网）、5G、昇腾AI、ICT研发\n\n原组织边界：2025年园区政府活动材料明确记载华为苏州研究所；现有档案“研究院”为采集标签，具体法人及当前业务架构待核实。；形态：research_lab；母平台 ID：huawei；关系状态：confirmed；核查日期：2026-11-03；依据：s10\n\n原融资口径（限原研究范围）：范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：华为集团区域研究所；不单独披露融资，投入计入集团。；状态：partial\n\n原同业分析：业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。；比较对象：待核实同业\n\n原研究批次：incumbent / later；2025年 s10 园区政府资料记载华为苏州研究所，按成熟平台区域研发线索列入 later；其中BG／BU总部描述为当时口径，当前架构待核实。；标记日期：2026-11-03；依据：s11,s10\n\n原采集出处：华为（苏州研究院）；赛道：06；批次：苏州科技硬件候选-2026-11-02\n\n原核查备注：历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 主体边界：2025年园区政府活动材料明确记载华为苏州研究所；现有档案“研究院”为采集标签，具体法人及当前业务架构待核实。 集团／品牌入口仅供关联寻源，不计为本地区单元已确认渠道。 原采集关联名称（不再作为同一主体别名匹配）：Huawei Suzhou Research Institute、华为。 原 contacts.website 入口 https://www.huawei.com/cn 保留为关联／历史线索，未确认属于本研究单元。",
+      "source_ids": [
+        "s06",
+        "s10",
+        "s11"
+      ],
+      "checked_at": "2026-11-03"
     }
   ]
 }

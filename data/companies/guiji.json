@@ -1,11 +1,12 @@
 {
   "schema_version": 3,
   "id": "guiji",
-  "name": "硅基智能（南京）",
+  "name": "硅基智能",
   "aliases": [
     "硅基智能",
     "南京硅基智能",
-    "南京硅基智能科技有限公司 (page title)"
+    "南京硅基智能科技有限公司 (page title)",
+    "硅基智能（南京）"
   ],
   "category_id": "05",
   "focus": "AI 数字人与智能交互",
@@ -29,7 +30,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "排除guijizhinengcn.com及苏州同名企业szguiji.cn，未采用个人工商邮箱作为招聘邮箱。；未查到通用招聘投递邮箱。；平台职位检索页，含南京硅基智能职位；非公司自建官招站。",
+  "notes": "排除guijizhinengcn.com及苏州同名企业szguiji.cn，未采用个人工商邮箱作为招聘邮箱。；未查到通用招聘投递邮箱。；平台职位检索页，含南京硅基智能职位；非公司自建官招站。 展示名称按公司／业务主体整理，附加城市信息保留在 locations_text 与地区核查备注，不单列地区公司；原来源、日期和核验状态不变。",
   "checked_at": "2026-10-30",
   "sources": [
     {

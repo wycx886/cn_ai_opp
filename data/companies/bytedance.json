@@ -10,7 +10,7 @@
   "category_id": "01",
   "focus": "互联网内容与效率产品；集团侧有 Seed／豆包等基础模型与火山引擎模型服务",
   "products": "抖音、今日头条、飞书、剪映、豆包、火山引擎／豆包大模型相关服务",
-  "locations_text": "北京；岗位城市以招聘官网为准",
+  "locations_text": "北京；岗位城市以招聘官网为准；上海（s11 历史办公室报道）；当前办公点／团队待核实",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "分析：与腾讯、阿里同属综合互联网母平台；AI 证据侧重自研 Seed／豆包基座与云侧开放，区别于快手以可灵视频生成产品为公开旗舰。",
@@ -31,7 +31,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "母平台档案；抖音等业务品牌招聘入口可能分列，本条以字节跳动集团官网与招聘站为准。category_id=01 取 Seed／豆包基座证据为主业 AI 切面，不表示集团全部业务均为基础模型。BOSS 直聘企业主页抓取遇反爬「请稍候」，主体 ID 来自公开搜索结果中的字节跳动公司页路径。",
+  "notes": "母平台档案；抖音等业务品牌招聘入口可能分列，本条以字节跳动集团官网与招聘站为准。category_id=01 取 Seed／豆包基座证据为主业 AI 切面，不表示集团全部业务均为基础模型。BOSS 直聘企业主页抓取遇反爬「请稍候」，主体 ID 来自公开搜索结果中的字节跳动公司页路径。 地区资料已由 bytedance-shanghai 归入本公司 regional_notes；不另计公司，不改变原业务核查日或渠道归属判断。",
   "checked_at": "2026-11-02",
   "sources": [
     {
@@ -75,6 +75,60 @@
       "published_date": null,
       "checked_at": "2026-11-02",
       "scope": "channel"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "字节跳动（上海） 公开入口",
+      "url": "https://www.bytedance.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "字节跳动 - 激发创造，丰富生活",
+      "url": "https://www.bytedance.com/",
+      "supports": "公开官网主体观察：https://www.bytedance.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "字节跳动招聘",
+      "url": "https://jobs.bytedance.com/",
+      "supports": "公开招聘入口主体观察：https://jobs.bytedance.com/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "【字节跳动招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7863078/",
+      "supports": "公开企业主页主体：北京今日头条科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s10",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 字节跳动",
+      "url": "https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html",
+      "supports": "公开企业主页主体：字节跳动；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "字节跳动为什么总是在搬家？",
+      "url": "https://m.jiemian.com/article/3410416.html",
+      "supports": "字节跳动上海办公室入驻新大楼及区域办公布局。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
   "provenance": {
@@ -109,9 +163,10 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s01"
+        "s01",
+        "s07"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 bytedance-shanghai 的观察：2026-11-02 / partial；网页主体：字节跳动；原渠道 ID：ch-d4fa7e3f2a6bb7da；原 URL：https://www.bytedance.com/。\n集团官网；上海单元未单列，只核验入口归属。 待核实：页面观察主体为“字节跳动”；不能作为“字节跳动（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
     },
     {
       "id": "ch-c906fdd8f78a47d5",
@@ -127,9 +182,10 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s02"
+        "s02",
+        "s08"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 bytedance-shanghai 的观察：2026-11-02 / partial；网页主体：字节跳动；原渠道 ID：ch-0af8b7771d3f8de9；原 URL：https://jobs.bytedance.com/。\n集团招聘站；上海岗位未单列，只核验入口归属。 待核实：页面观察主体为“字节跳动”；不能作为“字节跳动（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
     },
     {
       "id": "ch-c5d454825a88075d",
@@ -145,9 +201,10 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s04"
+        "s04",
+        "s10"
       ],
-      "notes": "反爬页未能完整渲染；路径与公开搜索标题指向字节跳动企业主页。"
+      "notes": "反爬页未能完整渲染；路径与公开搜索标题指向字节跳动企业主页。\n主档案原渠道核查日期：2026-11-02。\n合并原地区条目 bytedance-shanghai 的观察：2026-11-02 / partial；网页主体：字节跳动；原渠道 ID：ch-9cc274d0efdcb7e0；原 URL：https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html。\n待核实：页面观察主体为“字节跳动”；不能作为“字节跳动（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
     },
     {
       "id": "ch-3cd64baf61d63409",
@@ -163,9 +220,21 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s05"
+        "s05",
+        "s09"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 bytedance-shanghai 的观察：2026-11-02 / partial；网页主体：北京今日头条科技有限公司；原渠道 ID：ch-6f641a0475797285；原 URL：https://www.liepin.com/company/7863078/。\n待核实：页面观察主体为“北京今日头条科技有限公司”；不能作为“字节跳动（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
+    }
+  ],
+  "regional_notes": [
+    {
+      "region": "上海",
+      "summary": "原地区检索条目：字节跳动（上海）（历史 ID：bytedance-shanghai）；现并入公司档案，不再作为独立公司或地区副本管理。\n\n原地区标签：ByteDance Shanghai；字节上海；字节跳动上海办公室\n\n地点与核实范围：上海（s11 历史办公室报道）；当前办公点／团队待核实\n\n业务研究线索：业务研究线索（当前本地团队归属待核实）：内容平台、电商与飞书/豆包生态的上海研发与商业化\n\n产品研究线索：原采集产品／业务关注点（不表示本地单元当前归属）：抖音电商、飞书、豆包相关研发与运营\n\n原组织边界：上海办公室／区域业务线索；不等同集团，也不自动包含抖音电商或飞书全部团队。；形态：internal_team；母平台 ID：bytedance；关系状态：reported；核查日期：2026-11-03；依据：s11\n\n原融资口径（限原研究范围）：范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：字节跳动为未上市集团；上海为区域办公与研发/商业化团队，不单独披露融资。；状态：partial\n\n原同业分析：业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。；比较对象：待核实同业\n\n原研究批次：incumbent / later；字节跳动集团的上海区域办公与业务团队，属于成熟平台的区域单元；列为 later 资料批次。；标记日期：2026-11-03；依据：s11\n\n原采集出处：字节跳动（上海）；赛道：01；批次：上海科技硬件候选-2026-11-02\n\n原核查备注：上海团队的具体业务归属随组织调整变化，公开资料有限；未核对当前办公点与团队规模。 主体边界：上海办公室／区域业务线索；不等同集团，也不自动包含抖音电商或飞书全部团队。 集团／品牌入口仅供关联寻源，不计为本地区单元已确认渠道。 原采集关联名称（不再作为同一主体别名匹配）：抖音电商、飞书、北京今日头条科技有限公司、字节跳动。 原采集地域为“上海”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.bytedance.com 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://jobs.bytedance.com/ 保留为关联／历史线索，未确认属于本研究单元。",
+      "source_ids": [
+        "s06",
+        "s11"
+      ],
+      "checked_at": "2026-11-03"
     }
   ]
 }

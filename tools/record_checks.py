@@ -85,6 +85,10 @@ def record_path(root, entity_type, entity_id):
   root = Path(root).resolve()
   if entity_type not in ENTITY_FOLDERS or not ID_PATTERN.fullmatch(entity_id):
     raise ValueError("Unknown organization type or invalid stable ID")
+  from company_routes import redirects
+  target_id = redirects(root).get(entity_id)
+  if target_id:
+    raise ValueError("Retired regional organization ID; use canonical company ID: " + target_id)
   folder = root / "data" / ENTITY_FOLDERS[entity_type]
   target = folder / (entity_id + ".json")
   if folder.is_symlink() or target.is_symlink() or target.resolve().parent != folder.resolve() or root not in folder.resolve().parents or folder.resolve() != folder:
@@ -107,6 +111,15 @@ def validate_record(record, root=ROOT):
   sources = {s["id"]: s for s in record["sources"]}
   if len(sources) != len(record["sources"]):
     raise ValueError("Duplicate source IDs")
+  regional_source_ids = set()
+  for note in record.get("regional_notes", []):
+    refs = set(note["source_ids"])
+    if not refs <= sources.keys() or any(sources[s].get("scope", "organization") != "organization" for s in refs):
+      raise ValueError("Regional research requires organization evidence in the same company")
+    checked = date.fromisoformat(note["checked_at"])
+    if checked > latest or checked > max(date.fromisoformat(sources[s]["checked_at"]) for s in refs):
+      raise ValueError("Regional research date lacks matching evidence")
+    regional_source_ids.update(refs)
   targeting = record["targeting"]
   if not set(targeting["source_ids"]) <= sources.keys() or date.fromisoformat(targeting["labelled_at"]) > latest:
     raise ValueError("Invalid editorial targeting evidence/date")
@@ -154,12 +167,17 @@ def validate_record(record, root=ROOT):
       raise ValueError("Duplicate public channel")
     channel_ids.add(channel["id"]); channel_keys.add(key)
     refs = set(channel["source_ids"])
-    if not refs <= sources.keys():
+    historical_refs = set(channel.get('historical_source_ids', []))
+    if not (refs | historical_refs) <= sources.keys():
       raise ValueError("Channel refers to missing evidence")
+    if refs & historical_refs:
+      raise ValueError("Channel current and historical evidence must be separate")
+    if any(sources[s].get('scope') == 'person' for s in refs | historical_refs):
+      raise ValueError("Person evidence cannot establish an organization channel")
     checked = date.fromisoformat(channel["checked_at"])
     if checked > latest or any(checked > date.fromisoformat(sources[s]["checked_at"]) for s in refs):
       raise ValueError("Channel check lacks evidence at the claimed date")
-    channel_source_ids.update(refs)
+    channel_source_ids.update(refs | historical_refs)
     if channel["layer"] == "recruitment_platform":
       platform_url(channel["url"], channel["platform"])
       if channel["owner"]["scope"] != "organization" or channel["purpose"] != "recruitment":
@@ -196,7 +214,7 @@ def validate_record(record, root=ROOT):
     elif source.get("scope") == "person":
       if sid not in person_source_ids:
         raise ValueError("Person-only source is not attached to a person or profile")
-    elif checked > date.fromisoformat(record["checked_at"]):
+    elif sid not in regional_source_ids and checked > date.fromisoformat(record["checked_at"]):
       raise ValueError("Organization source is newer than the business-profile check")
   return record
 
@@ -233,5 +251,7 @@ def channel_markdown(record):
   for c in channels:
     owner = (c['owner']['name'] or c['owner']['scope']) + ('；' + c['owner']['role'] if c['owner'].get('role') else '')
     status = c['verification_status'] + ' / ' + ','.join(c['source_ids']) + ('；' + c['notes'] if c.get('notes') else '')
+    if c.get('historical_source_ids'):
+      status += '；历史依据（不作当前归属证明）：' + ','.join(c['historical_source_ids'])
     out += "| %s | %s / %s | [入口](%s) | %s | %s | %s |\n" % tuple(map(md, [LAYER_NAMES[c['layer']],c['platform'],c['purpose'],c['url'],owner,c['checked_at'],status]))
   return out + "\n核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。\n\n" + people_markdown(record)

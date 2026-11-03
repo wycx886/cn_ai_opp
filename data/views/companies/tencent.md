@@ -20,7 +20,37 @@
 
 微信、QQ、游戏业务、腾讯云、混元／TokenHub 等
 
-**城市记录：** 深圳；岗位城市以招聘官网为准
+**城市记录：** 深圳；岗位城市以招聘官网为准；上海徐汇滨江（s11 为2019年总部报道）；当前团队／地点待核实
+
+## 地区研究与历史线索
+
+同一公司统一建档；以下保留地区范围、历史组织线索与独立核查日期，不表示当前岗位开放或重新核实公司全部业务。
+
+### 上海
+
+原地区检索条目：腾讯（上海）（历史 ID：tencent-shanghai）；现并入公司档案，不再作为独立公司或地区副本管理。
+
+原地区标签：Tencent Shanghai
+
+地点与核实范围：上海徐汇滨江（s11 为2019年总部报道）；当前团队／地点待核实
+
+业务研究线索：业务研究线索（当前本地团队归属待核实）：游戏、优图AI视觉、云与产业互联网
+
+产品研究线索：原采集产品／业务关注点（不表示本地单元当前归属）：游戏、优图实验室视觉AI、腾讯云、智慧产业
+
+原组织边界：华东总部／上海业务线索；2019年报道中的优图团队与规模不代表当前组织。；形态：internal_team；母平台 ID：tencent；关系状态：reported；核查日期：2026-11-03；依据：s11
+
+原融资口径（限原研究范围）：范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：腾讯控股（HKEX:700）华东总部；不单独披露融资，人工智能与大数据为华东总部重点。；状态：partial
+
+原同业分析：业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。；比较对象：待核实同业
+
+原研究批次：incumbent / later；腾讯集团的华东总部与优图实验室所在地，属于成熟平台的区域单元；列为 later 资料批次。；标记日期：2026-11-03；依据：s11,s12
+
+原采集出处：腾讯（上海）；赛道：01；批次：上海科技硬件候选-2026-11-02
+
+原核查备注：华东总部与优图团队规模为2019年报道口径，当前组织与人数未核验。 主体边界：华东总部／上海业务线索；2019年报道中的优图团队与规模不代表当前组织。 集团／品牌入口仅供关联寻源，不计为本地区单元已确认渠道。 原采集关联名称（不再作为同一主体别名匹配）：腾讯华东总部、优图实验室、Tencent、腾讯、腾讯科技（上海）有限公司。 原采集地域为“上海徐汇滨江（华东总部）”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.tencent.com 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://careers.tencent.com/ 保留为关联／历史线索，未确认属于本研究单元。
+
+地区资料核查日期：2026-11-03；依据：s06, s11, s12。
 
 ## 同类区别
 
@@ -50,16 +80,17 @@
 
 | 类别 | 平台与用途 | 公开链接 | 归属 | 核查日期 | 状态／来源 |
 | --- | --- | --- | --- | --- | --- |
-| Layer 1 官方 | website / general | [入口](https://www.tencent.com/) | 腾讯 Tencent | 2026-11-02 | confirmed / s01 |
-| Layer 1 官方 | careers / recruitment | [入口](https://careers.tencent.com/) | 腾讯 Tencent | 2026-11-02 | confirmed / s02 |
-| Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html) | 腾讯 Tencent | 2026-11-02 | confirmed / s04；反爬页未能完整渲染。 |
+| Layer 1 官方 | website / general | [入口](https://www.tencent.com/) | 腾讯 Tencent | 2026-11-02 | confirmed / s01,s07；主档案原渠道核查日期：2026-11-02。 合并原地区条目 tencent-shanghai 的观察：2026-11-02 / partial；网页主体：腾讯；原渠道 ID：ch-29fc36a4684334a6；原 URL：https://www.tencent.com/。 集团官网；上海单元未单列，只核验入口归属。 待核实：页面观察主体为“腾讯”；不能作为“腾讯（上海）”本地团队、法人或岗位归属已确认的证据。 地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。 |
+| Layer 1 官方 | careers / recruitment | [入口](https://careers.tencent.com/) | 腾讯 Tencent | 2026-11-02 | confirmed / s02,s08；主档案原渠道核查日期：2026-11-02。 合并原地区条目 tencent-shanghai 的观察：2026-11-02 / partial；网页主体：腾讯；原渠道 ID：ch-f11bcb591cf9409c；原 URL：https://careers.tencent.com/。 集团招聘站；上海岗位未单列，只核验入口归属。 待核实：页面观察主体为“腾讯”；不能作为“腾讯（上海）”本地团队、法人或岗位归属已确认的证据。 地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。 |
+| Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html) | 腾讯 Tencent | 2026-11-02 | confirmed / s04,s10；反爬页未能完整渲染。 主档案原渠道核查日期：2026-11-02。 合并原地区条目 tencent-shanghai 的观察：2026-11-02 / partial；网页主体：腾讯；原渠道 ID：ch-ca5ea34984f022db；原 URL：https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html。 待核实：页面观察主体为“腾讯”；不能作为“腾讯（上海）”本地团队、法人或岗位归属已确认的证据。 地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。 |
 | Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/7983148/) | 腾讯 | 2026-11-02 | confirmed / s05 |
+| Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/9561840/) | 腾讯（上海）；关联机构／集团入口；目标单元归属待核实 | 2026-11-02 | partial / s09；合并原地区条目 tencent-shanghai 的观察：2026-11-02 / partial；网页主体：腾讯（上海）；原渠道 ID：ch-6c7b4dbb6eade1e0；原 URL：https://www.liepin.com/company/9561840/。 待核实：页面观察主体为“腾讯（上海）”；不能作为“腾讯（上海）”本地团队、法人或岗位归属已确认的证据。 |
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
 ## 核查备注
 
-category_id=01 取混元／TokenHub 切面。校招另有 join.qq.com，本条 careers_url 取 careers.tencent.com 社招主站。
+category_id=01 取混元／TokenHub 切面。校招另有 join.qq.com，本条 careers_url 取 careers.tencent.com 社招主站。 地区资料已由 tencent-shanghai 归入本公司 regional_notes；不另计公司，不改变原业务核查日或渠道归属判断。
 
 ## 证据与来源
 
@@ -70,3 +101,10 @@ category_id=01 取混元／TokenHub 切面。校招另有 join.qq.com，本条 c
 | s03 | [腾讯云 TokenHub 大模型服务平台](https://cloud.tencent.com/product/tokenhub) | 混元／MaaS 主题证据 | 未标明 | 2026-11-02 |
 | s04 | [「腾讯招聘」-BOSS直聘](https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html) | 公开企业主页路径指向腾讯；反爬未能完整渲染。 | 未标明 | 2026-11-02 |
 | s05 | [【腾讯招聘】-猎聘](https://www.liepin.com/company/7983148/) | 公开企业主页主体：腾讯。 | 未标明 | 2026-11-02 |
+| s06 | [腾讯（上海） 公开入口](https://www.tencent.com) | 草稿导入线索；导入时未重新打开网页核验／融资口径待核实。 | 未标明 | 2026-11-02 |
+| s07 | [Home - Tencent](https://www.tencent.com/) | 公开官网主体观察：https://www.tencent.com/；只核验入口归属。 | 未标明 | 2026-11-02 |
+| s08 | [首页 \| 腾讯招聘](https://careers.tencent.com/) | 公开招聘入口主体观察：https://careers.tencent.com/；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-11-02 |
+| s09 | [【腾讯科技(上海)有限公司招聘】-猎聘](https://www.liepin.com/company/9561840/) | 公开企业主页主体：腾讯（上海）；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-11-02 |
+| s10 | [BOSS直聘企业主页 · 腾讯](https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html) | 公开企业主页主体：腾讯；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-11-02 |
+| s11 | [腾讯华东总部2021年迁入徐汇滨江！ 重点打造人工智能和大数据产业](https://www.thepaper.cn/newsDetail_forward_4231222) | 腾讯华东总部、优图实验室、AI与大数据重点及上海公司沿革。 | 2019-08-22 | 2026-11-03 |
+| s12 | [维基百科：腾讯](https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF) | 腾讯控股HKEX:700上市身份。 | 未标明 | 2026-11-03 |

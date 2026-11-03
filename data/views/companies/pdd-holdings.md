@@ -12,7 +12,7 @@
 
 标记依据：s01, s03。标记日期不更新业务事实核查日。
 
-别名与原表名称：拼多多；PDD Holdings；PDD；拼多多(上海)网络科技
+别名与原表名称：拼多多；PDD Holdings；PDD
 
 ## 业务与产品
 
@@ -52,14 +52,14 @@
 | --- | --- | --- | --- | --- | --- |
 | Layer 1 官方 | website / general | [入口](https://www.pinduoduo.com/) | 拼多多集团 PDD Holdings | 2026-11-02 | confirmed / s01 |
 | Layer 1 官方 | careers / recruitment | [入口](https://careers.pinduoduo.com/) | 拼多多集团 PDD Holdings | 2026-11-02 | confirmed / s02 |
-| Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html) | 拼多多集团 PDD Holdings | 2026-11-02 | confirmed / s04；反爬页未能完整渲染。 |
-| Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/9976959/) | 拼多多上海运营实体；关联机构／集团入口；目标单元归属待核实 | 2026-11-02 | partial / s05；境内运营实体页，非开曼上市主体本身。 待核实：页面观察主体为“拼多多上海运营实体”；不能作为“拼多多集团 PDD Holdings”本地团队、法人或岗位归属已确认的证据。 |
+| Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html) | 拼多多（上海）网络科技有限公司；关联机构／候选入口；目标主体关系待核实 | 2026-11-03 | partial / s06；本次已实际读取工商信息和上海办公地址；这是境内运营／招聘法人，不是开曼上市主体PDD Holdings。保留为集团关联入口，具体劳动合同雇主另核。；历史依据（不作当前归属证明）：s04 |
+| Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/9976959/) | 拼多多上海运营实体；关联机构／集团入口；目标单元归属待核实 | 2026-11-02 | partial / s05；境内运营实体页，非开曼上市主体本身。 待核实：页面观察主体为“拼多多上海运营实体”；不能作为“拼多多集团 PDD Holdings”本地团队、法人或岗位归属已确认的证据。 2026-11-03 本次打开跳至登录／验证页，未重新读到企业正文；保留此前核验标记与原日期，不宣称本轮再次确认。 |
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
 ## 核查备注
 
-上市主体为 PDD Holdings；中国招聘常用拼多多品牌站 careers.pinduoduo.com／careers.pddglobalhr.com。猎聘主页主体为拼多多(上海)网络科技有限公司（境内运营实体），已列入 aliases。BOSS 路径来自「拼多多集团-PDD」公开页。
+上市主体为 PDD Holdings；中国招聘常用拼多多品牌站 careers.pinduoduo.com／careers.pddglobalhr.com。猎聘主页主体为拼多多(上海)网络科技有限公司（境内运营实体），已列入 aliases。BOSS 路径来自「拼多多集团-PDD」公开页。 原“拼多多(上海)网络科技”别名改作关联法人说明，不当作开曼上市主体同一法人；具体全称见本次BOSS证据。
 
 ## 证据与来源
 
@@ -70,3 +70,4 @@
 | s03 | [PDD Holdings Form 20-F FY2025 (SEC)](https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm) | 年报披露平台使用 AI 的主题证据 | 未标明 | 2026-11-02 |
 | s04 | [「拼多多集团-PDD」-BOSS直聘](https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html) | 公开企业主页路径指向拼多多集团-PDD；反爬未能完整渲染。 | 未标明 | 2026-11-02 |
 | s05 | [【拼多多(上海)网络科技有限公司招聘】-猎聘](https://www.liepin.com/company/9976959/) | 公开企业主页主体：拼多多上海运营实体；简介指向拼多多集团-PDD。 | 未标明 | 2026-11-02 |
+| s06 | [BOSS直聘：拼多多集团-PDD（工商主体为拼多多上海网络科技公司）](https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html) | 本次已实际读取工商信息和上海办公地址；这是境内运营／招聘法人，不是开曼上市主体PDD Holdings。保留为集团关联入口，具体劳动合同雇主另核。 | 未标明 | 2026-11-03 |

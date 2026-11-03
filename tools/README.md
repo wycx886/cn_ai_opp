@@ -20,7 +20,17 @@ python3 tools/scaffold_entity.py --entity company --id candidate-org --name "待
 
 `query.py` 读取 `data/companies/` 中的全部正式档案；`--entity companies` 包含金融公司，`--entity operating`／`investors` 仅按类型筛选，不对应独立目录。`query_lists.py` 读取发现底表；主题证据缺失不表示没有相关业务。脚手架默认只输出未核实草稿，显式 `--save-draft` 才写到已配置私人工作区，不直接创建公共记录。字段和适用范围见 [data/README.md](../data/README.md)。
 
+合并的地区旧 ID 见 `data/lists/company-redirects.json`，`query.py --id` 可解析旧 ID；写入时须使用主公司 ID，旧 ID 会明确报错。生成的旧地区 Markdown 只作链接跳转，不计入公司数。
+
 人物统一维护公司 `people[]`，机构入口维护 `channels[]`；人物写入工具为 `skills/find-person/scripts/update_people.py`，输入契约见 [人物批次](../data/schemas/person-batch.schema.json)。两个写入工具共用 `record_writes.py` 的并发检查、临时文件清理与条件回滚，人物平台校验在 `person_checks.py`。
+
+分别检查 BOSS／猎聘的覆盖情况，不把任一平台已有渠道当作两边均已完成：
+
+```bash
+python3 skills/find-channels/scripts/audit_channels.py --entity companies --wave later --summary
+```
+
+输出包含逐平台 `confirmed`／`partial`／`historical`／`missing` 档案数及 `both_boss_and_liepin_confirmed`。未收录不等于没有招聘；平台主页确认也不表示岗位开放。
 
 ## 构建与检查
 

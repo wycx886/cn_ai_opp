@@ -53,6 +53,7 @@ GPU/NPU/VPU/DSP/ISP IP、一站式芯片定制服务
 | Layer 1 官方 | website / general | [入口](https://www.verisilicon.com/) | 芯原股份 | 2026-11-02 | confirmed / s02 |
 | Layer 1 官方 | careers / recruitment | [入口](https://www.verisilicon.com/cn/Careers) | 芯原股份 | 2026-11-02 | confirmed / s03；官网招聘页；标题为通用“加入我们”，主体由官网域名确认。 |
 | Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/7909389/) | 芯原 | 2026-11-02 | confirmed / s04 |
+| Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://m.zhipin.com/companys/2a6342f5264ae5371nx70t67FlQ~.html) | 芯原微电子（上海）股份有限公司；实际页面具名主体；具体团队／岗位另核 | 2026-11-03 | confirmed / s06；已实际读取同名企业主页及688521.SH品牌介绍；页面地址还含外地办公室，不表示岗位均在上海。 |
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
@@ -69,3 +70,4 @@ GPU/NPU/VPU/DSP/ISP IP、一站式芯片定制服务
 | s03 | [加入我们](https://www.verisilicon.com/cn/Careers) | 公开招聘入口主体观察：https://www.verisilicon.com/cn/Careers；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-11-02 |
 | s04 | [【芯原微电子(上海)股份有限公司招聘】-猎聘](https://www.liepin.com/company/7909389/) | 公开企业主页主体：芯原；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-11-02 |
 | s05 | [芯原股份：2024年实现营业总收入23.22亿元](https://finance.sina.com.cn/stock/relnews/cn/2025-04-27/doc-ineuqumz7641512.shtml) | 芯原股份688521的2024年营收23.22亿元、归母净利润-6.01亿元及IP产品线。 | 2025-04-27 | 2026-11-03 |
+| s06 | [BOSS直聘：芯原微电子（上海）股份有限公司（实际读取）](https://m.zhipin.com/companys/2a6342f5264ae5371nx70t67FlQ~.html) | 已实际读取同名企业主页及688521.SH品牌介绍；页面地址还含外地办公室，不表示岗位均在上海。 | 未标明 | 2026-11-03 |

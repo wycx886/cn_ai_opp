@@ -6,9 +6,7 @@
   "aliases": [
     "ECARX Holdings",
     "ECARX",
-    "浙江亿咖通科技有限公司",
-    "亿咖通",
-    "亿咖通（湖北）技术有限公司"
+    "亿咖通"
   ],
   "targeting": {
     "kind": "editorial_assessment",
@@ -31,14 +29,17 @@
       "owner": {
         "scope": "organization",
         "name": "浙江亿咖通科技有限公司",
-        "role": null
+        "role": "关联机构／候选入口；目标主体关系待核实"
       },
-      "verification_status": "confirmed",
-      "checked_at": "2026-11-02",
+      "verification_status": "partial",
+      "checked_at": "2026-11-03",
       "source_ids": [
-        "s02"
+        "s08"
       ],
-      "notes": null
+      "notes": "原观察主体为浙江公司，不能作为ECARX Holdings同一法人别名；2026-11-03 打开登录／验证受限，未重新读到工商正文。",
+      "historical_source_ids": [
+        "s02"
+      ]
     },
     {
       "id": "ch-e5d32ef5516698b2",
@@ -49,19 +50,58 @@
       "owner": {
         "scope": "organization",
         "name": "亿咖通（湖北）技术有限公司",
-        "role": null
+        "role": "关联机构／候选入口；目标主体关系待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s07"
+      ],
+      "notes": "本次实际读取工商主体为湖北公司，注册地武汉，公司地址栏有苏州相城芯汇湖大厦18F；可作集团关联招聘入口，不等同ECARX Holdings或已确认苏州法人。",
+      "historical_source_ids": [
+        "s03"
+      ]
+    },
+    {
+      "id": "ch-4a507d8b9cd9e087",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.ecarxgroup.com/",
+      "purpose": "general",
+      "source_ids": [
+        "s09"
+      ],
+      "notes": "已读取ECARX官方业务介绍与城市布局，确认集团品牌入口；不表示苏州法人专属官网。",
+      "owner": {
+        "scope": "organization",
+        "name": "亿咖通科技",
+        "role": "实际页面具名主体；具体团队／岗位另核"
       },
       "verification_status": "confirmed",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "ch-eab8f8090d477c87",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.ecarxgroup.com/careers/",
+      "purpose": "recruitment",
       "source_ids": [
-        "s03"
+        "s10"
       ],
-      "notes": null
+      "notes": "已读取ECARX官方Careers页面，为集团招聘介绍入口；具体职位跳转与当前空缺另核。",
+      "owner": {
+        "scope": "organization",
+        "name": "亿咖通科技",
+        "role": "实际页面具名主体；具体团队／岗位另核"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-03"
     }
   ],
   "contacts": {
-    "website": "https://www.ecarx.com",
-    "careers_url": null,
+    "website": "https://www.ecarxgroup.com/",
+    "careers_url": "https://www.ecarxgroup.com/careers/",
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": null
@@ -112,13 +152,58 @@
       "published_date": "2022-12-25",
       "checked_at": "2026-11-03",
       "supports": "股票代码ECX、2017年成立、苏州高铁新城2021年5月投资7000万美元参与A+轮、2021年营收4.15亿美元（报道口径）。"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "ECARX官网 About Us：全球布局",
+      "url": "https://www.ecarxgroup.com/about-us/",
+      "supports": "已读取官网，全球地点明确列苏州、上海等城市；不能由此确定苏州具体法人、所在区或岗位。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "BOSS直聘：亿咖通科技ECARX（工商主体为湖北法人）",
+      "url": "https://www.zhipin.com/gongsi/ab246e19a0a354f81XRz09y9EFI~.html",
+      "supports": "本次实际读取工商主体为湖北公司，注册地武汉，公司地址栏有苏州相城芯汇湖大厦18F；可作集团关联招聘入口，不等同ECARX Holdings或已确认苏州法人。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "猎聘亿咖通旧入口复核：关联浙江主体，正文访问受限",
+      "url": "https://www.liepin.com/company/9111318/",
+      "supports": "原观察主体为浙江公司，不能作为ECARX Holdings同一法人别名；2026-11-03 打开登录／验证受限，未重新读到工商正文。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "ECARX官方网站与品牌入口",
+      "url": "https://www.ecarxgroup.com/",
+      "supports": "已读取ECARX官方业务介绍与城市布局，确认集团品牌入口；不表示苏州法人专属官网。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s10",
+      "scope": "channel",
+      "title": "ECARX官方Careers招聘介绍页",
+      "url": "https://www.ecarxgroup.com/careers/",
+      "supports": "已读取ECARX官方Careers页面，为集团招聘介绍入口；具体职位跳转与当前空缺另核。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
-  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 原关联名称保留为历史线索，不再作为同一主体别名：浙江亿咖通科技有限公司、亿咖通（湖北）技术有限公司。 原官网线索 ecarx.com/investors 保留于 s01；当前官方入口据实际读取的 ecarxgroup.com 更正。",
   "category_id": "09",
   "focus": "车载智能计算平台（SoC+OS+软件栈），智能座舱芯片与AI软件",
   "products": "车载智能计算平台（SoC+OS+软件栈），智能座舱芯片与AI软件",
-  "locations_text": "苏州工业园区",
+  "locations_text": "上海、苏州等全球业务地点（集团官网）；BOSS相关招聘法人列苏州相城芯汇湖大厦办公线索，苏州具体法人及岗位地点另核，原工业园区标签撤回",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "研究方向：车载智能计算平台（SoC+OS+软件栈），智能座舱芯片与AI软件。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
@@ -134,5 +219,25 @@
     "original_name": "亿咖通科技",
     "original_track": "09",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
-  }
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [],
+    "relationship_status": "unresolved",
+    "summary": "本条是ECARX集团／上市品牌研究；官网证实苏州业务布局，湖北与浙江招聘法人分别记录，不作为集团同一法人别名。境内股权与苏州团队归属仍待逐项核实。",
+    "source_ids": [
+      "s06"
+    ],
+    "checked_at": "2026-11-03"
+  },
+  "regional_notes": [
+    {
+      "region": "苏州",
+      "summary": "官网全球布局列有苏州，证实城市层面业务存在；不能用苏州投资方所在地推断办公区、独立法人或全部岗位地点。",
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-03"
+    }
+  ]
 }

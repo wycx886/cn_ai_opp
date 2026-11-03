@@ -391,9 +391,44 @@ class ResearchTests(unittest.TestCase):
         MERGE.apply_changes(MERGE.plan_changes(self.batch(entry), self.root))
         updated = load(self.company)
         self.assertIn(legal_alias, updated['sources'][-1]['supports'])
+        self.assertIn('合成的旧主体描述', updated['sources'][-2]['supports'])
+        self.assertIn(updated['sources'][-2]['id'], updated['channels'][0]['historical_source_ids'])
         self.assertEqual(len(updated['channels']), 1)
         self.assertEqual(updated['checked_at'], record['checked_at'])
         self.assertEqual(MERGE.plan_changes(self.batch(entry), self.root), {})
+
+    def test_channel_rechecks_keep_old_dates_and_do_not_reactivate_stale_evidence(self):
+        entry = self.entry()
+        MERGE.apply_changes(MERGE.plan_changes(self.batch(entry), self.root))
+        old = load(self.company)
+        old_source = copy.deepcopy(old['sources'][-1])
+        entry['checked_at'] = MERGE.today().isoformat()
+        entry['evidence_title'] += ' · 复核'
+        MERGE.apply_changes(MERGE.plan_changes(self.batch(entry), self.root))
+        current = load(self.company)
+        self.assertIn(old_source, current['sources'])
+        self.assertIn(old_source['id'], current['channels'][0]['historical_source_ids'])
+        self.assertNotIn(old_source['id'], current['channels'][0]['source_ids'])
+        self.assertEqual(current['channels'][0]['checked_at'], entry['checked_at'])
+        validate_record(current, self.root)
+        self.assertEqual(MERGE.plan_changes(self.batch(entry), self.root), {})
+        bad = copy.deepcopy(current)
+        bad['channels'][0]['source_ids'] += [old_source['id']]
+        with self.assertRaisesRegex(ValueError, 'must be separate'):
+            validate_record(bad, self.root)
+
+    def test_coverage_counts_each_recruitment_platform_without_assuming_both_are_ready(self):
+        record = load(self.company)
+        self.assertEqual(CHANNEL_AUDIT.platform_coverage([('companies',record)])['liepin']['missing'],1)
+        MERGE.apply_changes(MERGE.plan_changes(self.batch(), self.root))
+        record = load(self.company)
+        self.assertTrue(CHANNEL_AUDIT.has_platform(record))
+        coverage = CHANNEL_AUDIT.platform_coverage([('companies',record)])
+        self.assertEqual(coverage['boss_zhipin']['confirmed'],1)
+        self.assertEqual(coverage['liepin']['missing'],1)
+        record['channels'][0]['verification_status']='partial'
+        self.assertEqual(CHANNEL_AUDIT.platform_coverage([('companies',record)])['boss_zhipin']['partial'],1)
+        self.assertFalse(CHANNEL_AUDIT.has_platform(record))
 
     def test_group_channel_cannot_be_confirmed_as_a_regional_unit(self):
         MERGE.apply_changes(MERGE.plan_changes(self.batch(), self.root))

@@ -31,6 +31,8 @@ python3 skills/find-channels/scripts/audit_channels.py --entity companies --wave
 1. **核对主体归属**：核对平台页面中的机构名称、官网、地区和工商/运营主体，区分同名公司、品牌、集团与子公司。复用正式记录的名称／别名；新发现的主体名称需先以公开证据确认，再补充别名。
    `owner.name` 保存网页实际观察到的机构名称，不改写成目标公司标签。集团主页、其他城市法人及相关销售公司可保留为关联入口，但目标单元对应关系未证实时只能标 `partial`，并在 `notes` 说明待核实项；不得把集团／产品名称补成地区单元的同一主体别名来通过校验。
 2. **区分入口用途**：记录稳定的企业主页、实际核查日期、证据标题与来源。招聘、BP、商务、客服等邮箱用途严格分开，绝不按域名格式猜测邮箱。
+地区岗位、办公室或地区招聘法人只在主公司内说明适用范围；不另建同名地区公司。关联法人的渠道仍保留原主体和未确认状态，不能因归并而提升为集团已确认入口。
+
 3. **写入结构化 `channels`**：将已核实的公开入口写入该公司 `channels`，证据写入 `sources` 并标 `scope: "channel"`。原业务 `checked_at`、其他事实与既有渠道保持原意，重复核查更新同一入口，不制造副本。
 4. **如实报告缺口**：未找到、访问受限或主体无法确定时，在本次研究报告中逐公司列明平台、实际检查日期与缺口，不写成 `confirmed`，也不创建私人 application 或 inbox 记录。
 5. **不把短期 JD 当企业主页**：`channels` 专门存稳定的机构级入口，不能用两周就下线的单个岗位链接冒充企业主页。
@@ -51,6 +53,8 @@ python3 skills/find-channels/scripts/audit_channels.py --entity companies --wave
 # 将采集程序实际观察到的 JSON 输出通过管道交给此命令，直接原子更新公司档案：
 .venv/bin/python skills/find-channels/scripts/update_layer2.py --apply
 ```
+
+复核同一入口时，当前 `source_ids` 与 `historical_source_ids` 分开保存，旧来源的支持内容和日期不覆盖。打不开的新观察不能替换成 `confirmed`；保留原核查日的旧确认时，在备注中写明本轮访问限制。
 
 ## 4. 完成校验
 

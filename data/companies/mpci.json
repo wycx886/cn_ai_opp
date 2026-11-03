@@ -58,7 +58,7 @@
     "other_email": "info@mpc.vc",
     "other_email_purpose": "一般联系；未标为招聘邮箱"
   },
-  "notes": "保留Matrix Partners China作为历史别名，不把英文更名当作新VC；2026年融资活动已补为官方单篇公告。",
+  "notes": "保留Matrix Partners China作为历史别名，不把英文更名当作新VC；2026年融资活动已补为官方单篇公告。 2026-11-03 猎聘缺口检索：尚未找到可确认属于目标机构的有效企业主页，继续待核实；未用岗位聚合页、被投公司或同名机构充数，不代表没有招聘。",
   "sources": [
     {
       "id": "s01",
@@ -107,6 +107,15 @@
       "supports": "一般联系邮箱",
       "published_date": null,
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "BOSS直聘：经纬创投（北京）投资管理顾问有限公司（品牌／团队对应待核实）",
+      "url": "https://m.zhipin.com/companys/20e9aef95e9b4c2e0nF62ty-.html",
+      "supports": "已读页面，品牌描述为经纬创投；与当前MPCi品牌的法人、团队及改名对应仍待机构官方确认。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
   "checked_at": "2026-10-30",
@@ -122,7 +131,26 @@
     ],
     "labelled_at": "2026-10-31"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-69f825c4e2634210",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://m.zhipin.com/companys/20e9aef95e9b4c2e0nF62ty-.html",
+      "purpose": "recruitment",
+      "source_ids": [
+        "s07"
+      ],
+      "notes": "已读页面，品牌描述为经纬创投；与当前MPCi品牌的法人、团队及改名对应仍待机构官方确认。",
+      "owner": {
+        "scope": "organization",
+        "name": "经纬创投（北京）投资管理顾问有限公司",
+        "role": "关联机构／候选入口；目标主体关系待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03"
+    }
+  ],
   "people": [
     {
       "name": "张颖",

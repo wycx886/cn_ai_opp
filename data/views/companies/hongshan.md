@@ -62,6 +62,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | 类别 | 平台与用途 | 公开链接 | 归属 | 核查日期 | 状态／来源 |
 | --- | --- | --- | --- | --- | --- |
 | Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/9114275/) | 红杉中国（HongShan / HSG） | 2026-10-31 | confirmed / s07 |
+| Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://m.zhipin.com/companys/cea4f681d7f04b2f1nV_29q5EQ~~.html) | 红杉资本股权投资管理（天津）有限公司；关联机构／候选入口；目标主体关系待核实 | 2026-11-03 | partial / s08；已读页面，使用旧红杉资本品牌并列上海地址；与当前HongShan/HSG及现行团队的对应待核实，不当作新品牌主体已确认。 |
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
@@ -89,3 +90,4 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s05 | [联系我们](https://www.hongshan.com/contact/) | BP邮箱 | 未标明 | 2026-10-30 |
 | s06 | [红杉中国工作机会](https://www.hongshan.com/jobs/) | 官方链接到飞书职位入口 | 未标明 | 2026-10-30 |
 | s07 | [【红杉中国招聘】-猎聘](https://www.liepin.com/company/9114275/) | 公开企业主页主体：红杉中国；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s08 | [BOSS直聘：红杉资本股权投资管理（天津）有限公司（品牌／团队对应待核实）](https://m.zhipin.com/companys/cea4f681d7f04b2f1nV_29q5EQ~~.html) | 已读页面，使用旧红杉资本品牌并列上海地址；与当前HongShan/HSG及现行团队的对应待核实，不当作新品牌主体已确认。 | 未标明 | 2026-11-03 |

@@ -2,9 +2,10 @@
   "schema_version": 3,
   "organization_type": "operating_organization",
   "id": "abb-china",
-  "name": "ABB（中国）上海",
+  "name": "ABB（中国）",
   "aliases": [
-    "ABB China Shanghai"
+    "ABB China Shanghai",
+    "ABB（中国）上海"
   ],
   "targeting": {
     "kind": "editorial_assessment",
@@ -173,7 +174,7 @@
       "checked_at": "2026-11-03"
     }
   ],
-  "notes": "投资摘要为集团层面披露；上海主体未单独融资，ABB中国完整股东与业务口径未逐项核对。 主体边界：ABB中国／上海业务集合；集团、上海分公司与机器人超级工厂是不同研究层级，不能视为同一法人。 原采集关联名称（不再作为同一主体别名匹配）：ABB China、ABB、ABB中国、ABB(中国)有限公司上海分公司、上海ABB工程有限公司。 原 contacts.website 入口 https://www.abb.com 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://www.abb.com/careers 保留为关联／历史线索，未确认属于本研究单元。",
+  "notes": "投资摘要为集团层面披露；上海主体未单独融资，ABB中国完整股东与业务口径未逐项核对。 主体边界：ABB中国／上海业务集合；集团、上海分公司与机器人超级工厂是不同研究层级，不能视为同一法人。 原采集关联名称（不再作为同一主体别名匹配）：ABB China、ABB、ABB中国、ABB(中国)有限公司上海分公司、上海ABB工程有限公司。 原 contacts.website 入口 https://www.abb.com 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://www.abb.com/careers 保留为关联／历史线索，未确认属于本研究单元。 展示名称按公司／业务主体整理，附加城市信息保留在 locations_text 与地区核查备注，不单列地区公司；原来源、日期和核验状态不变。",
   "category_id": "06",
   "focus": "业务研究线索（当前本地团队归属待核实）：工业机器人、电气化与工业自动化",
   "products": "原采集产品／业务关注点（不表示本地单元当前归属）：上海浦东康桥机器人超级工厂与研发中心、工业机器人本体及系统集成、电气化与过程自动化产品",
@@ -194,14 +195,17 @@
     "original_track": "06",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
   },
-  "organizational_context": {
-    "form": "unresolved",
-    "parent_platform_ids": [],
-    "relationship_status": "unresolved",
-    "summary": "ABB中国／上海业务集合；集团、上海分公司与机器人超级工厂是不同研究层级，不能视为同一法人。",
-    "source_ids": [
-      "s07"
-    ],
-    "checked_at": "2026-11-03"
-  }
+  "regional_notes": [
+    {
+      "region": "上海",
+      "summary": "原地区检索条目：ABB（中国）上海（历史 ID：abb-china）；现并入公司档案，不再作为独立公司或地区副本管理。\n\n原地区标签：ABB China Shanghai\n\n地点与核实范围：上海浦东康桥；中国多城市\n\n业务研究线索：业务研究线索（当前本地团队归属待核实）：工业机器人、电气化与工业自动化\n\n产品研究线索：原采集产品／业务关注点（不表示本地单元当前归属）：上海浦东康桥机器人超级工厂与研发中心、工业机器人本体及系统集成、电气化与过程自动化产品\n\n原组织边界：ABB中国／上海业务集合；集团、上海分公司与机器人超级工厂是不同研究层级，不能视为同一法人。；形态：unresolved；母平台 ID：未记录；关系状态：unresolved；核查日期：2026-11-03；依据：s07\n\n原融资口径（限原研究范围）：范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：ABB集团（SIX:ABBN）机器人业务2024年销售收入23亿美元，集团2025年4月宣布将机器人业务100%分拆并计划2026年二季度独立上市；上海公司为在华工程与制造主体，不单独披露股权融资。；状态：partial\n\n原同业分析：业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。；比较对象：待核实同业\n\n原研究批次：incumbent / later；ABB在华及上海业务集合，按成熟工业平台相关线索列入 later；集团、分公司和上海机器人超级工厂分别核验，不认定为同一法人。；标记日期：2026-11-03；依据：s06,s07\n\n原采集出处：ABB（中国）上海；赛道：06；批次：上海科技硬件候选-2026-11-02\n\n原核查备注：投资摘要为集团层面披露；上海主体未单独融资，ABB中国完整股东与业务口径未逐项核对。 主体边界：ABB中国／上海业务集合；集团、上海分公司与机器人超级工厂是不同研究层级，不能视为同一法人。 原采集关联名称（不再作为同一主体别名匹配）：ABB China、ABB、ABB中国、ABB(中国)有限公司上海分公司、上海ABB工程有限公司。 原 contacts.website 入口 https://www.abb.com 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://www.abb.com/careers 保留为关联／历史线索，未确认属于本研究单元。",
+      "source_ids": [
+        "s01",
+        "s06",
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-03"
+    }
+  ]
 }

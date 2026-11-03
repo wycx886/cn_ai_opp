@@ -63,6 +63,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | 类别 | 平台与用途 | 公开链接 | 归属 | 核查日期 | 状态／来源 |
 | --- | --- | --- | --- | --- | --- |
 | Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/7876103/) | IDG资本（IDG Capital） | 2026-10-31 | confirmed / s05 |
+| Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://m.zhipin.com/companys/90eba4818621c9821HJ-2tW9.html) | IDG资本投资顾问（北京）有限公司；关联机构／候选入口；目标主体关系待核实 | 2026-11-03 | partial / s06；已读页面，品牌描述为IDG资本；是具体顾问公司，尚未用机构一手材料核实与完整基金品牌、当前招聘团队的对应。 |
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
@@ -88,3 +89,4 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s03 | [LimX Dynamics Closes US$200 Million Pre-IPO Round](https://www.limxdynamics.com/en/news/BK000064) | 2026年IDG作为新投资方参与逐际动力融资 | 2026-07-14 | 2026-10-30 |
 | s04 | [IDG Capital官方首页](https://idgcapital.com/) | 2026年5月官方声明及唯一官方域名 | 2026-05 | 2026-10-30 |
 | s05 | [【IDG资本招聘】-猎聘](https://www.liepin.com/company/7876103/) | 公开企业主页主体：IDG资本；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s06 | [BOSS直聘：IDG资本投资顾问（北京）有限公司（品牌／团队对应待核实）](https://m.zhipin.com/companys/90eba4818621c9821HJ-2tW9.html) | 已读页面，品牌描述为IDG资本；是具体顾问公司，尚未用机构一手材料核实与完整基金品牌、当前招聘团队的对应。 | 未标明 | 2026-11-03 |

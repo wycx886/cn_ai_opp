@@ -39,6 +39,24 @@
         "s02"
       ],
       "notes": "主体按已具名的苏州固锝电子股份有限公司规范；原“昆山”标签不再作为已证实地区。"
+    },
+    {
+      "id": "ch-1be8f1352bec5837",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://m.zhipin.com/companys/d2487b2cbc1122e91nJ_2dy4EA~~.html",
+      "purpose": "recruitment",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": "已实际读取同名企业主页和通安／华金路公司地址；页面所招职位显示已过期，不能据入口确认当前有空缺。",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州固锝电子股份有限公司",
+        "role": "实际页面具名主体；具体团队／岗位另核"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-03"
     }
   ],
   "contacts": {
@@ -83,6 +101,15 @@
       "title": "苏州固锝官方联系页（官方检索摘要；正文访问超时）",
       "url": "https://twn.goodark.com/contact.php",
       "supports": "官方联系页检索摘要列示苏州高新区通安经济开发区华金路200号；正文访问超时，不证明昆山基地或具体岗位地点。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘：苏州固锝电子股份有限公司（实际读取）",
+      "url": "https://m.zhipin.com/companys/d2487b2cbc1122e91nJ_2dy4EA~~.html",
+      "supports": "已实际读取同名企业主页和通安／华金路公司地址；页面所招职位显示已过期，不能据入口确认当前有空缺。",
       "published_date": null,
       "checked_at": "2026-11-03"
     }

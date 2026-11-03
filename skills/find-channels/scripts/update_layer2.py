@@ -43,19 +43,22 @@ def plan_changes(batch, root=ROOT):
         seen.add(key)
         channel=next((c for c in record['channels'] if c['platform']==entry['platform'] and c['url']==url),None)
         if channel and observed<date.fromisoformat(channel['checked_at']):raise ValueError('Stale observation would downgrade a newer channel check')
-        source=next((s for s in record['sources'] if s.get('scope')=='channel' and s['url']==url),None)
+        prior_sources=[s for s in record['sources'] if s.get('scope')=='channel' and s['url']==url]
+        source=max(prior_sources,key=lambda s:s['checked_at'],default=None)
         if source and observed<date.fromisoformat(source['checked_at']):raise ValueError('Stale observation would downgrade newer source evidence')
         support='公开企业主页主体：'+entry['observed_name']+'；只核验入口归属，不表示具体岗位开放。'
+        source=next((s for s in prior_sources if s['title']==entry['evidence_title'] and s['checked_at']==entry['checked_at'] and s['supports']==support),None)
         if source is None:
             numbers=[int(s['id'][1:]) for s in record['sources']]
             source={'id':'s%02d'%(max(numbers,default=0)+1),'scope':'channel','title':entry['evidence_title'],'url':url,'supports':support,'published_date':None,'checked_at':entry['checked_at']}
             record['sources'].append(source)
-        else:
-            source.update(title=entry['evidence_title'],checked_at=entry['checked_at'],supports=support)
         replacement={'id':channel['id'] if channel else 'ch-'+hashlib.sha256((entry['platform']+'\n'+url).encode()).hexdigest()[:16],
                      'layer':'recruitment_platform','platform':entry['platform'],'url':url,'purpose':'recruitment',
                      'owner':{'scope':'organization','name':entry['observed_name'],'role':None},'verification_status':'confirmed',
                      'checked_at':entry['checked_at'],'source_ids':[source['id']],'notes':None}
+        if channel:
+            history=(set(channel.get('historical_source_ids',[])) | set(channel['source_ids']))-{source['id']}
+            if history:replacement['historical_source_ids']=sorted(history)
         if channel:channel.update(replacement)
         else:record['channels'].append(replacement)
     # Validate the whole batch before any write; business facts/dates and legacy contacts are unchanged.

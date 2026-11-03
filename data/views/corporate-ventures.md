@@ -8,13 +8,7 @@
 
 | 单元／机构 | 组织形态 | 母平台 | 关系证据 | 寻源状态 |
 | --- | --- | --- | --- | --- |
-| [阿里巴巴（上海）](companies/alibaba-shanghai.md) | 内部团队／创业单元 | 阿里巴巴集团 | 据报道 | later |
 | [Anew Labs 新生实验室](companies/anew-labs.md) | 大厂拆分机构 | 字节跳动 | 据报道 | first |
-| [百度（上海）](companies/baidu-shanghai.md) | 研究实验室 | 百度 | 据报道 | later |
-| [字节跳动（上海）](companies/bytedance-shanghai.md) | 内部团队／创业单元 | 字节跳动 | 据报道 | later |
-| [华为（苏州研究院）](companies/huawei-suzhou-research-institute.md) | 研究实验室 | 华为 | 有明确证据 | later |
-| [科大讯飞苏州研究院](companies/iflytek-suzhou.md) | 研究实验室 | 科大讯飞 | 据报道 | later |
-| [美团（上海）](companies/meituan-shanghai.md) | 内部团队／创业单元 | 美团 | 据报道 | later |
-| [美的楼宇科技苏州](companies/midea-building-technologies.md) | 组织形态待核实 | 美的 | 待核实 | later |
-| [腾讯（上海）](companies/tencent-shanghai.md) | 内部团队／创业单元 | 腾讯 | 据报道 | later |
+| [苏州旭创科技有限公司](companies/innolight.md) | 子公司 | 中际旭创股份有限公司 | 据报道 | later |
+| [苏州汇川技术有限公司](companies/inovance-technology.md) | 子公司 | 深圳市汇川技术股份有限公司 | 有明确证据 | later |
 | [同程旅行AI部门](companies/tongcheng-ai.md) | 组织形态待核实 | 同程旅行 | 待核实 | later |

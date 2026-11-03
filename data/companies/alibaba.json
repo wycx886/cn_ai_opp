@@ -11,7 +11,7 @@
   "category_id": "01",
   "focus": "电商与云计算等综合互联网集团；AI 切面以通义千问／阿里云百炼等模型与云侧服务为主",
   "products": "淘宝天猫等电商、阿里云、通义千问／百炼模型服务、钉钉等",
-  "locations_text": "杭州；岗位城市以招聘官网为准",
+  "locations_text": "杭州；岗位城市以招聘官网为准；上海徐汇滨江（s11 为2024年总部启用报道）；其他办公点与团队现址待核实",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "分析：与腾讯、字节同属综合母平台；公开 AI 证据偏云侧千问／百炼 MaaS。蚂蚁集团另建档案，不因生态联系合并法人。",
@@ -32,7 +32,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "category_id=01 取千问／百炼基础模型与云模型服务切面；零售主业另属电商。蚂蚁集团见 ant-group。talent.alibaba.com 为公开检索确认的集团招聘入口（页面为强前端应用）。",
+  "notes": "category_id=01 取千问／百炼基础模型与云模型服务切面；零售主业另属电商。蚂蚁集团见 ant-group。talent.alibaba.com 为公开检索确认的集团招聘入口（页面为强前端应用）。 地区资料已由 alibaba-shanghai 归入本公司 regional_notes；不另计公司，不改变原业务核查日或渠道归属判断。",
   "checked_at": "2026-11-02",
   "sources": [
     {
@@ -76,6 +76,69 @@
       "published_date": null,
       "checked_at": "2026-11-02",
       "scope": "channel"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "阿里巴巴（上海） 公开入口",
+      "url": "https://www.alibaba.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "阿里巴巴集团官方网站-Alibaba group",
+      "url": "https://www.alibabagroup.com/",
+      "supports": "公开官网主体观察：https://www.alibabagroup.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "加入阿里巴巴,阿里巴巴招聘-阿里巴巴集团",
+      "url": "https://www.alibabagroup.com/careers",
+      "supports": "公开招聘入口主体观察：https://www.alibabagroup.com/careers；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "【阿里巴巴集团招聘】-猎聘",
+      "url": "https://www.liepin.com/company/1072424/",
+      "supports": "公开企业主页主体：阿里巴巴(中国)有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s10",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 阿里巴巴集团",
+      "url": "https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html",
+      "supports": "公开企业主页主体：阿里巴巴(中国)有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "总投资超20亿元！阿里巴巴上海总部启用",
+      "url": "https://www.thepaper.cn/newsDetail_forward_28696747",
+      "supports": "上海徐汇滨江总部启用、总投资约20.5亿元及“三总部三中心”业务布局。",
+      "published_date": "2024-09-10",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s12",
+      "scope": "organization",
+      "title": "维基百科：阿里巴巴集团",
+      "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2",
+      "supports": "阿里巴巴集团NYSE:BABA/09988.HK上市身份。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
   "provenance": {
@@ -110,9 +173,10 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s01"
+        "s01",
+        "s07"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 alibaba-shanghai 的观察：2026-11-02 / partial；网页主体：阿里巴巴集团；原渠道 ID：ch-4de6db1d8890678e；原 URL：https://www.alibabagroup.com/。\n集团官网；上海单元未单列，只核验入口归属。 待核实：页面观察主体为“阿里巴巴集团”；不能作为“阿里巴巴（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
     },
     {
       "id": "ch-072dc89d376dd43e",
@@ -146,9 +210,10 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s04"
+        "s04",
+        "s10"
       ],
-      "notes": "反爬页未能完整渲染；路径来自公开搜索中的阿里巴巴集团企业页。"
+      "notes": "反爬页未能完整渲染；路径来自公开搜索中的阿里巴巴集团企业页。\n主档案原渠道核查日期：2026-11-02。\n合并原地区条目 alibaba-shanghai 的观察：2026-11-02 / partial；网页主体：阿里巴巴(中国)有限公司；原渠道 ID：ch-aadd6bff6734076c；原 URL：https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html。\n待核实：页面观察主体为“阿里巴巴(中国)有限公司”；不能作为“阿里巴巴（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
     },
     {
       "id": "ch-1ff6c7b3553b9298",
@@ -164,9 +229,40 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s05"
+        "s05",
+        "s09"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 alibaba-shanghai 的观察：2026-11-02 / partial；网页主体：阿里巴巴(中国)有限公司；原渠道 ID：ch-10de2a1cf8f33c5a；原 URL：https://www.liepin.com/company/1072424/。\n待核实：页面观察主体为“阿里巴巴(中国)有限公司”；不能作为“阿里巴巴（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
+    },
+    {
+      "id": "ch-8eb0dea643dc07d9",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.alibabagroup.com/careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "阿里巴巴集团",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s08"
+      ],
+      "notes": "合并原地区条目 alibaba-shanghai 的观察：2026-11-02 / partial；网页主体：阿里巴巴集团；原渠道 ID：ch-8eb0dea643dc07d9；原 URL：https://www.alibabagroup.com/careers。\n集团招聘站；上海岗位未单列，只核验入口归属。 待核实：页面观察主体为“阿里巴巴集团”；不能作为“阿里巴巴（上海）”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "regional_notes": [
+    {
+      "region": "上海",
+      "summary": "原地区检索条目：阿里巴巴（上海）（历史 ID：alibaba-shanghai）；现并入公司档案，不再作为独立公司或地区副本管理。\n\n原地区标签：Alibaba Shanghai；阿里上海；阿里巴巴上海总部\n\n地点与核实范围：上海徐汇滨江（s11 为2024年总部启用报道）；其他办公点与团队现址待核实\n\n业务研究线索：业务研究线索（当前本地团队归属待核实）：本地生活、云计算与通义大模型应用的上海业务集群\n\n产品研究线索：原采集产品／业务关注点（不表示本地单元当前归属）：饿了么/盒马/本地生活总部、阿里云上海、通义大模型行业应用\n\n原组织边界：上海区域业务集合，非单一法人；2024年总部报道不证明当前全部团队与品牌归属。；形态：internal_team；母平台 ID：alibaba；关系状态：reported；核查日期：2026-11-03；依据：s11\n\n原融资口径（限原研究范围）：范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：阿里巴巴集团（NYSE:BABA/09988.HK）上海业务单元；徐汇滨江新总部总投资约20.5亿元，由集团投入，不单独披露融资。；状态：partial\n\n原同业分析：业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。；比较对象：待核实同业\n\n原研究批次：incumbent / later；阿里巴巴集团的上海业务与总部集群，属于成熟平台的区域单元；不构成独立新进机构，列为 later 资料批次。；标记日期：2026-11-03；依据：s11,s12\n\n原采集出处：阿里巴巴（上海）；赛道：01；批次：上海科技硬件候选-2026-11-02\n\n原核查备注：上海总部聚合多个业务团队，具体法人主体与人员归属未逐项核对；投资摘要为集团与总部建设口径。 主体边界：上海区域业务集合，非单一法人；2024年总部报道不证明当前全部团队与品牌归属。 集团／品牌入口仅供关联寻源，不计为本地区单元已确认渠道。 原采集关联名称（不再作为同一主体别名匹配）：饿了么、盒马、通义、阿里巴巴(中国)有限公司。 原采集地域为“上海徐汇滨江（新总部）；浦东等办公点”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.alibabagroup.com/ 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://www.alibabagroup.com/careers 保留为关联／历史线索，未确认属于本研究单元。",
+      "source_ids": [
+        "s06",
+        "s11",
+        "s12"
+      ],
+      "checked_at": "2026-11-03"
     }
   ]
 }

@@ -23,6 +23,17 @@ def has_social(record):
     return has_layer(record,'professional_social')
 
 
+def platform_status(record, platform):
+    statuses={c['verification_status'] for c in record.get('channels',[]) if c['platform']==platform}
+    return next((s for s in ('confirmed','partial','historical') if s in statuses),'missing')
+
+
+def platform_coverage(records):
+    return {platform:{status:sum(platform_status(r,platform)==status for _,r in records)
+                      for status in ('confirmed','partial','historical','missing')}
+            for platform in ('boss_zhipin','liepin')}
+
+
 def legacy_platform_reference(record):
     urls=[s['url'] for s in record['sources']]+[record['contacts']['careers_url'] or '']
     return any(any((urlsplit(url).hostname or '').lower()==domain or (urlsplit(url).hostname or '').lower().endswith('.'+domain) for domain,_ in PLATFORMS.values()) for url in urls)
@@ -43,6 +54,8 @@ def main():
     records=records[args.offset:None if args.limit is None else args.offset+args.limit]
     if args.summary:
         output={'organizations':len(records),'confirmed_structured_channels':{layer:sum(has_layer(r,layer) for _,r in records) for layer in ['official','recruitment_platform','professional_social']},'legacy_contact_fields':{field:sum(bool(r['contacts'][field]) for _,r in records) for field in ['website','careers_url','recruitment_email','other_email']},'legacy_platform_references_pending_structuring':sum(legacy_platform_reference(r) and not has_platform(r) for _,r in records),'note':'Legacy fields/source-domain mentions are not counted as confirmed structured channel ownership.'}
+        output['recruitment_platform_coverage']=platform_coverage(records)
+        output['both_boss_and_liepin_confirmed']=sum(all(platform_status(r,p)=='confirmed' for p in ('boss_zhipin','liepin')) for _,r in records)
     elif args.template:
         output={'schema_version':1,'public_only':True,'entries':[{'entity_type':r['organization_type'],'entity_id':r['id'],'platform':args.platform,'url':None,'observed_name':None,'checked_at':None,'evidence_title':None,'verification_status':'unverified'} for _,r in records]}
     else:output=[{'entity_type':r['organization_type'],'entity_id':r['id'],'name':r['name'],'channels':r['channels'],'legacy_careers_url':r['contacts']['careers_url']} for _,r in records]

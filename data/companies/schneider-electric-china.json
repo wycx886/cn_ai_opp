@@ -2,7 +2,7 @@
   "schema_version": 3,
   "organization_type": "operating_organization",
   "id": "schneider-electric-china",
-  "name": "施耐德电气（中国）上海",
+  "name": "施耐德电气（中国）",
   "aliases": [
     "Schneider Electric China",
     "施耐德",
@@ -37,7 +37,7 @@
       "source_ids": [
         "s02"
       ],
-      "notes": null
+      "notes": "2026-11-03 本次打开跳至登录／验证页，未重新读到企业正文；保留此前核验标记与原日期，不宣称本轮再次确认。"
     },
     {
       "id": "ch-c54d2bfcbf119981",
@@ -47,15 +47,15 @@
       "purpose": "general",
       "owner": {
         "scope": "organization",
-        "name": "施耐德电气（中国）上海",
-        "role": null
+        "name": "施耐德电气（中国）",
+        "role": "中国区官方入口；非上海团队专属"
       },
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
         "s03"
       ],
-      "notes": null
+      "notes": "按中国区机构范围纠正原上海标签，不刷新原观察日期。"
     },
     {
       "id": "ch-6ad2854fff25d2c2",
@@ -65,15 +65,15 @@
       "purpose": "recruitment",
       "owner": {
         "scope": "organization",
-        "name": "施耐德电气（中国）上海",
-        "role": null
+        "name": "施耐德电气（中国）",
+        "role": "中国区官方入口；非上海团队专属"
       },
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
         "s04"
       ],
-      "notes": "中国区招聘介绍页；具体岗位投递跳转集团 Taleo 招聘系统。"
+      "notes": "中国区招聘介绍页；具体岗位投递跳转集团 Taleo 招聘系统。 按中国区机构范围纠正原上海标签，不刷新原观察日期。"
     },
     {
       "id": "ch-6e840d8d99d09511",
@@ -83,15 +83,18 @@
       "purpose": "recruitment",
       "owner": {
         "scope": "organization",
-        "name": "施耐德",
-        "role": null
+        "name": "施耐德电气（中国）有限公司",
+        "role": "实际页面具名主体；具体团队／岗位另核"
       },
       "verification_status": "confirmed",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "source_ids": [
-        "s05"
+        "s09"
       ],
-      "notes": null
+      "notes": "实际读取具名中国法人注册北京，公司地址栏有上海浦东和普陀办公点；本条为中国公司入口，不能写成上海独立公司。",
+      "historical_source_ids": [
+        "s05"
+      ]
     }
   ],
   "contacts": {
@@ -165,13 +168,31 @@
       "supports": "施耐德电气Euronext:SU上市身份。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "上海普陀区政府：施耐德在沪研发与业务（历史资料复读）",
+      "url": "https://www.shpt.gov.cn/qyzs-yinshang/20231013/919708.html",
+      "supports": "历史政府资料支持施耐德在沪研发及业务线索；不能等同其中国法人注册上海，也不能替代当前团队与岗位核验。 本次页面显示发布日期为2024-11-04；不按URL中的20231013推定公开日期。",
+      "published_date": "2024-11-04",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "BOSS直聘：施耐德电气（中国）有限公司（北京注册，含上海办公线索）",
+      "url": "https://www.zhipin.com/gongsi/5564ed2c1573e28f03Z53d61.html",
+      "supports": "实际读取具名中国法人注册北京，公司地址栏有上海浦东和普陀办公点；本条为中国公司入口，不能写成上海独立公司。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
-  "notes": "中国研发中心与上海分公司口径来自普陀区政府介绍；具体法人主体未逐项核对。",
+  "notes": "中国研发中心与上海分公司口径来自普陀区政府介绍；具体法人主体未逐项核对。 展示名称按公司／业务主体整理，附加城市信息保留在 locations_text 与地区核查备注，不单列地区公司；原来源、日期和核验状态不变。 原上海条目和来源仍保留在 regional_notes；办公室地点不作为另建公司身份。 本次复读普陀区政府页面，页面显示日期2024-11-04；原资料的旧日期口径保留为历史，不沿用URL目录日期作为新依据。",
   "category_id": "06",
   "focus": "能源管理与工业自动化AI",
   "products": "EcoStruxure、工业自动化控制、配电与关键电源、AI能效管理",
-  "locations_text": "上海普陀；中国多城市",
+  "locations_text": "中国法人注册北京；上海普陀、浦东等为办公／研发线索（BOSS及历史政府资料），具体团队和岗位地点另核",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "研究方向：能源管理与工业自动化AI。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
@@ -187,5 +208,17 @@
     "original_name": "施耐德电气（中国）上海",
     "original_track": "06",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "regional_notes": [
+    {
+      "region": "上海",
+      "summary": "原地区检索条目：施耐德电气（中国）上海（历史 ID：schneider-electric-china）；现并入公司档案，不再作为独立公司或地区副本管理。\n\n原地区标签：Schneider Electric China；施耐德；Schneider；施耐德电气（中国）有限公司\n\n地点与核实范围：上海普陀；中国多城市\n\n业务研究线索：能源管理与工业自动化AI\n\n产品研究线索：EcoStruxure、工业自动化控制、配电与关键电源、AI能效管理\n\n原融资口径（限原研究范围）：施耐德电气集团（Euronext:SU）在华子公司；上海为中国研发中心之一，不单独披露股权融资。；状态：partial\n\n原同业分析：研究方向：能源管理与工业自动化AI。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。；比较对象：待核实同业\n\n原研究批次：incumbent / later；跨国能源管理与自动化集团的上海研发/业务主体，属于成熟平台；列为 later 资料批次。；标记日期：2026-11-03；依据：s06,s07\n\n原采集出处：施耐德电气（中国）上海；赛道：06；批次：上海科技硬件候选-2026-11-02\n\n原核查备注：中国研发中心与上海分公司口径来自普陀区政府介绍；具体法人主体未逐项核对。",
+      "source_ids": [
+        "s01",
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-03"
+    }
+  ]
 }

@@ -37,6 +37,24 @@
         "s02"
       ],
       "notes": null
+    },
+    {
+      "id": "ch-bf51d14d4a702a51",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://m.liepin.com/company/9925913/",
+      "purpose": "recruitment",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "公开检索摘要命中具名企业页，但本次实际打开均进入登录／验证；保留为候选，主体与可访问性待核实，不把推荐职位当本公司职位。",
+      "owner": {
+        "scope": "organization",
+        "name": "绿的谐波",
+        "role": "关联机构／候选入口；目标主体关系待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03"
     }
   ],
   "contacts": {
@@ -74,6 +92,15 @@
       "published_date": null,
       "checked_at": "2026-11-03",
       "supports": "2011-01-13成立、2020-08-28上市、精密传动装置主营、苏州吴中注册地址。"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "猎聘：绿的谐波（检索命中，正文访问受限）",
+      "url": "https://m.liepin.com/company/9925913/",
+      "supports": "公开检索摘要命中具名企业页，但本次实际打开均进入登录／验证；保留为候选，主体与可访问性待核实，不把推荐职位当本公司职位。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
   "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",

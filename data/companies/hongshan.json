@@ -108,6 +108,15 @@
       "supports": "公开企业主页主体：红杉中国；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "BOSS直聘：红杉资本股权投资管理（天津）有限公司（品牌／团队对应待核实）",
+      "url": "https://m.zhipin.com/companys/cea4f681d7f04b2f1nV_29q5EQ~~.html",
+      "supports": "已读页面，使用旧红杉资本品牌并列上海地址；与当前HongShan/HSG及现行团队的对应待核实，不当作新品牌主体已确认。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
   "checked_at": "2026-10-30",
@@ -141,6 +150,24 @@
         "s07"
       ],
       "notes": null
+    },
+    {
+      "id": "ch-50e24a9b31d83a4c",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://m.zhipin.com/companys/cea4f681d7f04b2f1nV_29q5EQ~~.html",
+      "purpose": "recruitment",
+      "source_ids": [
+        "s08"
+      ],
+      "notes": "已读页面，使用旧红杉资本品牌并列上海地址；与当前HongShan/HSG及现行团队的对应待核实，不当作新品牌主体已确认。",
+      "owner": {
+        "scope": "organization",
+        "name": "红杉资本股权投资管理（天津）有限公司",
+        "role": "关联机构／候选入口；目标主体关系待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03"
     }
   ],
   "people": [

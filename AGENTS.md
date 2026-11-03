@@ -20,6 +20,7 @@
 1. **单一维护源**：正式事实只维护在 `data/companies/`、`data/lists/`、`data/taxonomy.json`。唯一机器索引 `data/index.json` 与阅读视图 `data/views/` 由 `python3 tools/build.py` 自动生成，不手改。格式约束在 `data/schemas/`。
 2. **统一机构档案**：全部完整机构档案统一放 `data/companies/`，投资机构用 `organization_type: "investment_firm"` 标记，不另建目录。VC 寻源名单在 `data/lists/vcs.json`，已有玩家底表在 `data/lists/incumbents.json`；Skill 引用名单，名单不重复完整档案。
 3. **组织边界清晰**：新进身份相对于任务市场判断，不设固定成立年份或融资门槛。新进与已有两条寻源路径共用稳定 ID。集团、法人、团队、实验室及项目分清层级；成熟母平台不自动决定新单元身份。缺少 `organizational_context` 不表示已确认独立，前员工履历不证明母公司孵化或法律拆分。
+   - 同一公司不按上海／苏州等办公地另建地区副本；地点、地区岗位与渠道适用范围写入主公司档案。地区研究与历史组织线索可用 `regional_notes[]` 保留独立来源和日期，不计为另一家公司。确有独立主体或不同业务／项目边界时才单独研究，不能按名称含地名机械合并。合并后的旧 ID 在 `data/lists/company-redirects.json` 路由，旧阅读链接仅生成跳转页，不复制公司 JSON。
 4. **来源与日期真实**：来源记录支持内容、公开日期和实际核查日期；未知日期用 `null`。编辑分类、合并和迁移不刷新旧事实日期。
 5. **融资与案例归因**：自筹、内部资源（`not_applicable`）、产业资本、收购与独立股权融资分开。新 VC 的原平台案例（`prior_firm`）与当前机构案例（`current_firm`）分开；参与不等于主导，IPO 不等于已退出。
 6. **按信息性质路由（公开直写 vs 私人隔离）**：

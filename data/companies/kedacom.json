@@ -2,8 +2,9 @@
   "schema_version": 3,
   "organization_type": "operating_organization",
   "id": "kedacom",
-  "name": "苏州科达",
+  "name": "苏州科达科技股份有限公司",
   "aliases": [
+    "苏州科达",
     "Kedacom",
     "科达股份",
     "科达",
@@ -14,9 +15,9 @@
     "kind": "editorial_assessment",
     "player_group": "incumbent",
     "wave": "later",
-    "rationale": "2004年成立、2016年上交所上市（603660）的视频会议与视频监控厂商，注册于苏州高新区，属成熟视频AI玩家。列为 later。",
+    "rationale": "官网具名的成熟视讯与安防经营／上市主体，列 later；苏州地址据官方联系页更正为高新区，非工业园区。",
     "source_ids": [
-      "s05"
+      "s07"
     ],
     "labelled_at": "2026-11-03"
   },
@@ -55,7 +56,7 @@
       "source_ids": [
         "s03"
       ],
-      "notes": null
+      "notes": "2026-11-03 本次打开跳至登录／验证页，未重新读到企业正文；保留此前核验标记与原日期，不宣称本轮再次确认。"
     },
     {
       "id": "ch-dc00f1e599007f40",
@@ -65,15 +66,18 @@
       "purpose": "recruitment",
       "owner": {
         "scope": "organization",
-        "name": "苏州科达",
-        "role": null
+        "name": "苏州科达科技股份有限公司",
+        "role": "实际页面具名主体；具体团队／岗位另核"
       },
       "verification_status": "confirmed",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "source_ids": [
-        "s04"
+        "s08"
       ],
-      "notes": null
+      "notes": "实际读取工商信息为苏州科达科技股份有限公司，注册及公司地址列苏州高新区金山路131号；只确认企业主页归属。",
+      "historical_source_ids": [
+        "s04"
+      ]
     }
   ],
   "contacts": {
@@ -129,13 +133,40 @@
       "published_date": null,
       "checked_at": "2026-11-03",
       "supports": "2004-06-10成立、2016-12-01上市、视频会议/视频监控/融合通信主营、苏州高新区注册地址。"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "科达官网：联系我们",
+      "url": "https://www.kedacom.com/cn/fwgs/663.jhtml",
+      "supports": "已读取官方联系页，苏州地址为高新区金山路131号；不是工业园区。只证明公布地址，不保证具体岗位地点。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "科达官网：公司概况",
+      "url": "https://www.kedacom.com/cn/gongsigk/648.jhtml",
+      "supports": "官网具名苏州科达科技股份有限公司并列示603660上市身份；业务沿革1995年与法人登记年份2004年分开，不据此混为同一成立口径。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "BOSS直聘：苏州科达企业主页（实际读取工商信息）",
+      "url": "https://www.zhipin.com/gongsi/a4b048155f44150d1HFy09S-.html",
+      "supports": "实际读取工商信息为苏州科达科技股份有限公司，注册及公司地址列苏州高新区金山路131号；只确认企业主页归属。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
-  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 原地域“苏州工业园区”更正；原采集名称与全部来源保留。",
   "category_id": "04",
   "focus": "视频AI、公共安全、智慧城市、企业会议视频系统",
   "products": "视频AI、公共安全、智慧城市、企业会议视频系统",
-  "locations_text": "苏州工业园区",
+  "locations_text": "苏州高新区金山路131号（官网联系页；非工业园区）；具体岗位地点以对应招聘信息为准",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "研究方向：视频AI、公共安全、智慧城市、企业会议视频系统。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
@@ -151,5 +182,15 @@
     "original_name": "苏州科达",
     "original_track": "04",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "independent_organization",
+    "parent_platform_ids": [],
+    "relationship_status": "confirmed",
+    "summary": "本条是具名法人／上市公司，不是按办公地点另建的地区团队；不据此推断最终控制关系。",
+    "source_ids": [
+      "s07"
+    ],
+    "checked_at": "2026-11-03"
   }
 }

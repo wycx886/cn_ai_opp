@@ -52,7 +52,7 @@
 | [爱诗科技 / PixVerse](companies/aisphere.md) | 05 | 部分核验／口径有限 | 2026-10-30 |
 | [井英科技 / CreativeFitting](companies/creativefitting.md) | 05 | 已核验披露 | 2026-10-30 |
 | [影眸科技 / Deemos / Hyper3D](companies/deemos.md) | 05 | 部分核验／口径有限 | 2026-10-30 |
-| [硅基智能（南京）](companies/guiji.md) | 05 | 部分核验／口径有限 | 2026-10-30 |
+| [硅基智能](companies/guiji.md) | 05 | 部分核验／口径有限 | 2026-10-30 |
 | [即时设计 / JSDesign](companies/jsdesign.md) | 05 | 已核验披露 | 2026-10-30 |
 | [LiblibAI / 哩布哩布](companies/liblib.md) | 05 | 已核验披露 | 2026-10-30 |
 | [生数科技 / Vidu](companies/shengshu.md) | 05 | 已核验披露 | 2026-10-30 |

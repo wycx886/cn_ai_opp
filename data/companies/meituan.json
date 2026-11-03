@@ -11,7 +11,7 @@
   "category_id": "01",
   "focus": "本地生活与零售科技平台；AI 切面以 LongCat 大模型及商家 AI 应用为主",
   "products": "美团／大众点评本地生活、外卖、LongCat 模型、商家 AI 工作台等",
-  "locations_text": "北京；岗位城市以招聘官网为准",
+  "locations_text": "北京；岗位城市以招聘官网为准；上海（s12 在沪业务资料）；具体AI团队、总部基地与岗位地点待核实",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "分析：主业本地生活，区别于阿里／京东电商主叙事；公开 AI 证据以 LongCat 基座与商家工具落地为主。",
@@ -32,7 +32,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "category_id=01 取 LongCat 基座公开证据；主业仍为本地生活。BOSS 页主体常为北京三快在线科技有限公司（美团常用运营主体），已列入 aliases。",
+  "notes": "category_id=01 取 LongCat 基座公开证据；主业仍为本地生活。BOSS 页主体常为北京三快在线科技有限公司（美团常用运营主体），已列入 aliases。 地区资料已由 meituan-shanghai 归入本公司 regional_notes；不另计公司，不改变原业务核查日或渠道归属判断。",
   "checked_at": "2026-11-02",
   "sources": [
     {
@@ -76,6 +76,69 @@
       "published_date": null,
       "checked_at": "2026-11-02",
       "scope": "channel"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "美团（上海） 公开入口",
+      "url": "https://www.meituan.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "美团 - 帮大家吃得更好，生活更好",
+      "url": "https://www.meituan.com/",
+      "supports": "公开官网主体观察：https://www.meituan.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "美团招聘",
+      "url": "https://career.meituan.com/",
+      "supports": "公开招聘入口主体观察：https://career.meituan.com/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "【美团招聘】-猎聘",
+      "url": "https://www.liepin.com/company/2036768/",
+      "supports": "公开企业主页主体：北京三快在线科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s10",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 美团",
+      "url": "https://www.zhipin.com/gongsi/b633a34f787d94f21nZ_0929E1I~.html",
+      "supports": "公开企业主页主体：美团；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "我们的科技 - 美团",
+      "url": "https://www.meituan.com/technology",
+      "supports": "美团LongCat大模型、无人机/无人车与AI工具矩阵。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s12",
+      "scope": "organization",
+      "title": "美团数字化升级 引领零售新趋势 创新型企业总部",
+      "url": "https://www.shyp.gov.cn/shypq/xwzx-bmdt/20240104/445612.html",
+      "supports": "美团上海创新型企业总部、无人机配送航线与在沪业务。",
+      "published_date": "2024-01-04",
+      "checked_at": "2026-11-03"
     }
   ],
   "provenance": {
@@ -110,9 +173,10 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s01"
+        "s01",
+        "s07"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 meituan-shanghai 的观察：2026-11-02 / partial；网页主体：美团；原渠道 ID：ch-47f2b75eb6643164；原 URL：https://www.meituan.com/。\n集团官网；上海单元未单列，只核验入口归属。 待核实：页面观察主体为“美团”；不能作为“美团（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
     },
     {
       "id": "ch-9ab6066747b6bce9",
@@ -164,9 +228,58 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s05"
+        "s05",
+        "s09"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 meituan-shanghai 的观察：2026-11-02 / partial；网页主体：北京三快在线科技有限公司；原渠道 ID：ch-8477cc57f72c5f48；原 URL：https://www.liepin.com/company/2036768/。\n待核实：页面观察主体为“北京三快在线科技有限公司”；不能作为“美团（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
+    },
+    {
+      "id": "ch-41d2e977228db3e7",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://career.meituan.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "美团",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s08"
+      ],
+      "notes": "合并原地区条目 meituan-shanghai 的观察：2026-11-02 / partial；网页主体：美团；原渠道 ID：ch-41d2e977228db3e7；原 URL：https://career.meituan.com/。\n集团招聘站；上海岗位未单列，只核验入口归属。 待核实：页面观察主体为“美团”；不能作为“美团（上海）”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-fe6fb7f2a7c51a91",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/b633a34f787d94f21nZ_0929E1I~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "美团",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s10"
+      ],
+      "notes": "合并原地区条目 meituan-shanghai 的观察：2026-11-03 / partial；网页主体：美团；原渠道 ID：ch-fe6fb7f2a7c51a91；原 URL：https://www.zhipin.com/gongsi/b633a34f787d94f21nZ_0929E1I~.html。\n待核实：页面观察主体为“美团”；不能作为“美团（上海）”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "regional_notes": [
+    {
+      "region": "上海",
+      "summary": "原地区检索条目：美团（上海）（历史 ID：meituan-shanghai）；现并入公司档案，不再作为独立公司或地区副本管理。\n\n原地区标签：Meituan Shanghai；美团上海；汉海信息技术（上海）有限公司\n\n地点与核实范围：上海（s12 在沪业务资料）；具体AI团队、总部基地与岗位地点待核实\n\n业务研究线索：业务研究线索（当前本地团队归属待核实）：本地生活AI、无人配送与内容AI\n\n产品研究线索：原采集产品／业务关注点（不表示本地单元当前归属）：LongCat大模型、美团无人机/无人车、点评内容与智能客服\n\n原组织边界：上海总部／区域业务线索；集团AI产品不能自动归属到本地某一团队。；形态：internal_team；母平台 ID：meituan；关系状态：reported；核查日期：2026-11-03；依据：s12\n\n原融资口径（限原研究范围）：范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：美团（HKEX:3690）上海业务与研发基地；不单独披露融资，研发投入计入集团。；状态：partial\n\n原同业分析：业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。；比较对象：待核实同业\n\n原研究批次：incumbent / later；美团集团的上海业务与研发基地，属于成熟平台的区域单元；列为 later 资料批次。；标记日期：2026-11-03；依据：s11,s12\n\n原采集出处：美团（上海）；赛道：01；批次：上海科技硬件候选-2026-11-02\n\n原核查备注：上海主体为汉海信息技术（上海）有限公司，具体业务团队随组织调整；投资摘要为集团口径。 主体边界：上海总部／区域业务线索；集团AI产品不能自动归属到本地某一团队。 集团／品牌入口仅供关联寻源，不计为本地区单元已确认渠道。 原采集关联名称（不再作为同一主体别名匹配）：大众点评、北京三快在线科技有限公司、美团。 原采集地域为“上海杨浦（总部基地）”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.meituan.com 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://career.meituan.com/ 保留为关联／历史线索，未确认属于本研究单元。",
+      "source_ids": [
+        "s06",
+        "s11",
+        "s12"
+      ],
+      "checked_at": "2026-11-03"
     }
   ]
 }

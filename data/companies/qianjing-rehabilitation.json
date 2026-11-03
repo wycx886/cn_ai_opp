@@ -2,11 +2,12 @@
   "schema_version": 3,
   "organization_type": "operating_organization",
   "id": "qianjing-rehabilitation",
-  "name": "钱璟康复（常州）",
+  "name": "钱璟康复",
   "aliases": [
     "Qianjing Rehabilitation",
     "钱璟康复",
-    "常州市钱璟康复股份有限公司"
+    "常州市钱璟康复股份有限公司",
+    "钱璟康复（常州）"
   ],
   "targeting": {
     "kind": "editorial_assessment",
@@ -36,6 +37,24 @@
         "s02"
       ],
       "notes": null
+    },
+    {
+      "id": "ch-a80816feedad4c3c",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://m.liepin.com/company/9486842/",
+      "purpose": "recruitment",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "公开检索摘要命中具名企业页，但本次实际打开均进入登录／验证；保留为候选，主体与可访问性待核实，不把推荐职位当本公司职位。",
+      "owner": {
+        "scope": "organization",
+        "name": "常州市钱璟康复股份有限公司",
+        "role": "关联机构／候选入口；目标主体关系待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03"
     }
   ],
   "contacts": {
@@ -73,9 +92,18 @@
       "published_date": null,
       "checked_at": "2026-11-03",
       "supports": "常州市钱璟康复股份有限公司始建于1996年，致力于康复器材、辅具及康复医疗器械，下辖子公司近二十家。"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "猎聘：常州市钱璟康复股份有限公司（检索命中，正文访问受限）",
+      "url": "https://m.liepin.com/company/9486842/",
+      "supports": "公开检索摘要命中具名企业页，但本次实际打开均进入登录／验证；保留为候选，主体与可访问性待核实，不把推荐职位当本公司职位。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
-  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官网主体在常州，与档案“苏州”口径不一致。 原采集名称“苏州钱璟康复”保留于 provenance；现以来源中具名机构为研究对象，原地区分支假设未证实。 官网以已读取的 s03（qjrehab.com）为准；旧 qianjingkang.com 未证实关联，保留 s01。 原采集地域为“苏州”，本次按来源支持范围更正；不代表在该地有开放岗位。 本次为存量证据的主体／口径纠错；渠道日期保持原采集日期，未声称重新登录平台核验。",
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官网主体在常州，与档案“苏州”口径不一致。 原采集名称“苏州钱璟康复”保留于 provenance；现以来源中具名机构为研究对象，原地区分支假设未证实。 官网以已读取的 s03（qjrehab.com）为准；旧 qianjingkang.com 未证实关联，保留 s01。 原采集地域为“苏州”，本次按来源支持范围更正；不代表在该地有开放岗位。 本次为存量证据的主体／口径纠错；渠道日期保持原采集日期，未声称重新登录平台核验。 展示名去掉附加的常州标签；实际法人常州市钱璟康复股份有限公司及地点、原苏州分支待核实范围保持原记录。",
   "category_id": "08",
   "focus": "康复机器人设备及AI辅助康复方案",
   "products": "康复机器人设备及AI辅助康复方案",

@@ -67,13 +67,15 @@
 | 寒武纪 | `cambricon` | 未绑定同层级档案 | hardware, semiconductors | [官方入口](https://www.cambricon.com/index.php?a=lists&c=index&catid=7&m=content) | 仅检索线索 · 2026-10-31 | AI芯片及云边端产品定位；本次依据官方检索内容，不因成立年份或上市单独判定已有地位。 |
 | OPPO | `oppo` | 未绑定同层级档案 | hardware, software, consumer_devices | [官方入口](https://www.oppo.com/cn/discover/technology/oppo-ai/) | 已读取 · 2026-10-31 | 端侧模型、智能体与终端AI产品研究；旗下品牌及业务单元仍需去重。 |
 
-## 跨行业已有玩家 · 3 个入口
+## 跨行业已有玩家 · 5 个入口
 
 | 机构／平台 | ID | 正式档案 | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 比亚迪 | `byd` | 未绑定同层级档案 | automotive, hardware | [官方入口](https://prod2.byd.com/cn/news/2024/detail502) | 仅检索线索 · 2026-10-31 | 整车智能、璇玑架构等历史战略依据；当前开展情况须补查最新报告，不能单据此认定AI技术领先。 |
 | 美的 | `midea` | 未绑定同层级档案 | industrial, hardware, consumer_devices | [官方入口](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033001929_c.pdf) | 已读取 · 2026-10-31 | 工业／家庭智能体及内部AI活动的正式披露；成熟工业集团不直接等同通用模型头部。 |
 | 海尔（智慧家庭线索） | `haier` | 未绑定同层级档案 | industrial, hardware, consumer_devices | [官方入口](https://www.haier.com/press-events/news/20260108_284891.shtml) | 仅检索线索 · 2026-10-31 | Uhome大模型、智慧家庭及智能体活动；品牌入口不替代集团与海尔智家法人的具体核实。 |
+| 深圳市汇川技术股份有限公司 | `inovance-group` | 未绑定同层级档案 | hardware | [官方入口](https://www.inovance.com/portal/investor) | 已读取 · 2026-11-03 | 已实际读取官方投资者关系页及2025年年报；作为苏州汇川技术有限公司的母平台，集团与苏州子公司不混为同一法人。 |
+| 中际旭创股份有限公司 | `zhongji-innolight` | 未绑定同层级档案 | hardware | [官方入口](https://www.zj-innolight.com/cn) | 已读取 · 2026-11-03 | 已读取官方站和园区政府2026年资料；本条为上市母平台，苏州旭创科技有限公司为其经营子公司，上市身份分别归因。 |
 
 ## 已附的主题活动证据
 

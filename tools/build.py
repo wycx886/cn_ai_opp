@@ -4,6 +4,7 @@ from investors import build_outputs
 from targets import render as target_outputs, target_markdown
 from record_checks import channel_markdown
 from corporate import context_markdown, render as corporate_outputs
+from company_routes import render as redirect_outputs
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 STATUS={'confirmed_disclosure':'已核验披露（非完整现股东表）','partial':'部分核验','not_found':'未找到可靠公开披露','not_applicable':'内部单元，不适用独立主体股权融资'}
@@ -55,6 +56,10 @@ def outputs():
   page+=context_markdown(c)
   page+='别名与原表名称：'+'；'.join(c['aliases'])+'\n\n'
   page+='## 业务与产品\n\n**细分方向：** '+c['focus']+'\n\n'+c['products']+'\n\n**城市记录：** '+(c['locations_text'] or '未查到公开记录')+'\n\n'
+  if c.get('regional_notes'):
+   page+='## 地区研究与历史线索\n\n同一公司统一建档；以下保留地区范围、历史组织线索与独立核查日期，不表示当前岗位开放或重新核实公司全部业务。\n\n'
+   for note in c['regional_notes']:
+    page+='### '+note['region']+'\n\n'+note['summary']+'\n\n地区资料核查日期：'+note['checked_at']+'；依据：'+', '.join(note['source_ids'])+'。\n\n'
   page+='## 同类区别\n\n'+c['comparison']['summary']+'\n\n比较对象：'+'、'.join(c['comparison']['peer_names'])+'。以上为产品定位分析，非性能排名。\n\n'
   page+='## 投资背景\n\n'+c['investment']['summary']+'\n\n**披露状态：** '+STATUS[c['investment']['verification_status']]+'。\n\n'
   page+='## 公开渠道\n\n| 类型 | 记录 |\n| --- | --- |\n'
@@ -77,6 +82,7 @@ def outputs():
   out['data/views/README.md']=out['data/views/README.md'].replace('## 阅读入口',investor_intro+'## 阅读入口',1)
  out.update(target_outputs(ROOT))
  out.update(corporate_outputs(ROOT))
+ out.update(redirect_outputs(ROOT))
  return out
 
 def main():

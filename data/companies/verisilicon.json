@@ -72,6 +72,24 @@
         "s04"
       ],
       "notes": null
+    },
+    {
+      "id": "ch-ffd8a856eec17992",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://m.zhipin.com/companys/2a6342f5264ae5371nx70t67FlQ~.html",
+      "purpose": "recruitment",
+      "source_ids": [
+        "s06"
+      ],
+      "notes": "已实际读取同名企业主页及688521.SH品牌介绍；页面地址还含外地办公室，不表示岗位均在上海。",
+      "owner": {
+        "scope": "organization",
+        "name": "芯原微电子（上海）股份有限公司",
+        "role": "实际页面具名主体；具体团队／岗位另核"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-03"
     }
   ],
   "contacts": {
@@ -126,6 +144,15 @@
       "url": "https://finance.sina.com.cn/stock/relnews/cn/2025-04-27/doc-ineuqumz7641512.shtml",
       "supports": "芯原股份688521的2024年营收23.22亿元、归母净利润-6.01亿元及IP产品线。",
       "published_date": "2025-04-27",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "channel",
+      "title": "BOSS直聘：芯原微电子（上海）股份有限公司（实际读取）",
+      "url": "https://m.zhipin.com/companys/2a6342f5264ae5371nx70t67FlQ~.html",
+      "supports": "已实际读取同名企业主页及688521.SH品牌介绍；页面地址还含外地办公室，不表示岗位均在上海。",
+      "published_date": null,
       "checked_at": "2026-11-03"
     }
   ],

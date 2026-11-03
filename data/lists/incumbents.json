@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-02",
+  "checked_at": "2026-11-03",
   "scope_note": "当前中国AI机会研究的已有玩家／母平台发现底表：互联网优先，兼顾软件、成熟技术供应商、云与ICT、硬件芯片及跨行业集团。sectors为可交叉的编辑性业务标签；topic_evidence仅表示所列材料支持的主题活动，不是头部排名、完整能力核验或正式目标档案。底表可继续扩展，不代表完整市场全集；通用Skill本身不限中国或AI。 company_id（如有）只路由到同层级完整档案；集团底表不映射到地区团队，不含该字段表示尚未绑定正式集团档案。",
   "platforms": [
     {
@@ -1162,6 +1162,32 @@
           "published_date": "2026-01-08",
           "checked_at": "2026-10-31"
         }
+      ]
+    },
+    {
+      "id": "inovance-group",
+      "name": "深圳市汇川技术股份有限公司",
+      "aliases": [],
+      "group": "industry_incumbents",
+      "official_url": "https://www.inovance.com/portal/investor",
+      "access": "content_read",
+      "checked_at": "2026-11-03",
+      "notes": "已实际读取官方投资者关系页及2025年年报；作为苏州汇川技术有限公司的母平台，集团与苏州子公司不混为同一法人。",
+      "sectors": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "zhongji-innolight",
+      "name": "中际旭创股份有限公司",
+      "aliases": [],
+      "group": "industry_incumbents",
+      "official_url": "https://www.zj-innolight.com/cn",
+      "access": "content_read",
+      "checked_at": "2026-11-03",
+      "notes": "已读取官方站和园区政府2026年资料；本条为上市母平台，苏州旭创科技有限公司为其经营子公司，上市身份分别归因。",
+      "sectors": [
+        "hardware"
       ]
     }
   ]

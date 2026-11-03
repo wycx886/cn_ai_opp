@@ -10,7 +10,7 @@
   "category_id": "01",
   "focus": "搜索与智能云等互联网集团；AI 切面以文心／ERNIE 与千帆大模型平台为主",
   "products": "百度搜索、百度智能云、文心大模型、千帆平台等",
-  "locations_text": "北京；岗位城市以招聘官网为准",
+  "locations_text": "北京；岗位城市以招聘官网为准；上海浦东张江（s10 历史研发中心资料）；当前办公点／团队待核实",
   "comparison": {
     "kind": "editorial_analysis",
     "summary": "分析：与阿里云、腾讯云同在云＋模型赛道公开产品；文心／千帆是其对外具名旗舰，区别于华为昇腾偏算力基础设施叙事。",
@@ -31,7 +31,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "BOSS 直聘仍未写入：公开搜索至少出现 ab9fdc6f043679990HY~（标题「百度招聘」，职位量很大）与 1fcce9a1d32b4fa61Xd40t28EVM~（亦标「百度」）两套 gongsi 路径，集团级主页未能在无浏览器条件下唯一定位；猎聘采用 Baidu 主页 884492（另有百度网讯 1384197 等实体页，不重复写入）。",
+  "notes": "BOSS 直聘仍未写入：公开搜索至少出现 ab9fdc6f043679990HY~（标题「百度招聘」，职位量很大）与 1fcce9a1d32b4fa61Xd40t28EVM~（亦标「百度」）两套 gongsi 路径，集团级主页未能在无浏览器条件下唯一定位；猎聘采用 Baidu 主页 884492（另有百度网讯 1384197 等实体页，不重复写入）。 地区资料已由 baidu-shanghai 归入本公司 regional_notes；不另计公司，不改变原业务核查日或渠道归属判断。",
   "checked_at": "2026-11-02",
   "sources": [
     {
@@ -66,6 +66,69 @@
       "published_date": null,
       "checked_at": "2026-11-02",
       "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "百度（上海） 公开入口",
+      "url": "https://www.baidu.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s06",
+      "scope": "channel",
+      "title": "百度一下，你就知道",
+      "url": "https://www.baidu.com/",
+      "supports": "公开官网主体观察：https://www.baidu.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "百度校园招聘",
+      "url": "https://talent.baidu.com/",
+      "supports": "公开招聘入口主体观察：https://talent.baidu.com/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "【Baidu招聘】-猎聘",
+      "url": "https://www.liepin.com/company/884492/",
+      "supports": "公开企业主页主体：百度在线网络技术(北京)有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s09",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 百度",
+      "url": "https://www.zhipin.com/gongsi/ab9fdc6f043679990HY~.html",
+      "supports": "公开企业主页主体：百度；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "维基百科：百度",
+      "url": "https://zh.wikipedia.org/zh-hans/%E7%99%BE%E5%BA%A6",
+      "supports": "百度上海研发中心2008年12月成立于浦东张江，以及百度集团上市身份。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s11",
+      "scope": "channel",
+      "title": "BOSS直聘：百度（实际读取北京运营法人）",
+      "url": "https://www.zhipin.com/gongsi/ab9fdc6f043679990HY~.html",
+      "supports": "本次读取企业名称为百度在线网络技术（北京）有限公司，注册地址在北京上地；该页可作集团运营法人线索，不证明上市主体与上海研发团队为同一法人或当前岗位。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
     }
   ],
   "provenance": {
@@ -118,9 +181,10 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s02"
+        "s02",
+        "s07"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 baidu-shanghai 的观察：2026-11-02 / partial；网页主体：百度；原渠道 ID：ch-f1f06566943862dc；原 URL：https://talent.baidu.com/。\n集团招聘站；上海岗位未单列，只核验入口归属。 待核实：页面观察主体为“百度”；不能作为“百度（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
     },
     {
       "id": "ch-73ffad72578c6edb",
@@ -136,9 +200,60 @@
       "verification_status": "confirmed",
       "checked_at": "2026-11-02",
       "source_ids": [
-        "s04"
+        "s04",
+        "s08"
       ],
-      "notes": null
+      "notes": "主档案原渠道核查日期：2026-11-02。\n合并原地区条目 baidu-shanghai 的观察：2026-11-02 / partial；网页主体：百度在线网络技术(北京)有限公司；原渠道 ID：ch-1c53417a2463d879；原 URL：https://www.liepin.com/company/884492/。\n待核实：页面观察主体为“百度在线网络技术(北京)有限公司”；不能作为“百度（上海）”本地团队、法人或岗位归属已确认的证据。\n地区归属仍按原证据限定；合并不代表重新读取网页或确认地区岗位。"
+    },
+    {
+      "id": "ch-b8b90835f7f72652",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.baidu.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "百度",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s06"
+      ],
+      "notes": "合并原地区条目 baidu-shanghai 的观察：2026-11-02 / partial；网页主体：百度；原渠道 ID：ch-b8b90835f7f72652；原 URL：https://www.baidu.com/。\n集团官网；上海单元未单列，只核验入口归属。 待核实：页面观察主体为“百度”；不能作为“百度（上海）”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-23ade56641d61349",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/ab9fdc6f043679990HY~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "百度在线网络技术（北京）有限公司",
+        "role": "集团境内运营法人；上海团队归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s11"
+      ],
+      "notes": "实际读取到企业主页工商信息；属于北京运营法人，并非百度集团上市主体或上海研发中心专属入口。原地区观察保留为历史依据。",
+      "historical_source_ids": [
+        "s09"
+      ]
+    }
+  ],
+  "regional_notes": [
+    {
+      "region": "上海",
+      "summary": "原地区检索条目：百度（上海）（历史 ID：baidu-shanghai）；现并入公司档案，不再作为独立公司或地区副本管理。\n\n原地区标签：Baidu Shanghai；百度上海；百度上海研发中心\n\n地点与核实范围：上海浦东张江（s10 历史研发中心资料）；当前办公点／团队待核实\n\n业务研究线索：业务研究线索（当前本地团队归属待核实）：搜索、文心大模型、智能云与自动驾驶的上海研发\n\n产品研究线索：原采集产品／业务关注点（不表示本地单元当前归属）：文心大模型、百度智能云、Apollo自动驾驶相关研发\n\n原组织边界：历史上海研发中心线索；2008年设立信息不证明当前团队、法人或岗位。；形态：research_lab；母平台 ID：baidu；关系状态：reported；核查日期：2026-11-03；依据：s10\n\n原融资口径（限原研究范围）：范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：百度集团（NASDAQ:BIDU/09888.HK）上海研发机构；不单独披露融资，研发投入计入集团。；状态：partial\n\n原同业分析：业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。；比较对象：待核实同业\n\n原研究批次：incumbent / later；百度集团的上海研发机构，属于成熟平台的区域研发单元；列为 later 资料批次。；标记日期：2026-11-03；依据：s10\n\n原采集出处：百度（上海）；赛道：01；批次：上海科技硬件候选-2026-11-02\n\n原核查备注：上海研发中心2008年成立；当前具体团队与业务范围可能已变化，公开资料未逐项更新。 主体边界：历史上海研发中心线索；2008年设立信息不证明当前团队、法人或岗位。 集团／品牌入口仅供关联寻源，不计为本地区单元已确认渠道。 原采集关联名称（不再作为同一主体别名匹配）：文心一言、Apollo、百度在线网络技术(北京)有限公司、百度。 原采集地域为“上海浦东张江”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.baidu.com 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://talent.baidu.com/ 保留为关联／历史线索，未确认属于本研究单元。",
+      "source_ids": [
+        "s05",
+        "s10"
+      ],
+      "checked_at": "2026-11-03"
     }
   ]
 }

@@ -40,6 +40,8 @@ tools/   共用查询、构建、校验、公开边界检查及自动化测试
 ## 数据如何组织与流转
 
 1. **统一机构档案（Companies）**：所有完整公共档案统一维护在 `data/companies/*.json`（通过 `organization_type` 区分经营型机构 `operating_organization` 与投资机构 `investment_firm`）。参考寻源名单在 `data/lists/vcs.json` 与 `data/lists/incumbents.json`；赛道分类在 `data/taxonomy.json`。`data/index.json` 和 `data/views/` 由 `python3 tools/build.py` 自动生成。
+同一家公司统一维护，办公地不另建上海／苏州等地区公司副本；当地线索、来源与核查日期保留在主档案 `regional_notes[]`。真实独立机构和具备不同业务边界的项目分别核实；旧地区阅读链接兼容跳转到主公司。
+
 2. **机构渠道（Channels）与核心人物（Key People）直接入库**：
    - `channels[]` 只保存机构入口（官网、官招、BOSS直聘／猎聘企业主页及机构官方社媒），`owner.scope` 为 `organization`，证据标 `scope: "channel"`。
    - 核心人物身份、职务和履历统一写入 `people[]`；LinkedIn、X、GitHub 等个人主页写入该人物的 `profiles[]`。新增人物证据标 `scope: "person"`，身份与主页独立记录来源、核验状态和核查日期。原 VC 团队资料已迁入 `people[]`，迁移不代表重新核实当前职务。
