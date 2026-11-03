@@ -1,0 +1,154 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "timi-robot",
+  "name": "钛米机器人",
+  "aliases": [
+    "Timi Robot",
+    "钛米",
+    "Timi",
+    "上海钛米机器人股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "医疗场景服务机器人新进厂商，产品进入医院但公开融资停留在2018年B轮；先列观察。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-4f6be77c3ebeeed3",
+      "layer": "official",
+      "platform": "website",
+      "url": "http://www.tmirob.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "钛米机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "草稿域名 timirobot.com 无有效主体；已改为核验通过的官网。"
+    },
+    {
+      "id": "ch-6f547648c8478457",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9103656/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "钛米",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-4f431cc9b1eb874f",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/b19d837cf4c97e781XR82Nm6Ew~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "钛米机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "http://www.tmirob.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "钛米机器人 公开入口",
+      "url": "https://www.timirobot.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "首页 - 上海钛米机器人股份有限公司",
+      "url": "http://www.tmirob.com/",
+      "supports": "公开官网主体观察：http://www.tmirob.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【上海钛米机器人科技有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9103656/",
+      "supports": "公开企业主页主体：钛米；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 钛米机器人",
+      "url": "https://www.zhipin.com/gongsi/b19d837cf4c97e781XR82Nm6Ew~~.html",
+      "supports": "公开企业主页主体：钛米机器人；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "「钛米」完成2亿B轮融资，或是医疗服务机器人领域最大单笔融资",
+      "url": "https://www.36kr.com/p/1721985122305",
+      "supports": "钛米2亿元B轮、金浦/鼎晖/IDG/科沃斯/国科嘉和及医疗机器人产品。",
+      "published_date": "2018-07-17",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "最近可核验融资为2018年B轮，2020年后融资与经营情况未找到可靠披露。",
+  "category_id": "08",
+  "focus": "医疗场景服务机器人",
+  "products": "医疗物资配送机器人、核医学科病房服务机器人、消毒/导诊机器人",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：医疗场景服务机器人。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2018年完成2亿元B轮融资，金浦投资领投、鼎晖投资跟投，IDG资本、科沃斯、国科嘉和继续参与；公开披露未见更近轮次。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "钛米机器人",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

@@ -15,67 +15,262 @@ investment_firm,zhenfund,真格基金（ZhenFund）,ch-03dfb81b8c0951fa,recruitm
 investment_firm,zhenfund,真格基金（ZhenFund）,ch-4e44acca8ed87f0b,recruitment_platform,liepin,https://www.liepin.com/company/8852540/,recruitment,organization,真格基金（ZhenFund）,2026-10-31,confirmed,s07
 operating_organization,01-ai,零一万物 01.AI,ch-d390edf10fb7bd12,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/6604fa28d0b480c11X1y09-6FFc~.html,recruitment,organization,零一万物 01.AI,2026-10-31,confirmed,s04
 operating_organization,01-ai,零一万物 01.AI,ch-82f85d40b09a77ae,recruitment_platform,liepin,https://www.liepin.com/company/13948001/,recruitment,organization,零一万物 01.AI,2026-10-31,confirmed,s05
+operating_organization,abb-china,ABB（中国）上海,ch-cd075906f7c9ee14,official,website,https://www.abb.com/,general,organization,ABB,2026-11-02,partial,s02
+operating_organization,abb-china,ABB（中国）上海,ch-dde7e83f16f284e5,official,careers,https://www.abb.com/careers,recruitment,organization,ABB,2026-11-02,partial,s03
+operating_organization,abb-china,ABB（中国）上海,ch-d7a6667e30996440,recruitment_platform,liepin,https://www.liepin.com/company/gs25867560/,recruitment,organization,ABB(中国)有限公司上海分公司,2026-11-02,partial,s04
+operating_organization,abb-china,ABB（中国）上海,ch-50b7a0c67407b394,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/a5cacae589456b6b33Z72dm-Fg~~.html,recruitment,organization,ABB(中国)有限公司,2026-11-02,partial,s05
+operating_organization,acm-research,盛美半导体,ch-b1e70f97b4a2478c,official,website,https://www.acmrcsh.com,general,organization,盛美半导体,2026-11-02,confirmed,s02
+operating_organization,acm-research,盛美半导体,ch-4ff6a38668deb9d9,recruitment_platform,liepin,https://www.liepin.com/company/12182817/,recruitment,organization,盛美半导体设备(上海)股份有限公司,2026-11-02,confirmed,s03
+operating_organization,acm-research,盛美半导体,ch-86ad86225908619d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c8a45e3e7b1960221nFz2Ny0GFA~.html,recruitment,organization,盛美半导体设备（上海）股份有限公司,2026-11-02,confirmed,s04
 operating_organization,agibot,智元机器人,ch-1ba18b5f4ed65900,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/07b072ef03f6aac71XN629m-E1M~.html,recruitment,organization,智元机器人,2026-10-31,confirmed,s04
 operating_organization,agibot,智元机器人,ch-1bda6382fcf74a02,recruitment_platform,liepin,https://www.liepin.com/company/13530971/,recruitment,organization,智元机器人,2026-10-31,confirmed,s05
+operating_organization,agora,声网 Agora,ch-92698ab5e8867593,official,website,https://www.shengwang.cn/,general,organization,声网 Agora,2026-11-02,confirmed,s02
+operating_organization,agora,声网 Agora,ch-cbf60efff1f0439b,official,careers,https://app.mokahr.com/apply/agora/6334,recruitment,organization,声网 Agora,2026-11-02,confirmed,s03
+operating_organization,agora,声网 Agora,ch-1936de113804c568,recruitment_platform,liepin,https://www.liepin.com/company/7932501/,recruitment,organization,上海兆言网络科技有限公司,2026-11-02,confirmed,s04
+operating_organization,agora,声网 Agora,ch-ffc89b2fda79120e,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/1cca46c508edea961HVy3dm5GFY~.html,recruitment,organization,声网,2026-11-02,confirmed,s05
+operating_organization,agve,苏州艾吉威机器人,ch-de12adc461f3adb6,recruitment_platform,liepin,https://www.liepin.com/company/9806813/,recruitment,organization,苏州艾吉威机器人有限公司,2026-11-02,confirmed,s02
+operating_organization,agve,苏州艾吉威机器人,ch-a2b8e3e002632672,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/874c6b1e202fddd31X1639q7Eg~~.html,recruitment,organization,苏州艾吉威机器人有限公司,2026-11-02,confirmed,s03
 operating_organization,ai-indeed,实在智能,ch-a6b4d5d778c9512b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/d6af9f5c23af35ee1Xd-0ty7Fg~~.html,recruitment,organization,实在智能,2026-10-31,confirmed,s04
 operating_organization,ai-indeed,实在智能,ch-c3c6467f8d0819b2,recruitment_platform,liepin,https://www.liepin.com/company/9629488/,recruitment,organization,实在智能,2026-10-31,confirmed,s05
+operating_organization,aispeech,思必驰,ch-14c54d432f3fb911,official,website,https://www.aispeech.com,general,organization,思必驰,2026-11-02,confirmed,s02
+operating_organization,aispeech,思必驰,ch-00119b3392c6aa6d,official,careers,https://www.aispeech.com/about/joinus,recruitment,organization,思必驰,2026-11-02,confirmed,s03
+operating_organization,aispeech,思必驰,ch-63cd593121ed6dfc,recruitment_platform,liepin,https://www.liepin.com/company/4270001/,recruitment,organization,思必驰科技股份有限公司,2026-11-02,confirmed,s04
+operating_organization,aispeech,思必驰,ch-907067b2d0ca2743,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/58e6a9f85ea7787d1nF-3ty_EFE~.html,recruitment,organization,思必驰科技股份有限公司,2026-11-02,confirmed,s05
 operating_organization,aisphere,爱诗科技 / PixVerse,ch-63a27505f72dd6c2,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/846753040df0fa341XJ83NS0FFQ~.html,recruitment,organization,爱诗科技 / PixVerse,2026-10-31,confirmed,s03
 operating_organization,aisphere,爱诗科技 / PixVerse,ch-a3b28ee458abce5f,recruitment_platform,liepin,https://www.liepin.com/company/13967181/,recruitment,organization,爱诗科技 / PixVerse,2026-10-31,confirmed,s04
 operating_organization,aixcoder,硅心科技 / aiXcoder,ch-3665af10a964bd9b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b297b80edb5510881nd439i6Eg~~.html,recruitment,organization,硅心科技 / aiXcoder,2026-10-31,confirmed,s06
 operating_organization,aixcoder,硅心科技 / aiXcoder,ch-2f2ae5b0b74d50cd,recruitment_platform,liepin,https://www.liepin.com/company/9604580/,recruitment,organization,硅心科技 / aiXcoder,2026-10-31,confirmed,s07
+operating_organization,alibaba,阿里巴巴集团 Alibaba,ch-036b0e09fb751461,official,website,https://www.alibabagroup.com/,general,organization,阿里巴巴集团 Alibaba,2026-11-02,confirmed,s01
+operating_organization,alibaba,阿里巴巴集团 Alibaba,ch-072dc89d376dd43e,official,careers,https://talent.alibaba.com/,recruitment,organization,阿里巴巴集团 Alibaba,2026-11-02,confirmed,s02
+operating_organization,alibaba,阿里巴巴集团 Alibaba,ch-ad3f6a9232d2dcad,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html,recruitment,organization,阿里巴巴集团 Alibaba,2026-11-02,confirmed,s04
+operating_organization,alibaba,阿里巴巴集团 Alibaba,ch-1ff6c7b3553b9298,recruitment_platform,liepin,https://www.liepin.com/company/1072424/,recruitment,organization,阿里巴巴集团,2026-11-02,confirmed,s05
+operating_organization,alibaba-shanghai,阿里巴巴（上海）,ch-4de6db1d8890678e,official,website,https://www.alibabagroup.com/,general,organization,阿里巴巴集团,2026-11-02,partial,s02
+operating_organization,alibaba-shanghai,阿里巴巴（上海）,ch-8eb0dea643dc07d9,official,careers,https://www.alibabagroup.com/careers,recruitment,organization,阿里巴巴集团,2026-11-02,partial,s03
+operating_organization,alibaba-shanghai,阿里巴巴（上海）,ch-10de2a1cf8f33c5a,recruitment_platform,liepin,https://www.liepin.com/company/1072424/,recruitment,organization,阿里巴巴(中国)有限公司,2026-11-02,partial,s04
+operating_organization,alibaba-shanghai,阿里巴巴（上海）,ch-aadd6bff6734076c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html,recruitment,organization,阿里巴巴(中国)有限公司,2026-11-02,partial,s05
+operating_organization,amec,中微公司,ch-0969c1b4d136e138,official,website,https://www.amec-inc.com/,general,organization,中微公司,2026-11-02,confirmed,s02
+operating_organization,amec,中微公司,ch-a709b181197f385c,official,careers,https://app.mokahr.com/apply/amec/28371,recruitment,organization,中微公司,2026-11-02,confirmed,s03
+operating_organization,amec,中微公司,ch-90aa129d2b70faa1,recruitment_platform,liepin,https://www.liepin.com/company/8353297/,recruitment,organization,中微半导体设备(上海)股份有限公司,2026-11-02,confirmed,s04
+operating_organization,amec,中微公司,ch-78b23660607869a1,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/cf776faeb179fcfe03Nz2924GFY~.html,recruitment,organization,中微公司,2026-11-02,confirmed,s05
+operating_organization,amlogic,晶晨股份,ch-b9852e0bf3793be9,official,website,https://www.amlogic.cn/,general,organization,晶晨股份,2026-11-02,confirmed,s02
+operating_organization,amlogic,晶晨股份,ch-464604c74d29f824,recruitment_platform,liepin,https://www.liepin.com/company/8607877/,recruitment,organization,晶晨半导体(上海)股份有限公司,2026-11-02,confirmed,s03
+operating_organization,amlogic,晶晨股份,ch-7923b6115c80f1d5,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/eb39a413542d9e361XN43tS8E1M~.html,recruitment,organization,晶晨半导体(上海)股份有限公司,2026-11-02,confirmed,s04
+operating_organization,ant-group,蚂蚁集团 Ant Group,ch-0c235aa84c387cbc,official,website,https://www.antgroup.com/,general,organization,蚂蚁集团 Ant Group,2026-11-02,confirmed,s01
+operating_organization,ant-group,蚂蚁集团 Ant Group,ch-8856b7160506e231,official,careers,https://talent.antgroup.com/,recruitment,organization,蚂蚁集团 Ant Group,2026-11-02,confirmed,s02
+operating_organization,ant-group,蚂蚁集团 Ant Group,ch-e5b6a49723f97fc1,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5215e53b5f7afc081Xx60tS_E1o~.html,recruitment,organization,蚂蚁集团 Ant Group,2026-11-02,confirmed,s04
+operating_organization,ant-group,蚂蚁集团 Ant Group,ch-2c96cfe9b50ab73c,recruitment_platform,liepin,https://www.liepin.com/company/8968236/,recruitment,organization,蚂蚁集团,2026-11-02,confirmed,s05
 operating_organization,approaching-ai,趋境科技 Approaching.AI,ch-de5c559ba5756b0e,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/4f0a4238ff013fd71HF62dW9E1I~.html,recruitment,organization,趋境科技 Approaching.AI,2026-10-31,confirmed,s05
 operating_organization,approaching-ai,趋境科技 Approaching.AI,ch-37a5e698a19bc530,recruitment_platform,liepin,https://www.liepin.com/company/13900641/,recruitment,organization,趋境科技 Approaching.AI,2026-10-31,confirmed,s06
+operating_organization,asr-microelectronics,翱捷科技,ch-1398d08a1ba91fb4,official,website,https://www.asrmicro.com,general,organization,翱捷科技,2026-11-02,confirmed,s02
+operating_organization,asr-microelectronics,翱捷科技,ch-418b9d57e2b444c4,recruitment_platform,liepin,https://www.liepin.com/company/9104301/,recruitment,organization,翱捷科技股份有限公司,2026-11-02,confirmed,s03
+operating_organization,asr-microelectronics,翱捷科技,ch-b0156466617fd2ac,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5f76892c56861aac1n1909-7FlI~.html,recruitment,organization,翱捷科技股份有限公司,2026-11-02,confirmed,s04
 operating_organization,baichuan,百川智能 Baichuan,ch-cc5439899fdf55c9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/8d42a94fe13be56c03N43t-7GVU~.html,recruitment,organization,百川智能 Baichuan,2026-10-31,confirmed,s05
+operating_organization,baidu,百度 Baidu,ch-2c8bbb692583cb3e,official,website,https://home.baidu.com/,general,organization,百度 Baidu,2026-11-02,confirmed,s01
+operating_organization,baidu,百度 Baidu,ch-334b214694005b89,official,careers,https://talent.baidu.com/,recruitment,organization,百度 Baidu,2026-11-02,confirmed,s02
+operating_organization,baidu,百度 Baidu,ch-73ffad72578c6edb,recruitment_platform,liepin,https://www.liepin.com/company/884492/,recruitment,organization,Baidu,2026-11-02,confirmed,s04
+operating_organization,baidu-shanghai,百度（上海）,ch-b8b90835f7f72652,official,website,https://www.baidu.com/,general,organization,百度,2026-11-02,partial,s02
+operating_organization,baidu-shanghai,百度（上海）,ch-f1f06566943862dc,official,careers,https://talent.baidu.com/,recruitment,organization,百度,2026-11-02,partial,s03
+operating_organization,baidu-shanghai,百度（上海）,ch-1c53417a2463d879,recruitment_platform,liepin,https://www.liepin.com/company/884492/,recruitment,organization,百度在线网络技术(北京)有限公司,2026-11-02,partial,s04
+operating_organization,baidu-shanghai,百度（上海）,ch-23ade56641d61349,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ab9fdc6f043679990HY~.html,recruitment,organization,百度,2026-11-02,partial,s05
+operating_organization,baosight,宝信软件,ch-c2b1d61faf08703a,official,website,https://www.baosight.com/,general,organization,宝信软件,2026-11-02,confirmed,s02
+operating_organization,baosight,宝信软件,ch-6ce9ac9591b7f304,recruitment_platform,liepin,https://www.liepin.com/company/182942/,recruitment,organization,上海宝信软件股份有限公司,2026-11-02,confirmed,s03
+operating_organization,baosight,宝信软件,ch-4fba9b70d9d843b3,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/06e7cea657de47da03d43d-7Fg~~.html,recruitment,organization,上海宝信软件股份有限公司,2026-11-02,confirmed,s04
+operating_organization,bestechnic,恒玄科技,ch-393773572af2b822,official,website,https://www.bestechnic.com/,general,organization,恒玄科技,2026-11-02,confirmed,s02
+operating_organization,bestechnic,恒玄科技,ch-49c932fe8a4d0fe6,official,careers,https://bestechnic.zhiye.com/,recruitment,organization,恒玄科技,2026-11-02,confirmed,s03
+operating_organization,bestechnic,恒玄科技,ch-770c7f0f7613dd20,recruitment_platform,liepin,https://www.liepin.com/company/8632785/,recruitment,organization,恒玄科技(上海)股份有限公司,2026-11-02,confirmed,s04
+operating_organization,bestechnic,恒玄科技,ch-efe26ab3fabdd39c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/973dc257096386bd0Hx-2dy0.html,recruitment,organization,恒玄科技,2026-11-02,confirmed,s05
+operating_organization,bilibili,哔哩哔哩,ch-a74b1841d7f25b68,official,website,https://www.bilibili.com/,general,organization,哔哩哔哩,2026-11-02,confirmed,s02
+operating_organization,bilibili,哔哩哔哩,ch-41991d02e6ba97bd,official,careers,https://jobs.bilibili.com/,recruitment,organization,哔哩哔哩,2026-11-02,confirmed,s03
+operating_organization,bilibili,哔哩哔哩,ch-a5efd9f59d4909fe,recruitment_platform,liepin,https://www.liepin.com/company/9736931/,recruitment,organization,上海哔哩哔哩科技有限公司,2026-11-02,confirmed,s04
+operating_organization,bilibili,哔哩哔哩,ch-4bb2003363a3e902,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5bfc56c0e972e7c41Xx-3A~~.html,recruitment,organization,哔哩哔哩,2026-11-02,confirmed,s05
 operating_organization,biomap,百图生科 BioMap,ch-898ce28fa0b91eae,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/227a8969b14846fc1nd43t60E1o~.html,recruitment,organization,百图生科 BioMap,2026-10-31,confirmed,s04
 operating_organization,biomap,百图生科 BioMap,ch-2de4af1ad2b67fea,recruitment_platform,liepin,https://www.liepin.com/company/12415567/,recruitment,organization,百图生科 BioMap,2026-10-31,confirmed,s05
 operating_organization,biren,壁仞科技 Biren,ch-17b5f4c76b2ae56f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/6851c83c2b8060271nVy2du_Flc~.html,recruitment,organization,壁仞科技 Biren,2026-10-31,confirmed,s03
 operating_organization,biren,壁仞科技 Biren,ch-7f8c06c4f4e05ab6,recruitment_platform,liepin,https://www.liepin.com/company/12156121/,recruitment,organization,壁仞科技 Biren,2026-10-31,confirmed,s04
+operating_organization,blacklake,黑湖科技,ch-1d4089f67addc11b,official,website,https://www.blacklake.cn/,general,organization,黑湖科技,2026-11-02,confirmed,s02
+operating_organization,blacklake,黑湖科技,ch-d5cde41a9d778b7a,official,careers,https://job.blacklake.cn/,recruitment,organization,黑湖科技,2026-11-02,confirmed,s03
+operating_organization,blacklake,黑湖科技,ch-9461b7d360261eb3,recruitment_platform,liepin,https://www.liepin.com/company/9409922/,recruitment,organization,上海黑湖网络科技有限公司,2026-11-02,confirmed,s04
+operating_organization,blacklake,黑湖科技,ch-452c1835d8c65d4f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5d86be45f29507461HZy3t67.html,recruitment,organization,黑湖科技,2026-11-02,confirmed,s05
+operating_organization,bosch,博世（中国）苏州,ch-4cfe3c6b17529e0b,official,website,https://www.bosch.com.cn,general,organization,博世中国,2026-11-02,partial,s02
+operating_organization,bosch,博世（中国）苏州,ch-ba6ccd031a7c8999,recruitment_platform,liepin,https://www.liepin.com/company/8179352/,recruitment,organization,博世中国,2026-11-02,partial,s03
+operating_organization,bosch,博世（中国）苏州,ch-00812517053c9a84,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/a9bc7853a78f0ea31nJy3t60EA~~.html,recruitment,organization,博世汽车部件（苏州）有限公司,2026-11-02,partial,s04
+operating_organization,bozhong,苏州博众精工,ch-f598b5373440c7d5,recruitment_platform,liepin,https://www.liepin.com/company/9793213/,recruitment,organization,博众精工,2026-11-02,confirmed,s02
+operating_organization,bozhong,苏州博众精工,ch-c3a146af186a622d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/8ebcd2ab59df0c691HZ_3Nm9GVE~.html,recruitment,organization,博众精工科技股份有限公司,2026-11-02,confirmed,s03
+operating_organization,bytedance,字节跳动 ByteDance,ch-5b366c2710e7b096,official,website,https://www.bytedance.com/,general,organization,字节跳动 ByteDance,2026-11-02,confirmed,s01
+operating_organization,bytedance,字节跳动 ByteDance,ch-c906fdd8f78a47d5,official,careers,https://jobs.bytedance.com/,recruitment,organization,字节跳动 ByteDance,2026-11-02,confirmed,s02
+operating_organization,bytedance,字节跳动 ByteDance,ch-c5d454825a88075d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html,recruitment,organization,字节跳动,2026-11-02,confirmed,s04
+operating_organization,bytedance,字节跳动 ByteDance,ch-3cd64baf61d63409,recruitment_platform,liepin,https://www.liepin.com/company/7863078/,recruitment,organization,字节跳动,2026-11-02,confirmed,s05
+operating_organization,bytedance-shanghai,字节跳动（上海）,ch-d4fa7e3f2a6bb7da,official,website,https://www.bytedance.com/,general,organization,字节跳动,2026-11-02,partial,s02
+operating_organization,bytedance-shanghai,字节跳动（上海）,ch-0af8b7771d3f8de9,official,careers,https://jobs.bytedance.com/,recruitment,organization,字节跳动,2026-11-02,partial,s03
+operating_organization,bytedance-shanghai,字节跳动（上海）,ch-6f641a0475797285,recruitment_platform,liepin,https://www.liepin.com/company/7863078/,recruitment,organization,北京今日头条科技有限公司,2026-11-02,partial,s04
+operating_organization,bytedance-shanghai,字节跳动（上海）,ch-9cc274d0efdcb7e0,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html,recruitment,organization,字节跳动,2026-11-02,partial,s05
 operating_organization,caiyun,彩云科技,ch-600b444d1550ec8c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ee270ba65ab755ca03Zz2dm7Fg~~.html,recruitment,organization,彩云科技,2026-10-31,confirmed,s04
 operating_organization,caiyun,彩云科技,ch-96943d49c60db8ca,recruitment_platform,liepin,https://www.liepin.com/company/9497504/,recruitment,organization,彩云科技,2026-10-31,confirmed,s05
+operating_organization,cas-brain-inspired-computing,苏州中科类脑,ch-83246ee9cb3c28c6,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/39a2d715dbec5d671XZ-3tS0GQ~~.html,recruitment,organization,合肥中科类脑智能技术有限公司,2026-11-02,partial,s02
+operating_organization,china-wafer-level-csp,苏州晶方半导体,ch-5bd62d8ae25bdbd7,recruitment_platform,liepin,https://www.liepin.com/company/9851617/,recruitment,organization,晶方科技,2026-11-02,confirmed,s02
+operating_organization,cloudwalk-suzhou,云从科技（苏州）,ch-09d304ef31796937,official,website,https://www.cloudwalk.com,general,organization,云从科技,2026-11-02,partial,s02
+operating_organization,cloudwalk-suzhou,云从科技（苏州）,ch-21cbb912593030ca,recruitment_platform,liepin,https://www.liepin.com/company/9144450/,recruitment,organization,云从科技,2026-11-02,partial,s03
+operating_organization,cloudwalk-suzhou,云从科技（苏州）,ch-af03b963845cc0ff,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/6cb230c06036b9a20XVy09q0FA~~.html,recruitment,organization,江苏云从曦和人工智能有限公司,2026-11-02,partial,s04
 operating_organization,creativefitting,井英科技 / CreativeFitting,ch-5b22e2288bd7a8b2,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/88fc98c02751f6c51nN739m6E1M~.html,recruitment,organization,井英科技 / CreativeFitting,2026-10-31,confirmed,s04
+operating_organization,ctrip,携程集团,ch-b4a254b6f3a06940,official,website,https://www.trip.com/,general,organization,携程集团,2026-11-02,confirmed,s02
+operating_organization,ctrip,携程集团,ch-fd1fddfd18b2753c,official,careers,https://careers.trip.com/,recruitment,organization,携程集团,2026-11-02,confirmed,s03
+operating_organization,ctrip,携程集团,ch-a07b77153162bc0d,recruitment_platform,liepin,https://www.liepin.com/company/182339/,recruitment,organization,携程计算机技术(上海)有限公司,2026-11-02,confirmed,s04
+operating_organization,ctrip,携程集团,ch-e166898fe8cd18c6,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ef2ede3e92bf51f91nV72966ElM~.html,recruitment,organization,携程集团,2026-11-02,confirmed,s05
 operating_organization,cyclone,弘玑 Cyclone,ch-563c13050a75949a,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/025511600cbce33b03Ry2NW4Fg~~.html,recruitment,organization,弘玑 Cyclone,2026-10-31,confirmed,s05
 operating_organization,cyclone,弘玑 Cyclone,ch-fd70083f51bebd42,recruitment_platform,liepin,https://www.liepin.com/company/10040025/,recruitment,organization,弘玑 Cyclone,2026-10-31,confirmed,s06
 operating_organization,datacanvas,九章云极 DataCanvas,ch-cb1da1b5dee2b70b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/34b673b79b565e071nJ_2ty_.html,recruitment,organization,九章云极 DataCanvas,2026-10-31,confirmed,s04
 operating_organization,datacanvas,九章云极 DataCanvas,ch-a241495dab89f8bb,recruitment_platform,liepin,https://www.liepin.com/company/5072181/,recruitment,organization,九章云极 DataCanvas,2026-10-31,confirmed,s05
 operating_organization,deemos,影眸科技 / Deemos / Hyper3D,ch-68035957b40a3a8e,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c2648e580dbca8e51XV929q5GFY~.html,recruitment,organization,影眸科技 / Deemos / Hyper3D,2026-10-31,confirmed,s04
+operating_organization,deepblue,深兰科技,ch-2233df29ddf53382,official,website,https://www.deepblueai.com/,general,organization,深兰科技,2026-11-02,confirmed,s02
+operating_organization,deepblue,深兰科技,ch-fa6f324a9221954c,recruitment_platform,liepin,https://www.liepin.com/company/9496603/,recruitment,organization,深兰人工智能科技(上海)股份有限公司,2026-11-02,confirmed,s03
+operating_organization,deepblue,深兰科技,ch-308ba06713af8326,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/94a237f837ad41040nJ92tS5.html,recruitment,organization,深兰科技,2026-11-02,confirmed,s04
 operating_organization,deepdraw,深绘智能 / Deepdraw,ch-073270e8b8b86044,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c748e2cd9a3c964703d839s~.html,recruitment,organization,深绘智能 / Deepdraw,2026-10-31,confirmed,s03
 operating_organization,deepdraw,深绘智能 / Deepdraw,ch-34552a83cf4fe871,recruitment_platform,liepin,https://www.liepin.com/company/8585060/,recruitment,organization,深绘智能 / Deepdraw,2026-10-31,confirmed,s04
 operating_organization,deepexi,滴普科技 / Deepexi,ch-99f3b9bcb2994190,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/cac78b09c82e4f6d0nJ539W0FA~~.html,recruitment,organization,滴普科技 / Deepexi,2026-10-31,confirmed,s05
 operating_organization,deepexi,滴普科技 / Deepexi,ch-7c7ff798d2862b8a,recruitment_platform,liepin,https://www.liepin.com/company/21242291/,recruitment,organization,滴普科技 / Deepexi,2026-10-31,confirmed,s06
+operating_organization,deepglint-suzhou,格灵深瞳（苏州）,ch-264ac920c0276407,recruitment_platform,liepin,https://www.liepin.com/company/8026723/,recruitment,organization,格灵深瞳,2026-11-02,partial,s02
+operating_organization,deepglint-suzhou,格灵深瞳（苏州）,ch-90119c1664c0b4df,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/e133cb4e607d0b7b1nd83N25FFI~.html,recruitment,organization,北京格灵深瞳信息技术股份有限公司,2026-11-02,partial,s03
 operating_organization,deepseek,深度求索 DeepSeek,ch-4480bb8e73eb98a5,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ffd531b0cbd4133f1XN92Nm0EFU~.html,recruitment,organization,深度求索 DeepSeek,2026-10-31,confirmed,s06
 operating_organization,deepseek,深度求索 DeepSeek,ch-acd6a6cea0912f8a,recruitment_platform,liepin,https://www.liepin.com/company/21147967/,recruitment,organization,深度求索 DeepSeek,2026-10-31,confirmed,s07
+operating_organization,didi,滴滴 DiDi,ch-76339df3df9cbd90,official,website,https://www.didiglobal.com/,general,organization,滴滴 DiDi,2026-11-02,confirmed,s01
+operating_organization,didi,滴滴 DiDi,ch-28e9cbd46a4a57ca,official,careers,https://talent.didiglobal.com/,recruitment,organization,滴滴 DiDi,2026-11-02,confirmed,s02
+operating_organization,didi,滴滴 DiDi,ch-fd530d09eff1995d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/8548fadc0b5c265403V93t61EQ~~.html,recruitment,organization,滴滴 DiDi,2026-11-02,confirmed,s04
+operating_organization,didi,滴滴 DiDi,ch-cc751140064b643f,recruitment_platform,liepin,https://www.liepin.com/company/8076624/,recruitment,organization,滴滴,2026-11-02,confirmed,s05
 operating_organization,dify,Dify / LangGenius,ch-11d9c7cd5008b544,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/0add7ea9160d6a401XN_2Nq5GFU~.html,recruitment,organization,Dify / LangGenius,2026-10-31,confirmed,s04
 operating_organization,dp-technology,深势科技,ch-8529228fc72203d6,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ba52f78a29ea7d5103J909S8F1Q~.html,recruitment,organization,深势科技,2026-10-31,confirmed,s05
 operating_organization,dp-technology,深势科技,ch-5ad67d6833e1cf3e,recruitment_platform,liepin,https://www.liepin.com/company/12376395/,recruitment,organization,深势科技,2026-10-31,confirmed,s06
+operating_organization,ecarx-holdings,亿咖通科技,ch-f5d9a55fe6abb8d3,recruitment_platform,liepin,https://www.liepin.com/company/9111318/,recruitment,organization,浙江亿咖通科技有限公司,2026-11-02,confirmed,s02
+operating_organization,ecarx-holdings,亿咖通科技,ch-e5d32ef5516698b2,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ab246e19a0a354f81XRz09y9EFI~.html,recruitment,organization,亿咖通（湖北）技术有限公司,2026-11-02,confirmed,s03
+operating_organization,elite-robots,苏州艾利特机器人,ch-6df3550d5f13da21,recruitment_platform,liepin,https://www.liepin.com/company/9751741/,recruitment,organization,艾利特机器人,2026-11-02,confirmed,s02
+operating_organization,elite-robots,苏州艾利特机器人,ch-e46ed1b98800c8af,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c4f6c7b9b99ce2a503By2du5GVc~.html,recruitment,organization,艾利特机器人,2026-11-02,confirmed,s03
+operating_organization,elite-robots,苏州艾利特机器人,ch-11ced1f6cdb14fa8,official,website,https://www.elibot.com/,general,organization,苏州艾利特机器人,2026-11-03,confirmed,s06
+operating_organization,elite-robots,苏州艾利特机器人,ch-75b5117e6f492c90,official,careers,https://www.elibot.com/about/join,recruitment,organization,苏州艾利特机器人,2026-11-03,confirmed,s07
 operating_organization,enflame,燧原科技 Enflame,ch-6bf4837704f259bd,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/4810d76a541af10b1HZ73Nq-Flc~.html,recruitment,organization,燧原科技 Enflame,2026-10-31,confirmed,s05
 operating_organization,enflame,燧原科技 Enflame,ch-cdb8e36f2d55fe10,recruitment_platform,liepin,https://www.liepin.com/company/9609962/,recruitment,organization,燧原科技 Enflame,2026-10-31,confirmed,s06
+operating_organization,flexiv,非夕科技,ch-29dd767b17ef519b,official,website,https://www.flexiv.com,general,organization,非夕科技,2026-11-02,confirmed,s02
+operating_organization,flexiv,非夕科技,ch-2b5b09221aeee9c8,recruitment_platform,liepin,https://www.liepin.com/company/9416705/,recruitment,organization,上海非夕机器人科技有限公司,2026-11-02,confirmed,s03
+operating_organization,flexiv,非夕科技,ch-830568cbd73236b2,official,careers,https://www.flexiv.cn/join,recruitment,organization,非夕科技,2026-11-02,confirmed,s04
+operating_organization,flexiv,非夕科技,ch-662c6b6c8e8e816d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/03872f27297614c01nd939S1FQ~~.html,recruitment,organization,上海非夕机器人科技有限公司,2026-11-02,confirmed,s05
 operating_organization,fourier,傅利叶,ch-275bcb9b9c51aa4d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/d26254c33e8b964d03R_2965Fg~~.html,recruitment,organization,傅利叶,2026-10-31,confirmed,s05
 operating_organization,fourier,傅利叶,ch-723d2cd7087edbdf,recruitment_platform,liepin,https://www.liepin.com/company/9311236/,recruitment,organization,傅利叶,2026-10-31,confirmed,s06
 operating_organization,galaxea,星海图,ch-4359ba594bec743a,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/da0d0fc9657d8f8503J82tu4F1A~.html,recruitment,organization,星海图,2026-10-31,confirmed,s06
 operating_organization,galaxea,星海图,ch-34b9c10192c68838,recruitment_platform,liepin,https://www.liepin.com/company/13784555/,recruitment,organization,星海图,2026-10-31,confirmed,s07
+operating_organization,galaxycore,格科微,ch-72c23bc9e3137224,official,website,https://www.gcoreinc.com/,general,organization,格科微,2026-11-02,confirmed,s02
+operating_organization,galaxycore,格科微,ch-259f1ffd814c6e3a,recruitment_platform,liepin,https://www.liepin.com/company/7883923/,recruitment,organization,格科微电子(上海)有限公司,2026-11-02,confirmed,s03
+operating_organization,galaxycore,格科微,ch-000c00452b2fe7c9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/0dfad9eb545634e11nd72d60Fg~~.html,recruitment,organization,格科微,2026-11-02,confirmed,s04
 operating_organization,galbot,银河通用,ch-2281ef998ed598a5,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/274adc549f8801231Xxy2Nq4GVY~.html,recruitment,organization,银河通用,2026-10-31,confirmed,s05
 operating_organization,galbot,银河通用,ch-10cac6712dfd800f,recruitment_platform,liepin,https://www.liepin.com/company/13921475/,recruitment,organization,银河通用,2026-10-31,confirmed,s06
 operating_organization,gaoding,稿定科技 / 稿定设计,ch-2b578da2f9a650bd,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/7f1a5bdc1c58bddd1XZ429-_GQ~~.html,recruitment,organization,稿定科技 / 稿定设计,2026-10-31,confirmed,s04
 operating_organization,gaoding,稿定科技 / 稿定设计,ch-08e4c9c0300f607f,recruitment_platform,liepin,https://www.liepin.com/company/9641589/,recruitment,organization,稿定科技 / 稿定设计,2026-10-31,confirmed,s05
+operating_organization,gaussian-robotics,高仙机器人,ch-bfde930ddf623be8,official,website,https://www.gs-robot.com/,general,organization,高仙机器人,2026-11-02,confirmed,s02
+operating_organization,gaussian-robotics,高仙机器人,ch-7e6bc6a00149bb36,recruitment_platform,liepin,https://www.liepin.com/company/gs93533663/,recruitment,organization,苏州高仙机器人科技有限公司,2026-11-02,confirmed,s03
+operating_organization,gaussian-robotics,高仙机器人,ch-ebc1bd98920a9206,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/d268a36feef47b601Hx40966GFQ~.html,recruitment,organization,高仙机器人,2026-11-02,confirmed,s04
+operating_organization,gaussian-robotics,高仙机器人,ch-05153b415a427b74,official,careers,https://www.gs-robot.com/careers/,recruitment,organization,高仙机器人,2026-11-03,confirmed,s08
+operating_organization,gcl-energy,协鑫能科,ch-bc2fbebb25eda9c7,official,website,https://www.gcl-et.com,general,organization,协鑫能科,2026-11-02,confirmed,s02
+operating_organization,gcl-energy,协鑫能科,ch-1181d0947dcccd4b,recruitment_platform,liepin,https://www.liepin.com/company/12269593/,recruitment,organization,协鑫能源科技股份有限公司,2026-11-02,confirmed,s03
+operating_organization,gcl-energy,协鑫能科,ch-b8dad2e07790ac0f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/de58008d08b730941n1929i1Els~.html,recruitment,organization,协鑫能源科技股份有限公司,2026-11-02,confirmed,s04
+operating_organization,good-ark-semiconductor,苏州固锝电子,ch-0557e6923ebcc3a2,recruitment_platform,liepin,https://www.liepin.com/company/9811705/,recruitment,organization,苏州固锝电子股份有限公司,2026-11-02,confirmed,s02
+operating_organization,gstarsoft,苏州浩辰软件,ch-060ee0514125bbcc,recruitment_platform,liepin,https://www.liepin.com/company/7965554/,recruitment,organization,浩辰软件,2026-11-02,confirmed,s02
+operating_organization,gstarsoft,苏州浩辰软件,ch-a794366f4b187122,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/1dab676601967f7c1XV-2t28GA~~.html,recruitment,organization,浩辰软件,2026-11-02,confirmed,s03
 operating_organization,guiji,硅基智能（南京）,ch-f1bd0803f692cb31,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/e23cbde28317a54303R40tS0ElE~.html,recruitment,organization,硅基智能（南京）,2026-10-31,confirmed,s04
 operating_organization,guiji,硅基智能（南京）,ch-4c8d6b37c352c0c2,recruitment_platform,liepin,https://www.liepin.com/company/9410150/,recruitment,organization,硅基智能（南京）,2026-10-31,confirmed,s05
 operating_organization,haivivi,跃然创新 Haivivi,ch-3a72f489a7044f38,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/8bb3ae416db67d351nx93t-6F1o~.html,recruitment,organization,跃然创新 Haivivi,2026-10-31,confirmed,s05
 operating_organization,haivivi,跃然创新 Haivivi,ch-9961c6da8b16e3d1,recruitment_platform,liepin,https://www.liepin.com/company/21354707/,recruitment,organization,跃然创新 Haivivi,2026-10-31,confirmed,s06
+operating_organization,hesai,禾赛科技,ch-c5b0f8468a604a9a,recruitment_platform,liepin,https://www.liepin.com/company/8399607/,recruitment,organization,上海禾赛科技有限公司,2026-11-02,confirmed,s02
+operating_organization,hesai,禾赛科技,ch-0543cbd11665e117,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/065fb86d5d93aefb1nJ-3d27GFE~.html,recruitment,organization,上海禾赛科技有限公司,2026-11-02,confirmed,s03
+operating_organization,hexagon-manufacturing-intelligence,苏州海克斯康,ch-88c341934a6b48c5,recruitment_platform,liepin,https://www.liepin.com/company/8031463/,recruitment,organization,海克斯康,2026-11-02,partial,s02
+operating_organization,hexagon-manufacturing-intelligence,苏州海克斯康,ch-94f9b2108a856da0,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/defdb1e7090b101c1HZy3Nm0GFU~.html,recruitment,organization,海克斯康制造智能技术（青岛）有限公司,2026-11-02,partial,s03
+operating_organization,hikrobot,海康机器人（苏州）,ch-dab0aaaa54bd961f,official,website,https://www.hikrobotics.com,general,organization,海康机器人,2026-11-02,partial,s02
+operating_organization,hikrobot,海康机器人（苏州）,ch-e9767d8e2e64d761,recruitment_platform,liepin,https://www.liepin.com/company/9851123/,recruitment,organization,杭州海康机器人股份有限公司,2026-11-02,partial,s03
+operating_organization,hikrobot,海康机器人（苏州）,ch-f392b9202d1848dc,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/783eef2c5e13ec441XFz3t6_FQ~~.html,recruitment,organization,杭州海康机器人股份有限公司,2026-11-02,partial,s04
+operating_organization,hua-hong-semiconductor,华虹半导体,ch-d263dc24ce934d7b,official,website,https://www.huahonggrace.com/s/index.php,general,organization,华虹半导体,2026-11-02,confirmed,s02
+operating_organization,hua-hong-semiconductor,华虹半导体,ch-c3b8f226e00e5fed,official,careers,https://www.huahonggrace.com/s/career_recruitment.php,recruitment,organization,华虹半导体,2026-11-02,confirmed,s03
+operating_organization,hua-hong-semiconductor,华虹半导体,ch-016d2e255d57bce7,recruitment_platform,liepin,https://www.liepin.com/company/gs133577005/,recruitment,organization,华虹半导体有限公司,2026-11-02,confirmed,s04
+operating_organization,hua-hong-semiconductor,华虹半导体,ch-0ad8291c467860f2,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/dcd998755e3305bc1Hx92tW-Eg~~.html,recruitment,organization,华虹,2026-11-02,confirmed,s05
+operating_organization,huaheng-welding,昆山华恒焊接,ch-736a174966a7b44c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/777c6c96160046831n180964GA~~.html,recruitment,organization,昆山华恒焊接股份有限公司,2026-11-02,confirmed,s02
+operating_organization,huana,汇纳科技,ch-aa9ce9e589b73313,recruitment_platform,liepin,https://www.liepin.com/company/7875821/,recruitment,organization,汇纳科技,2026-11-02,confirmed,s02
+operating_organization,huana,汇纳科技,ch-9977a0a649b32265,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/410d5e6ed40124f80XV72w~~.html,recruitment,organization,汇纳科技,2026-11-02,confirmed,s03
+operating_organization,huawei,华为 Huawei,ch-8ac33f4448b6cb20,official,website,https://www.huawei.com/,general,organization,华为 Huawei,2026-11-02,confirmed,s01
+operating_organization,huawei,华为 Huawei,ch-3b6e021d92366d46,official,careers,https://career.huawei.com/,recruitment,organization,华为 Huawei,2026-11-02,confirmed,s02
+operating_organization,huawei,华为 Huawei,ch-b5e767ce0de60109,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/21124e51a5ea83a80nR80ti8.html,recruitment,organization,华为 Huawei,2026-11-02,confirmed,s04
+operating_organization,huawei,华为 Huawei,ch-64a702a58c14dcc0,recruitment_platform,liepin,https://www.liepin.com/company/954482/,recruitment,organization,华为,2026-11-02,confirmed,s05
+operating_organization,huawei-suzhou-research-institute,华为（苏州研究院）,ch-b5a826df0f215528,official,website,https://www.huawei.com/cn,general,organization,华为,2026-11-02,partial,s02
+operating_organization,huawei-suzhou-research-institute,华为（苏州研究院）,ch-36528153f5cd9ccf,recruitment_platform,liepin,https://www.liepin.com/company/12211625/,recruitment,organization,华为,2026-11-02,partial,s03
+operating_organization,huawei-suzhou-research-institute,华为（苏州研究院）,ch-678039415ad2f29f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/45a17ba7c953f1321XRz3tq1EVY~.html,recruitment,organization,苏州华为技术研发有限公司,2026-11-02,partial,s04
+operating_organization,hyc,苏州华兴源创,ch-6bcf01c81a333a22,recruitment_platform,liepin,https://www.liepin.com/company/7996092/,recruitment,organization,华兴源创,2026-11-02,confirmed,s02
+operating_organization,hyc,苏州华兴源创,ch-a8d62a55c83df7ba,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/83df002b468697d31nB82Nq9GQ~~.html,recruitment,organization,华兴源创科技股份有限公司,2026-11-02,confirmed,s03
 operating_organization,hypershell,极壳科技 Hypershell,ch-ab3d291e644be17f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/080d7abb4ba64b261XRy2d-5FlY~.html,recruitment,organization,极壳科技 Hypershell,2026-10-31,confirmed,s06
 operating_organization,hypershell,极壳科技 Hypershell,ch-3e36b4c899265d3e,recruitment_platform,liepin,https://www.liepin.com/company/21135601/,recruitment,organization,极壳科技 Hypershell,2026-10-31,confirmed,s07
+operating_organization,iflytek-suzhou,科大讯飞苏州研究院,ch-7b8e03cb87358532,official,website,https://www.iflytek.com,general,organization,科大讯飞,2026-11-02,partial,s02
+operating_organization,iflytek-suzhou,科大讯飞苏州研究院,ch-3e49b3e939c8d54b,recruitment_platform,liepin,https://www.liepin.com/company/4454894/,recruitment,organization,科大讯飞,2026-11-02,partial,s03
+operating_organization,iflytek-suzhou,科大讯飞苏州研究院,ch-6e1dade7125369a9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b01839ea2a062a5c1n1_3dU~.html,recruitment,organization,科大讯飞,2026-11-02,partial,s04
+operating_organization,iluvatar-corex,天数智芯,ch-0571369815bc8329,official,website,https://www.iluvatar.com/,general,organization,天数智芯,2026-11-02,confirmed,s02
+operating_organization,iluvatar-corex,天数智芯,ch-aa77f093d0fc4f55,official,careers,https://app.mokahr.com/social-recruitment/iluvatar/98705,recruitment,organization,天数智芯,2026-11-02,confirmed,s03
+operating_organization,iluvatar-corex,天数智芯,ch-a7b5f74987c8a98a,recruitment_platform,liepin,https://www.liepin.com/company/gs36025035/,recruitment,organization,深圳市天数智芯科技有限责任公司,2026-11-02,confirmed,s04
+operating_organization,iluvatar-corex,天数智芯,ch-8c618fc9bbf4ed6a,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/eca871c5822d742f1H1y3di9F1c~.html,recruitment,organization,天数智芯,2026-11-02,confirmed,s05
+operating_organization,im-motors,智己汽车,ch-5c26aaf6565de09c,official,website,https://www.immotors.com/,general,organization,智己汽车,2026-11-02,confirmed,s02
+operating_organization,im-motors,智己汽车,ch-89eee63faa93ff78,recruitment_platform,liepin,https://www.liepin.com/company/12520237/,recruitment,organization,智己汽车科技有限公司,2026-11-02,confirmed,s03
+operating_organization,im-motors,智己汽车,ch-613a061e5c3a1c06,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5f7561bbc87f23e21nd_3tS-FFc~.html,recruitment,organization,智己汽车,2026-11-02,confirmed,s04
 operating_organization,infimind,极睿科技 / Infimind,ch-23eb699242dd40c4,recruitment_platform,liepin,https://www.liepin.com/company/9960391/,recruitment,organization,极睿科技 / Infimind,2026-10-31,confirmed,s03
 operating_organization,infinigence,无问芯穹 Infinigence AI,ch-b043c7c9749db1c5,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/75e9c4e4f7940ab41XNz2dm-FVI~.html,recruitment,organization,无问芯穹 Infinigence AI,2026-10-31,confirmed,s04
 operating_organization,infinigence,无问芯穹 Infinigence AI,ch-faf2f851a16c5559,recruitment_platform,liepin,https://www.liepin.com/company/13818039/,recruitment,organization,无问芯穹 Infinigence AI,2026-10-31,confirmed,s05
+operating_organization,innolight,旭创科技,ch-19b2d0e4f3454c44,recruitment_platform,liepin,https://www.liepin.com/company/7918125/,recruitment,organization,苏州旭创科技,2026-11-02,confirmed,s02
+operating_organization,innolight,旭创科技,ch-d8b6382004ea1537,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ebcb394e3577d4b633Z_2d6_.html,recruitment,organization,苏州旭创科技有限公司,2026-11-02,confirmed,s03
+operating_organization,innovis,苏州英诺维信,ch-26050ae8f7df723c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ee12175f1fbfcccd1XR60929GQ~~.html,recruitment,organization,深圳市英诺维信自动化设备有限公司,2026-11-02,confirmed,s02
+operating_organization,innovusion,图达通,ch-b60fd41038828d27,official,website,https://www.seyond.cn/,general,organization,图达通,2026-11-02,confirmed,s02
+operating_organization,innovusion,图达通,ch-134011403da3de73,recruitment_platform,liepin,https://www.liepin.com/company/9973591/,recruitment,organization,Seyond图达通,2026-11-02,confirmed,s03
+operating_organization,innovusion,图达通,ch-b5e0fe2c78d2eeb6,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/d57c78db41a23ed3331_2Nu8GA~~.html,recruitment,organization,图达通智能科技,2026-11-02,confirmed,s04
+operating_organization,innovusion,图达通,ch-523b78f55e48c4a8,official,careers,https://www.seyond.cn/careers/,recruitment,organization,图达通,2026-11-03,confirmed,s07
+operating_organization,inovance-technology,苏州汇川技术,ch-0b33be23a1e9ba7c,official,website,https://www.inovance.com,general,organization,苏州汇川技术,2026-11-02,confirmed,s02
+operating_organization,inovance-technology,苏州汇川技术,ch-fec6a6bb28eaa5a2,recruitment_platform,liepin,https://www.liepin.com/company/1938395/,recruitment,organization,汇川技术,2026-11-02,confirmed,s03
+operating_organization,inovance-technology,苏州汇川技术,ch-aefc4f67ec948879,official,careers,https://recruit.inovance.com/,recruitment,organization,苏州汇川技术,2026-11-02,confirmed,s04
+operating_organization,inovance-technology,苏州汇川技术,ch-725166959489f9ee,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/51148f5b7a4421193nR93925FA~~.html,recruitment,organization,苏州汇川技术,2026-11-02,confirmed,s05
 operating_organization,insilico,英矽智能 Insilico Medicine,ch-8b0edbe7a182ff77,recruitment_platform,liepin,https://www.liepin.com/company/12523917/,recruitment,organization,英矽智能 Insilico Medicine,2026-10-31,confirmed,s04
+operating_organization,intellifusion-suzhou,云天励飞（苏州）,ch-36bfecc2f0003b29,recruitment_platform,liepin,https://www.liepin.com/company/8714658/,recruitment,organization,云天励飞,2026-11-02,partial,s02
+operating_organization,intellifusion-suzhou,云天励飞（苏州）,ch-de797720d31b2664,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/7abf0e922983b2650nNy29y-.html,recruitment,organization,深圳云天励飞技术股份有限公司,2026-11-02,partial,s03
 operating_organization,intsig,合合信息 / Intsig,ch-9ad49b5ce2566eee,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/e03c7ed68d03ead61XR92tS6.html,recruitment,organization,合合信息 / Intsig,2026-10-31,confirmed,s05
 operating_organization,intsig,合合信息 / Intsig,ch-641a9d3bffb4ae7b,recruitment_platform,liepin,https://www.liepin.com/company/7862267/,recruitment,organization,合合信息 / Intsig,2026-10-31,confirmed,s06
+operating_organization,inventec-kunshan,英业达（昆山）,ch-b31fbbb41656445c,official,website,https://www.inventec.com,general,organization,英业达,2026-11-02,partial,s02
+operating_organization,inventec-kunshan,英业达（昆山）,ch-74fe16cebbf2339c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/056aaf93844df7e003Z639m4.html,recruitment,organization,英业达科技有限公司,2026-11-02,partial,s03
+operating_organization,jaka,节卡机器人,ch-c4224c5a2246dbbc,official,website,https://www.jaka.com,general,organization,节卡机器人,2026-11-02,confirmed,s02
+operating_organization,jaka,节卡机器人,ch-82ed36a8f483a84b,recruitment_platform,liepin,https://www.liepin.com/company/9401362/,recruitment,organization,节卡机器人,2026-11-02,confirmed,s03
+operating_organization,jaka,节卡机器人,ch-ea8d96cbf1e50495,official,careers,https://www.jaka.com/zh/join,recruitment,organization,节卡机器人,2026-11-02,confirmed,s04
+operating_organization,jaka,节卡机器人,ch-674b404af77a05b1,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/81990c218f4828221nd50t28GA~~.html,recruitment,organization,节卡机器人,2026-11-02,confirmed,s05
+operating_organization,jd,京东 JD.com,ch-e4ca0446b794f0e3,official,website,https://about.jd.com/company/,general,organization,京东 JD.com,2026-11-02,confirmed,s01
+operating_organization,jd,京东 JD.com,ch-7ab89d8ec722cbae,official,careers,https://zhaopin.jd.com/home,recruitment,organization,京东 JD.com,2026-11-02,confirmed,s02
+operating_organization,jd,京东 JD.com,ch-2b80206f2decd3ce,recruitment_platform,liepin,https://www.liepin.com/company/1663745/,recruitment,organization,京东,2026-11-02,confirmed,s04
+operating_organization,jd,京东 JD.com,ch-0775354d77ae3ac5,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/33e052361693f8371nF-3d25.html,recruitment,organization,京东集团,2026-11-02,confirmed,s05
 operating_organization,jsdesign,即时设计 / JSDesign,ch-9d69071990d598ef,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b7ac160552afe5941nF709W9FVs~.html,recruitment,organization,即时设计 / JSDesign,2026-10-31,confirmed,s05
 operating_organization,jsdesign,即时设计 / JSDesign,ch-84f77ecc0a89a6b9,recruitment_platform,liepin,https://www.liepin.com/company/12738537/,recruitment,organization,即时设计 / JSDesign,2026-10-31,confirmed,s06
+operating_organization,jundo,苏州钧舵机器人,ch-293e14200ae7a660,recruitment_platform,liepin,https://www.liepin.com/company/12160493/,recruitment,organization,苏州钧舵机器人有限公司,2026-11-02,confirmed,s02
+operating_organization,jundo,苏州钧舵机器人,ch-1892d6bf1bc6b3fa,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/03ee3ece1be410ca1HV93Nq0EQ~~.html,recruitment,organization,苏州钧舵机器人有限公司,2026-11-02,confirmed,s03
+operating_organization,kedacom,苏州科达,ch-e87bc88ce42981eb,official,website,https://www.kedacom.com,general,organization,苏州科达,2026-11-02,confirmed,s02
+operating_organization,kedacom,苏州科达,ch-252b1a30969ae720,recruitment_platform,liepin,https://www.liepin.com/company/7868925/,recruitment,organization,科达 KEDACOM,2026-11-02,confirmed,s03
+operating_organization,kedacom,苏州科达,ch-dc00f1e599007f40,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/a4b048155f44150d1HFy09S-.html,recruitment,organization,苏州科达,2026-11-02,confirmed,s04
+operating_organization,keenon,擎朗智能,ch-1f9100f318b4c63b,official,website,https://www.keenon.com/,general,organization,擎朗智能,2026-11-02,confirmed,s02
+operating_organization,keenon,擎朗智能,ch-79c6c214b4ad0ef1,recruitment_platform,liepin,https://www.liepin.com/company/gs130194987/,recruitment,organization,深圳市擎朗智能科技有限公司,2026-11-02,confirmed,s03
+operating_organization,keenon,擎朗智能,ch-a4327a87dcd0fb46,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/256dd9a902bb05381Hx-2dq6EA~~.html,recruitment,organization,擎朗智能,2026-11-02,confirmed,s04
+operating_organization,kepler-robotics,开普勒机器人,ch-95c335bdcc5ed472,recruitment_platform,liepin,https://www.liepin.com/company/13928431/,recruitment,organization,上海开普勒机器人有限公司,2026-11-02,confirmed,s02
+operating_organization,kepler-robotics,开普勒机器人,ch-e2008ac365355b3d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/df65785ecc0b2c9003R629W4FVQ~.html,recruitment,organization,上海开普勒机器人有限公司,2026-11-02,confirmed,s03
+operating_organization,kepler-robotics,开普勒机器人,ch-cb0e870a879e4ed3,official,website,https://www.gotokepler.com/,general,organization,开普勒机器人,2026-11-03,confirmed,s05
+operating_organization,kinco,步科股份,ch-8ac0ac945efa716a,official,website,https://www.kinco.cn/,general,organization,步科股份,2026-11-02,confirmed,s02
+operating_organization,kinco,步科股份,ch-4581f449f67afd82,official,careers,https://www.kinco.cn/talent-recruitment,recruitment,organization,步科股份,2026-11-02,confirmed,s03
+operating_organization,kinco,步科股份,ch-0670385098580b9b,recruitment_platform,liepin,https://www.liepin.com/company/8192646/,recruitment,organization,上海步科自动化股份有限公司,2026-11-02,confirmed,s04
+operating_organization,kinco,步科股份,ch-679eb2c98708db4d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/08741ad68b8a3b9803J62Ny6Fls~.html,recruitment,organization,上海步科自动化股份有限公司,2026-11-02,confirmed,s05
+operating_organization,kingsoft-cloud,金山云 Kingsoft Cloud,ch-2ef6956c2a46b903,official,website,https://www.ksyun.com/,general,organization,金山云 Kingsoft Cloud,2026-11-02,confirmed,s01
+operating_organization,kingsoft-cloud,金山云 Kingsoft Cloud,ch-199163f6d31c60a7,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b47cc77979caf7091nR70ti-EA~~.html,recruitment,organization,金山云 Kingsoft Cloud,2026-11-02,confirmed,s04
+operating_organization,kingsoft-cloud,金山云 Kingsoft Cloud,ch-c8ff6fcc3f56a659,recruitment_platform,liepin,https://www.liepin.com/company/3526408/,recruitment,organization,金山云网络,2026-11-02,confirmed,s03
+operating_organization,kuaishou,快手 Kuaishou,ch-3118a1810dffc1ef,official,website,https://www.kuaishou.com/,general,organization,快手 Kuaishou,2026-11-02,confirmed,s01
+operating_organization,kuaishou,快手 Kuaishou,ch-a949441acbb5247c,official,careers,https://zhaopin.kuaishou.cn/,recruitment,organization,快手 Kuaishou,2026-11-02,confirmed,s02
+operating_organization,kuaishou,快手 Kuaishou,ch-51eaf3bdadc47589,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/480261c022ea03d81nV53tQ~.html,recruitment,organization,快手 Kuaishou,2026-11-02,confirmed,s04
+operating_organization,kuaishou,快手 Kuaishou,ch-6dca0f76f13c119c,recruitment_platform,liepin,https://www.liepin.com/company/8605497/,recruitment,organization,快手,2026-11-02,confirmed,s05
 operating_organization,kuaizi,筷子科技 / Kuaizi,ch-7d2f752501a6967f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/3ed6a6a8aef43fcd1nZ72N0~.html,recruitment,organization,筷子科技 / Kuaizi,2026-10-31,confirmed,s05
+operating_organization,kunshan-longteng-optoelectronics,昆山龙腾光电,ch-de42b2c6c2bc297f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/e616683246cb33731nd-0tS0GVM~.html,recruitment,organization,昆山龙腾光电股份有限公司,2026-11-02,confirmed,s02
 operating_organization,laiye,来也科技 / Laiye,ch-4b8b700398740cbc,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/4094c3f06bfd243a1nV52N28.html,recruitment,organization,来也科技 / Laiye,2026-10-31,confirmed,s04
 operating_organization,laiye,来也科技 / Laiye,ch-0bcb6898310f6684,recruitment_platform,liepin,https://www.liepin.com/company/9224242/,recruitment,organization,来也科技 / Laiye,2026-10-31,confirmed,s05
 operating_organization,langboat,澜舟科技 Langboat,ch-977edbb32ad87be6,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f769f690e846c59e1XR70968FFc~.html,recruitment,organization,澜舟科技 Langboat,2026-10-31,confirmed,s04
 operating_organization,langboat,澜舟科技 Langboat,ch-ceb593e687189a66,recruitment_platform,liepin,https://www.liepin.com/company/13173687/,recruitment,organization,澜舟科技 Langboat,2026-10-31,confirmed,s05
+operating_organization,leader-drive,苏州绿的谐波,ch-7342f76c9f02cc60,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/1576c829fe8024871nZ-3N20GFI~.html,recruitment,organization,苏州绿的谐波传动科技股份有限公司,2026-11-02,confirmed,s02
 operating_organization,leyan,乐言科技,ch-eef12a1bac106851,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/bfb355f61045ec851ndy39S_GFs~.html,recruitment,organization,乐言科技,2026-10-31,confirmed,s04
 operating_organization,leyan,乐言科技,ch-f072b5491707fa58,recruitment_platform,liepin,https://www.liepin.com/company/8826410/,recruitment,organization,乐言科技,2026-10-31,confirmed,s05
 operating_organization,liblib,LiblibAI / 哩布哩布,ch-47e02c3b9686f24a,recruitment_platform,liepin,https://www.liepin.com/company/21341713/,recruitment,organization,LiblibAI / 哩布哩布,2026-10-31,confirmed,s03
@@ -83,60 +278,232 @@ operating_organization,limx,逐际动力,ch-7b9b9610325bda03,recruitment_platfor
 operating_organization,limx,逐际动力,ch-f28d514b68a34e86,recruitment_platform,liepin,https://www.liepin.com/company/13423055/,recruitment,organization,逐际动力,2026-10-31,confirmed,s04
 operating_organization,luchentech,潞晨科技 Colossal-AI,ch-2779895b32db4be9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c547103fed7ec7641n1z2d20FFY~.html,recruitment,organization,潞晨科技 Colossal-AI,2026-10-31,confirmed,s03
 operating_organization,luchentech,潞晨科技 Colossal-AI,ch-5559242258b1b869,recruitment_platform,liepin,https://www.liepin.com/company/12879599/,recruitment,organization,潞晨科技 Colossal-AI,2026-10-31,confirmed,s04
+operating_organization,maiwei,迈为科技,ch-2abb6cdff39dd3ad,recruitment_platform,liepin,https://www.liepin.com/company/9327342/,recruitment,organization,苏州迈为科技股份有限公司,2026-11-02,confirmed,s02
+operating_organization,maiwei,迈为科技,ch-d26104ebb135ff95,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c36ab5c22f2ca7a21n1429--FQ~~.html,recruitment,organization,苏州迈为科技股份有限公司,2026-11-02,confirmed,s03
 operating_organization,matwings,天鹜科技 Matwings,ch-e05569f32573837c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/29136b81b4cd6e8f1n1z2966FlQ~.html,recruitment,organization,天鹜科技 Matwings,2026-10-31,confirmed,s04
 operating_organization,matwings,天鹜科技 Matwings,ch-c9af818a8e2c6b27,recruitment_platform,liepin,https://www.liepin.com/company/13336567/,recruitment,organization,天鹜科技 Matwings,2026-10-31,confirmed,s05
 operating_organization,megarobo,镁伽科技 MEGAROBO,ch-dbd7a58cc7ae11a9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/2b2b68bf418ec0241nd_29y_F1M~.html,recruitment,organization,镁伽科技 MEGAROBO,2026-10-31,confirmed,s04
 operating_organization,megarobo,镁伽科技 MEGAROBO,ch-87d6f6f8591d8d40,recruitment_platform,liepin,https://www.liepin.com/company/10138129/,recruitment,organization,镁伽科技 MEGAROBO,2026-10-31,confirmed,s05
+operating_organization,meituan,美团 Meituan,ch-cc90958dbbf06496,official,website,https://www.meituan.com/,general,organization,美团 Meituan,2026-11-02,confirmed,s01
+operating_organization,meituan,美团 Meituan,ch-9ab6066747b6bce9,official,careers,https://zhaopin.meituan.com/,recruitment,organization,美团 Meituan,2026-11-02,confirmed,s02
+operating_organization,meituan,美团 Meituan,ch-0b69fd03e21d8993,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/3b8311f4893d640d03B42dw~.html,recruitment,organization,美团 Meituan,2026-11-02,confirmed,s04
+operating_organization,meituan,美团 Meituan,ch-05995c2d3dc8c036,recruitment_platform,liepin,https://www.liepin.com/company/2036768/,recruitment,organization,美团,2026-11-02,confirmed,s05
+operating_organization,meituan-shanghai,美团（上海）,ch-47f2b75eb6643164,official,website,https://www.meituan.com/,general,organization,美团,2026-11-02,partial,s02
+operating_organization,meituan-shanghai,美团（上海）,ch-41d2e977228db3e7,official,careers,https://career.meituan.com/,recruitment,organization,美团,2026-11-02,partial,s03
+operating_organization,meituan-shanghai,美团（上海）,ch-8477cc57f72c5f48,recruitment_platform,liepin,https://www.liepin.com/company/2036768/,recruitment,organization,北京三快在线科技有限公司,2026-11-02,partial,s04
+operating_organization,meituan-shanghai,美团（上海）,ch-fe6fb7f2a7c51a91,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b633a34f787d94f21nZ_0929E1I~.html,recruitment,organization,美团,2026-11-03,partial,s05
+operating_organization,memsensing-microsystems,苏州敏芯微电子,ch-2b3c4f837064af8d,official,website,https://www.memsensing.com,general,organization,苏州敏芯微电子,2026-11-02,confirmed,s02
+operating_organization,memsensing-microsystems,苏州敏芯微电子,ch-3f770c8180f6c468,recruitment_platform,liepin,https://www.liepin.com/company/9512294/,recruitment,organization,苏州敏芯微电子技术股份有限公司,2026-11-02,confirmed,s03
+operating_organization,memsensing-microsystems,苏州敏芯微电子,ch-afb324ab1a4b414d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/09eb1081c7e8fd470HB_29-7EQ~~.html,recruitment,organization,苏州敏芯微电子技术股份有限公司,2026-11-02,confirmed,s04
 operating_organization,metasota,秘塔科技 MetaSota,ch-5368a1cc5e6ec8f9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/61d379287be645371nFz39u8Ew~~.html,recruitment,organization,秘塔科技 MetaSota,2026-10-31,confirmed,s06
 operating_organization,metasota,秘塔科技 MetaSota,ch-42dad9d3e72170d2,recruitment_platform,liepin,https://www.liepin.com/company/9596565/,recruitment,organization,秘塔科技 MetaSota,2026-10-31,confirmed,s07
 operating_organization,metax,沐曦股份 MetaX,ch-20843a4131e640af,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/9efce839f9c116fd1nd639m7FVc~.html,recruitment,organization,沐曦股份 MetaX,2026-10-31,confirmed,s05
 operating_organization,metax,沐曦股份 MetaX,ch-2aee2f2005a5e317,recruitment_platform,liepin,https://www.liepin.com/company/12451581/,recruitment,organization,沐曦股份 MetaX,2026-10-31,confirmed,s06
+operating_organization,microport-medbot,微创机器人,ch-626ac251eb0fc2e5,recruitment_platform,liepin,https://www.liepin.com/company/9755879/,recruitment,organization,上海微创医疗机器人(集团)股份有限公司,2026-11-02,confirmed,s02
+operating_organization,microport-medbot,微创机器人,ch-f07352719895a29c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/80b1e114613885391ndy2N64FVQ~.html,recruitment,organization,微创机器人,2026-11-02,confirmed,s03
+operating_organization,midea-building-technologies,美的楼宇科技苏州,ch-d8cdff0b44688749,recruitment_platform,liepin,https://www.liepin.com/company/21440641/,recruitment,organization,苏州美的楼宇设备销售有限公司,2026-11-02,partial,s02
+operating_organization,midea-building-technologies,美的楼宇科技苏州,ch-732012a4fcfc8623,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/73348f2f1ecb05831H1-09-8EVI~.html,recruitment,organization,苏州美的楼宇设备销售有限公司,2026-11-02,partial,s03
 operating_organization,modelbest,面壁智能 ModelBest,ch-17ef574ad0210993,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/fe9a46fa5cc595550nR63dS9EFs~.html,recruitment,organization,面壁智能 ModelBest,2026-10-31,confirmed,s04
+operating_organization,montage-technology,澜起科技,ch-7ff5ffc039b861d7,official,website,https://www.montage-tech.com/cn/,general,organization,澜起科技,2026-11-02,confirmed,s02
+operating_organization,montage-technology,澜起科技,ch-ba0faa0cde45dfe3,official,careers,https://www.montage-tech.com/cn/Open_Positions,recruitment,organization,澜起科技,2026-11-02,confirmed,s03
+operating_organization,montage-technology,澜起科技,ch-3f2834bc251899e2,recruitment_platform,liepin,https://www.liepin.com/company/9809097/,recruitment,organization,澜起科技股份有限公司,2026-11-02,confirmed,s04
+operating_organization,montage-technology,澜起科技,ch-4d29ca3a117705d5,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/8edc14afee1b2a0c03xy3di1FA~~.html,recruitment,organization,澜起科技,2026-11-02,confirmed,s05
+operating_organization,moons,鸣志电器,ch-df672d7d77f08c1d,official,website,https://www.moons.com.cn/,general,organization,鸣志电器,2026-11-02,confirmed,s02
+operating_organization,moons,鸣志电器,ch-b7fbe8e3e8d02717,official,careers,https://moons1.zhiye.com/,recruitment,organization,鸣志电器,2026-11-02,confirmed,s03
+operating_organization,moons,鸣志电器,ch-fcbf382a3da1acee,recruitment_platform,liepin,https://www.liepin.com/company/7915579/,recruitment,organization,鸣志,2026-11-02,confirmed,s04
+operating_organization,moons,鸣志电器,ch-c07742bb495b44bb,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/7a7926a3e73d01701n183tm_EVQ~.html,recruitment,organization,鸣志电器,2026-11-02,confirmed,s05
 operating_organization,moonshot,月之暗面 Kimi,ch-e42426b39737c7b6,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f0fe9220123c051b03152d-4FVI~.html,recruitment,organization,月之暗面 Kimi,2026-10-31,confirmed,s05
 operating_organization,moore-threads,摩尔线程 Moore Threads,ch-33b212f6e8b41ef1,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/2f230e94edc2a9da1nZ93NS7Fls~.html,recruitment,organization,摩尔线程 Moore Threads,2026-10-31,confirmed,s04
 operating_organization,moore-threads,摩尔线程 Moore Threads,ch-4bb8e3e4137d35e7,recruitment_platform,liepin,https://www.liepin.com/company/12566499/,recruitment,organization,摩尔线程 Moore Threads,2026-10-31,confirmed,s05
+operating_organization,netease,网易 NetEase,ch-789ba9a90150b915,official,website,https://www.163.com/,general,organization,网易 NetEase,2026-11-02,confirmed,s01
+operating_organization,netease,网易 NetEase,ch-564f62b2b6fd8cf3,official,careers,https://hr.163.com/,recruitment,organization,网易 NetEase,2026-11-02,confirmed,s02
+operating_organization,netease,网易 NetEase,ch-bd911f40d2eeac55,recruitment_platform,liepin,https://www.liepin.com/company/9421495/,recruitment,organization,网易公司,2026-11-02,confirmed,s04
+operating_organization,netease,网易 NetEase,ch-f77f883ded443bdc,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/38bd5c757efa4ab6331z.html,recruitment,organization,网易,2026-11-02,confirmed,s05
+operating_organization,nio,蔚来,ch-9d23dabebd58194f,official,website,http://www.nio.cn/,general,organization,蔚来,2026-11-02,confirmed,s02
+operating_organization,nio,蔚来,ch-f1279f3889e8883d,recruitment_platform,liepin,https://www.liepin.com/company/8524725/,recruitment,organization,蔚来,2026-11-02,confirmed,s03
+operating_organization,nio,蔚来,ch-31c8534cc60bb5c9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c61d023bc6632dd91XZy2dQ~.html,recruitment,organization,蔚来汽车,2026-11-02,confirmed,s04
 operating_organization,noematrix,穹彻智能,ch-45508cc150e3f82c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5c10d1143d91fc941Hx50tu7FlA~.html,recruitment,organization,穹彻智能,2026-10-31,confirmed,s04
 operating_organization,noematrix,穹彻智能,ch-dc974fb861486cb3,recruitment_platform,liepin,https://www.liepin.com/company/21172769/,recruitment,organization,穹彻智能,2026-10-31,confirmed,s05
+operating_organization,novosense,纳芯微电子,ch-3bbda225486d5d11,official,website,https://www.novosns.com,general,organization,纳芯微电子,2026-11-02,confirmed,s02
+operating_organization,novosense,纳芯微电子,ch-77cc004f419b21dc,recruitment_platform,liepin,https://www.liepin.com/company/8781310/,recruitment,organization,纳芯微电子,2026-11-02,confirmed,s03
+operating_organization,novosense,纳芯微电子,ch-58ff330975b2076e,official,careers,https://careers.novosns.com/,recruitment,organization,纳芯微电子,2026-11-02,confirmed,s04
+operating_organization,novosense,纳芯微电子,ch-7df7cbe6f6ec9c1e,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/fbbc72be7ea916a603B62tW4EA~~.html,recruitment,organization,纳芯微电子,2026-11-02,confirmed,s05
+operating_organization,nullmax,纽劢科技,ch-c1010f9108e3f27f,official,website,https://www.nullmax.ai/,general,organization,纽劢科技,2026-11-02,confirmed,s02
+operating_organization,nullmax,纽劢科技,ch-f4d29839bf44acc9,official,careers,https://www.nullmax.ai/careers,recruitment,organization,纽劢科技,2026-11-02,confirmed,s03
+operating_organization,nullmax,纽劢科技,ch-e26865cf25f0ae74,recruitment_platform,liepin,https://www.liepin.com/company/9247292/,recruitment,organization,Nullmax,2026-11-02,confirmed,s04
+operating_organization,nullmax,纽劢科技,ch-0571004c729218ca,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/6a532e5fe11431ff0X143NW5.html,recruitment,organization,纽劢科技,2026-11-02,confirmed,s05
+operating_organization,pdd-holdings,拼多多集团 PDD Holdings,ch-ac780fc9bca6c788,official,website,https://www.pinduoduo.com/,general,organization,拼多多集团 PDD Holdings,2026-11-02,confirmed,s01
+operating_organization,pdd-holdings,拼多多集团 PDD Holdings,ch-f7f8c5b0b0516c00,official,careers,https://careers.pinduoduo.com/,recruitment,organization,拼多多集团 PDD Holdings,2026-11-02,confirmed,s02
+operating_organization,pdd-holdings,拼多多集团 PDD Holdings,ch-faebd2a3adfe10dd,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html,recruitment,organization,拼多多集团 PDD Holdings,2026-11-02,confirmed,s04
+operating_organization,pdd-holdings,拼多多集团 PDD Holdings,ch-2decdf46a5aeb9d2,recruitment_platform,liepin,https://www.liepin.com/company/9976959/,recruitment,organization,拼多多上海运营实体,2026-11-02,partial,s05
 operating_organization,plaud,Plaud / 机智连接,ch-b509dbf9f3127482,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/fe2eb5ce48f3cab603d90tm5FFA~.html,recruitment,organization,Plaud / 机智连接,2026-10-31,confirmed,s06
 operating_organization,plaud,Plaud / 机智连接,ch-d72b4b0ae342c7df,recruitment_platform,liepin,https://www.liepin.com/company/21321599/,recruitment,organization,Plaud / 机智连接,2026-10-31,confirmed,s07
 operating_organization,powerlaw,幂律智能 / PowerLaw AI,ch-6b12e10f0a0de85f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/25a357d750036d3e1XV53du7FA~~.html,recruitment,organization,幂律智能 / PowerLaw AI,2026-10-31,confirmed,s04
 operating_organization,powerlaw,幂律智能 / PowerLaw AI,ch-e01d1f5e315887c2,recruitment_platform,liepin,https://www.liepin.com/company/13286763/,recruitment,organization,幂律智能 / PowerLaw AI,2026-10-31,confirmed,s05
+operating_organization,qianjing-rehabilitation,钱璟康复（常州）,ch-c65caffdd7b04046,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/4af0faaff75433911HN42tm1.html,recruitment,organization,常州市钱璟康复股份有限公司,2026-11-02,confirmed,s02
 operating_organization,qingcheng-ai,清程极智 Qingcheng.AI,ch-484ebcdd84bd9d36,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b97152d54ced29ea1HZ-3Nq5F1M~.html,recruitment,organization,清程极智 Qingcheng.AI,2026-10-31,confirmed,s05
 operating_organization,qingcheng-ai,清程极智 Qingcheng.AI,ch-bafb5de936c11676,recruitment_platform,liepin,https://www.liepin.com/company/13844083/,recruitment,organization,清程极智 Qingcheng.AI,2026-10-31,confirmed,s06
+operating_organization,qiniu,七牛云,ch-97650bfb793f6a2d,official,website,https://www.qiniu.com/,general,organization,七牛云,2026-11-02,confirmed,s02
+operating_organization,qiniu,七牛云,ch-6551ee53d311d57e,official,careers,https://jobs.qiniu.com/,recruitment,organization,七牛云,2026-11-02,confirmed,s03
+operating_organization,qiniu,七牛云,ch-3c42bc3fd6cd52c4,recruitment_platform,liepin,https://www.liepin.com/company/7688655/,recruitment,organization,七牛云,2026-11-02,confirmed,s04
+operating_organization,qiniu,七牛云,ch-af521d452d28f19f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b3b788a71aceed831XZy3Nk~.html,recruitment,organization,七牛云,2026-11-02,confirmed,s05
+operating_organization,qisda,苏州佳世达电通有限公司,ch-688ac82cff9d643b,official,website,https://www.qisda.com,general,organization,Qisda,2026-11-02,partial,s02
+operating_organization,qisda,苏州佳世达电通有限公司,ch-2b844ffd629b31a9,recruitment_platform,liepin,https://www.liepin.com/company/949828/,recruitment,organization,佳世达电通,2026-11-02,partial,s03
+operating_organization,qisda,苏州佳世达电通有限公司,ch-c9e83aaf17fc3677,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/bde327843e586f161XB939-7EA~~.html,recruitment,organization,苏州佳世达电通有限公司,2026-11-02,confirmed,s04
+operating_organization,quanta-computer-kunshan,广达电脑（昆山）,ch-793994122961ff9e,official,website,https://www.quantatw.com,general,organization,Quanta,2026-11-02,partial,s02
+operating_organization,quanta-computer-kunshan,广达电脑（昆山）,ch-9f81fea766e9abc0,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/39d26d87adc9d5f603J92921Fg~~.html,recruitment,organization,达丰（上海）电脑有限公司,2026-11-02,partial,s03
 operating_organization,quickcep,快牛智营 / QuickCEP,ch-27ec8025a578f069,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/2d2c761c14eec83b1XR72tu5F1E~.html,recruitment,organization,快牛智营 / QuickCEP,2026-10-31,confirmed,s06
+operating_organization,quicktron,快仓智能,ch-056a592de1d9babf,official,website,https://www.quicktron.com/,general,organization,快仓智能,2026-11-02,confirmed,s02
+operating_organization,quicktron,快仓智能,ch-6cfe67278cc5f355,recruitment_platform,liepin,https://www.liepin.com/company/7961673/,recruitment,organization,快仓智能,2026-11-02,confirmed,s03
+operating_organization,quicktron,快仓智能,ch-b903c24c8d6cc532,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/864998ddffc4800b1nd93Nu7FVQ~.html,recruitment,organization,快仓智能,2026-11-02,confirmed,s04
+operating_organization,quicktron,快仓智能,ch-e896c1fcdc5acf0e,official,careers,https://www.quicktron.com/zh_CN/about-us,recruitment,organization,快仓智能,2026-11-03,partial,s07;s08
 operating_organization,recurrent-ai,循环智能 / Recurrent AI,ch-68607c6c1af5417a,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/cd23d6c21b1975da0XR50t69EA~~.html,recruitment,organization,循环智能 / Recurrent AI,2026-10-31,confirmed,s03
 operating_organization,recurrent-ai,循环智能 / Recurrent AI,ch-200b335ddd43f536,recruitment_platform,liepin,https://www.liepin.com/company/12197849/,recruitment,organization,循环智能 / Recurrent AI,2026-10-31,confirmed,s04
 operating_organization,robotera,星动纪元,ch-3c6bfc8eae95957c,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/21a13d36251e40d41X152ti1ElQ~.html,recruitment,organization,星动纪元,2026-10-31,confirmed,s03
 operating_organization,robotera,星动纪元,ch-a8d59acd4151cc31,recruitment_platform,liepin,https://www.liepin.com/company/13746241/,recruitment,organization,星动纪元,2026-10-31,confirmed,s04
+operating_organization,rokae-liqtech,苏州李群自动化,ch-3e29fefe77de2c38,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b0480a1f1da1642d1nN839m6GA~~.html,recruitment,organization,李群智能机器人股份有限公司,2026-11-02,partial,s02
+operating_organization,schneider-electric-china,施耐德电气（中国）上海,ch-2a173c5a792358ed,recruitment_platform,liepin,https://www.liepin.com/company/2547498/,recruitment,organization,施耐德,2026-11-02,confirmed,s02
+operating_organization,schneider-electric-china,施耐德电气（中国）上海,ch-c54d2bfcbf119981,official,website,https://www.schneider-electric.cn/zh/,general,organization,施耐德电气（中国）上海,2026-11-02,confirmed,s03
+operating_organization,schneider-electric-china,施耐德电气（中国）上海,ch-6ad2854fff25d2c2,official,careers,https://www.schneider-electric.cn/zh/about-us/careers/overview/,recruitment,organization,施耐德电气（中国）上海,2026-11-02,confirmed,s04
+operating_organization,schneider-electric-china,施耐德电气（中国）上海,ch-6e840d8d99d09511,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5564ed2c1573e28f03Z53d61.html,recruitment,organization,施耐德,2026-11-02,confirmed,s05
+operating_organization,sensetime,商汤科技,ch-9fe63600af8eb6a2,official,website,https://www.sensetime.com/cn/,general,organization,商汤科技,2026-11-02,confirmed,s02
+operating_organization,sensetime,商汤科技,ch-80e44b86cb3f1bf0,official,careers,https://hr.sensetime.com/,recruitment,organization,商汤科技,2026-11-02,confirmed,s03
+operating_organization,sensetime,商汤科技,ch-011d2f92b3755f92,recruitment_platform,liepin,https://www.liepin.com/company/8349238/,recruitment,organization,商汤科技,2026-11-02,confirmed,s04
+operating_organization,sensetime,商汤科技,ch-4bfa18614dff3350,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c7ac76928d861b761nF-2dW1Fg~~.html,recruitment,organization,商汤科技,2026-11-02,confirmed,s05
+operating_organization,shanghai-ai-lab,上海人工智能实验室,ch-0bcb9399cc16daf6,official,website,https://www.shlab.org.cn/,general,organization,上海人工智能实验室,2026-11-02,confirmed,s02
+operating_organization,shanghai-ai-lab,上海人工智能实验室,ch-75b605d7b0f6f926,official,careers,https://www.shlab.org.cn/joinus,recruitment,organization,上海人工智能实验室,2026-11-02,confirmed,s03
+operating_organization,shanghai-ai-lab,上海人工智能实验室,ch-ef1452e4afe3cf58,recruitment_platform,liepin,https://www.liepin.com/company/12702097/,recruitment,organization,上海人工智能实验室,2026-11-02,confirmed,s04
+operating_organization,shanghai-ai-lab,上海人工智能实验室,ch-c34e655233221cfa,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/bff9220aa6f0bbb81nF82t20F1A~.html,recruitment,organization,上海人工智能实验室,2026-11-02,confirmed,s05
+operating_organization,shanghai-electric,上海电气,ch-d8eb2b3198dac4f8,recruitment_platform,liepin,https://www.liepin.com/company/9806195/,recruitment,organization,上海电气,2026-11-02,confirmed,s02
+operating_organization,shanghai-electric,上海电气,ch-63d35f1accdbe734,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/ea3669611747bf8d1XN40tW5EQ~~.html,recruitment,organization,上海电气,2026-11-02,confirmed,s03
+operating_organization,shanghai-fanuc,上海发那科,ch-15240847f0189aa4,recruitment_platform,liepin,https://www.liepin.com/company/177212/,recruitment,organization,上海发那科,2026-11-02,confirmed,s02
+operating_organization,shanghai-fanuc,上海发那科,ch-f3ca9e94edf0e2fb,official,website,https://www.shanghai-fanuc.com.cn/,general,organization,上海发那科,2026-11-02,confirmed,s03
+operating_organization,shanghai-fanuc,上海发那科,ch-1f8d9159d34a4d84,official,careers,https://www.shanghai-fanuc.com.cn/about-join.html,recruitment,organization,上海发那科,2026-11-02,confirmed,s04
+operating_organization,shanghai-fanuc,上海发那科,ch-1881ab9533475468,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c56b579f4fcd11681nZ72N29EA~~.html,recruitment,organization,发那科,2026-11-02,confirmed,s05
 operating_organization,sharge,闪极科技 SHARGE,ch-5a3e23633b8b9bd8,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/12d6f5d0d224b1b00HZ_3dW0EA~~.html,recruitment,organization,闪极科技 SHARGE,2026-10-31,confirmed,s03
 operating_organization,sharge,闪极科技 SHARGE,ch-4fa621c10fb9675d,recruitment_platform,liepin,https://www.liepin.com/company/12562971/,recruitment,organization,闪极科技 SHARGE,2026-10-31,confirmed,s04
 operating_organization,shengshu,生数科技 / Vidu,ch-da58001a68a3b092,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f7c9e38b0683800a1Xx-2tW5FFY~.html,recruitment,organization,生数科技 / Vidu,2026-10-31,confirmed,s05
 operating_organization,shoplazza,店匠科技 / Shoplazza,ch-687e33f527dec131,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/3b06f8258c8d70971nd60ty0EQ~~.html,recruitment,organization,店匠科技 / Shoplazza,2026-10-31,confirmed,s05
 operating_organization,shoplazza,店匠科技 / Shoplazza,ch-8a75f3219d9310a9,recruitment_platform,liepin,https://www.liepin.com/company/9397306/,recruitment,organization,店匠科技 / Shoplazza,2026-10-31,confirmed,s06
 operating_organization,shulex,Shulex / 杭州数里行间科技有限公司,ch-653f5c5ca463c4cf,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/32c0cc606c28738a1n1-2d24FVI~.html,recruitment,organization,Shulex / 杭州数里行间科技有限公司,2026-10-31,confirmed,s07
+operating_organization,siemens,西门子（中国）苏州,ch-4be38a29861d9da9,official,website,https://www.siemens.com/cn/zh,general,organization,西门子,2026-11-02,partial,s02
+operating_organization,siemens,西门子（中国）苏州,ch-34faac2fd9223887,recruitment_platform,liepin,https://www.liepin.com/company/33708/,recruitment,organization,西门子,2026-11-02,partial,s03
+operating_organization,siemens,西门子（中国）苏州,ch-88d279b8ada80086,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/8a3fcf06cb9151b31ndy29W6GA~~.html,recruitment,organization,西门子（中国）有限公司,2026-11-02,partial,s04
+operating_organization,sien-integrated-circuits,芯联集成,ch-867c10000864d46d,recruitment_platform,liepin,https://www.liepin.com/company/9761593/,recruitment,organization,芯联集成电路制造股份有限公司,2026-11-02,confirmed,s02
+operating_organization,sien-integrated-circuits,芯联集成,ch-5ebc78a68fc06288,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/30857ee5896cff411Hd43Nu6F1A~.html,recruitment,organization,芯联集成电路制造股份有限公司,2026-11-02,confirmed,s03
 operating_organization,siliconflow,硅基流动 SiliconFlow,ch-76b140f2131ef32b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/015ae67e8b3d5ee203173dm4ElE~.html,recruitment,organization,硅基流动 SiliconFlow,2026-10-31,confirmed,s04
 operating_organization,siliconflow,硅基流动 SiliconFlow,ch-bce837ac8d420a52,recruitment_platform,liepin,https://www.liepin.com/company/21146791/,recruitment,organization,硅基流动 SiliconFlow,2026-10-31,confirmed,s05
+operating_organization,sip-ai-industrial-park,苏州工业园区AI产业园,ch-cb1d3009dd675cfd,official,website,https://www.sipac.gov.cn,general,organization,苏州工业园区管理委员会,2026-11-02,partial,s02
+operating_organization,smic,中芯国际,ch-c261503605b66dd0,recruitment_platform,liepin,https://www.liepin.com/company/8391401/,recruitment,organization,中芯国际,2026-11-02,confirmed,s02
+operating_organization,smic,中芯国际,ch-25d9ecb2b8fc02ba,official,website,https://www.smics.com/,general,organization,中芯国际,2026-11-02,confirmed,s03
+operating_organization,smic,中芯国际,ch-5251665e807d61fa,official,careers,https://smics.zhiye.com/,recruitment,organization,中芯国际,2026-11-02,confirmed,s04
+operating_organization,smic,中芯国际,ch-c83c2075b449a2ee,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5b98b6c596d2f9d933xy2dS4.html,recruitment,organization,中芯国际,2026-11-02,confirmed,s05
 operating_organization,spirit-ai,千寻智能,ch-f797cdb679e1d83b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/c5a3fedbe7332abf1Hd_0t67EVc~.html,recruitment,organization,千寻智能,2026-10-31,confirmed,s04
+operating_organization,step-electric,新时达,ch-1e5af2dbe75e8d64,recruitment_platform,liepin,https://www.liepin.com/company/963703/,recruitment,organization,新时达,2026-11-02,confirmed,s02
+operating_organization,step-electric,新时达,ch-2436fc1ea5089e27,official,website,https://www.stepelectric.com/,general,organization,新时达,2026-11-02,confirmed,s03
+operating_organization,step-electric,新时达,ch-739ccaf41f31136b,official,careers,https://www.stepelectric.com/join.html,recruitment,organization,新时达,2026-11-02,confirmed,s04
+operating_organization,step-electric,新时达,ch-f03239b7bc98aab1,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f4db365ac20c73060Hd829W5Fw~~.html,recruitment,organization,新时达,2026-11-03,confirmed,s05
 operating_organization,stepfun,阶跃星辰 StepFun,ch-856a33cfb1914196,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/0591ce5cac2618c303N43dm0F1o~.html,recruitment,organization,阶跃星辰 StepFun,2026-10-31,confirmed,s05
 operating_organization,stepfun,阶跃星辰 StepFun,ch-f63aef206f70acb1,recruitment_platform,liepin,https://www.liepin.com/company/21236927/,recruitment,organization,阶跃星辰 StepFun,2026-10-31,confirmed,s06
+operating_organization,synyi,森亿智能,ch-c048dbdab7f70a00,official,website,https://www.synyi.com/,general,organization,森亿智能,2026-11-02,confirmed,s02
+operating_organization,synyi,森亿智能,ch-15dc60b93495d51f,recruitment_platform,liepin,https://www.liepin.com/company/8892437/,recruitment,organization,森亿智能,2026-11-02,confirmed,s03
+operating_organization,synyi,森亿智能,ch-9f02f7f2128d3885,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/d4848fc5c02d4d6203x429u0F1I~.html,recruitment,organization,森亿,2026-11-02,confirmed,s04
 operating_organization,tabcut,特看科技 / Tabcut,ch-d98ddb51b2a35436,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5344ded464abd0e91XZ-39y5E1M~.html,recruitment,organization,特看科技 / Tabcut,2026-10-31,confirmed,s05
 operating_organization,tars,它石智航,ch-b2b355f2860a7b7e,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b5d335b06c1161fd1HNy3tW_F1Y~.html,recruitment,organization,它石智航,2026-10-31,confirmed,s03
 operating_organization,tars,它石智航,ch-d6edf4146f734ec4,recruitment_platform,liepin,https://www.liepin.com/company/21147939/,recruitment,organization,它石智航,2026-10-31,confirmed,s04
 operating_organization,tec-do,钛动科技 / Tec-Do,ch-803019d49c3d5bb9,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/08cb1a1a6e6b5e271HR809i6Fg~~.html,recruitment,organization,钛动科技 / Tec-Do,2026-10-31,confirmed,s05
 operating_organization,tec-do,钛动科技 / Tec-Do,ch-936aa759ba2968e3,recruitment_platform,liepin,https://www.liepin.com/company/8922908/,recruitment,organization,钛动科技 / Tec-Do,2026-10-31,confirmed,s06
+operating_organization,tencent,腾讯 Tencent,ch-d23b7106d8f7b828,official,website,https://www.tencent.com/,general,organization,腾讯 Tencent,2026-11-02,confirmed,s01
+operating_organization,tencent,腾讯 Tencent,ch-82e987b513005e6b,official,careers,https://careers.tencent.com/,recruitment,organization,腾讯 Tencent,2026-11-02,confirmed,s02
+operating_organization,tencent,腾讯 Tencent,ch-320801bd3ce75303,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html,recruitment,organization,腾讯 Tencent,2026-11-02,confirmed,s04
+operating_organization,tencent,腾讯 Tencent,ch-ae2c2c1c5fed02fe,recruitment_platform,liepin,https://www.liepin.com/company/7983148/,recruitment,organization,腾讯,2026-11-02,confirmed,s05
+operating_organization,tencent-shanghai,腾讯（上海）,ch-29fc36a4684334a6,official,website,https://www.tencent.com/,general,organization,腾讯,2026-11-02,partial,s02
+operating_organization,tencent-shanghai,腾讯（上海）,ch-f11bcb591cf9409c,official,careers,https://careers.tencent.com/,recruitment,organization,腾讯,2026-11-02,partial,s03
+operating_organization,tencent-shanghai,腾讯（上海）,ch-6c7b4dbb6eade1e0,recruitment_platform,liepin,https://www.liepin.com/company/9561840/,recruitment,organization,腾讯（上海）,2026-11-02,partial,s04
+operating_organization,tencent-shanghai,腾讯（上海）,ch-ca5ea34984f022db,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html,recruitment,organization,腾讯,2026-11-02,partial,s05
+operating_organization,tesla-shanghai-rd,特斯拉上海研发创新中心,ch-0f1cf9e4d0398b02,official,website,https://www.tesla.cn/,general,organization,特斯拉中国,2026-11-02,partial,s02
+operating_organization,tesla-shanghai-rd,特斯拉上海研发创新中心,ch-d5ea48d0a106bfdf,official,careers,https://www.tesla.cn/careers,recruitment,organization,特斯拉中国,2026-11-02,partial,s03
+operating_organization,tesla-shanghai-rd,特斯拉上海研发创新中心,ch-6c7f92f51ca672b0,recruitment_platform,liepin,https://www.liepin.com/company/8626076/,recruitment,organization,特斯拉,2026-11-02,partial,s04
+operating_organization,tesla-shanghai-rd,特斯拉上海研发创新中心,ch-1a9e405a73cc1013,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/a3fff2b435110f101Xx40tm7.html,recruitment,organization,Tesla,2026-11-02,partial,s05
+operating_organization,timi-robot,钛米机器人,ch-4f6be77c3ebeeed3,official,website,http://www.tmirob.com/,general,organization,钛米机器人,2026-11-02,confirmed,s02
+operating_organization,timi-robot,钛米机器人,ch-6f547648c8478457,recruitment_platform,liepin,https://www.liepin.com/company/9103656/,recruitment,organization,钛米,2026-11-02,confirmed,s03
+operating_organization,timi-robot,钛米机器人,ch-4f431cc9b1eb874f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b19d837cf4c97e781XR82Nm6Ew~~.html,recruitment,organization,钛米机器人,2026-11-02,confirmed,s04
 operating_organization,today-ai,此间无限 Today AI,ch-5c8e967ba09b979b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f2a3062321b01da303x73Nm8FVM~.html,recruitment,organization,此间无限 Today AI,2026-10-31,confirmed,s05
+operating_organization,tongcheng-ai,同程旅行AI部门,ch-1c6e44ef4aca9520,official,website,https://www.ly.com,general,organization,同程旅行,2026-11-02,partial,s02
+operating_organization,tongcheng-ai,同程旅行AI部门,ch-8b2774e6ca51f65b,recruitment_platform,liepin,https://www.liepin.com/company/3698161/,recruitment,organization,同程旅行,2026-11-02,partial,s03
+operating_organization,tongcheng-ai,同程旅行AI部门,ch-2a7f6cc739907c16,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5655835880426ec51nN62t-0.html,recruitment,organization,同程旅行,2026-11-02,partial,s04
+operating_organization,tongyuan-mworks,苏州同元软控（MWORKS）,ch-87f917143e3b9e02,official,website,https://www.tongyuan.cc,general,organization,苏州同元软控（MWORKS）,2026-11-02,confirmed,s02
+operating_organization,tongyuan-mworks,苏州同元软控（MWORKS）,ch-64e97468980cc6c9,recruitment_platform,liepin,https://www.liepin.com/company/8000987/,recruitment,organization,同元软控,2026-11-02,confirmed,s03
+operating_organization,tongyuan-mworks,苏州同元软控（MWORKS）,ch-59076ecc5306c75d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/cb021b2050a4357a1HV80924FA~~.html,recruitment,organization,苏州同元软控信息技术有限公司,2026-11-02,confirmed,s04
+operating_organization,transwarp,星环科技,ch-8c0de1dbcec8c7f8,official,website,https://www.transwarp.cn/,general,organization,星环科技,2026-11-02,confirmed,s02
+operating_organization,transwarp,星环科技,ch-64e69f491229fda8,recruitment_platform,liepin,https://www.liepin.com/company/7979550/,recruitment,organization,星环科技,2026-11-02,confirmed,s03
+operating_organization,transwarp,星环科技,ch-1a653345105afff7,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/1cb2a74b71a8e1351nd92NS7EVo~.html,recruitment,organization,星环,2026-11-02,confirmed,s04
+operating_organization,tztek,苏州天准科技,ch-5e3f5bda9c81a827,recruitment_platform,liepin,https://www.liepin.com/company/8186807/,recruitment,organization,天准,2026-11-02,confirmed,s02
+operating_organization,tztek,苏州天准科技,ch-410b2c0034e14466,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/bb1aac3bb9c5c31f0HF72dm6FA~~.html,recruitment,organization,天准科技股份有限公司,2026-11-02,confirmed,s03
+operating_organization,ucloud,优刻得,ch-d2936afd28374b4e,official,website,https://www.ucloud.cn/,general,organization,优刻得,2026-11-02,confirmed,s02
+operating_organization,ucloud,优刻得,ch-cfce1e5bec29d35d,official,careers,https://ucloud.zhiye.com/,recruitment,organization,优刻得,2026-11-02,confirmed,s03
+operating_organization,ucloud,优刻得,ch-fadf7a1dd1f24c53,recruitment_platform,liepin,https://www.liepin.com/company/7012417/,recruitment,organization,UCloud,2026-11-02,confirmed,s04
+operating_organization,ucloud,优刻得,ch-a6479c62d1bedd54,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/239c3ad6c7a3ce811XB93dW5Elc~.html,recruitment,organization,UCloud,2026-11-02,confirmed,s05
+operating_organization,udit,友道智途,ch-41dca0c3799160a1,recruitment_platform,liepin,https://www.liepin.com/company/13130971/,recruitment,organization,友道智途,2026-11-02,confirmed,s02
+operating_organization,udit,友道智途,ch-0ec816ed3f6caf63,official,website,https://www.utopilot.com.cn/,general,organization,友道智途,2026-11-02,confirmed,s03
+operating_organization,udit,友道智途,ch-6c45922ad48dc3de,official,careers,https://utopilot.jobs.feishu.cn/,recruitment,organization,友道智途,2026-11-02,confirmed,s04
+operating_organization,udit,友道智途,ch-b237836d807143ac,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/1722e8fc1861cecc1XR-3t26EVA~.html,recruitment,organization,友道智途,2026-11-02,confirmed,s05
+operating_organization,uii,联影智能,ch-0df80d689b14ee86,official,website,https://www.uii-ai.com/,general,organization,联影智能,2026-11-02,confirmed,s02
+operating_organization,uii,联影智能,ch-e0e353990301bbf3,official,careers,https://uii-ai.zhiye.com/social/jobs,recruitment,organization,联影智能,2026-11-02,confirmed,s03
+operating_organization,uii,联影智能,ch-e4ecd13431615660,recruitment_platform,liepin,https://www.liepin.com/company/9761547/,recruitment,organization,联影智能,2026-11-02,confirmed,s04
+operating_organization,uii,联影智能,ch-31799e5605291026,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/76efa3ea6d08658503F42N60EFE~.html,recruitment,organization,联影智能,2026-11-02,confirmed,s05
+operating_organization,uls-robotics,傲鲨智能,ch-99817076e0ac36fd,recruitment_platform,liepin,https://www.liepin.com/company/9703235/,recruitment,organization,傲鲨智能,2026-11-02,confirmed,s02
+operating_organization,uls-robotics,傲鲨智能,ch-8980e5cb71721378,official,website,https://www.ulsrobotics.com/,general,organization,傲鲨智能,2026-11-02,confirmed,s03
+operating_organization,uls-robotics,傲鲨智能,ch-134d32c4b05f0d24,official,careers,https://www.ulsrobotics.com/h-col-115.html,recruitment,organization,傲鲨智能,2026-11-02,confirmed,s04
+operating_organization,uls-robotics,傲鲨智能,ch-93b2b6292e296712,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/99361d1fc989b7261XN-09u_Fg~~.html,recruitment,organization,傲鲨智能,2026-11-02,confirmed,s05
+operating_organization,unisoc,紫光展锐,ch-762b1fb32c614132,official,website,https://www.unisoc.com/cn,general,organization,紫光展锐,2026-11-02,confirmed,s02
+operating_organization,unisoc,紫光展锐,ch-7b4a158f753e0a98,official,careers,https://www.unisoc.com/cn/about/join-us,recruitment,organization,紫光展锐,2026-11-02,confirmed,s03
+operating_organization,unisoc,紫光展锐,ch-ffec2d15c4b24361,recruitment_platform,liepin,https://www.liepin.com/company/7976384/,recruitment,organization,紫光展锐,2026-11-02,confirmed,s04
+operating_organization,unisoc,紫光展锐,ch-e0f78126a299d08f,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/b50933efab0d163d1XV52ti-GA~~.html,recruitment,organization,紫光展锐,2026-11-02,confirmed,s05
+operating_organization,united-imaging,联影医疗,ch-4c75d8f8b4208c9c,official,website,https://www.united-imaging.com/,general,organization,联影医疗,2026-11-02,confirmed,s02
+operating_organization,united-imaging,联影医疗,ch-73939113cd0d157b,official,careers,https://www.united-imaging.com/zh-cn/careers,recruitment,organization,联影医疗,2026-11-02,confirmed,s03
+operating_organization,united-imaging,联影医疗,ch-e54ee1690a2b2457,recruitment_platform,liepin,https://www.liepin.com/company/849538/,recruitment,organization,联影,2026-11-02,confirmed,s04
+operating_organization,united-imaging,联影医疗,ch-67d1e75fe852b962,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/4c056cf0a78424e21X17092_ElM~.html,recruitment,organization,联影医疗,2026-11-02,confirmed,s05
 operating_organization,unitree,宇树科技,ch-0f0668da90c6608b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/fb3f028badcf880b1nZ409u5FVc~.html,recruitment,organization,宇树科技,2026-10-31,confirmed,s04
 operating_organization,unitree,宇树科技,ch-cd5fb1a53ab554ce,recruitment_platform,liepin,https://www.liepin.com/company/9328741/,recruitment,organization,宇树科技,2026-10-31,confirmed,s05
+operating_organization,uzero-intelligence,苏州优智汇,ch-ccb3ab6e2ba372bd,official,website,https://www.uzero.ai,general,organization,uZero,2026-11-02,partial,s02
 operating_organization,vast,VAST / Tripo,ch-cb0872859efcb222,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/027f673ab6c1992e1HJy39q6GFQ~.html,recruitment,organization,VAST / Tripo,2026-10-31,confirmed,s04
 operating_organization,vast,VAST / Tripo,ch-f7dac295a98f0271,recruitment_platform,liepin,https://www.liepin.com/company/21156495/,recruitment,organization,VAST / Tripo,2026-10-31,confirmed,s05
+operating_organization,verisilicon,芯原股份,ch-3653a09e716ed0a5,official,website,https://www.verisilicon.com/,general,organization,芯原股份,2026-11-02,confirmed,s02
+operating_organization,verisilicon,芯原股份,ch-24cfc06de20576b6,official,careers,https://www.verisilicon.com/cn/Careers,recruitment,organization,芯原股份,2026-11-02,confirmed,s03
+operating_organization,verisilicon,芯原股份,ch-506ecead7993e190,recruitment_platform,liepin,https://www.liepin.com/company/7909389/,recruitment,organization,芯原,2026-11-02,confirmed,s04
+operating_organization,westwell,西井科技,ch-3285178a7b324f02,official,website,https://www.westwell-lab.com/,general,organization,西井科技,2026-11-02,confirmed,s02
+operating_organization,westwell,西井科技,ch-11c83fe90bf360ab,official,careers,https://www.westwell-lab.com/about/careers,recruitment,organization,西井科技,2026-11-02,confirmed,s03
+operating_organization,westwell,西井科技,ch-2693a013db094d7e,recruitment_platform,liepin,https://www.liepin.com/company/8617067/,recruitment,organization,西井科技,2026-11-02,confirmed,s04
+operating_organization,westwell,西井科技,ch-4d0f58c303c19a80,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/a9c46db75720c8e403Zy290~.html,recruitment,organization,西井科技,2026-11-02,confirmed,s05
+operating_organization,wistron-kunshan,昆山纬创,ch-cb98b0598f8c1e81,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/cb432962e62e73bd03Z729-8.html,recruitment,organization,纬创资通（昆山）有限公司,2026-11-02,partial,s02
 operating_organization,x-square,自变量机器人,ch-1344f3084ee520e0,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/859fcb4d7a9bef4a1HZ43dy4ElQ~.html,recruitment,organization,自变量机器人,2026-10-31,confirmed,s04
 operating_organization,x-square,自变量机器人,ch-cb064f9434655ed9,recruitment_platform,liepin,https://www.liepin.com/company/13737447/,recruitment,organization,自变量机器人,2026-10-31,confirmed,s05
 operating_organization,xiaoduo,晓多科技 / Xiaoduo AI,ch-75e834e79b900573,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/7a6c3a5ab18fb8f81HZ729-6FA~~.html,recruitment,organization,晓多科技 / Xiaoduo AI,2026-10-31,confirmed,s04
 operating_organization,xiaoduo,晓多科技 / Xiaoduo AI,ch-81472992b271ff78,recruitment_platform,liepin,https://www.liepin.com/company/9726000/,recruitment,organization,晓多科技 / Xiaoduo AI,2026-10-31,confirmed,s05
+operating_organization,xiaohongshu,小红书 Xiaohongshu,ch-b64c7833e322dd68,official,website,https://www.xiaohongshu.com/,general,organization,小红书 Xiaohongshu,2026-11-02,confirmed,s01
+operating_organization,xiaohongshu,小红书 Xiaohongshu,ch-2254755a8201b495,official,careers,https://job.xiaohongshu.com/,recruitment,organization,小红书 Xiaohongshu,2026-11-02,confirmed,s02
+operating_organization,xiaohongshu,小红书 Xiaohongshu,ch-4370aa77a29f2aae,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/dfb87d16a41d08301XZ60tu1ElE~.html,recruitment,organization,小红书 Xiaohongshu,2026-11-02,confirmed,s04
+operating_organization,xiaohongshu,小红书 Xiaohongshu,ch-25e95371f78b8752,recruitment_platform,liepin,https://www.liepin.com/company/7921271/,recruitment,organization,小红书,2026-11-02,confirmed,s05
+operating_organization,xiaomi,小米 Xiaomi,ch-2573147170e9f50b,official,website,https://www.mi.com/,general,organization,小米 Xiaomi,2026-11-02,confirmed,s01
+operating_organization,xiaomi,小米 Xiaomi,ch-197ffda7b4a1f419,official,careers,https://hr.xiaomi.com/,recruitment,organization,小米 Xiaomi,2026-11-02,confirmed,s02
+operating_organization,xiaomi,小米 Xiaomi,ch-5aa8569d079ef02b,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/f68813333acd05f11XZ83t25.html,recruitment,organization,小米 Xiaomi,2026-11-02,confirmed,s04
+operating_organization,xiaomi,小米 Xiaomi,ch-718631353cd27ebb,recruitment_platform,liepin,https://www.liepin.com/company/2174886/,recruitment,organization,小米,2026-11-02,confirmed,s05
 operating_organization,xmov,魔珐科技 / Xmov,ch-c40dc25595454336,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/6641c9a76c022a8703F409q5GQ~~.html,recruitment,organization,魔珐科技 / Xmov,2026-10-31,confirmed,s05
 operating_organization,xtalpi,晶泰科技 XtalPi,ch-1d4948520379b7e1,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/a089b45a941615801nB62Nm7.html,recruitment,organization,晶泰科技 XtalPi,2026-10-31,confirmed,s05
 operating_organization,xtalpi,晶泰科技 XtalPi,ch-d8c873b5c5f1109d,recruitment_platform,liepin,https://www.liepin.com/company/8644570/,recruitment,organization,晶泰科技 XtalPi,2026-10-31,confirmed,s06
+operating_organization,xverse,元象科技,ch-c367b3b3cb0181d7,official,website,https://www.xverse.cn,general,organization,元象科技,2026-11-02,confirmed,s02
+operating_organization,xverse,元象科技,ch-1074a4ba42595cae,recruitment_platform,liepin,https://www.liepin.com/company/12741253/,recruitment,organization,元象唯思,2026-11-02,confirmed,s03
+operating_organization,xverse,元象科技,ch-c367ec7602e2f733,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/03b7a6b599ffafd31nF-2dm8GFc~.html,recruitment,organization,元象科技,2026-11-02,confirmed,s04
+operating_organization,xverse,元象科技,ch-6cc0a8d1f42db68b,official,careers,https://careers.xverse.cn/,recruitment,organization,元象科技,2026-11-03,partial,s05
 operating_organization,yingdao,影刀 / 杭州分叉智能,ch-b14499edcdb510ea,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/17a964cf8a8f963c0XZ83N-8FQ~~.html,recruitment,organization,影刀 / 杭州分叉智能,2026-10-31,confirmed,s05
 operating_organization,yingdao,影刀 / 杭州分叉智能,ch-1e0032758550aa49,recruitment_platform,liepin,https://www.liepin.com/company/10239799/,recruitment,organization,影刀 / 杭州分叉智能,2026-10-31,confirmed,s06
+operating_organization,yitu,依图科技,ch-4f4c31c86f0ae7b8,official,website,https://www.yitutech.com/,general,organization,依图科技,2026-11-02,confirmed,s02
+operating_organization,yitu,依图科技,ch-d0e759d1b390851c,official,careers,https://www.yitutech.com/cn/join-us,recruitment,organization,依图科技,2026-11-02,confirmed,s03
+operating_organization,yitu,依图科技,ch-1116d2dad2dc2d23,recruitment_platform,liepin,https://www.liepin.com/company/8812425/,recruitment,organization,依图,2026-11-02,confirmed,s04
+operating_organization,yitu,依图科技,ch-066a96bbe5d71f9d,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/2015455f127866b91nZ429m-Eg~~.html,recruitment,organization,依图,2026-11-02,confirmed,s05
 operating_organization,zhipu,智谱 Z.ai,ch-c18b97be48db3972,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/18815b858c0b88250nd72N66Fw~~.html,recruitment,organization,智谱 Z.ai,2026-10-31,confirmed,s05
 operating_organization,zhipu,智谱 Z.ai,ch-471a2a43ad31891f,recruitment_platform,liepin,https://www.liepin.com/company/10087865/,recruitment,organization,智谱 Z.ai,2026-11-01,confirmed,s06
+operating_organization,zpmc,振华重工,ch-b7b2fab9790a2ab3,official,website,https://www.zpmc.com/,general,organization,振华重工,2026-11-02,confirmed,s02
+operating_organization,zpmc,振华重工,ch-76983c209a988cf8,official,careers,https://www.zpmc.com/hr/recruiting-information,recruitment,organization,振华重工,2026-11-02,confirmed,s03
+operating_organization,zpmc,振华重工,ch-367043d82302e122,recruitment_platform,boss_zhipin,https://www.zhipin.com/gongsi/5c483d8f53a8f86703V92dS-Ew~~.html,recruitment,organization,振华重工,2026-11-02,confirmed,s04

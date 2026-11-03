@@ -1,0 +1,110 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "huaheng-welding",
+  "name": "昆山华恒焊接",
+  "aliases": [
+    "Huaheng Welding",
+    "华恒股份",
+    "华恒焊接",
+    "昆山华恒焊接股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "1995年成立的焊接机器人与自动化焊接装备厂商，现为新三板挂牌公司（NEEQ: 833444），已有多家全资子公司及持续年报披露，属成熟工业装备玩家。列为 later。",
+    "source_ids": [
+      "s03",
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-736a174966a7b44c",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/777c6c96160046831n180964GA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "昆山华恒焊接股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.huaheng.com.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "昆山华恒焊接 公开入口",
+      "url": "https://www.huaheng.com.cn/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 昆山华恒焊接股份有限公司",
+      "url": "https://www.zhipin.com/gongsi/777c6c96160046831n180964GA~~.html",
+      "supports": "公开企业主页主体：昆山华恒焊接股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "华恒股份:2025年年度报告（东方财富新三板）",
+      "url": "https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202604151821240645",
+      "published_date": "2026-04-15",
+      "checked_at": "2026-11-03",
+      "supports": "NEEQ: 833444 昆山华恒焊接股份有限公司2025年年报，含上海华恒、徐州华恒等全资子公司释义。"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "昆山华恒焊接创业板IPO申请未获通过",
+      "url": "https://m.yicai.com/news/706098.html",
+      "published_date": "2011-03-11",
+      "checked_at": "2026-11-03",
+      "supports": "2011年创业板IPO申请未获通过，说明其为已有经营历史的老牌企业。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "08",
+  "focus": "焊接机器人+AI视觉，工业自动化焊接系统",
+  "products": "焊接机器人+AI视觉，工业自动化焊接系统",
+  "locations_text": "昆山",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：焊接机器人+AI视觉，工业自动化焊接系统。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "新三板挂牌（NEEQ: 833444），已披露2025年年报；2011年创业板IPO未获通过。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "昆山华恒焊接",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

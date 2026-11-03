@@ -1,0 +1,153 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "verisilicon",
+  "name": "芯原股份",
+  "aliases": [
+    "VeriSilicon",
+    "芯原",
+    "芯原微电子（上海）股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板上市的芯片设计服务与IP厂商，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-3653a09e716ed0a5",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.verisilicon.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "芯原股份",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-24cfc06de20576b6",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.verisilicon.com/cn/Careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "芯原股份",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "官网招聘页；标题为通用“加入我们”，主体由官网域名确认。"
+    },
+    {
+      "id": "ch-506ecead7993e190",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7909389/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "芯原",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.verisilicon.com",
+    "careers_url": "https://www.verisilicon.com/cn/Careers",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "芯原股份 公开入口",
+      "url": "https://www.verisilicon.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "VeriSilicon - A Silicon Platform as a Service Company",
+      "url": "https://www.verisilicon.com/",
+      "supports": "公开官网主体观察：https://www.verisilicon.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "加入我们",
+      "url": "https://www.verisilicon.com/cn/Careers",
+      "supports": "公开招聘入口主体观察：https://www.verisilicon.com/cn/Careers；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【芯原微电子(上海)股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7909389/",
+      "supports": "公开企业主页主体：芯原；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "芯原股份：2024年实现营业总收入23.22亿元",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2025-04-27/doc-ineuqumz7641512.shtml",
+      "supports": "芯原股份688521的2024年营收23.22亿元、归母净利润-6.01亿元及IP产品线。",
+      "published_date": "2025-04-27",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "09",
+  "focus": "芯片设计服务与半导体IP",
+  "products": "GPU/NPU/VPU/DSP/ISP IP、一站式芯片定制服务",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：芯片设计服务与半导体IP。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "科创板上市（688521）；2024年营收23.22亿元，同比下降0.69%，归母净利润-6.01亿元。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "芯原股份",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

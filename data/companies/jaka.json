@@ -1,0 +1,189 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "jaka",
+  "name": "节卡机器人",
+  "aliases": [
+    "JAKA Robotics",
+    "JAKA"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "2014年成立的协作机器人厂商，2022-2024年营收2.81亿/3.5亿/4亿元，但科创板IPO于2025年8月审议会取消后、12月撤回终止，监管关注收入确认；属新进玩家，列 watchlist 待核经营与资本进展。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-c4224c5a2246dbbc",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.jaka.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "节卡机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-82ed36a8f483a84b",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9401362/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "节卡机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-ea8d96cbf1e50495",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.jaka.com/zh/join",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "节卡机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-674b404af77a05b1",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/81990c218f4828221nd50t28GA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "节卡机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.jaka.com",
+    "careers_url": "https://www.jaka.com/zh/join",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "节卡机器人 公开入口",
+      "url": "https://www.jaka.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "节卡机器人官网",
+      "url": "https://www.jaka.com",
+      "supports": "公开官网主体与标题观察：节卡机器人官网；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【节卡机器人招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9401362/",
+      "supports": "公开企业主页主体：节卡机器人；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "节卡招贤纳士／加入我们",
+      "url": "https://www.jaka.com/zh/join",
+      "supports": "官方招聘／加入我们入口。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 节卡机器人股份有限公司（上海母公司页）",
+      "url": "https://www.zhipin.com/gongsi/81990c218f4828221nd50t28GA~~.html",
+      "supports": "公开企业主页主体：节卡机器人；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "科创板一IPO审议会议取消 原定8月8日召开（证券时报）",
+      "url": "https://stcn.com/article/detail/3003922.html",
+      "published_date": "2025-08-08",
+      "checked_at": "2026-11-03",
+      "supports": "节卡股份成立于2014年，2022-2024年营收2.81/3.5/4亿元，审议会因需进一步核查被取消。"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "节卡股份撤回科创板IPO 原计划募资近7亿元（证券时报）",
+      "url": "https://www.stcn.com/article/detail/3548994.html",
+      "published_date": "2025-12-19",
+      "checked_at": "2026-11-03",
+      "supports": "2025-12-19上交所终止其科创板IPO审核。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "08",
+  "focus": "协作机器人（Cobot），工业装配/焊接/检测，具身AI布局",
+  "products": "协作机器人（Cobot），工业装配/焊接/检测，具身AI布局",
+  "locations_text": "上海总部/苏州研发",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：协作机器人（Cobot），工业装配/焊接/检测，具身AI布局。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2025年12月科创板IPO撤回终止；2022-2024年营收2.81/3.5/4亿元（报道口径）；历史融资轮次本轮未逐项核对。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "节卡机器人",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

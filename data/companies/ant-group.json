@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "id": "ant-group",
+  "name": "蚂蚁集团 Ant Group",
+  "aliases": [
+    "蚂蚁集团",
+    "Ant Group",
+    "蚂蚁科技",
+    "蚂蚁金服"
+  ],
+  "category_id": "01",
+  "focus": "数字支付与金融科技集团；AI 切面以 Ling／百灵模型家族及多模态助手等公开发布为主",
+  "products": "支付宝相关服务、蚂蚁链、Ling／百灵模型、灵光等 AI 产品线索",
+  "locations_text": "杭州；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与阿里巴巴分别建档；公开 AI 证据偏 Ling 模型家族，金融主业不并入阿里云千问叙事。",
+    "peer_names": [
+      "阿里巴巴集团",
+      "腾讯",
+      "百度"
+    ]
+  },
+  "investment": {
+    "summary": "非上市公司；历史融资与上市进程以公司／监管披露为准，本档案不展开未核验轮次表。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": "https://www.antgroup.com/",
+    "careers_url": "https://talent.antgroup.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "与阿里巴巴分别作为寻源入口。猎聘存在多个「蚂蚁集团」公司页，本条取 https://www.liepin.com/company/8968236/ 。官网／招聘站为强 JS 壳，HTTP 200 但标题抓取不稳定，身份以域名与公开检索为准。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "蚂蚁集团官网",
+      "url": "https://www.antgroup.com/",
+      "supports": "集团官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "蚂蚁集团招聘",
+      "url": "https://talent.antgroup.com/",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "Ant Group press: Ling AI Model Family",
+      "url": "https://www.antgroup.com/en/news-media/press-releases/1759982400000",
+      "supports": "Ling／百灵模型主题证据（与 incumbents 一致）",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「蚂蚁科技集团股份有限公司」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/5215e53b5f7afc081Xx60tS_E1o~.html",
+      "supports": "公开企业主页路径指向蚂蚁科技集团；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【蚂蚁集团招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8968236/",
+      "supports": "公开企业主页主体：蚂蚁集团。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "蚂蚁集团",
+    "original_track": "01",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "成熟金融科技母平台，已有 Ling 模型等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-0c235aa84c387cbc",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.antgroup.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "蚂蚁集团 Ant Group",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-8856b7160506e231",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://talent.antgroup.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "蚂蚁集团 Ant Group",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e5b6a49723f97fc1",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/5215e53b5f7afc081Xx60tS_E1o~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "蚂蚁集团 Ant Group",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染。"
+    },
+    {
+      "id": "ch-2c96cfe9b50ab73c",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8968236/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "蚂蚁集团",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

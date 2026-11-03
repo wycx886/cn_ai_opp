@@ -1,0 +1,190 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "nullmax",
+  "name": "纽劢科技",
+  "aliases": [
+    "Nullmax",
+    "纽劢",
+    "纽劢科技"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "乘用车行泊一体智驾方案商，2023年被岩山科技控股，具备独立产品线与量产定点；先列观察。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-c1010f9108e3f27f",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.nullmax.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "纽劢科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-f4d29839bf44acc9",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.nullmax.ai/careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "纽劢科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e26865cf25f0ae74",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9247292/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "Nullmax",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-0571004c729218ca",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/6a532e5fe11431ff0X143NW5.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "纽劢科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.nullmax.ai",
+    "careers_url": "https://www.nullmax.ai/careers",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "纽劢科技 公开入口",
+      "url": "https://www.nullmax.ai",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Nullmax - Bring AI-First Mobility to Life",
+      "url": "https://www.nullmax.ai/",
+      "supports": "公开官网主体观察：https://www.nullmax.ai/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Join Us - Nullmax",
+      "url": "https://www.nullmax.ai/careers",
+      "supports": "公开招聘入口主体观察：https://www.nullmax.ai/careers；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【Nullmax 纽劢科技招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9247292/",
+      "supports": "公开企业主页主体：Nullmax；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 纽劢科技",
+      "url": "https://www.zhipin.com/gongsi/6a532e5fe11431ff0X143NW5.html",
+      "supports": "公开企业主页主体：纽劢科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "Nullmax获得近7.8亿元B轮融资，加速智驾落地",
+      "url": "https://chedongxi.com/news/39878.html",
+      "supports": "Nullmax约7.8亿元B轮、岩山科技独家领投及控股安排。",
+      "published_date": "2023-10-12",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "Nullmax获得近7.8亿元B轮融资，加速推进自动驾驶落地",
+      "url": "https://www.stcn.com/article/detail/1001750.html",
+      "supports": "B轮金额、投资方与MaxDrive/MaxVision产品线。",
+      "published_date": "2023-10-12",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "控股后独立融资能力与最新轮次未核验；客户定点信息来自2023年公司披露。",
+  "category_id": "08",
+  "focus": "乘用车智能驾驶方案",
+  "products": "MaxDrive卓行行泊一体、MaxVision远见视觉感知",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：乘用车智能驾驶方案。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2023年完成约7.8亿元B轮融资，岩山科技独家领投、Stonehill追加投资；交易后成为岩山科技合并报表控股子公司。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "纽劢科技",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

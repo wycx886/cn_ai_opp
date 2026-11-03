@@ -1,0 +1,155 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "kepler-robotics",
+  "name": "开普勒机器人",
+  "aliases": [
+    "Kepler",
+    "开普勒",
+    "先行者",
+    "上海开普勒机器人有限公司",
+    "Kepler Robot"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "2023年成立的人形机器人新进厂商，2025年获产业资本Pre-A，先行者K2进入上汽通用等工业场景训练；列为第一波。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-95c335bdcc5ed472",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/13928431/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海开普勒机器人有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e2008ac365355b3d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/df65785ecc0b2c9003R629W4FVQ~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海开普勒机器人有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-cb0e870a879e4ed3",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.gotokepler.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "开普勒机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.gotokepler.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "contact@gotokepler.com",
+    "other_email_purpose": "一般联系"
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "开普勒机器人 公开入口",
+      "url": "https://www.keplerbot.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【开普勒机器人招聘】-猎聘",
+      "url": "https://www.liepin.com/company/13928431/",
+      "supports": "公开企业主页主体：上海开普勒机器人有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 开普勒机器人有限公司",
+      "url": "https://www.zhipin.com/gongsi/df65785ecc0b2c9003R629W4FVQ~.html",
+      "supports": "公开企业主页主体：上海开普勒机器人有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "“70后”全球化老兵入局人形机器人，开普勒完成Pre-A轮融资",
+      "url": "https://m.rccaijing.com/news-7324687326767674663.html",
+      "supports": "开普勒2023年8月成立、Pre-A投资方、先行者K2工业场景训练。",
+      "published_date": "2025-05-06",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "Kepler Forerunner Series General-Purpose Humanoid Robot · Contact",
+      "url": "https://www.gotokepler.com/contact",
+      "supports": "官方联系页：contact@gotokepler.com（联系）、sales@/business@/pr@/investor@gotokepler.com 分用途列出；未公开招聘邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "Pre-A金额未披露；量产与订单数据未核验，创始团队履历不作为组织归属证据。 2026-11-03：官网联系页未公开招聘邮箱；招聘走 BOSS／猎聘。",
+  "category_id": "08",
+  "focus": "通用人形机器人",
+  "products": "先行者K2人形机器人、工业场景训练与本体",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：通用人形机器人。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2025年完成Pre-A轮融资，投资方包括张科垚坤基金、伟创电气、柯力传感，金额未披露；公司成立于2023年8月。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "开普勒机器人",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

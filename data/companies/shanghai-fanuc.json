@@ -1,0 +1,191 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "shanghai-fanuc",
+  "name": "上海发那科",
+  "aliases": [
+    "Shanghai-FANUC",
+    "发那科",
+    "FANUC",
+    "上海发那科机器人有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "1997年成立的中日合资工业机器人公司，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-15240847f0189aa4",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/177212/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海发那科",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-f3ca9e94edf0e2fb",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.shanghai-fanuc.com.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "上海发那科",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-1f8d9159d34a4d84",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.shanghai-fanuc.com.cn/about-join.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海发那科",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-1881ab9533475468",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/c56b579f4fcd11681nZ72N29EA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "发那科",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.shanghai-fanuc.com.cn/",
+    "careers_url": "https://www.shanghai-fanuc.com.cn/about-join.html",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "上海发那科 公开入口",
+      "url": "https://www.shanghai-fanuc.com.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【上海发那科机器人有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/177212/",
+      "supports": "公开企业主页主体：上海发那科；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "上海发那科-智能制造专家",
+      "url": "https://www.shanghai-fanuc.com.cn/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "公开官网主体观察：https://www.shanghai-fanuc.com.cn/；只核验入口归属。"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "加入我们-上海发那科-智能制造专家",
+      "url": "https://www.shanghai-fanuc.com.cn/about-join.html",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "公开招聘入口主体观察：https://www.shanghai-fanuc.com.cn/about-join.html；只核验入口归属，不表示具体岗位开放。"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 发那科",
+      "url": "https://www.zhipin.com/gongsi/c56b579f4fcd11681nZ72N29EA~~.html",
+      "supports": "公开企业主页主体：发那科；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "上海电气拟30.82亿元收购上海发那科50%股权",
+      "url": "https://leaderobot.com/news/4740",
+      "supports": "上海发那科50%股权收购、30.82亿元交易对价及1997年合资背景。",
+      "published_date": "2024-10-21",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "发那科上海机器人新工厂开建，投产后年产值将达100亿",
+      "url": "https://m.jiemian.com/article/5344481_yidian.html",
+      "supports": "上海发那科由上海电气与日本发那科各占50%、工厂与系统集成业务。",
+      "published_date": "2020-12-02",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "股权收购为2024年10月公告，交割与最终持股未在本次核验；日本发那科未列入本库平台底表。",
+  "category_id": "08",
+  "focus": "工业机器人及智能制造系统集成",
+  "products": "工业机器人本体、机器人系统集成、智能制造产线",
+  "locations_text": "上海宝山",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：工业机器人及智能制造系统集成。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "1997年由上海电气与日本发那科各持股50%合资组建；2024年上海电气拟以30.82亿元收购上海发那科50%股权（通过宁笙实业），交易后由上海电气方面控股。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "上海发那科",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

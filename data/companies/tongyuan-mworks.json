@@ -1,0 +1,164 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "tongyuan-mworks",
+  "name": "苏州同元软控（MWORKS）",
+  "aliases": [
+    "MWORKS (Tongyuan)",
+    "同元软控",
+    "MWORKS",
+    "苏州同元软控信息技术有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "同元软控2008年成立，官网称二十年技术积累，MWORKS为其科学计算与系统建模仿真货架产品，属成熟工业仿真软件厂商的AI扩展；虽仍有股权融资，不按AI原生新进处理。列为 later。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-87f917143e3b9e02",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.tongyuan.cc",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州同元软控（MWORKS）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-64e97468980cc6c9",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8000987/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "同元软控",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-59076ecc5306c75d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/cb021b2050a4357a1HV80924FA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州同元软控信息技术有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.tongyuan.cc",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州同元软控（MWORKS） 公开入口",
+      "url": "https://www.tongyuan.cc/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "苏州同元软控（MWORKS）官网",
+      "url": "https://www.tongyuan.cc",
+      "supports": "公开官网主体与标题观察：同元软控官网；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【同元软控招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8000987/",
+      "supports": "公开企业主页主体：同元软控；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州同元软控技术股份有限公司（园区，83岗）",
+      "url": "https://www.zhipin.com/gongsi/cb021b2050a4357a1HV80924FA~~.html",
+      "supports": "公开企业主页主体：苏州同元软控信息技术有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "苏州同元软控技术股份有限公司官网",
+      "url": "https://china-modelica.com/",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "同元软控成立于2008年、专业从事信息物理系统计算仿真工业软件，自研货架产品MWORKS。"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "同元软控 | 项目信息-36氪",
+      "url": "https://pitchhub.36kr.com/project/2012739734161157",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "公开融资事件列表（2022年A轮等）；金额以披露为限。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "04",
+  "focus": "工业仿真软件（国产MATLAB/Simulink替代）+AI集成",
+  "products": "工业仿真软件（国产MATLAB/Simulink替代）+AI集成",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：工业仿真软件（国产MATLAB/Simulink替代）+AI集成。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "未上市；36氪项目页列2022年A轮等融资事件，金额与最新轮次本轮未逐项核对。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "苏州同元软控（MWORKS）",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

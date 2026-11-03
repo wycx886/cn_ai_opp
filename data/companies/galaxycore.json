@@ -1,0 +1,153 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "galaxycore",
+  "name": "格科微",
+  "aliases": [
+    "GalaxyCore",
+    "格科微电子(上海)有限公司",
+    "格科微有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板上市的CMOS图像传感器厂商，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-72c23bc9e3137224",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.gcoreinc.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "格科微",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-259f1ffd814c6e3a",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7883923/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "格科微电子(上海)有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-000c00452b2fe7c9",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/0dfad9eb545634e11nd72d60Fg~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "格科微",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.gcoreinc.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "格科微 公开入口",
+      "url": "https://www.gcoreinc.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "格科微集团官网",
+      "url": "https://www.gcoreinc.com/",
+      "supports": "公开官网主体观察：https://www.gcoreinc.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【格科招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7883923/",
+      "supports": "公开企业主页主体：格科微电子(上海)有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 格科微",
+      "url": "https://www.zhipin.com/gongsi/0dfad9eb545634e11nd72d60Fg~~.html",
+      "supports": "公开企业主页主体：格科微；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "格科微2024年财报：营收63.83亿元，同增35.90%",
+      "url": "https://www.163.com/dy/article/JU8QKGGU0538VQMO.html",
+      "supports": "格科微688728的2024年营收63.83亿元、归母净利润1.87亿元及显示驱动业务。",
+      "published_date": "2025-04-28",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "未核实到独立招聘页与招聘邮箱；招聘入口见 channels 中的猎聘/BOSS 页面。官网 2026-11-03 处于维护状态，未取得独立产品页。",
+  "category_id": "09",
+  "focus": "CMOS图像传感器与显示驱动芯片",
+  "products": "CMOS图像传感器（手机/穿戴/家居）、LCD TDDI与AMOLED显示驱动",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：CMOS图像传感器与显示驱动芯片。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "科创板上市（688728）；2024年营收63.83亿元，同比增长35.90%，归母净利润1.87亿元。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "格科微",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

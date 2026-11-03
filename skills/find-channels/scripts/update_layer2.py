@@ -8,15 +8,14 @@ import json
 from pathlib import Path
 import re
 import sys
-import unicodedata
 ROOT=Path(__file__).resolve().parents[3]
 sys.path.insert(0,str(ROOT/'tools'))
 from record_writes import apply_changes
-from record_checks import load, platform_url, record_path, reject_placeholders, schema_validator, today, validate_record
+from record_checks import load, normalized_organization_name, platform_url, record_path, reject_placeholders, schema_validator, today, validate_record
 
 
 def normalized_name(value):
-    return ''.join(c for c in unicodedata.normalize('NFKC',value).casefold() if c.isalnum())
+    return normalized_organization_name(value)
 
 
 def plan_changes(batch, root=ROOT):
@@ -46,15 +45,16 @@ def plan_changes(batch, root=ROOT):
         if channel and observed<date.fromisoformat(channel['checked_at']):raise ValueError('Stale observation would downgrade a newer channel check')
         source=next((s for s in record['sources'] if s.get('scope')=='channel' and s['url']==url),None)
         if source and observed<date.fromisoformat(source['checked_at']):raise ValueError('Stale observation would downgrade newer source evidence')
+        support='公开企业主页主体：'+entry['observed_name']+'；只核验入口归属，不表示具体岗位开放。'
         if source is None:
             numbers=[int(s['id'][1:]) for s in record['sources']]
-            source={'id':'s%02d'%(max(numbers,default=0)+1),'scope':'channel','title':entry['evidence_title'],'url':url,'supports':'公开企业主页主体：'+entry['observed_name']+'；只核验入口归属，不表示具体岗位开放。','published_date':None,'checked_at':entry['checked_at']}
+            source={'id':'s%02d'%(max(numbers,default=0)+1),'scope':'channel','title':entry['evidence_title'],'url':url,'supports':support,'published_date':None,'checked_at':entry['checked_at']}
             record['sources'].append(source)
         else:
-            source.update(title=entry['evidence_title'],checked_at=entry['checked_at'])
+            source.update(title=entry['evidence_title'],checked_at=entry['checked_at'],supports=support)
         replacement={'id':channel['id'] if channel else 'ch-'+hashlib.sha256((entry['platform']+'\n'+url).encode()).hexdigest()[:16],
                      'layer':'recruitment_platform','platform':entry['platform'],'url':url,'purpose':'recruitment',
-                     'owner':{'scope':'organization','name':record['name'],'role':None},'verification_status':'confirmed',
+                     'owner':{'scope':'organization','name':entry['observed_name'],'role':None},'verification_status':'confirmed',
                      'checked_at':entry['checked_at'],'source_ids':[source['id']],'notes':None}
         if channel:channel.update(replacement)
         else:record['channels'].append(replacement)

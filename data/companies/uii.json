@@ -1,0 +1,190 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "uii",
+  "name": "联影智能",
+  "aliases": [
+    "United Imaging Intelligence",
+    "UII",
+    "上海联影智能医疗科技有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "联影集团旗下医疗AI公司，2025年完成10亿元A轮，影像大模型与临床落地岗位对口；列为第一波。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-0df80d689b14ee86",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.uii-ai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "联影智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e0e353990301bbf3",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://uii-ai.zhiye.com/social/jobs",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "联影智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e4ecd13431615660",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9761547/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "联影智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-31799e5605291026",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/76efa3ea6d08658503F42N60EFE~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "联影智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.uii-ai.com",
+    "careers_url": "https://uii-ai.zhiye.com/social/jobs",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "联影智能 公开入口",
+      "url": "https://www.uii-ai.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "联影智能官方网站-AI医疗诊断-医疗AI大模型-医疗人工智能诊断",
+      "url": "https://www.uii-ai.com/",
+      "supports": "公开官网主体观察：https://www.uii-ai.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "联影智能社会招聘",
+      "url": "https://uii-ai.zhiye.com/social/jobs",
+      "supports": "公开招聘入口主体观察：https://uii-ai.zhiye.com/social/jobs；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【联影智能招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9761547/",
+      "supports": "公开企业主页主体：联影智能；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 联影智能",
+      "url": "https://www.zhipin.com/gongsi/76efa3ea6d08658503F42N60EFE~.html",
+      "supports": "公开企业主页主体：联影智能；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "69.72亿元资金流向：机器人、生物医药赛道融资活跃，联影智能完成10亿元A轮融资",
+      "url": "https://www.21jingji.com/article/20250623/herald/a5517493cf2a0ac7c47702b8c9cf46d0.html",
+      "supports": "联影智能10亿元A轮、领投/跟投方、2017年成立及联影集团关系。",
+      "published_date": "2025-06-23",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "联影智能官网",
+      "url": "https://www.uii-ai.com/",
+      "supports": "医疗AI诊断、影像大模型与临床/科研产品矩阵。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "为联影集团旗下公司但独立融资；完整股东结构与估值未披露。",
+  "category_id": "06",
+  "focus": "医学影像AI与影像大模型",
+  "products": "多场景医疗AI诊断、影像大模型、临床工作流",
+  "locations_text": "上海徐汇",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：医学影像AI与影像大模型。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2025年6月完成10亿元A轮融资，易方达私募与上国投资共同领投，上海联和、盛石资本、苏创投、清松资本、联影医疗等参与。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "联影智能",
+    "original_track": "06",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

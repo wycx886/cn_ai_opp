@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "westwell",
+  "name": "西井科技",
+  "aliases": [
+    "Westwell",
+    "西井",
+    "西井科技"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "港口/陆港自动驾驶与AI调度新进厂商，完成14轮融资、E轮6亿元并重启IPO辅导，海外18国落地；列为第一波。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-3285178a7b324f02",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.westwell-lab.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "西井科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "草稿域名 westwell.com 跳转域名出售页；已改为核验通过的官网。"
+    },
+    {
+      "id": "ch-11c83fe90bf360ab",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.westwell-lab.com/about/careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "西井科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-2693a013db094d7e",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8617067/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "西井科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-4d0f58c303c19a80",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/a9c46db75720c8e403Zy290~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "西井科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.westwell-lab.com/",
+    "careers_url": "https://www.westwell-lab.com/about/careers",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "西井科技 公开入口",
+      "url": "https://www.westwell.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Westwell 西井科技 | 以 AI + 新能源技术重塑全球物流运转方式的领导者",
+      "url": "https://www.westwell-lab.com/",
+      "supports": "公开官网主体观察：https://www.westwell-lab.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "加入我们 | 西井科技",
+      "url": "https://www.westwell-lab.com/about/careers",
+      "supports": "公开招聘入口主体观察：https://www.westwell-lab.com/about/careers；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【西井科技招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8617067/",
+      "supports": "公开企业主页主体：西井科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海西井科技",
+      "url": "https://www.zhipin.com/gongsi/a9c46db75720c8e403Zy290~.html",
+      "supports": "公开企业主页主体：西井科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "西井科技重启IPO辅导 辅导机构变更为国泰海通证券 复星集团、平安资本等投了",
+      "url": "https://www.cls.cn/detail/2002105",
+      "supports": "西井科技14轮融资、E轮6亿元、平安资本/中移资本、18国业务及IPO辅导。",
+      "published_date": "2025-04-12",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "IPO辅导尚在进行，未上市；历轮投资方未逐轮展开。",
+  "category_id": "06",
+  "focus": "港口与物流自动驾驶、AI调度",
+  "products": "Q-Truck无人驾驶重卡、港口/陆港/工厂自动驾驶方案、AI调度系统",
+  "locations_text": "上海青浦",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：港口与物流自动驾驶、AI调度。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2023年完成E轮6亿元融资，平安资本、中移资本等参与，累计14轮；2025年4月重启A股IPO辅导。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "西井科技",
+    "original_track": "06",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

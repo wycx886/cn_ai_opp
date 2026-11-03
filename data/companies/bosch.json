@@ -1,0 +1,153 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "bosch",
+  "name": "博世（中国）苏州",
+  "aliases": [
+    "Bosch Suzhou",
+    "Robert Bosch Suzhou"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "博世集团相关的苏州业务研究线索，按成熟工业技术平台入口列入 later；现有 s01 是未重新读取的导入线索，不能证明具体苏州法人、团队或业务规模。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-4cfe3c6b17529e0b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.bosch.com.cn",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "博世中国",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "待核实：页面观察主体为“博世中国”；不能作为“博世（中国）苏州”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-ba6ccd031a7c8999",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8179352/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "博世中国",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "猎聘为博世中国集团主页，苏州工厂／单元未单独列出。 待核实：页面观察主体为“博世中国”；不能作为“博世（中国）苏州”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-00812517053c9a84",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/a9bc7853a78f0ea31nJy3t60EA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "博世汽车部件（苏州）有限公司",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "待核实：页面观察主体为“博世汽车部件（苏州）有限公司”；不能作为“博世（中国）苏州”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "博世（中国）苏州 公开入口",
+      "url": "https://www.bosch.com.cn/our-company/bosch-in-china/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "关联网站观察（原采集标签：博世（中国）苏州官网）",
+      "url": "https://www.bosch.com.cn",
+      "supports": "公开官网主体与标题观察：主页 | 博世在中国；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【博世中国招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8179352/",
+      "supports": "公开企业主页主体：博世中国；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 博世汽车部件（苏州）有限公司（园区；优先苏州法人页）",
+      "url": "https://www.zhipin.com/gongsi/a9bc7853a78f0ea31nJy3t60EA~~.html",
+      "supports": "公开企业主页主体：博世汽车部件（苏州）有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 主体边界：博世苏州业务线索；现有资料仅有集团网页与苏州汽车部件公司招聘页，不能据此确认全部苏州业务的主体边界。 原采集关联名称（不再作为同一主体别名匹配）：博世中国、博世、博世汽车部件（苏州）有限公司。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.bosch.com.cn 保留为关联／历史线索，未确认属于本研究单元。",
+  "category_id": "06",
+  "focus": "业务研究线索（当前本地团队归属待核实）：汽车零部件+工业AI，智能传感器、ADAS系统，工厂AI",
+  "products": "原采集产品／业务关注点（不表示本地单元当前归属）：汽车零部件+工业AI，智能传感器、ADAS系统，工厂AI",
+  "locations_text": "苏州汽车部件法人招聘页线索；具体园区、办公地点及其他苏州业务边界待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：博世集团在华运营主体（含博世汽车部件（苏州）有限公司）；苏州主体不单独披露股权融资。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "博世（中国）苏州",
+    "original_track": "06",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [],
+    "relationship_status": "unresolved",
+    "summary": "博世苏州业务线索；现有资料仅有集团网页与苏州汽车部件公司招聘页，不能据此确认全部苏州业务的主体边界。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-02"
+  }
+}

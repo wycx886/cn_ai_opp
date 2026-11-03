@@ -1,24 +1,24 @@
 {
   "schema_version": 4,
-  "latest_checked_at": "2026-10-31",
-  "latest_operating_check": "2026-10-31",
+  "latest_checked_at": "2026-11-03",
+  "latest_operating_check": "2026-11-03",
   "latest_investment_firm_check": "2026-10-30",
   "counts": {
-    "organizations": 105,
-    "companies": 105,
-    "operating_organizations": 80,
+    "organizations": 226,
+    "companies": 226,
+    "operating_organizations": 201,
     "investment_firms": 25,
-    "first": 84,
-    "watchlist": 8,
-    "later": 13
+    "first": 102,
+    "watchlist": 22,
+    "later": 102
   },
   "statistics": {
     "operating_organizations": {
-      "organizations": 80,
+      "organizations": 201,
       "categories": 10,
-      "source_records": 400,
-      "recruitment_links": 76,
-      "public_recruitment_emails": 38
+      "source_records": 1028,
+      "recruitment_links": 129,
+      "public_recruitment_emails": 42
     },
     "investment_firms": {
       "organizations": 25,
@@ -1039,6 +1039,72 @@
       "investment_status": "partial"
     },
     {
+      "id": "abb-china",
+      "name": "ABB（中国）上海",
+      "aliases": [
+        "ABB China Shanghai"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：工业机器人、电气化与工业自动化",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "ABB在华及上海业务集合，按成熟工业平台相关线索列入 later；集团、分公司和上海机器人超级工厂分别核验，不认定为同一法人。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/abb-china.json",
+      "markdown_path": "data/views/companies/abb-china.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "ABB中国／上海业务集合；集团、上海分公司与机器人超级工厂是不同研究层级，不能视为同一法人。",
+        "source_ids": [
+          "s07"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "acm-research",
+      "name": "盛美半导体",
+      "aliases": [
+        "ACM Research",
+        "盛美上海",
+        "ACMR",
+        "ACM Research Shanghai",
+        "盛美半导体设备(上海)股份有限公司",
+        "盛美半导体设备"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "半导体清洗设备，晶圆制造前道工艺装备",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上交所科创板上市（688082，2021-11）的半导体专用设备厂商，2005年成立，属成熟设备平台；公开资料注册地为上海，苏州制造基地口径本轮未核实。列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/acm-research.json",
+      "markdown_path": "data/views/companies/acm-research.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "agibot",
       "name": "智元机器人",
       "aliases": [
@@ -1066,6 +1132,64 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "agora",
+      "name": "声网 Agora",
+      "aliases": [
+        "Agora",
+        "声网",
+        "RTE",
+        "上海兆言网络科技有限公司",
+        "Agora, Inc."
+      ],
+      "organization_type": "operating_organization",
+      "focus": "实时音视频（RTE）与对话式 AI 引擎",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已在美股上市的实时互动云与对话式AI基础设施公司，属于成熟平台而非新进机构；列为 later 资料批次。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/agora.json",
+      "markdown_path": "data/views/companies/agora.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "agve",
+      "name": "苏州艾吉威机器人",
+      "aliases": [
+        "AGVE Robotics",
+        "AGVE",
+        "苏州艾吉威机器人有限公司",
+        "艾吉威"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AMR/AGV自主移动机器人，工厂物流自动化",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "2011年成立的苏州本地AMR/无人叉车厂商，自研无反光板激光导航，属机器人赛道成长型企业；与快仓、擎朗口径一致归为新进。最新融资、收入规模本轮未核实，列 watchlist。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/agve.json",
+      "markdown_path": "data/views/companies/agve.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "not_found"
+    },
+    {
       "id": "ai-indeed",
       "name": "实在智能",
       "aliases": [
@@ -1091,6 +1215,34 @@
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
       "investment_status": "partial"
+    },
+    {
+      "id": "aispeech",
+      "name": "思必驰",
+      "aliases": [
+        "AISpeech",
+        "思必驰科技",
+        "思必驰科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "对话式AI平台（语音识别/NLU/TTS），车载+IoT+客服大模型商业化",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "思必驰2007年成立、注册于苏州工业园区，2025年营收6.88亿元，2026年5月科创板IPO获受理；作为成立近二十年的对话式AI与AI芯片厂商，与依图、商汤口径一致按既有AI玩家处理。列为 later。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/aispeech.json",
+      "markdown_path": "data/views/companies/aispeech.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "aisphere",
@@ -1150,6 +1302,131 @@
       "investment_status": "partial"
     },
     {
+      "id": "alibaba",
+      "name": "阿里巴巴集团 Alibaba",
+      "aliases": [
+        "阿里巴巴",
+        "阿里巴巴集团",
+        "Alibaba",
+        "Alibaba Group"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "电商与云计算等综合互联网集团；AI 切面以通义千问／阿里云百炼等模型与云侧服务为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市综合互联网／云母平台，已有千问／百炼等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/alibaba.json",
+      "markdown_path": "data/views/companies/alibaba.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "alibaba-shanghai",
+      "name": "阿里巴巴（上海）",
+      "aliases": [
+        "Alibaba Shanghai",
+        "阿里上海",
+        "阿里巴巴上海总部"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：本地生活、云计算与通义大模型应用的上海业务集群",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "阿里巴巴集团的上海业务与总部集群，属于成熟平台的区域单元；不构成独立新进机构，列为 later 资料批次。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/alibaba-shanghai.json",
+      "markdown_path": "data/views/companies/alibaba-shanghai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "internal_team",
+        "parent_platform_ids": [
+          "alibaba"
+        ],
+        "relationship_status": "reported",
+        "summary": "上海区域业务集合，非单一法人；2024年总部报道不证明当前全部团队与品牌归属。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "amec",
+      "name": "中微公司",
+      "aliases": [
+        "AMEC",
+        "中微",
+        "中微半导体设备(上海)股份有限公司",
+        "中微半导体设备（上海）股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "半导体刻蚀设备与MOCVD设备",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的半导体设备龙头，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/amec.json",
+      "markdown_path": "data/views/companies/amec.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "amlogic",
+      "name": "晶晨股份",
+      "aliases": [
+        "Amlogic",
+        "晶晨",
+        "晶晨半导体(上海)股份有限公司",
+        "晶晨半导体（上海）股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "多媒体SoC与AIoT芯片",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的多媒体SoC厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/amlogic.json",
+      "markdown_path": "data/views/companies/amlogic.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "anew-labs",
       "name": "Anew Labs 新生实验室",
       "aliases": [
@@ -1193,6 +1470,35 @@
       }
     },
     {
+      "id": "ant-group",
+      "name": "蚂蚁集团 Ant Group",
+      "aliases": [
+        "蚂蚁集团",
+        "Ant Group",
+        "蚂蚁科技",
+        "蚂蚁金服"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "数字支付与金融科技集团；AI 切面以 Ling／百灵模型家族及多模态助手等公开发布为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "成熟金融科技母平台，已有 Ling 模型等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/ant-group.json",
+      "markdown_path": "data/views/companies/ant-group.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
       "id": "approaching-ai",
       "name": "趋境科技 Approaching.AI",
       "aliases": [
@@ -1220,6 +1526,34 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "partial"
+    },
+    {
+      "id": "asr-microelectronics",
+      "name": "翱捷科技",
+      "aliases": [
+        "ASR Microelectronics",
+        "ASR",
+        "翱捷",
+        "翱捷科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "IoT/NB-IoT/通信基带芯片，边缘AI处理器，AIoT终端",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市（688220，2022-01）的无线通信与物联网芯片厂商，2015年成立，已形成持续芯片产品线；苏州研发中心口径本轮未核实。列为 later。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/asr-microelectronics.json",
+      "markdown_path": "data/views/companies/asr-microelectronics.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "avolution",
@@ -1274,6 +1608,156 @@
       "markdown_path": "data/views/companies/baichuan.md",
       "category_id": "01",
       "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "baidu",
+      "name": "百度 Baidu",
+      "aliases": [
+        "百度",
+        "Baidu",
+        "百度网讯"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "搜索与智能云等互联网集团；AI 切面以文心／ERNIE 与千帆大模型平台为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市互联网／智能云母平台，已有文心／千帆等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/baidu.json",
+      "markdown_path": "data/views/companies/baidu.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "baidu-shanghai",
+      "name": "百度（上海）",
+      "aliases": [
+        "Baidu Shanghai",
+        "百度上海",
+        "百度上海研发中心"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：搜索、文心大模型、智能云与自动驾驶的上海研发",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "百度集团的上海研发机构，属于成熟平台的区域研发单元；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/baidu-shanghai.json",
+      "markdown_path": "data/views/companies/baidu-shanghai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "research_lab",
+        "parent_platform_ids": [
+          "baidu"
+        ],
+        "relationship_status": "reported",
+        "summary": "历史上海研发中心线索；2008年设立信息不证明当前团队、法人或岗位。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "baosight",
+      "name": "宝信软件",
+      "aliases": [
+        "Baosight",
+        "宝信",
+        "上海宝信软件股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业互联网、钢铁行业AI与数据中心",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "宝武体系内上市的工业软件与IDC平台，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/baosight.json",
+      "markdown_path": "data/views/companies/baosight.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "bestechnic",
+      "name": "恒玄科技",
+      "aliases": [
+        "Bestechnic",
+        "恒玄",
+        "恒玄科技(上海)股份有限公司",
+        "恒玄科技（上海）股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能音频与可穿戴SoC",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的智能音频/可穿戴芯片厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/bestechnic.json",
+      "markdown_path": "data/views/companies/bestechnic.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "bilibili",
+      "name": "哔哩哔哩",
+      "aliases": [
+        "Bilibili",
+        "B站",
+        "上海哔哩哔哩科技有限公司",
+        "哔哩哔哩股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "视频社区与AI推荐、创作工具",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "纳斯达克与港交所上市的内容社区平台，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/bilibili.json",
+      "markdown_path": "data/views/companies/bilibili.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -1332,6 +1816,165 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "blacklake",
+      "name": "黑湖科技",
+      "aliases": [
+        "Black Lake",
+        "黑湖",
+        "黑湖智造",
+        "上海黑湖网络科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "制造业协同SaaS与工业AI Agent",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "工业AI Agent与制造协同SaaS的规模化新进厂商，2026年完成近10亿元D轮并称全面盈利，产品与商业化岗位密度高；列为第一波研究候选。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/blacklake.json",
+      "markdown_path": "data/views/companies/blacklake.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "bosch",
+      "name": "博世（中国）苏州",
+      "aliases": [
+        "Bosch Suzhou",
+        "Robert Bosch Suzhou"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：汽车零部件+工业AI，智能传感器、ADAS系统，工厂AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "博世集团相关的苏州业务研究线索，按成熟工业技术平台入口列入 later；现有 s01 是未重新读取的导入线索，不能证明具体苏州法人、团队或业务规模。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/bosch.json",
+      "markdown_path": "data/views/companies/bosch.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "博世苏州业务线索；现有资料仅有集团网页与苏州汽车部件公司招聘页，不能据此确认全部苏州业务的主体边界。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-02"
+      }
+    },
+    {
+      "id": "bozhong",
+      "name": "苏州博众精工",
+      "aliases": [
+        "Bozhong Precision Group",
+        "博众精工科技股份有限公司",
+        "博众精工"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能制造装备、自动化产线系统集成，新能源/3C机器人",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市（688097，2021-05）的自动化设备与柔性产线厂商，2006年成立、注册于苏州吴江，属成熟智能制造装备玩家。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/bozhong.json",
+      "markdown_path": "data/views/companies/bozhong.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "bytedance",
+      "name": "字节跳动 ByteDance",
+      "aliases": [
+        "字节跳动",
+        "ByteDance",
+        "北京字节跳动"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "互联网内容与效率产品；集团侧有 Seed／豆包等基础模型与火山引擎模型服务",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "中国综合互联网母平台；已有 AI 主题公开证据（Seed／豆包／火山引擎），作为已有玩家资料批次建档，不等于第一波新进候选。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/bytedance.json",
+      "markdown_path": "data/views/companies/bytedance.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
+      "id": "bytedance-shanghai",
+      "name": "字节跳动（上海）",
+      "aliases": [
+        "ByteDance Shanghai",
+        "字节上海",
+        "字节跳动上海办公室"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：内容平台、电商与飞书/豆包生态的上海研发与商业化",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动集团的上海区域办公与业务团队，属于成熟平台的区域单元；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/bytedance-shanghai.json",
+      "markdown_path": "data/views/companies/bytedance-shanghai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "internal_team",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "reported",
+        "summary": "上海办公室／区域业务线索；不等同集团，也不自动包含抖音电商或飞书全部团队。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
       "id": "caiyun",
       "name": "彩云科技",
       "aliases": [
@@ -1359,6 +2002,103 @@
       "investment_status": "partial"
     },
     {
+      "id": "cas-brain-inspired-computing",
+      "name": "苏州中科类脑",
+      "aliases": [
+        "CAS Brain-Inspired Computing Suzhou"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "待核实主体；原采集业务线索：类脑计算芯片、AI边缘推理、工业智能",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "尚未证实苏州具体主体与合肥中科类脑的对应关系；s01 只是未核实的通用入口，保留 unresolved／watchlist。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/cas-brain-inspired-computing.json",
+      "markdown_path": "data/views/companies/cas-brain-inspired-computing.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "苏州中科类脑的具体主体待核实；合肥中科类脑招聘页不能证明苏州主体，也不证明中科院孵化或融资。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-02"
+      }
+    },
+    {
+      "id": "china-wafer-level-csp",
+      "name": "苏州晶方半导体",
+      "aliases": [
+        "China Wafer Level CSP",
+        "晶方科技",
+        "WLCSP",
+        "苏州晶方半导体科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "晶圆级封装（CSP/WLP），图像传感器+MEMS封装，AI硬件封测",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上交所主板上市（603005，2014-02）的传感器封测厂商，2005年成立、注册于苏州工业园区，属成熟封测玩家。列为 later。",
+        "source_ids": [
+          "s03"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/china-wafer-level-csp.json",
+      "markdown_path": "data/views/companies/china-wafer-level-csp.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "cloudwalk-suzhou",
+      "name": "云从科技（苏州）",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：计算机视觉+人机协同操作系统，金融/政务/城市AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "s05 支持云从科技集团上市身份与广州注册信息，按成熟平台线索列入 later；不据此确认苏州法人、团队、孵化关系或融资。",
+        "source_ids": [
+          "s01",
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/cloudwalk-suzhou.json",
+      "markdown_path": "data/views/companies/cloudwalk-suzhou.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "云从集团与江苏云从曦和招聘页均为关联线索；苏州研究对象、当地法人及控制关系待核实。",
+        "source_ids": [
+          "s05"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
       "id": "creativefitting",
       "name": "井英科技 / CreativeFitting",
       "aliases": [
@@ -1384,6 +2124,37 @@
       "markdown_path": "data/views/companies/creativefitting.md",
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "ctrip",
+      "name": "携程集团",
+      "aliases": [
+        "Trip.com Group",
+        "携程",
+        "Ctrip",
+        "Trip.com",
+        "携程计算机技术(上海)有限公司",
+        "携程集团有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "在线旅游与AI旅行助手",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "纳斯达克与港交所上市的在线旅游平台，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/ctrip.json",
+      "markdown_path": "data/views/companies/ctrip.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -1471,6 +2242,35 @@
       "investment_status": "partial"
     },
     {
+      "id": "deepblue",
+      "name": "深兰科技",
+      "aliases": [
+        "DeepBlue",
+        "深兰",
+        "深兰人工智能科技(上海)股份有限公司",
+        "深兰科技（上海）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "计算机视觉、智能机器人与自动驾驶",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "多线布局AI装备的新进公司，2025年获浦东创投Pre-IPO投资；业务线较分散、公开财务与客户验证有限，先列观察而非第一波。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/deepblue.json",
+      "markdown_path": "data/views/companies/deepblue.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "deepdraw",
       "name": "深绘智能 / Deepdraw",
       "aliases": [
@@ -1525,6 +2325,39 @@
       "investment_status": "partial"
     },
     {
+      "id": "deepglint-suzhou",
+      "name": "格灵深瞳（苏州）",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：计算机视觉AI，工业质检/城市安全/体育AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2013年成立、2022年科创板上市（688207）的计算机视觉与大数据分析厂商，属已上市AI视觉玩家；注册地北京，苏州单元本轮未核实。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/deepglint-suzhou.json",
+      "markdown_path": "data/views/companies/deepglint-suzhou.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "现有来源支持北京格灵深瞳上市主体，苏州法人／团队待核实。",
+        "source_ids": [
+          "s04"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
       "id": "deepseek",
       "name": "深度求索 DeepSeek",
       "aliases": [
@@ -1550,6 +2383,34 @@
       "markdown_path": "data/views/companies/deepseek.md",
       "category_id": "01",
       "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
+      "id": "didi",
+      "name": "滴滴 DiDi",
+      "aliases": [
+        "滴滴",
+        "DiDi",
+        "滴滴出行"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "出行与本地交通平台；AI 切面以 Robotaxi／自动驾驶研发与运营投入为公开证据",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "成熟出行母平台，已有 Robotaxi 等 AI／自动驾驶主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/didi.json",
+      "markdown_path": "data/views/companies/didi.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "partial"
     },
     {
@@ -1608,6 +2469,65 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "ecarx-holdings",
+      "name": "亿咖通科技",
+      "aliases": [
+        "ECARX Holdings",
+        "ECARX",
+        "浙江亿咖通科技有限公司",
+        "亿咖通",
+        "亿咖通（湖北）技术有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "车载智能计算平台（SoC+OS+软件栈），智能座舱芯片与AI软件",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "吉利系车载智能计算平台供应商，2017年成立，2022年12月经SPAC登陆纳斯达克（ECX）；苏州高铁新城曾投资其A+轮。上市逾三年、已有规模营收，按既有玩家处理。列为 later。",
+        "source_ids": [
+          "s04",
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/ecarx-holdings.json",
+      "markdown_path": "data/views/companies/ecarx-holdings.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "elite-robots",
+      "name": "苏州艾利特机器人",
+      "aliases": [
+        "Elite Robots",
+        "艾利特",
+        "艾利特机器人",
+        "上海艾利特机器人有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "协作机器人（Cobot）设计制造，工业自动化与具身灵巧操作",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "2016年创立、2018年在苏州工业园区设全球生产基地的协作/复合机器人厂商，2026年3月完成6亿元D+轮并提出“一脑多形”具身智能战略，苏州为全球总部。列为第一波。",
+        "source_ids": [
+          "s04",
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/elite-robots.json",
+      "markdown_path": "data/views/companies/elite-robots.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "enflame",
       "name": "燧原科技 Enflame",
       "aliases": [
@@ -1632,6 +2552,68 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "eucs",
+      "name": "苏州优科斯",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "待核实主体；原采集业务线索：工业视觉AI质检，半导体/电子制造缺陷检测",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "未检索到“苏州优科斯”及 eucs.com.cn 的可访问公开资料（官网连接失败），主体是否存在不明，保持 unresolved。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/eucs.json",
+      "markdown_path": "data/views/companies/eucs.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "尚无足够组织证据确认“苏州优科斯”的主体、地域及业务；保留为待核实候选。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-02"
+      }
+    },
+    {
+      "id": "flexiv",
+      "name": "非夕科技",
+      "aliases": [
+        "Flexiv Robotics",
+        "Flexiv",
+        "上海非夕机器人科技有限公司",
+        "非夕",
+        "Flexiv Ltd."
+      ],
+      "organization_type": "operating_organization",
+      "focus": "自适应力控机器人与灵巧手，具身智能精密装配",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "2016年在硅谷创立的自适应力控机器人公司，在上海、北京等地设办公室，属具身智能/智能机器人新进玩家。苏州制造基地与最新融资本轮未核实。列为第一波。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/flexiv.json",
+      "markdown_path": "data/views/companies/flexiv.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "not_found"
     },
     {
       "id": "flowith",
@@ -1715,6 +2697,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "galaxycore",
+      "name": "格科微",
+      "aliases": [
+        "GalaxyCore",
+        "格科微电子(上海)有限公司",
+        "格科微有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "CMOS图像传感器与显示驱动芯片",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的CMOS图像传感器厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/galaxycore.json",
+      "markdown_path": "data/views/companies/galaxycore.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "galbot",
       "name": "银河通用",
       "aliases": [
@@ -1772,6 +2781,66 @@
       "investment_status": "not_found"
     },
     {
+      "id": "gaussian-robotics",
+      "name": "高仙机器人",
+      "aliases": [
+        "Gaussian Robotics",
+        "高仙",
+        "Gaussian",
+        "Ecobot",
+        "苏州高仙机器人科技有限公司",
+        "高仙机器人"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "商用清洁机器人与全球运营",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "全球部署的商用清洁机器人新进厂商，C轮12亿元、产品矩阵与海外渠道成熟，适合产品/海外商业化研究；列为第一波。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/gaussian-robotics.json",
+      "markdown_path": "data/views/companies/gaussian-robotics.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "gcl-energy",
+      "name": "协鑫能科",
+      "aliases": [
+        "GCL Energy Technology",
+        "GCL Energy",
+        "协鑫",
+        "协鑫能源科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "新能源移动充电/换电站+AI调度管理系统，储能AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "深交所上市（002015）的清洁能源与移动能源运营商，1992年成立，属协鑫集团体系成熟玩家；官网已有AIDC/算电协同表述，但不证明AI业务规模。列为 later。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/gcl-energy.json",
+      "markdown_path": "data/views/companies/gcl-energy.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "genspark",
       "name": "Genspark / MainFunc",
       "aliases": [
@@ -1794,6 +2863,65 @@
       },
       "json_path": "data/companies/genspark.json",
       "markdown_path": "data/views/companies/genspark.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "good-ark-semiconductor",
+      "name": "苏州固锝电子",
+      "aliases": [
+        "Good-Ark Semiconductor",
+        "固锝电子",
+        "Good-Ark",
+        "苏州固锝电子股份有限公司",
+        "苏州固锝",
+        "固锝"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "半导体分立器件（二极管/整流器），新能源+AI硬件功率器件",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "按已有具名主体资料归入成熟玩家 later；s03 支持苏州固锝电子股份有限公司的上市身份，原“昆山”标签不成立为已确认地点。",
+        "source_ids": [
+          "s03"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/good-ark-semiconductor.json",
+      "markdown_path": "data/views/companies/good-ark-semiconductor.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "gstarsoft",
+      "name": "苏州浩辰软件",
+      "aliases": [
+        "Gstarsoft",
+        "浩辰软件",
+        "GstarCAD",
+        "浩辰CAD",
+        "苏州浩辰软件股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "CAD软件+AI设计辅助，工业设计数字化国产替代",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2001年成立、2023年科创板上市（688657）的CAD软件厂商，注册于苏州工业园区，属成熟工业软件玩家。注意：草稿所列代码688133与公开资料不符，实际为688657。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/gstarsoft.json",
+      "markdown_path": "data/views/companies/gstarsoft.md",
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "confirmed_disclosure"
@@ -1855,6 +2983,282 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "hesai",
+      "name": "禾赛科技",
+      "aliases": [
+        "Hesai",
+        "禾赛",
+        "上海禾赛科技有限公司",
+        "禾赛科技",
+        "Hesai Technology"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "车载激光雷达与机器人感知",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "纳斯达克上市的车载激光雷达龙头，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/hesai.json",
+      "markdown_path": "data/views/companies/hesai.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "hexagon-manufacturing-intelligence",
+      "name": "苏州海克斯康",
+      "aliases": [
+        "Hexagon Manufacturing Intelligence Suzhou"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：精密测量+工业AI视觉、数字孪生制造解决方案",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "s04 支持海克斯康制造智能在华既有业务，按成熟平台线索列入 later；苏州方案／研发中心及其主体待核实。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/hexagon-manufacturing-intelligence.json",
+      "markdown_path": "data/views/companies/hexagon-manufacturing-intelligence.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "现有来源支持海克斯康制造智能中国业务，苏州方案中心／研发中心的组织边界待核实。",
+        "source_ids": [
+          "s04"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "hikrobot",
+      "name": "海康机器人（苏州）",
+      "aliases": [
+        "Hikrobot Suzhou"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：AMR仓储机器人、机器视觉，工业物流AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "s05 支持海康机器人的既有机器视觉／移动机器人业务，按成熟平台线索列入 later；苏州单元及当前IPO进展待核实。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/hikrobot.json",
+      "markdown_path": "data/views/companies/hikrobot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "现有来源支持海康机器人整体业务，苏州业务／客户中心的存在及法人边界待核实。",
+        "source_ids": [
+          "s05"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "hua-hong-semiconductor",
+      "name": "华虹半导体",
+      "aliases": [
+        "Hua Hong Semiconductor",
+        "华虹",
+        "Hua Hong",
+        "华虹半导体有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "特色工艺晶圆代工",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板与港交所上市的特色工艺晶圆代工厂，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/hua-hong-semiconductor.json",
+      "markdown_path": "data/views/companies/hua-hong-semiconductor.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "huaheng-welding",
+      "name": "昆山华恒焊接",
+      "aliases": [
+        "Huaheng Welding",
+        "华恒股份",
+        "华恒焊接",
+        "昆山华恒焊接股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "焊接机器人+AI视觉，工业自动化焊接系统",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "1995年成立的焊接机器人与自动化焊接装备厂商，现为新三板挂牌公司（NEEQ: 833444），已有多家全资子公司及持续年报披露，属成熟工业装备玩家。列为 later。",
+        "source_ids": [
+          "s03",
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/huaheng-welding.json",
+      "markdown_path": "data/views/companies/huaheng-welding.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "huana",
+      "name": "汇纳科技",
+      "aliases": [
+        "Huana Information Technology",
+        "汇纳科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "商业空间客流AI分析，零售/商场智能运营解决方案",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2004年成立、2017年创业板上市（300609）的线下商业客流与行业数字化解决方案厂商，属成熟AI应用玩家。注意：公开资料注册地为上海宝山，与本档案“苏州工业园区”口径不一致，待核对。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/huana.json",
+      "markdown_path": "data/views/companies/huana.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "huawei",
+      "name": "华为 Huawei",
+      "aliases": [
+        "华为",
+        "Huawei",
+        "华为技术"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "ICT 与终端集团；AI 切面覆盖盘古大模型与昇腾云等算力／模型基础设施",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "成熟 ICT／云基础设施母平台，已有盘古／昇腾云等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/huawei.json",
+      "markdown_path": "data/views/companies/huawei.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "huawei-suzhou-research-institute",
+      "name": "华为（苏州研究院）",
+      "aliases": [
+        "华为苏州",
+        "苏州华为技术研发有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：工业AI/数字化（工业互联网）、5G、昇腾AI、ICT研发",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2025年 s05 园区政府资料记载华为苏州研究所，按成熟平台区域研发线索列入 later；其中BG／BU总部描述为当时口径，当前架构待核实。",
+        "source_ids": [
+          "s06",
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/huawei-suzhou-research-institute.json",
+      "markdown_path": "data/views/companies/huawei-suzhou-research-institute.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "research_lab",
+        "parent_platform_ids": [
+          "huawei"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "2025年园区政府活动材料明确记载华为苏州研究所；现有档案“研究院”为采集标签，具体法人及当前业务架构待核实。",
+        "source_ids": [
+          "s05"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "hyc",
+      "name": "苏州华兴源创",
+      "aliases": [
+        "HYC Technology",
+        "华兴源创",
+        "华兴源创科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "检测设备+AI视觉，面板/半导体检测自动化",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板首批上市（688001，2019-07）的平板显示及集成电路检测设备厂商，2005年成立、注册于苏州工业园区，属成熟检测装备玩家。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/hyc.json",
+      "markdown_path": "data/views/companies/hyc.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "hypershell",
       "name": "极壳科技 Hypershell",
       "aliases": [
@@ -1881,6 +3285,133 @@
       "category_id": "09",
       "category_name": "AI 消费硬件",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "iflytek-suzhou",
+      "name": "科大讯飞苏州研究院",
+      "aliases": [
+        "讯飞苏州"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：语音AI/教育AI/医疗AI/星火大模型苏州垂直行业落地",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2019年 s06 报道记载科大讯飞苏州科技有限公司及下设研究院，按成熟平台研发线索列入 later；不把研究院等同集团上市主体，当前架构待核实。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/iflytek-suzhou.json",
+      "markdown_path": "data/views/companies/iflytek-suzhou.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "research_lab",
+        "parent_platform_ids": [
+          "iflytek"
+        ],
+        "relationship_status": "reported",
+        "summary": "2019年报道记载苏州科技有限公司下设苏州研究院；研究院不等同集团上市主体，当前架构待核实。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "iluvatar-corex",
+      "name": "天数智芯",
+      "aliases": [
+        "Iluvatar CoreX",
+        "Iluvatar",
+        "深圳市天数智芯科技有限责任公司",
+        "上海天数智芯半导体有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用GPU与AI算力",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "国产通用GPU新进厂商，训练/推理产品已量产并递交港交所上市资料，算力与商业化岗位对口；列为第一波。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/iluvatar-corex.json",
+      "markdown_path": "data/views/companies/iluvatar-corex.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "im-motors",
+      "name": "智己汽车",
+      "aliases": [
+        "IM Motors",
+        "智己",
+        "智己汽车科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "高端智能电动车与智能驾驶/座舱",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "上汽高端智能电动车单元，2024年完成94亿元B轮，智能驾驶/座舱与产品岗位密集；作为有独立法人边界的新进单元列入第一波。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/im-motors.json",
+      "markdown_path": "data/views/companies/im-motors.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "imed",
+      "name": "视见科技",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "待核实主体；原采集业务线索：医疗AI影像分析（CT/MRI/眼底），辅助诊断",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "s02 为深圳视见医疗报道，与原视见科技／苏州标签对应关系待核实；保留 watchlist，不先判断新进或已有玩家。",
+        "source_ids": [
+          "s02"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/imed.json",
+      "markdown_path": "data/views/companies/imed.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "深圳视见医疗报道与原“视见科技”及苏州标签是否同一研究对象待核实；不据报道直接确认苏州主体或融资。",
+        "source_ids": [
+          "s02"
+        ],
+        "checked_at": "2026-11-03"
+      }
     },
     {
       "id": "infimind",
@@ -1967,6 +3498,117 @@
       "investment_status": "partial"
     },
     {
+      "id": "innolight",
+      "name": "旭创科技",
+      "aliases": [
+        "InnoLight Technology",
+        "InnoLight",
+        "苏州旭创科技",
+        "苏州旭创科技有限公司",
+        "中际旭创"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "高速光模块（400G/800G/1.6T），AI数据中心算力网络互联",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "按中际旭创（300308，2012年上市）体系处理：高速光模块研发制造商，属AI数据中心网络的成熟供应商；苏州旭创子公司层级本轮未逐项核对。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/innolight.json",
+      "markdown_path": "data/views/companies/innolight.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "innovis",
+      "name": "苏州英诺维信",
+      "aliases": [
+        "Innovis Suzhou",
+        "深圳市英诺维信自动化设备有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业数据AI分析平台，预测性维护与质量管理",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "未检索到“苏州英诺维信”的可靠公开资料，innovis.cn 无法访问；检索结果仅有名称相近的英诺维尔等其他公司，不予关联，保持 unresolved。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/innovis.json",
+      "markdown_path": "data/views/companies/innovis.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "not_found"
+    },
+    {
+      "id": "innovusion",
+      "name": "图达通",
+      "aliases": [
+        "Innovusion",
+        "Seyond",
+        "Seyond图达通",
+        "图达通智能科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "高精度激光雷达（LiDAR）传感器，自动驾驶+机器人感知",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "图达通（Seyond）为硅谷创立的图像级激光雷达公司，2025年12月10日经De-SPAC登陆港交所主板（2665），上市不足一年、仍处规模化阶段，按新进玩家处理（区别于已成规模的禾赛）。注意：草稿所写NASDAQ: INVZ为另一家公司，不适用。列为第一波。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/innovusion.json",
+      "markdown_path": "data/views/companies/innovusion.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "inovance-technology",
+      "name": "苏州汇川技术",
+      "aliases": [
+        "Inovance Technology Suzhou",
+        "汇川技术苏州研发中心",
+        "汇川技术"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业自动化驱动器、PLC、机器人控制系统+AI运控",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2003年成立、2010年创业板上市（300124）的工业自动化核心部件与机器人供应商，属成熟工控平台；苏州单元本轮未核实。列为 later。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/inovance-technology.json",
+      "markdown_path": "data/views/companies/inovance-technology.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "insilico",
       "name": "英矽智能 Insilico Medicine",
       "aliases": [
@@ -1995,6 +3637,39 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "intellifusion-suzhou",
+      "name": "云天励飞（苏州）",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：端侧AI芯片+算法，城市智脑/安防/工业视觉AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2014年成立、2023年科创板上市（688343）的AI算法与芯片厂商；与商汤、云从口径一致，按已上市AI平台处理。注册地深圳，苏州单元本轮未核实。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/intellifusion-suzhou.json",
+      "markdown_path": "data/views/companies/intellifusion-suzhou.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "现有来源支持深圳云天励飞上市主体，苏州法人／团队待核实。",
+        "source_ids": [
+          "s04"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
       "id": "intsig",
       "name": "合合信息 / Intsig",
       "aliases": [
@@ -2021,6 +3696,97 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "inventec-kunshan",
+      "name": "英业达（昆山）",
+      "aliases": [
+        "Inventec Kunshan"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI服务器代工（Nvidia H100/B200），AI算力基础设施制造",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "英业达为1975年成立的台湾上市（TWSE: 2356）计算机与服务器制造集团，属成熟供应链玩家。注意：官网生产据点列上海/重庆/南京，未见昆山，本档案昆山主体待核实。列为 later。",
+        "source_ids": [
+          "s05",
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/inventec-kunshan.json",
+      "markdown_path": "data/views/companies/inventec-kunshan.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "官方生产据点线索未列昆山，上海招聘主体不能证明昆山基地；研究对象待核实。",
+        "source_ids": [
+          "s05"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "jaka",
+      "name": "节卡机器人",
+      "aliases": [
+        "JAKA Robotics",
+        "JAKA"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "协作机器人（Cobot），工业装配/焊接/检测，具身AI布局",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "2014年成立的协作机器人厂商，2022-2024年营收2.81亿/3.5亿/4亿元，但科创板IPO于2025年8月审议会取消后、12月撤回终止，监管关注收入确认；属新进玩家，列 watchlist 待核经营与资本进展。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/jaka.json",
+      "markdown_path": "data/views/companies/jaka.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "jd",
+      "name": "京东 JD.com",
+      "aliases": [
+        "京东",
+        "JD.com",
+        "京东集团"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "零售与物流科技集团；AI 切面含 JoyAI／京东云模型开发平台等",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市零售／物流母平台，已有 JoyAI 等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/jd.json",
+      "markdown_path": "data/views/companies/jd.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "jsdesign",
       "name": "即时设计 / JSDesign",
       "aliases": [
@@ -2042,6 +3808,206 @@
       },
       "json_path": "data/companies/jsdesign.json",
       "markdown_path": "data/views/companies/jsdesign.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "jundo",
+      "name": "苏州钧舵机器人",
+      "aliases": [
+        "Jundo Robotics",
+        "苏州钧舵机器人有限公司",
+        "钧舵机器人"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "协作机器人末端执行器/灵巧手，具身AI感知",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "苏州本地创业的工业灵巧手/电动夹爪厂商，2025年完成B+轮，2026年8月获美的集团等战略入股，属具身智能核心零部件新进玩家。列为第一波。",
+        "source_ids": [
+          "s04",
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/jundo.json",
+      "markdown_path": "data/views/companies/jundo.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "kedacom",
+      "name": "苏州科达",
+      "aliases": [
+        "Kedacom",
+        "科达股份",
+        "科达",
+        "科达 KEDACOM",
+        "KEDACOM"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "视频AI、公共安全、智慧城市、企业会议视频系统",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2004年成立、2016年上交所上市（603660）的视频会议与视频监控厂商，注册于苏州高新区，属成熟视频AI玩家。列为 later。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/kedacom.json",
+      "markdown_path": "data/views/companies/kedacom.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "keenon",
+      "name": "擎朗智能",
+      "aliases": [
+        "Keenon Robotics",
+        "擎朗",
+        "Keenon",
+        "深圳市擎朗智能科技有限公司",
+        "擎朗智能",
+        "KEENON Robotics"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "商用服务机器人与具身AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "全球出货的商用服务机器人新进厂商，D轮2亿美元、海外市场占比高，产品与海外运营岗位对口；列为第一波。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/keenon.json",
+      "markdown_path": "data/views/companies/keenon.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "kepler-robotics",
+      "name": "开普勒机器人",
+      "aliases": [
+        "Kepler",
+        "开普勒",
+        "先行者",
+        "上海开普勒机器人有限公司",
+        "Kepler Robot"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用人形机器人",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "2023年成立的人形机器人新进厂商，2025年获产业资本Pre-A，先行者K2进入上汽通用等工业场景训练；列为第一波。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/kepler-robotics.json",
+      "markdown_path": "data/views/companies/kepler-robotics.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "kinco",
+      "name": "步科股份",
+      "aliases": [
+        "Kinco",
+        "步科",
+        "上海步科自动化股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "伺服系统、运动控制与人机界面",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的运动控制与机器人部件厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/kinco.json",
+      "markdown_path": "data/views/companies/kinco.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "kingsoft-cloud",
+      "name": "金山云 Kingsoft Cloud",
+      "aliases": [
+        "金山云",
+        "Kingsoft Cloud",
+        "金山云网络"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "独立云计算服务商；AI 切面以星流模型服务等模型调用基础设施为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市云基础设施母平台，已有星流模型服务等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/kingsoft-cloud.json",
+      "markdown_path": "data/views/companies/kingsoft-cloud.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "kuaishou",
+      "name": "快手 Kuaishou",
+      "aliases": [
+        "快手",
+        "Kuaishou",
+        "快手科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "短视频与直播平台；AI 切面以可灵 AI 视频生成等产品为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市短视频母平台，已有可灵 AI 等主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/kuaishou.json",
+      "markdown_path": "data/views/companies/kuaishou.md",
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
       "investment_status": "confirmed_disclosure"
@@ -2072,6 +4038,33 @@
       "markdown_path": "data/views/companies/kuaizi.md",
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "kunshan-longteng-optoelectronics",
+      "name": "昆山龙腾光电",
+      "aliases": [
+        "Kunshan Longteng Optoelectronics",
+        "龙腾光电",
+        "昆山龙腾光电股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "TFT-LCD面板制造，AI终端显示硬件供应链",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2005年成立、2020年科创板上市（688055）的TFT-LCD面板厂商，注册于昆山，属成熟显示硬件玩家。注意：草稿所写“新三板”与公开资料不符。列为 later。",
+        "source_ids": [
+          "s03"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/kunshan-longteng-optoelectronics.json",
+      "markdown_path": "data/views/companies/kunshan-longteng-optoelectronics.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -2126,6 +4119,34 @@
       "markdown_path": "data/views/companies/langboat.md",
       "category_id": "01",
       "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "leader-drive",
+      "name": "苏州绿的谐波",
+      "aliases": [
+        "Leader Drive",
+        "绿的谐波",
+        "Leader Harmonics",
+        "苏州绿的谐波传动科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "谐波减速器，机器人核心传动零部件",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2011年成立、2020年科创板上市（688017）的精密传动（谐波减速器）厂商，注册于苏州吴中，属成熟机器人零部件玩家。列为 later。",
+        "source_ids": [
+          "s03"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/leader-drive.json",
+      "markdown_path": "data/views/companies/leader-drive.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -2240,6 +4261,33 @@
       "investment_status": "partial"
     },
     {
+      "id": "maiwei",
+      "name": "迈为科技",
+      "aliases": [
+        "Maiwei Technology",
+        "迈为股份",
+        "苏州迈为科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "光伏电池片丝网印刷设备、半导体显示激光设备，AI质检集成",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2010年成立、2018年创业板上市（300751）的高端智能制造装备厂商，注册于苏州吴江，属成熟装备玩家。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/maiwei.json",
+      "markdown_path": "data/views/companies/maiwei.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "manus",
       "name": "蝴蝶效应 / Manus",
       "aliases": [
@@ -2319,6 +4367,104 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "meituan",
+      "name": "美团 Meituan",
+      "aliases": [
+        "美团",
+        "Meituan",
+        "北京三快在线",
+        "三快"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "本地生活与零售科技平台；AI 切面以 LongCat 大模型及商家 AI 应用为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市本地生活母平台，已有 LongCat 等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/meituan.json",
+      "markdown_path": "data/views/companies/meituan.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "meituan-shanghai",
+      "name": "美团（上海）",
+      "aliases": [
+        "Meituan Shanghai",
+        "美团上海",
+        "汉海信息技术（上海）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：本地生活AI、无人配送与内容AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "美团集团的上海业务与研发基地，属于成熟平台的区域单元；列为 later 资料批次。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/meituan-shanghai.json",
+      "markdown_path": "data/views/companies/meituan-shanghai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "internal_team",
+        "parent_platform_ids": [
+          "meituan"
+        ],
+        "relationship_status": "reported",
+        "summary": "上海总部／区域业务线索；集团AI产品不能自动归属到本地某一团队。",
+        "source_ids": [
+          "s07"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "memsensing-microsystems",
+      "name": "苏州敏芯微电子",
+      "aliases": [
+        "MEMSensing Microsystems",
+        "敏芯股份",
+        "敏芯微",
+        "苏州敏芯微电子技术股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "MEMS传感器芯片（声学MEMS/压力/惯性），AIoT感知层",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2007年创立、2020年科创板上市（688286）的MEMS传感器厂商，注册于苏州工业园区，属成熟感知芯片玩家。列为 later。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/memsensing-microsystems.json",
+      "markdown_path": "data/views/companies/memsensing-microsystems.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "metasota",
       "name": "秘塔科技 MetaSota",
       "aliases": [
@@ -2376,6 +4522,71 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "microport-medbot",
+      "name": "微创机器人",
+      "aliases": [
+        "MicroPort MedBot",
+        "MedBot",
+        "图迈",
+        "上海微创医疗机器人(集团)股份有限公司",
+        "上海微创医疗机器人（集团）股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "手术机器人",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "微创系手术机器人独立上市平台，2024年收入高增但仍亏损，属于有新进边界的子平台；先列观察。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/microport-medbot.json",
+      "markdown_path": "data/views/companies/microport-medbot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "midea-building-technologies",
+      "name": "美的楼宇科技苏州",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：楼宇AI能源管理、暖通空调智能化，商业建筑AI应用",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "美的集团（000333）楼宇科技事业部：由中央空调事业部演变，2021年9月更名为美的楼宇科技，为集团五大业务板块之一，属成熟平台的业务单元；苏州主体本轮未核实。列为 later。",
+        "source_ids": [
+          "s04",
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/midea-building-technologies.json",
+      "markdown_path": "data/views/companies/midea-building-technologies.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [
+          "midea"
+        ],
+        "relationship_status": "unresolved",
+        "summary": "来源支持美的集团楼宇科技事业部，未证实苏州研发／业务单元；苏州销售公司与该单元的关系待核实。",
+        "source_ids": [
+          "s05"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
       "id": "minimax",
       "name": "MiniMax",
       "aliases": [
@@ -2429,6 +4640,62 @@
       "category_id": "01",
       "category_name": "基础模型",
       "investment_status": "partial"
+    },
+    {
+      "id": "montage-technology",
+      "name": "澜起科技",
+      "aliases": [
+        "Montage Technology",
+        "澜起",
+        "Montage",
+        "澜起科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "内存接口芯片与CXL互连",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的内存接口与互连芯片厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/montage-technology.json",
+      "markdown_path": "data/views/companies/montage-technology.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "moons",
+      "name": "鸣志电器",
+      "aliases": [
+        "Moons'",
+        "鸣志",
+        "Moons",
+        "上海鸣志电器股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "运动控制与机器人关节部件",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上交所上市的运动控制部件厂商，机器人业务占比仍低，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/moons.json",
+      "markdown_path": "data/views/companies/moons.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "moonshot",
@@ -2485,6 +4752,64 @@
       "investment_status": "partial"
     },
     {
+      "id": "netease",
+      "name": "网易 NetEase",
+      "aliases": [
+        "网易",
+        "NetEase",
+        "网易公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "游戏、音乐与互联网服务集团；AI 切面以伏羲等研究机构及游戏／内容侧落地为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市互联网／游戏母平台，已有伏羲等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/netease.json",
+      "markdown_path": "data/views/companies/netease.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "nio",
+      "name": "蔚来",
+      "aliases": [
+        "NIO",
+        "蔚来汽车",
+        "乐道",
+        "萤火虫",
+        "蔚来集团",
+        "NIO Inc."
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能电动汽车与自研智能驾驶/座舱",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "多地上市的智能电动车集团，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/nio.json",
+      "markdown_path": "data/views/companies/nio.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "noematrix",
       "name": "穹彻智能",
       "aliases": [
@@ -2511,6 +4836,90 @@
       "markdown_path": "data/views/companies/noematrix.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "novosense",
+      "name": "纳芯微电子",
+      "aliases": [
+        "NOVOSENSE",
+        "纳芯微"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "模拟与混合信号芯片，传感器信号链/隔离/驱动IC，汽车+工业",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2013年成立、2022年科创板上市（688052）的模拟及混合信号芯片厂商，注册于苏州工业园区，属成熟芯片玩家。列为 later。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/novosense.json",
+      "markdown_path": "data/views/companies/novosense.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "nullmax",
+      "name": "纽劢科技",
+      "aliases": [
+        "Nullmax",
+        "纽劢",
+        "纽劢科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "乘用车智能驾驶方案",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "乘用车行泊一体智驾方案商，2023年被岩山科技控股，具备独立产品线与量产定点；先列观察。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/nullmax.json",
+      "markdown_path": "data/views/companies/nullmax.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "pdd-holdings",
+      "name": "拼多多集团 PDD Holdings",
+      "aliases": [
+        "拼多多",
+        "PDD Holdings",
+        "PDD",
+        "拼多多(上海)网络科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "电商零售集团（拼多多／Temu 等）；公开披露将 AI 用于平台与运营，未见具名对外大模型旗舰",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市电商母平台，年报披露平台侧 AI 使用；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/pdd-holdings.json",
+      "markdown_path": "data/views/companies/pdd-holdings.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -2571,6 +4980,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "qianjing-rehabilitation",
+      "name": "钱璟康复（常州）",
+      "aliases": [
+        "Qianjing Rehabilitation",
+        "钱璟康复",
+        "常州市钱璟康复股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "康复机器人设备及AI辅助康复方案",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "按已有具名主体资料归入成熟玩家 later；s03 官方介绍支持常州市钱璟康复股份有限公司；苏州分支与上市状态待核实。",
+        "source_ids": [
+          "s03"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/qianjing-rehabilitation.json",
+      "markdown_path": "data/views/companies/qianjing-rehabilitation.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "not_found"
+    },
+    {
       "id": "qingcheng-ai",
       "name": "清程极智 Qingcheng.AI",
       "aliases": [
@@ -2600,6 +5036,106 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "qiniu",
+      "name": "七牛云",
+      "aliases": [
+        "Qiniu",
+        "七牛智能",
+        "七牛智能科技有限公司",
+        "七牛云"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "云存储、音视频与多模态生成式AI API",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "港股上市的云存储与音视频服务商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/qiniu.json",
+      "markdown_path": "data/views/companies/qiniu.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "qisda",
+      "name": "苏州佳世达电通有限公司",
+      "aliases": [
+        "佳世达电通（苏州）",
+        "Qisda Suzhou"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医疗影像设备/显示器/工业AI解决方案，医疗+AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "s06 政府材料支持苏州佳世达电通有限公司在高新区的历史设立，按成熟电子制造主体列入 later；集团台湾上市身份不等同苏州公司独立上市，当前股权及规模待核实。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/qisda.json",
+      "markdown_path": "data/views/companies/qisda.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "以苏州政府材料中具名的苏州佳世达电通有限公司为研究主体；Qisda集团上市信息不表示本地主体独立上市，当前股权层级待核实。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "quanta-computer-kunshan",
+      "name": "广达电脑（昆山）",
+      "aliases": [
+        "Quanta Computer Kunshan"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "全球最大AI服务器代工商之一，AWS/Google/Meta AI算力",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "广达电脑为1988年成立的台湾上市（TWSE: 2382）笔电与服务器代工集团，属AI服务器供应链成熟玩家。注意：昆山生产基地本轮未找到可靠来源证实，本档案昆山主体待核实。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/quanta-computer-kunshan.json",
+      "markdown_path": "data/views/companies/quanta-computer-kunshan.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "集团资料不证明昆山基地；达丰（上海）电脑有限公司渠道不属于已确认的昆山单元。",
+        "source_ids": [
+          "s04"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
       "id": "quickcep",
       "name": "快牛智营 / QuickCEP",
       "aliases": [
@@ -2625,6 +5161,35 @@
       "markdown_path": "data/views/companies/quickcep.md",
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "quicktron",
+      "name": "快仓智能",
+      "aliases": [
+        "Quicktron",
+        "快仓",
+        "快仓智能",
+        "Quicktron Robotics"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "仓储AMR与智能物流",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "仓储AMR与智能物流新进厂商，2024年完成过亿美元D轮、全球部署3.5万台以上设备；列为第一波。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/quicktron.json",
+      "markdown_path": "data/views/companies/quicktron.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -2682,6 +5247,197 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "rokae-liqtech",
+      "name": "苏州李群自动化",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "待核实主体；原采集业务线索：工业协作机器人/Delta机器人，3C/食品/汽车产线",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "官方检索区分QKM李群与ROKAE珞石；原档案混合不同品牌，liqtech.com.cn 与苏州具体主体未获证实，保留 unresolved／watchlist。",
+        "source_ids": [
+          "s03",
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/rokae-liqtech.json",
+      "markdown_path": "data/views/companies/rokae-liqtech.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "原档案混合李群、Liqtech和ROKAE；保留历史ID供追溯，不把不同品牌合并，苏州目标主体待核实。 官方检索分别对应QKM李群与ROKAE珞石；来源 s03、s04 不支持合并主体。",
+        "source_ids": [
+          "s03",
+          "s04"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "schneider-electric-china",
+      "name": "施耐德电气（中国）上海",
+      "aliases": [
+        "Schneider Electric China",
+        "施耐德",
+        "Schneider",
+        "施耐德电气（中国）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "能源管理与工业自动化AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "跨国能源管理与自动化集团的上海研发/业务主体，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/schneider-electric-china.json",
+      "markdown_path": "data/views/companies/schneider-electric-china.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "sensetime",
+      "name": "商汤科技",
+      "aliases": [
+        "SenseTime",
+        "商汤",
+        "SenseTime Group",
+        "绝影 SenseAuto",
+        "商汤集团股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "计算机视觉、大模型与生成式AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "港交所上市的AI平台公司，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/sensetime.json",
+      "markdown_path": "data/views/companies/sensetime.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "shanghai-ai-lab",
+      "name": "上海人工智能实验室",
+      "aliases": [
+        "Shanghai AI Laboratory",
+        "Shanghai AI Lab",
+        "书生",
+        "InternLM",
+        "浦江实验室",
+        "上海AI实验室"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用与多模态大模型、具身智能、AI for Science",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "上海市政府支持下成立的研究型AI机构，书生大模型与开源评测体系影响力大，属于研究型新进主体；列为第一波。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/shanghai-ai-lab.json",
+      "markdown_path": "data/views/companies/shanghai-ai-lab.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "independent_organization",
+        "parent_platform_ids": [],
+        "relationship_status": "confirmed",
+        "summary": "由上海人工智能创新中心发起设立的独立人工智能研究机构，2020年7月揭牌，非企业内部实验室；不以股权融资为运营方式。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "shanghai-electric",
+      "name": "上海电气",
+      "aliases": [
+        "Shanghai Electric",
+        "SEC",
+        "上海电气集团股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "能源装备、工业自动化与机器人",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "大型能源装备与工业自动化上市集团，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/shanghai-electric.json",
+      "markdown_path": "data/views/companies/shanghai-electric.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "shanghai-fanuc",
+      "name": "上海发那科",
+      "aliases": [
+        "Shanghai-FANUC",
+        "发那科",
+        "FANUC",
+        "上海发那科机器人有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业机器人及智能制造系统集成",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "1997年成立的中日合资工业机器人公司，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/shanghai-fanuc.json",
+      "markdown_path": "data/views/companies/shanghai-fanuc.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
     },
     {
       "id": "sharge",
@@ -2796,6 +5552,70 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "siemens",
+      "name": "西门子（中国）苏州",
+      "aliases": [
+        "Siemens Suzhou"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：工业数字化、工业AI、MindSphere/Xcelerator平台、智能制造",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "西门子为1847年成立、法兰克福上市的德国工业科技集团，官网有工业AI智能体等具名产品，属成熟工业数字化平台；苏州主体与具体AI团队本轮未拆分核实。列为 later。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/siemens.json",
+      "markdown_path": "data/views/companies/siemens.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "西门子苏州业务线索；集团工业AI资料不能证明名为“苏州数字化工厂”的独立单元。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "sien-integrated-circuits",
+      "name": "芯联集成",
+      "aliases": [
+        "芯联集成电路",
+        "芯联集成电路制造股份有限公司",
+        "United Nova Technology",
+        "UNT"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "功率半导体及模拟IC晶圆代工（SiC/GaN/IGBT/BCD）",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "芯联集成（原中芯集成，688469）为2018年成立、2023年科创板上市的MEMS与功率器件晶圆代工厂，已有规模化产能，属成熟制造玩家。注意：公开资料注册地为浙江绍兴，本档案“苏州工业园区”口径未获证实，待核对。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/sien-integrated-circuits.json",
+      "markdown_path": "data/views/companies/sien-integrated-circuits.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "siliconflow",
       "name": "硅基流动 SiliconFlow",
       "aliases": [
@@ -2821,6 +5641,71 @@
       "markdown_path": "data/views/companies/siliconflow.md",
       "category_id": "02",
       "category_name": "算力与基础设施",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "sip-ai-industrial-park",
+      "name": "苏州工业园区AI产业园",
+      "aliases": [
+        "SIP AI Industrial Park",
+        "苏州AI产业园",
+        "SIP AI Park"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "聚集AI头部企业，提供政策+空间+投资支持，招商引资",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "原采集对象为园区生态线索，现有入口是苏州工业园区管委会，尚未确认具体产业园运营方或雇主；保留 unresolved／watchlist。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/sip-ai-industrial-park.json",
+      "markdown_path": "data/views/companies/sip-ai-industrial-park.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "园区生态线索，非已确认的经营公司；管委会网站不等同产业园运营方或雇主。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-02"
+      }
+    },
+    {
+      "id": "smic",
+      "name": "中芯国际",
+      "aliases": [
+        "SMIC",
+        "中芯",
+        "中芯国际集成电路",
+        "中芯国际集成电路制造有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "晶圆代工（成熟与先进制程）",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板与港交所上市的晶圆代工龙头，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/smic.json",
+      "markdown_path": "data/views/companies/smic.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -2851,6 +5736,33 @@
       "investment_status": "partial"
     },
     {
+      "id": "step-electric",
+      "name": "新时达",
+      "aliases": [
+        "STEP",
+        "STEP Electric",
+        "上海新时达电气股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业机器人、运动控制与电梯控制",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "深交所上市的工业机器人与运动控制厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/step-electric.json",
+      "markdown_path": "data/views/companies/step-electric.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "stepfun",
       "name": "阶跃星辰 StepFun",
       "aliases": [
@@ -2878,6 +5790,34 @@
       "category_id": "01",
       "category_name": "基础模型",
       "investment_status": "partial"
+    },
+    {
+      "id": "synyi",
+      "name": "森亿智能",
+      "aliases": [
+        "Synyi",
+        "森亿",
+        "Synyi AI",
+        "上海森亿医疗科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医疗AI：临床数据平台与医疗大模型",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "医疗AI与临床数据平台新进厂商，2024年再获战略融资、累计融资超13亿元，医疗大模型与医院客户岗位对口；列为第一波。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/synyi.json",
+      "markdown_path": "data/views/companies/synyi.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "tabcut",
@@ -2961,6 +5901,135 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "tencent",
+      "name": "腾讯 Tencent",
+      "aliases": [
+        "腾讯",
+        "Tencent",
+        "腾讯控股"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "社交、内容与金融科技等综合互联网集团；AI 切面以混元与腾讯云 TokenHub 等模型服务为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市综合互联网母平台，已有混元／TokenHub 等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/tencent.json",
+      "markdown_path": "data/views/companies/tencent.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "tencent-shanghai",
+      "name": "腾讯（上海）",
+      "aliases": [
+        "Tencent Shanghai"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：游戏、优图AI视觉、云与产业互联网",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "腾讯集团的华东总部与优图实验室所在地，属于成熟平台的区域单元；列为 later 资料批次。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/tencent-shanghai.json",
+      "markdown_path": "data/views/companies/tencent-shanghai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "internal_team",
+        "parent_platform_ids": [
+          "tencent"
+        ],
+        "relationship_status": "reported",
+        "summary": "华东总部／上海业务线索；2019年报道中的优图团队与规模不代表当前组织。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "tesla-shanghai-rd",
+      "name": "特斯拉上海研发创新中心",
+      "aliases": [
+        "Tesla Shanghai R&D"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：整车研发、智能驾驶与本地化AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "特斯拉的上海整车研发机构，属于成熟平台的区域研发单元；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/tesla-shanghai-rd.json",
+      "markdown_path": "data/views/companies/tesla-shanghai-rd.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "2021年报道支持特斯拉上海研发创新中心历史设立；不视为独立公司，当前组织架构与岗位待核实。",
+        "source_ids": [
+          "s06"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "timi-robot",
+      "name": "钛米机器人",
+      "aliases": [
+        "Timi Robot",
+        "钛米",
+        "Timi",
+        "上海钛米机器人股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医疗场景服务机器人",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "医疗场景服务机器人新进厂商，产品进入医院但公开融资停留在2018年B轮；先列观察。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/timi-robot.json",
+      "markdown_path": "data/views/companies/timi-robot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "today-ai",
       "name": "此间无限 Today AI",
       "aliases": [
@@ -2989,6 +6058,291 @@
       "investment_status": "partial"
     },
     {
+      "id": "tongcheng-ai",
+      "name": "同程旅行AI部门",
+      "aliases": [
+        "Tongcheng Travel AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：旅游出行场景大模型应用与智能客服AI Agent",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "同程旅行（港股0780）总部位于苏州工业园区，其AI能力（程心AI旅游大模型、DeepTrip智能体）属上市OTA平台内的既有业务扩展；本轮未找到独立法人或正式拆分单元证据，故不按新进单元处理。列为 later。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/tongcheng-ai.json",
+      "markdown_path": "data/views/companies/tongcheng-ai.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [
+          "tongcheng-travel"
+        ],
+        "relationship_status": "unresolved",
+        "summary": "集团年报可支持AI产品及总部线索，不能证明名为“AI部门”的独立团队、法人或编制；本条为业务研究线索。",
+        "source_ids": [
+          "s05"
+        ],
+        "checked_at": "2026-11-03"
+      }
+    },
+    {
+      "id": "tongyuan-mworks",
+      "name": "苏州同元软控（MWORKS）",
+      "aliases": [
+        "MWORKS (Tongyuan)",
+        "同元软控",
+        "MWORKS",
+        "苏州同元软控信息技术有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业仿真软件（国产MATLAB/Simulink替代）+AI集成",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "同元软控2008年成立，官网称二十年技术积累，MWORKS为其科学计算与系统建模仿真货架产品，属成熟工业仿真软件厂商的AI扩展；虽仍有股权融资，不按AI原生新进处理。列为 later。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/tongyuan-mworks.json",
+      "markdown_path": "data/views/companies/tongyuan-mworks.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial"
+    },
+    {
+      "id": "transwarp",
+      "name": "星环科技",
+      "aliases": [
+        "Transwarp",
+        "星环",
+        "星环信息科技（上海）股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "企业级大数据基础软件、分布式数据库与AI基础设施",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的企业级大数据与AI基础设施厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/transwarp.json",
+      "markdown_path": "data/views/companies/transwarp.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "tztek",
+      "name": "苏州天准科技",
+      "aliases": [
+        "Tztek Technology",
+        "天准科技",
+        "天准",
+        "天准科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业视觉检测设备、智能驾驶测量AI质检",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板首批上市（688003，2019-07）的工业视觉装备厂商，2009年成立、注册于苏州高新区，属成熟工业视觉玩家。列为 later。",
+        "source_ids": [
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/tztek.json",
+      "markdown_path": "data/views/companies/tztek.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "ucloud",
+      "name": "优刻得",
+      "aliases": [
+        "UCloud",
+        "优刻得-W",
+        "优刻得科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "中立云计算与AI算力服务",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的中立云计算厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/ucloud.json",
+      "markdown_path": "data/views/companies/ucloud.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "udit",
+      "name": "友道智途",
+      "aliases": [
+        "UDIT",
+        "上海友道智途科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "L4/L3商用车自动驾驶与港口物流",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "上汽商用车智能驾驶单元，聚焦港口/厂区L4与干线物流，2021年以6.43亿元专项基金设立；作为有新进边界的单元列入第一波。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/udit.json",
+      "markdown_path": "data/views/companies/udit.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "uii",
+      "name": "联影智能",
+      "aliases": [
+        "United Imaging Intelligence",
+        "UII",
+        "上海联影智能医疗科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医学影像AI与影像大模型",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "联影集团旗下医疗AI公司，2025年完成10亿元A轮，影像大模型与临床落地岗位对口；列为第一波。",
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/uii.json",
+      "markdown_path": "data/views/companies/uii.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "uls-robotics",
+      "name": "傲鲨智能",
+      "aliases": [
+        "ULS Robotics",
+        "傲鲨",
+        "ULS",
+        "上海傲鲨智能科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业与消费级外骨骼机器人",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "外骨骼机器人新进厂商，2025年完成数千万元B轮并推进消费级量产，硬件产品岗位对口；列为第一波。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/uls-robotics.json",
+      "markdown_path": "data/views/companies/uls-robotics.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "unisoc",
+      "name": "紫光展锐",
+      "aliases": [
+        "UNISOC",
+        "展锐",
+        "紫光展锐（上海）科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "手机SoC、物联网与汽车芯片",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "大陆主要的平台型手机/物联网芯片设计企业，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/unisoc.json",
+      "markdown_path": "data/views/companies/unisoc.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "united-imaging",
+      "name": "联影医疗",
+      "aliases": [
+        "United Imaging",
+        "联影",
+        "上海联影医疗科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "高端医学影像设备",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的高端医学影像设备龙头，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/united-imaging.json",
+      "markdown_path": "data/views/companies/united-imaging.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "unitree",
       "name": "宇树科技",
       "aliases": [
@@ -3014,6 +6368,39 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "uzero-intelligence",
+      "name": "苏州优智汇",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "待核实主体；原采集业务线索：制造业AI大模型，工业知识图谱与工艺优化",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "未找到“苏州优智汇”的可靠公开资料；uzero.ai 为英文“AI for Producers”站点，未证实与苏州主体相关，保持 unresolved。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/uzero-intelligence.json",
+      "markdown_path": "data/views/companies/uzero-intelligence.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "英文uZero站点与“苏州优智汇”的对应关系未证实；不能由页面名称确认苏州公司。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-02"
+      }
     },
     {
       "id": "vast",
@@ -3044,6 +6431,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "verisilicon",
+      "name": "芯原股份",
+      "aliases": [
+        "VeriSilicon",
+        "芯原",
+        "芯原微电子（上海）股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "芯片设计服务与半导体IP",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "科创板上市的芯片设计服务与IP厂商，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/verisilicon.json",
+      "markdown_path": "data/views/companies/verisilicon.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "viaim",
       "name": "未来智能 viaim",
       "aliases": [
@@ -3069,6 +6483,70 @@
       "category_id": "09",
       "category_name": "AI 消费硬件",
       "investment_status": "partial"
+    },
+    {
+      "id": "westwell",
+      "name": "西井科技",
+      "aliases": [
+        "Westwell",
+        "西井",
+        "西井科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "港口与物流自动驾驶、AI调度",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "港口/陆港自动驾驶与AI调度新进厂商，完成14轮融资、E轮6亿元并重启IPO辅导，海外18国落地；列为第一波。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/westwell.json",
+      "markdown_path": "data/views/companies/westwell.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "wistron-kunshan",
+      "name": "昆山纬创",
+      "aliases": [
+        "Wistron Kunshan",
+        "纬创资通（昆山）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "业务研究线索（当前本地团队归属待核实）：AI服务器代工制造、消费电子（Apple供应链）+工业AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "纬创资通（昆山）有限公司的历史制造基地线索，列入 later 继续核查；s04 ESG材料不自动证明当前集团控制关系、法人名称或AI服务器业务，均待核实。",
+        "source_ids": [
+          "s03",
+          "s04"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/wistron-kunshan.json",
+      "markdown_path": "data/views/companies/wistron-kunshan.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "昆山基地线索与招聘法人同名，但当前集团控制关系、法人边界及AI服务器具体业务仍待核实。",
+        "source_ids": [
+          "s03"
+        ],
+        "checked_at": "2026-11-03"
+      }
     },
     {
       "id": "x-square",
@@ -3126,6 +6604,63 @@
       "investment_status": "partial"
     },
     {
+      "id": "xiaohongshu",
+      "name": "小红书 Xiaohongshu",
+      "aliases": [
+        "小红书",
+        "Xiaohongshu",
+        "RED",
+        "小红书科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "生活方式社区与电商平台；AI 切面以「点点」等个人助手产品为公开证据",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "成熟内容社区母平台，已有点点等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/xiaohongshu.json",
+      "markdown_path": "data/views/companies/xiaohongshu.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial"
+    },
+    {
+      "id": "xiaomi",
+      "name": "小米 Xiaomi",
+      "aliases": [
+        "小米",
+        "Xiaomi",
+        "小米科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "消费电子与智能制造集团；AI 切面以 MiMo 通用智能基座等公开模型产品为主",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上市消费电子母平台，已有 MiMo 等 AI 主题证据；列入已有玩家资料批次。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-02"
+      },
+      "json_path": "data/companies/xiaomi.json",
+      "markdown_path": "data/views/companies/xiaomi.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "xmov",
       "name": "魔珐科技 / Xmov",
       "aliases": [
@@ -3181,6 +6716,34 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "xverse",
+      "name": "元象科技",
+      "aliases": [
+        "XVERSE Technology",
+        "XVERSE",
+        "元象唯思",
+        "元象"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "大语言模型（XVERSE系列基础模型）研发与商业化落地",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "元象XVERSE为2021年初成立的AI与3D技术公司，创始人姚星曾任腾讯副总裁并创立腾讯AI Lab，自研XVERSE系列大模型，属AI原生新进。官网称深圳公司，苏州主体与融资本轮未核实。列为第一波。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/xverse.json",
+      "markdown_path": "data/views/companies/xverse.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_found"
+    },
+    {
       "id": "yingdao",
       "name": "影刀 / 杭州分叉智能",
       "aliases": [
@@ -3210,6 +6773,67 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "yitu",
+      "name": "依图科技",
+      "aliases": [
+        "Yitu Technology",
+        "依图",
+        "Yitu",
+        "依图科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "计算机视觉、城市治理与医疗影像AI",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "2012年成立的计算机视觉公司，属于成熟平台；公开融资与经营信息停留在较早年份，列为 later 资料批次。",
+        "source_ids": [
+          "s06"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/yitu.json",
+      "markdown_path": "data/views/companies/yitu.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial"
+    },
+    {
+      "id": "yuanzhi-ai",
+      "name": "苏州远志科技",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "待核实主体；原采集业务线索：工业AI视觉检测，汽车零部件/3C电子质检",
+      "checked_at": "2026-11-02",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "unresolved",
+        "wave": "watchlist",
+        "rationale": "原核查摘要提出同名企业与工业AI候选不一致，但现有 s01 未提供可用主体证据；不确定对应关系，保留 unresolved／watchlist。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/yuanzhi-ai.json",
+      "markdown_path": "data/views/companies/yuanzhi-ai.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "unresolved",
+        "parent_platform_ids": [],
+        "relationship_status": "unresolved",
+        "summary": "同名企业与工业AI候选的对应关系未证实，原网站和业务描述仅作待核实线索。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-02"
+      }
+    },
+    {
       "id": "zhipu",
       "name": "智谱 Z.ai",
       "aliases": [
@@ -3237,6 +6861,32 @@
       "category_id": "01",
       "category_name": "基础模型",
       "investment_status": "partial"
+    },
+    {
+      "id": "zpmc",
+      "name": "振华重工",
+      "aliases": [
+        "ZPMC",
+        "上海振华重工（集团）股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "港口机械与自动化码头系统",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "上交所上市的港口机械与自动化码头龙头，属于成熟平台；列为 later 资料批次。",
+        "source_ids": [
+          "s05"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/zpmc.json",
+      "markdown_path": "data/views/companies/zpmc.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
     }
   ]
 }

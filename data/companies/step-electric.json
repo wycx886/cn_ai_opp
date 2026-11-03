@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "step-electric",
+  "name": "新时达",
+  "aliases": [
+    "STEP",
+    "STEP Electric",
+    "上海新时达电气股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "深交所上市的工业机器人与运动控制厂商，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-1e5af2dbe75e8d64",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/963703/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "新时达",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-2436fc1ea5089e27",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.stepelectric.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "新时达",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-739ccaf41f31136b",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.stepelectric.com/join.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "新时达",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-f03239b7bc98aab1",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/f4db365ac20c73060Hd829W5Fw~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "新时达",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.stepelectric.com/",
+    "careers_url": "https://www.stepelectric.com/join.html",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "新时达 公开入口",
+      "url": "https://www.stepelectric.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【上海新时达电气股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/963703/",
+      "supports": "公开企业主页主体：新时达；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "上海新时达电气股份有限公司-专注于生产力创新的工业智能化科技企业",
+      "url": "https://www.stepelectric.com/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "公开官网主体观察：https://www.stepelectric.com/；只核验入口归属。"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "人才招聘-上海新时达电气股份有限公司",
+      "url": "https://www.stepelectric.com/join.html",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "公开招聘入口主体观察：https://www.stepelectric.com/join.html；只核验入口归属，不表示具体岗位开放。"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 新时达",
+      "url": "https://www.zhipin.com/gongsi/f4db365ac20c73060Hd829W5Fw~~.html",
+      "supports": "公开企业主页主体：新时达；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "新时达2024年年报：营收微降，净利润减亏，机器人业务成亮点",
+      "url": "https://news.qq.com/rain/a/20250429A01GFG00",
+      "supports": "新时达2024年营收33.57亿元、归母净利润-2.88亿元及机器人/电梯控制业务。",
+      "published_date": "2025-04-29",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "08",
+  "focus": "工业机器人、运动控制与电梯控制",
+  "products": "关节型/SCARA/半导体机器人、伺服驱动、电梯控制与云平台",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：工业机器人、运动控制与电梯控制。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "深交所上市（002527）；2024年营收33.57亿元，同比下降0.89%，归母净利润-2.88亿元。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "新时达",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

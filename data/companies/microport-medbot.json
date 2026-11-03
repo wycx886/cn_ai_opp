@@ -1,0 +1,128 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "microport-medbot",
+  "name": "微创机器人",
+  "aliases": [
+    "MicroPort MedBot",
+    "MedBot",
+    "图迈",
+    "上海微创医疗机器人(集团)股份有限公司",
+    "上海微创医疗机器人（集团）股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "微创系手术机器人独立上市平台，2024年收入高增但仍亏损，属于有新进边界的子平台；先列观察。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-626ac251eb0fc2e5",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9755879/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海微创医疗机器人(集团)股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-f07352719895a29c",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/80b1e114613885391ndy2N64FVQ~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "微创机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "微创机器人 公开入口",
+      "url": "https://www.medbotics.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【微创机器人招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9755879/",
+      "supports": "公开企业主页主体：上海微创医疗机器人(集团)股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 微创机器人",
+      "url": "https://www.zhipin.com/gongsi/80b1e114613885391ndy2N64FVQ~.html",
+      "supports": "公开企业主页主体：微创机器人；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "2.57亿，增长146%，微创机器人最新年报",
+      "url": "https://www.vbdata.cn/newsDetail/52f969000bfc11f0b7af00163e034e34",
+      "supports": "微创机器人2024年收入2.57亿元、同比增长146%、净亏损6.47亿元及产品订单。",
+      "published_date": "2025-03-28",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "手术机器人放量与盈利节奏未核验；母公司持股与完整股东结构未展开。",
+  "category_id": "08",
+  "focus": "手术机器人",
+  "products": "图迈腔镜手术机器人、鸿鹄骨科机器人、R-ONE血管介入机器人",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：手术机器人。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "港股上市（02252）；2024年收入2.57亿元，同比增长146%，净亏损6.47亿元，图迈全球新签订单39台。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "微创机器人",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

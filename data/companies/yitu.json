@@ -1,0 +1,181 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "yitu",
+  "name": "依图科技",
+  "aliases": [
+    "Yitu Technology",
+    "依图",
+    "Yitu",
+    "依图科技"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2012年成立的计算机视觉公司，属于成熟平台；公开融资与经营信息停留在较早年份，列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-4f4c31c86f0ae7b8",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.yitutech.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "依图科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-d0e759d1b390851c",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.yitutech.com/cn/join-us",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "依图科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-1116d2dad2dc2d23",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8812425/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "依图",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-066a96bbe5d71f9d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/2015455f127866b91nZ429m-Eg~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "依图",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.yitutech.com",
+    "careers_url": "https://www.yitutech.com/cn/join-us",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "依图科技 公开入口",
+      "url": "https://www.yitutech.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "依图科技 | YITU 拓展人工智能新疆界",
+      "url": "https://www.yitutech.com/",
+      "supports": "公开官网主体观察：https://www.yitutech.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "加入依图 | 依图科技",
+      "url": "https://www.yitutech.com/cn/join-us",
+      "supports": "公开招聘入口主体观察：https://www.yitutech.com/cn/join-us；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【依图招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8812425/",
+      "supports": "公开企业主页主体：依图；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 依图",
+      "url": "https://www.zhipin.com/gongsi/2015455f127866b91nZ429m-Eg~~.html",
+      "supports": "公开企业主页主体：依图；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "依图科技获2亿美元C+轮融资",
+      "url": "https://zhidx.com/news/4216.html",
+      "supports": "依图2018年2亿美元C+轮、投资方及2012年成立/业务板块。",
+      "published_date": "2018-06-12",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "未找到2019年后可靠融资披露；公司当前经营状态与股东结构需另行核验。",
+  "category_id": "04",
+  "focus": "计算机视觉、城市治理与医疗影像AI",
+  "products": "人脸识别/城市治理、医疗影像AI、视觉算力",
+  "locations_text": "上海徐汇",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：计算机视觉、城市治理与医疗影像AI。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "公开披露最近一轮为2018年2亿美元C+轮，投资方包括高成资本、工银国际、浦银国际；此后未找到新的股权融资披露。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "依图科技",
+    "original_track": "04",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "shanghai-electric",
+  "name": "上海电气",
+  "aliases": [
+    "Shanghai Electric",
+    "SEC",
+    "上海电气集团股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "大型能源装备与工业自动化上市集团，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-d8eb2b3198dac4f8",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9806195/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海电气",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-63d35f1accdbe734",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/ea3669611747bf8d1XN40tW5EQ~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海电气",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.shanghai-electric.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "上海电气 公开入口",
+      "url": "https://www.shanghai-electric.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【上海电气招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9806195/",
+      "supports": "公开企业主页主体：上海电气；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海电气集团数字...",
+      "url": "https://www.zhipin.com/gongsi/ea3669611747bf8d1XN40tW5EQ~~.html",
+      "supports": "公开企业主页主体：上海电气；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "上海电气：2024年全年营收订单双增长 三大板块毛利率提升",
+      "url": "https://www.cs.com.cn/ssgs/gsxw/202503/t20250329_6482265.html",
+      "supports": "上海电气2024年营收1162亿元、归母净利润7.52亿元、新增订单1536亿元及三大板块。",
+      "published_date": "2025-03-29",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "未核实到独立招聘页与招聘邮箱；招聘入口见 channels 中的猎聘/BOSS 页面。",
+  "category_id": "06",
+  "focus": "能源装备、工业自动化与机器人",
+  "products": "风电/核电/燃机等能源装备、工业自动化、电梯与机器人",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：能源装备、工业自动化与机器人。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所与港交所上市（601727/02727）；2024年营收1162亿元，归母净利润7.52亿元，新增订单1536亿元。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "上海电气",
+    "original_track": "06",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "memsensing-microsystems",
+  "name": "苏州敏芯微电子",
+  "aliases": [
+    "MEMSensing Microsystems",
+    "敏芯股份",
+    "敏芯微",
+    "苏州敏芯微电子技术股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2007年创立、2020年科创板上市（688286）的MEMS传感器厂商，注册于苏州工业园区，属成熟感知芯片玩家。列为 later。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-2b3c4f837064af8d",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.memsensing.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州敏芯微电子",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-3f770c8180f6c468",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9512294/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州敏芯微电子技术股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-afb324ab1a4b414d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/09eb1081c7e8fd470HB_29-7EQ~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州敏芯微电子技术股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.memsensing.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州敏芯微电子 公开入口",
+      "url": "https://www.memsensing.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "苏州敏芯微电子官网",
+      "url": "https://www.memsensing.com",
+      "supports": "公开官网主体与标题观察：苏州敏芯微电子技术股份有限公司；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【苏州敏芯微电子技术股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9512294/",
+      "supports": "公开企业主页主体：苏州敏芯微电子技术股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州敏芯微电子技术股份有限公司",
+      "url": "https://www.zhipin.com/gongsi/09eb1081c7e8fd470HB_29-7EQ~~.html",
+      "supports": "公开企业主页主体：苏州敏芯微电子技术股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 苏州敏芯微电子技术股份有限公司（688286）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688286.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2007-09-25成立、2020-08-10上市、MEMS传感器主营、苏州工业园区注册地址。"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "苏州敏芯微电子官网",
+      "url": "https://www.memsensing.com/",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "官网称创立于2007年、2020年8月登陆科创板（代码688286）。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "09",
+  "focus": "MEMS传感器芯片（声学MEMS/压力/惯性），AIoT感知层",
+  "products": "MEMS传感器芯片（声学MEMS/压力/惯性），AIoT感知层",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：MEMS传感器芯片（声学MEMS/压力/惯性），AIoT感知层。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所科创板上市（688286，2020-08-10）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州敏芯微电子",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

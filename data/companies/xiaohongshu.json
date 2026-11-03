@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "id": "xiaohongshu",
+  "name": "小红书 Xiaohongshu",
+  "aliases": [
+    "小红书",
+    "Xiaohongshu",
+    "RED",
+    "小红书科技"
+  ],
+  "category_id": "04",
+  "focus": "生活方式社区与电商平台；AI 切面以「点点」等个人助手产品为公开证据",
+  "products": "小红书 App、点点 AI 生活助手等",
+  "locations_text": "上海；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与快手同属内容社区，但公开 AI 证据偏点点个人助手，故主分类落在通用 Agent／个人应用。",
+    "peer_names": [
+      "快手",
+      "字节跳动",
+      "美团"
+    ]
+  },
+  "investment": {
+    "summary": "非上市公司；历史融资以公开报道为准，本档案不展开未核验轮次表。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": "https://www.xiaohongshu.com/",
+    "careers_url": "https://job.xiaohongshu.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主站偏登录墙；招聘站 job.xiaohongshu.com 可公开访问。点点上架主体为关联公司，不自动等同全部法人边界。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "小红书",
+      "url": "https://www.xiaohongshu.com/",
+      "supports": "产品主站身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "小红书招聘",
+      "url": "https://job.xiaohongshu.com/",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "App Store：点点 - 你的 AI 生活助手",
+      "url": "https://apps.apple.com/cn/app/%E7%82%B9%E7%82%B9-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E5%8A%A9%E6%89%8B/id6529536122",
+      "supports": "点点 AI 助手主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「小红书科技有限公司」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/dfb87d16a41d08301XZ60tu1ElE~.html",
+      "supports": "公开企业主页路径指向小红书科技；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【小红书招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7921271/",
+      "supports": "公开企业主页主体：小红书。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "小红书",
+    "original_track": "04",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "成熟内容社区母平台，已有点点等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-b64c7833e322dd68",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.xiaohongshu.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "小红书 Xiaohongshu",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-2254755a8201b495",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://job.xiaohongshu.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "小红书 Xiaohongshu",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-4370aa77a29f2aae",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/dfb87d16a41d08301XZ60tu1ElE~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "小红书 Xiaohongshu",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染。"
+    },
+    {
+      "id": "ch-25e95371f78b8752",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7921271/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "小红书",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "inovance-technology",
+  "name": "苏州汇川技术",
+  "aliases": [
+    "Inovance Technology Suzhou",
+    "汇川技术苏州研发中心",
+    "汇川技术"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2003年成立、2010年创业板上市（300124）的工业自动化核心部件与机器人供应商，属成熟工控平台；苏州单元本轮未核实。列为 later。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-0b33be23a1e9ba7c",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.inovance.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州汇川技术",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-fec6a6bb28eaa5a2",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/1938395/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "汇川技术",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-aefc4f67ec948879",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://recruit.inovance.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州汇川技术",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-725166959489f9ee",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/51148f5b7a4421193nR93925FA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州汇川技术",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.inovance.com",
+    "careers_url": "https://recruit.inovance.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州汇川技术 公开入口",
+      "url": "https://www.inovance.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "苏州汇川技术官网",
+      "url": "https://www.inovance.com",
+      "supports": "公开官网主体与标题观察：汇川技术官网；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【汇川技术招聘】-猎聘",
+      "url": "https://www.liepin.com/company/1938395/",
+      "supports": "公开企业主页主体：汇川技术；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "汇川技术招聘官网",
+      "url": "https://recruit.inovance.com/",
+      "supports": "官方招聘站入口。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州汇川技术有限公司（吴中，优先于深圳母公司页）",
+      "url": "https://www.zhipin.com/gongsi/51148f5b7a4421193nR93925FA~~.html",
+      "supports": "公开企业主页主体：苏州汇川技术；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 深圳市汇川技术股份有限公司（300124）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/300124.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2003-04-10成立、2010-09-28上市、变频器/伺服/PLC/机器视觉等主营、深圳注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "08",
+  "focus": "工业自动化驱动器、PLC、机器人控制系统+AI运控",
+  "products": "工业自动化驱动器、PLC、机器人控制系统+AI运控",
+  "locations_text": "苏州高新区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：工业自动化驱动器、PLC、机器人控制系统+AI运控。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "深交所创业板上市（300124，2010-09-28）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州汇川技术",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

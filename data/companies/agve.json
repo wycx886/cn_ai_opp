@@ -1,0 +1,127 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "agve",
+  "name": "苏州艾吉威机器人",
+  "aliases": [
+    "AGVE Robotics",
+    "AGVE",
+    "苏州艾吉威机器人有限公司",
+    "艾吉威"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "2011年成立的苏州本地AMR/无人叉车厂商，自研无反光板激光导航，属机器人赛道成长型企业；与快仓、擎朗口径一致归为新进。最新融资、收入规模本轮未核实，列 watchlist。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-de12adc461f3adb6",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9806813/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州艾吉威机器人有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-a2b8e3e002632672",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/874c6b1e202fddd31X1639q7Eg~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州艾吉威机器人有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.agve.com.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州艾吉威机器人 公开入口",
+      "url": "https://www.agve.com.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【苏州艾吉威机器人有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9806813/",
+      "supports": "公开企业主页主体：苏州艾吉威机器人有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州艾吉威机器人有限公司（21岗）",
+      "url": "https://www.zhipin.com/gongsi/874c6b1e202fddd31X1639q7Eg~~.html",
+      "supports": "公开企业主页主体：苏州艾吉威机器人有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "关于我们 - 艾吉威机器人",
+      "url": "https://www.agvsz.com/about-us/",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "苏州艾吉威机器人有限公司成立于2011年，专注移动机器人（AGV）研产销，获相关专利180余项，总部苏州工业园区、生产基地湖北天门。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "08",
+  "focus": "AMR/AGV自主移动机器人，工厂物流自动化",
+  "products": "AMR/AGV自主移动机器人，工厂物流自动化",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：AMR/AGV自主移动机器人，工厂物流自动化。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "未核实到可靠的公开融资轮次披露；官网仅可核成立年份与业务。",
+    "verification_status": "not_found"
+  },
+  "provenance": {
+    "original_name": "苏州艾吉威机器人",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

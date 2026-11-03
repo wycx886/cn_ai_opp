@@ -1,0 +1,96 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "uzero-intelligence",
+  "name": "苏州优智汇",
+  "aliases": [],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "unresolved",
+    "wave": "watchlist",
+    "rationale": "未找到“苏州优智汇”的可靠公开资料；uzero.ai 为英文“AI for Producers”站点，未证实与苏州主体相关，保持 unresolved。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-ccb3ab6e2ba372bd",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.uzero.ai",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "uZero",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "待核实：页面观察主体为“uZero”；不能作为“苏州优智汇”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州优智汇 公开入口",
+      "url": "https://www.itjuzi.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "关联网站观察（原采集标签：苏州优智汇官网）",
+      "url": "https://www.uzero.ai",
+      "supports": "公开官网主体与标题观察：uZero | AI for Producers；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 主体边界：英文uZero站点与“苏州优智汇”的对应关系未证实；不能由页面名称确认苏州公司。 原采集关联名称（不再作为同一主体别名匹配）：Uzero Intelligence。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.uzero.ai 保留为关联／历史线索，未确认属于本研究单元。",
+  "category_id": "06",
+  "focus": "待核实主体；原采集业务线索：制造业AI大模型，工业知识图谱与工艺优化",
+  "products": "待核实产品／主体对应关系；原采集线索：制造业AI大模型，工业知识图谱与工艺优化",
+  "locations_text": "原苏州工业园区标签待核实，英文站点不证明苏州主体",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "主体、地域与业务对应关系待核实，现有材料仅作研究线索，不构成同业地位或招聘结论。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "草稿阶段：A轮；待用公开融资披露核实。",
+    "verification_status": "not_found"
+  },
+  "provenance": {
+    "original_name": "苏州优智汇",
+    "original_track": "06",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [],
+    "relationship_status": "unresolved",
+    "summary": "英文uZero站点与“苏州优智汇”的对应关系未证实；不能由页面名称确认苏州公司。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-02"
+  }
+}

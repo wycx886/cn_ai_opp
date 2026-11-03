@@ -1,0 +1,192 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "agora",
+  "name": "声网 Agora",
+  "aliases": [
+    "Agora",
+    "声网",
+    "RTE",
+    "上海兆言网络科技有限公司",
+    "Agora, Inc."
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已在美股上市的实时互动云与对话式AI基础设施公司，属于成熟平台而非新进机构；列为 later 资料批次。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-92698ab5e8867593",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.shengwang.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "声网 Agora",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-cbf60efff1f0439b",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://app.mokahr.com/apply/agora/6334",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "声网 Agora",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-1936de113804c568",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7932501/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海兆言网络科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-ffc89b2fda79120e",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/1cca46c508edea961HVy3dm5GFY~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "声网",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.shengwang.cn",
+    "careers_url": "https://app.mokahr.com/apply/agora/6334",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "声网 Agora 公开入口",
+      "url": "https://www.shengwang.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "全球领先的对话式AI与实时音视频云服务商 - 声网",
+      "url": "https://www.shengwang.cn/",
+      "supports": "公开官网主体观察：https://www.shengwang.cn/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "声网 - 社会招聘",
+      "url": "https://app.mokahr.com/apply/agora/6334",
+      "supports": "公开招聘入口主体观察：https://app.mokahr.com/apply/agora/6334；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【声网招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7932501/",
+      "supports": "公开企业主页主体：上海兆言网络科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 声网",
+      "url": "https://www.zhipin.com/gongsi/1cca46c508edea961HVy3dm5GFY~.html",
+      "supports": "公开企业主页主体：声网；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "声网Q3营收同比增12%，连续四季度实现GAAP盈利",
+      "url": "https://www.donews.com/news/detail/1/6262157.html",
+      "supports": "声网2025年Q3营收、利润、中国区与海外Agora收入及客户数。",
+      "published_date": "2025-11-20",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "声网 Agora 官网",
+      "url": "https://www.shengwang.cn/",
+      "supports": "对话式AI引擎、RTE产品矩阵与硬件开发套件等业务口径。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "以2025年第三季度财报为最新核验口径；未核对完整股东名册与IPO发行细节。",
+  "category_id": "02",
+  "focus": "实时音视频（RTE）与对话式 AI 引擎",
+  "products": "声网RTE产品（语音/视频/信令/云端录制）、对话式AI引擎与硬件开发套件、Agora海外实时互动云",
+  "locations_text": "上海杨浦",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：实时音视频（RTE）与对话式 AI 引擎。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "美股上市（ADS）；2025年第三季度营收3537万美元，同比增长12.0%，净利润270万美元，连续四个季度实现GAAP盈利；中国区声网与海外Agora双市场运营。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "声网 Agora",
+    "original_track": "02",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

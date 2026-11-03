@@ -1,0 +1,181 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "qiniu",
+  "name": "七牛云",
+  "aliases": [
+    "Qiniu",
+    "七牛智能",
+    "七牛智能科技有限公司",
+    "七牛云"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "港股上市的云存储与音视频服务商，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-97650bfb793f6a2d",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.qiniu.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "七牛云",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-6551ee53d311d57e",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://jobs.qiniu.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "七牛云",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-3c42bc3fd6cd52c4",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7688655/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "七牛云",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-af521d452d28f19f",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/b3b788a71aceed831XZy3Nk~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "七牛云",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.qiniu.com",
+    "careers_url": "https://jobs.qiniu.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "七牛云 公开入口",
+      "url": "https://www.qiniu.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "七牛云 | 一站式中立音视频云 + AI",
+      "url": "https://www.qiniu.com/",
+      "supports": "公开官网主体观察：https://www.qiniu.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "七牛云社会招聘",
+      "url": "https://jobs.qiniu.com/",
+      "supports": "公开招聘入口主体观察：https://jobs.qiniu.com/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【七牛招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7688655/",
+      "supports": "公开企业主页主体：七牛云；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 七牛云",
+      "url": "https://www.zhipin.com/gongsi/b3b788a71aceed831XZy3Nk~.html",
+      "supports": "公开企业主页主体：七牛云；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "七牛云：营收14.4亿、亏损4.6亿",
+      "url": "https://www.163.com/dy/article/JSI0KVL80511D6RL.html",
+      "supports": "七牛智能2024年营收14.37亿元、净亏损4.59亿元、员工325人及收入结构。",
+      "published_date": "2025-04-07",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "收入与亏损来自2024年业绩公告；2025年后经营情况未核验。",
+  "category_id": "02",
+  "focus": "云存储、音视频与多模态生成式AI API",
+  "products": "对象存储、CDN、音视频云、AI推理与多模态生成API",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：云存储、音视频与多模态生成式AI API。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "港股上市（02567）；2024年营收14.37亿元，净亏损4.59亿元，员工325人。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "七牛云",
+    "original_track": "02",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

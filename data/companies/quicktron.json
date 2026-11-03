@@ -1,0 +1,201 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "quicktron",
+  "name": "快仓智能",
+  "aliases": [
+    "Quicktron",
+    "快仓",
+    "快仓智能",
+    "Quicktron Robotics"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "仓储AMR与智能物流新进厂商，2024年完成过亿美元D轮、全球部署3.5万台以上设备；列为第一波。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-056a592de1d9babf",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.quicktron.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "快仓智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-6cfe67278cc5f355",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7961673/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "快仓智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-b903c24c8d6cc532",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/864998ddffc4800b1nd93Nu7FVQ~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "快仓智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e896c1fcdc5acf0e",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.quicktron.com/zh_CN/about-us",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "快仓智能",
+        "role": null
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "notes": "官网加入我们为关于页内段落；career@quicktron.com 来自 2026 届校招简章的校招答疑，社招适用性未确认。"
+    }
+  ],
+  "contacts": {
+    "website": "https://www.quicktron.com",
+    "careers_url": "https://www.quicktron.com/zh_CN/about-us",
+    "recruitment_email": "career@quicktron.com",
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "快仓智能 公开入口",
+      "url": "https://www.quicktron.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Home| Quicktron Robotics - We Move The Future",
+      "url": "https://www.quicktron.com/",
+      "supports": "公开官网主体观察：https://www.quicktron.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【快仓智能招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7961673/",
+      "supports": "公开企业主页主体：快仓智能；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 快仓智能",
+      "url": "https://www.zhipin.com/gongsi/864998ddffc4800b1nd93Nu7FVQ~.html",
+      "supports": "公开企业主页主体：快仓智能；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "快仓智能完成D轮过亿美元融资",
+      "url": "https://www.jiemian.com/article/11714250.html",
+      "supports": "快仓D轮过亿美元及金杜鹃资本、远雄集团、无锡梁溪科创、潍坊鸢飞产业基金参投。",
+      "published_date": "2024-09-12",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "关于我们 - 快仓智能",
+      "url": "https://www.quicktron.com.cn/about-us",
+      "supports": "快仓2014年成立、AMR产品线、全球部署与500多名员工。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "关于快仓",
+      "url": "https://www.quicktron.com/zh_CN/about-us",
+      "supports": "官方关于页含“加入我们”招聘介绍段落；页面未列邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "快仓 2026 届校园招聘简章",
+      "url": "https://myjob.dlmu.edu.cn/attachment/myjob/ueditor/file/20251013/6206_2026%E5%BF%AB%E4%BB%93%E6%8B%9B%E8%81%98%E7%AE%80%E7%AB%A0.pdf",
+      "supports": "公司 2026 届校招简章（高校就业网托管）“校招答疑”列邮箱 career@quicktron.com、电话 021-54560716。",
+      "published_date": "2025-10-13",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "D轮估值未披露；官网称4.2万台AMR安装与3.5万台部署，口径不完全一致，未统一。 2026-11-03：career@quicktron.com 为 2026 届校招简章公开的校招答疑邮箱，不假定适用于全部社招岗位。",
+  "category_id": "08",
+  "focus": "仓储AMR与智能物流",
+  "products": "M/C/F系列AMR、QuickBin/QuickCube智能拣选、货架到人与智能搬运方案",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：仓储AMR与智能物流。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2024年9月完成D轮融资，融资总额过亿美元，金杜鹃资本、远雄集团、无锡梁溪科创、潍坊鸢飞产业基金联合参投。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "快仓智能",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

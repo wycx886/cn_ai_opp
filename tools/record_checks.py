@@ -2,6 +2,7 @@
 import json
 from functools import lru_cache
 import re
+import unicodedata
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import unquote, urlsplit, urlunsplit
@@ -16,6 +17,10 @@ PLATFORMS = {
   "maimai": ("maimai.cn", ("/ent/",)),
 }
 LAYER_NAMES = {"official": "Layer 1 官方", "recruitment_platform": "Layer 2 招聘平台", "professional_social": "Layer 3 专业社交"}
+
+
+def normalized_organization_name(value):
+  return ''.join(c for c in unicodedata.normalize('NFKC', value or '').casefold() if c.isalnum())
 
 
 def today():
@@ -139,6 +144,11 @@ def validate_record(record, root=ROOT):
   for channel in record["channels"]:
     if channel["owner"]["scope"] != "organization":
       raise ValueError("channels stores institution channels only; use people for personal profiles")
+    known_names = {normalized_organization_name(n) for n in [record['name'], *record['aliases']]}
+    if channel['verification_status'] == 'confirmed' and normalized_organization_name(channel['owner']['name']) not in known_names:
+      raise ValueError("Confirmed channel owner must match the target or an evidenced identity alias; related/group channels remain partial")
+    if channel['verification_status'] == 'partial' and not channel.get('notes'):
+      raise ValueError("Partial channels need a note explaining the ownership or access gap")
     key = (channel["platform"], channel["url"], channel["owner"]["scope"])
     if channel["id"] in channel_ids or key in channel_keys:
       raise ValueError("Duplicate public channel")
@@ -221,5 +231,7 @@ def channel_markdown(record):
     return str(text).replace("|", "\\|").replace("\n", " ")
   out = "## 结构化公开渠道\n\n| 类别 | 平台与用途 | 公开链接 | 归属 | 核查日期 | 状态／来源 |\n| --- | --- | --- | --- | --- | --- |\n"
   for c in channels:
-    out += "| %s | %s / %s | [入口](%s) | %s | %s | %s / %s |\n" % tuple(map(md, [LAYER_NAMES[c['layer']],c['platform'],c['purpose'],c['url'],c['owner']['name'] or c['owner']['scope'],c['checked_at'],c['verification_status'],','.join(c['source_ids'])]))
+    owner = (c['owner']['name'] or c['owner']['scope']) + ('；' + c['owner']['role'] if c['owner'].get('role') else '')
+    status = c['verification_status'] + ' / ' + ','.join(c['source_ids']) + ('；' + c['notes'] if c.get('notes') else '')
+    out += "| %s | %s / %s | [入口](%s) | %s | %s | %s |\n" % tuple(map(md, [LAYER_NAMES[c['layer']],c['platform'],c['purpose'],c['url'],owner,c['checked_at'],status]))
   return out + "\n核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。\n\n" + people_markdown(record)

@@ -4,11 +4,49 @@ company_id,company,source_id,title,url,supports,published_date,checked_at
 01-ai,零一万物 01.AI,s03,李开复采访,https://36kr.com/p/3115390169927685,产业联合实验室与路线调整,,2026-10-30
 01-ai,零一万物 01.AI,s04,「北京零一万物信息技术招聘」-BOSS直聘,https://www.zhipin.com/gongsi/6604fa28d0b480c11X1y09-6FFc~.html,公开企业主页主体：北京零一万物信息技术；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 01-ai,零一万物 01.AI,s05,【零一万物招聘】-猎聘,https://www.liepin.com/company/13948001/,公开企业主页主体：零一万物；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+alibaba,阿里巴巴集团 Alibaba,s01,阿里巴巴集团官方网站,https://www.alibabagroup.com/,集团官网身份,,2026-11-02
+alibaba,阿里巴巴集团 Alibaba,s02,Alibaba Group Careers,https://talent.alibaba.com/,集团招聘入口,,2026-11-02
+alibaba,阿里巴巴集团 Alibaba,s03,阿里云百炼：什么是阿里云百炼,https://www.alibabacloud.com/help/zh/model-studio/what-is-model-studio,云侧千问／模型服务主题证据,,2026-11-02
+alibaba,阿里巴巴集团 Alibaba,s04,「阿里巴巴集团招聘」-BOSS直聘,https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html,公开企业主页路径指向阿里巴巴集团；反爬未能完整渲染。,,2026-11-02
+alibaba,阿里巴巴集团 Alibaba,s05,【阿里巴巴集团招聘】-猎聘,https://www.liepin.com/company/1072424/,公开企业主页主体：阿里巴巴集团。,,2026-11-02
+alibaba-shanghai,阿里巴巴（上海）,s01,阿里巴巴（上海） 公开入口,https://www.alibaba.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+alibaba-shanghai,阿里巴巴（上海）,s02,阿里巴巴集团官方网站-Alibaba group,https://www.alibabagroup.com/,公开官网主体观察：https://www.alibabagroup.com/；只核验入口归属。,,2026-11-02
+alibaba-shanghai,阿里巴巴（上海）,s03,"加入阿里巴巴,阿里巴巴招聘-阿里巴巴集团",https://www.alibabagroup.com/careers,公开招聘入口主体观察：https://www.alibabagroup.com/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+alibaba-shanghai,阿里巴巴（上海）,s04,【阿里巴巴集团招聘】-猎聘,https://www.liepin.com/company/1072424/,公开企业主页主体：阿里巴巴(中国)有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+alibaba-shanghai,阿里巴巴（上海）,s05,BOSS直聘企业主页 · 阿里巴巴集团,https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html,公开企业主页主体：阿里巴巴(中国)有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+alibaba-shanghai,阿里巴巴（上海）,s06,总投资超20亿元！阿里巴巴上海总部启用,https://www.thepaper.cn/newsDetail_forward_28696747,上海徐汇滨江总部启用、总投资约20.5亿元及“三总部三中心”业务布局。,2024-09-10,2026-11-03
+alibaba-shanghai,阿里巴巴（上海）,s07,维基百科：阿里巴巴集团,https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2,阿里巴巴集团NYSE:BABA/09988.HK上市身份。,,2026-11-03
+ant-group,蚂蚁集团 Ant Group,s01,蚂蚁集团官网,https://www.antgroup.com/,集团官网身份,,2026-11-02
+ant-group,蚂蚁集团 Ant Group,s02,蚂蚁集团招聘,https://talent.antgroup.com/,官方招聘入口,,2026-11-02
+ant-group,蚂蚁集团 Ant Group,s03,Ant Group press: Ling AI Model Family,https://www.antgroup.com/en/news-media/press-releases/1759982400000,Ling／百灵模型主题证据（与 incumbents 一致）,,2026-11-02
+ant-group,蚂蚁集团 Ant Group,s04,「蚂蚁科技集团股份有限公司」-BOSS直聘,https://www.zhipin.com/gongsi/5215e53b5f7afc081Xx60tS_E1o~.html,公开企业主页路径指向蚂蚁科技集团；反爬未能完整渲染。,,2026-11-02
+ant-group,蚂蚁集团 Ant Group,s05,【蚂蚁集团招聘】-猎聘,https://www.liepin.com/company/8968236/,公开企业主页主体：蚂蚁集团。,,2026-11-02
 baichuan,百川智能 Baichuan,s01,百川官方产品页,https://www.baichuan-ai.com/,医疗产品方向,,2026-10-30
 baichuan,百川智能 Baichuan,s02,百川官方招聘,https://careers.baichuan-inc.com/,社招/校招/实习入口,,2026-10-30
 baichuan,百川智能 Baichuan,s03,第一财经：百川A轮,https://www.yicai.com/news/102205877.html,公司确认投资方,2024-07-25,2026-10-30
 baichuan,百川智能 Baichuan,s04,Crunchbase百川档案,https://www.crunchbase.com/organization/baichuan-intelligence,bd商务邮箱（第三方）,,2026-10-30
 baichuan,百川智能 Baichuan,s05,「百川智能招聘」-BOSS直聘,https://www.zhipin.com/gongsi/8d42a94fe13be56c03N43t-7GVU~.html,公开企业主页主体：百川智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+baidu,百度 Baidu,s01,关于百度,https://home.baidu.com/,集团关于页／官网身份,,2026-11-02
+baidu,百度 Baidu,s02,百度招聘,https://talent.baidu.com/,官方招聘入口,,2026-11-02
+baidu,百度 Baidu,s03,百度智能云：文心大模型产品页,https://cloud.baidu.com/product/model.html,文心／ERNIE 主题证据,,2026-11-02
+baidu,百度 Baidu,s04,【Baidu招聘】-猎聘,https://www.liepin.com/company/884492/,公开企业主页主体：Baidu。,,2026-11-02
+baidu-shanghai,百度（上海）,s01,百度（上海） 公开入口,https://www.baidu.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+baidu-shanghai,百度（上海）,s02,百度一下，你就知道,https://www.baidu.com/,公开官网主体观察：https://www.baidu.com/；只核验入口归属。,,2026-11-02
+baidu-shanghai,百度（上海）,s03,百度校园招聘,https://talent.baidu.com/,公开招聘入口主体观察：https://talent.baidu.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+baidu-shanghai,百度（上海）,s04,【Baidu招聘】-猎聘,https://www.liepin.com/company/884492/,公开企业主页主体：百度在线网络技术(北京)有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+baidu-shanghai,百度（上海）,s05,BOSS直聘企业主页 · 百度,https://www.zhipin.com/gongsi/ab9fdc6f043679990HY~.html,公开企业主页主体：百度；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+baidu-shanghai,百度（上海）,s06,维基百科：百度,https://zh.wikipedia.org/zh-hans/%E7%99%BE%E5%BA%A6,百度上海研发中心2008年12月成立于浦东张江，以及百度集团上市身份。,,2026-11-03
+bytedance,字节跳动 ByteDance,s01,字节跳动官网,https://www.bytedance.com/,集团官方网站身份,,2026-11-02
+bytedance,字节跳动 ByteDance,s02,字节跳动招聘官网,https://jobs.bytedance.com/,官方社招／校招入口,,2026-11-02
+bytedance,字节跳动 ByteDance,s03,字节跳动 Seed：Seed2.1 正式发布,https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity,集团具名基础模型产品线证据（与 incumbents 主题证据一致）,,2026-11-02
+bytedance,字节跳动 ByteDance,s04,「字节跳动招聘」-BOSS直聘,https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html,公开企业主页主体：字节跳动；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bytedance,字节跳动 ByteDance,s05,【字节跳动招聘】-猎聘,https://www.liepin.com/company/7863078/,公开企业主页主体：字节跳动；简介与产品线匹配集团。只核验入口归属。,,2026-11-02
+bytedance-shanghai,字节跳动（上海）,s01,字节跳动（上海） 公开入口,https://www.bytedance.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+bytedance-shanghai,字节跳动（上海）,s02,字节跳动 - 激发创造，丰富生活,https://www.bytedance.com/,公开官网主体观察：https://www.bytedance.com/；只核验入口归属。,,2026-11-02
+bytedance-shanghai,字节跳动（上海）,s03,字节跳动招聘,https://jobs.bytedance.com/,公开招聘入口主体观察：https://jobs.bytedance.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bytedance-shanghai,字节跳动（上海）,s04,【字节跳动招聘】-猎聘,https://www.liepin.com/company/7863078/,公开企业主页主体：北京今日头条科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bytedance-shanghai,字节跳动（上海）,s05,BOSS直聘企业主页 · 字节跳动,https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html,公开企业主页主体：字节跳动；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bytedance-shanghai,字节跳动（上海）,s06,字节跳动为什么总是在搬家？,https://m.jiemian.com/article/3410416.html,字节跳动上海办公室入驻新大楼及区域办公布局。,,2026-11-03
 deepseek,深度求索 DeepSeek,s01,美联社：DeepSeek创办背景,https://apnews.com/article/0673d5c39d90108189cc31b88d85b9f8,幻方与梁文锋支持,2025-01-28,2026-10-30
 deepseek,深度求索 DeepSeek,s02,路透转载：DeepSeek融资,https://uk.marketscreener.com/news/deepseek-raises-15-billion-in-challenge-to-leading-us-labs-bloomberg-news-reports-ce785cd9df8afe20,2026融资报道及参与者,2026-10-22,2026-10-30
 deepseek,深度求索 DeepSeek,s03,DeepSeek官方招聘,https://talent.deepseek.com/,招聘入口,,2026-10-30
@@ -21,6 +59,18 @@ langboat,澜舟科技 Langboat,s02,澜舟官方联系页,https://www.langboat.co
 langboat,澜舟科技 Langboat,s03,Eight Roads官方投资披露,https://eightroads.com/cn/news/our-investment-in-langboat,Pre-A投资方,,2026-10-30
 langboat,澜舟科技 Langboat,s04,澜舟科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f769f690e846c59e1XR70968FFc~.html,公开企业主页主体：澜舟科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 langboat,澜舟科技 Langboat,s05,【澜舟科技招聘】-猎聘,https://www.liepin.com/company/13173687/,公开企业主页主体：澜舟科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+meituan,美团 Meituan,s01,美团官网,https://www.meituan.com/,集团官网身份,,2026-11-02
+meituan,美团 Meituan,s02,美团招聘,https://zhaopin.meituan.com/,官方招聘入口,,2026-11-02
+meituan,美团 Meituan,s03,美团新闻：发布 LongCat-2.5 大模型,https://www.meituan.com/news/NN261102280001343,LongCat 主题证据,,2026-11-02
+meituan,美团 Meituan,s04,「北京三快在线科技有限公司」-BOSS直聘,https://www.zhipin.com/gongsi/3b8311f4893d640d03B42dw~.html,公开企业主页主体为美团常用运营实体北京三快；反爬未能完整渲染。,,2026-11-02
+meituan,美团 Meituan,s05,【美团招聘】-猎聘,https://www.liepin.com/company/2036768/,公开企业主页主体：美团。,,2026-11-02
+meituan-shanghai,美团（上海）,s01,美团（上海） 公开入口,https://www.meituan.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+meituan-shanghai,美团（上海）,s02,美团 - 帮大家吃得更好，生活更好,https://www.meituan.com/,公开官网主体观察：https://www.meituan.com/；只核验入口归属。,,2026-11-02
+meituan-shanghai,美团（上海）,s03,美团招聘,https://career.meituan.com/,公开招聘入口主体观察：https://career.meituan.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+meituan-shanghai,美团（上海）,s04,【美团招聘】-猎聘,https://www.liepin.com/company/2036768/,公开企业主页主体：北京三快在线科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+meituan-shanghai,美团（上海）,s05,BOSS直聘企业主页 · 美团,https://www.zhipin.com/gongsi/b633a34f787d94f21nZ_0929E1I~.html,公开企业主页主体：美团；只核验入口归属，不表示具体岗位开放。,,2026-11-03
+meituan-shanghai,美团（上海）,s06,我们的科技 - 美团,https://www.meituan.com/technology,美团LongCat大模型、无人机/无人车与AI工具矩阵。,,2026-11-03
+meituan-shanghai,美团（上海）,s07,美团数字化升级 引领零售新趋势 创新型企业总部,https://www.shyp.gov.cn/shypq/xwzx-bmdt/20240104/445612.html,美团上海创新型企业总部、无人机配送航线与在沪业务。,2024-01-04,2026-11-03
 minimax,MiniMax,s01,MiniMax官方招聘,https://www.minimax.io/careers,官方投递入口与模型/产品方向,,2026-10-30
 minimax,MiniMax,s02,MiniMax公司报告,https://www.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202119_c.pdf,IR邮箱,2026-04-22,2026-10-30
 minimax,MiniMax,s03,第一财经全球：MiniMax上市,https://www2.yicaiglobal.com/news/chinese-ai-startup-minimaxs-stock-pops-in-hong-kong-trading-debut,投资方与消费产品,2026-01-09,2026-10-30
@@ -33,18 +83,49 @@ moonshot,月之暗面 Kimi,s02,Kimi官方招聘,https://careers.kimi.com/about-u
 moonshot,月之暗面 Kimi,s03,每经：月之暗面融资,https://www.nbd.com.cn/articles/2024-02-19/3247754.html,2024年2月历史投资方,2024-02-19,2026-10-30
 moonshot,月之暗面 Kimi,s04,官方Kimi Code仓库招聘帖,https://github.com/MoonshotAI/kimi-code/issues/2628,代码Agent与北京/上海,,2026-10-30
 moonshot,月之暗面 Kimi,s05,月之暗面招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f0fe9220123c051b03152d-4FVI~.html,公开企业主页主体：月之暗面；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+shanghai-ai-lab,上海人工智能实验室,s01,上海人工智能实验室 公开入口,https://www.shlab.org.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+shanghai-ai-lab,上海人工智能实验室,s02,首页 - 上海人工智能实验室,https://www.shlab.org.cn/,公开官网主体观察：https://www.shlab.org.cn/；只核验入口归属。,,2026-11-02
+shanghai-ai-lab,上海人工智能实验室,s03,加入我们 - 上海人工智能实验室,https://www.shlab.org.cn/joinus,公开招聘入口主体观察：https://www.shlab.org.cn/joinus；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-ai-lab,上海人工智能实验室,s04,【上海人工智能实验室招聘】-猎聘,https://www.liepin.com/company/12702097/,公开企业主页主体：上海人工智能实验室；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-ai-lab,上海人工智能实验室,s05,BOSS直聘企业主页 · 上海人工智能实验室,https://www.zhipin.com/gongsi/bff9220aa6f0bbb81nF82t20F1A~.html,公开企业主页主体：上海人工智能实验室；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-ai-lab,上海人工智能实验室,s06,上海人工智能实验室官网,https://www.shlab.org.cn/,书生系列模型、OpenCompass、OpenDataLab、MinerU及招聘方向。,,2026-11-03
+shanghai-ai-lab,上海人工智能实验室,s07,维基百科：上海人工智能实验室,https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4,2020年7月11日揭牌、由上海人工智能创新中心发起设立、研究型机构定位。,,2026-11-03
 stepfun,阶跃星辰 StepFun,s01,企业在南开发布2027招聘,https://career.nankai.edu.cn/correcruit/content/id/119440.html,产品方向、地点、官方网申链接,2026-09-30,2026-10-30
 stepfun,阶跃星辰 StepFun,s02,企业在湖南大学发布招聘,https://scc.hnu.edu.cn/detail/online?id=3604020,campus邮箱，仅校招/实习,,2026-10-30
 stepfun,阶跃星辰 StepFun,s03,泰伯企业融资档案,https://www.taibo.cn/company/101343,2024与2026融资投资方,,2026-10-30
 stepfun,阶跃星辰 StepFun,s04,阶跃官方模型页面,https://www.stepfun.com/step-3.7-flash,Step产品与API,,2026-10-30
 stepfun,阶跃星辰 StepFun,s05,上海阶跃星辰智能科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/0591ce5cac2618c303N43dm0F1o~.html,公开企业主页主体：上海阶跃星辰智能科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 stepfun,阶跃星辰 StepFun,s06,【阶跃星辰招聘】-猎聘,https://www.liepin.com/company/21236927/,公开企业主页主体：阶跃星辰；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+tencent,腾讯 Tencent,s01,腾讯官网,https://www.tencent.com/,集团官网身份,,2026-11-02
+tencent,腾讯 Tencent,s02,腾讯招聘,https://careers.tencent.com/,官方招聘入口,,2026-11-02
+tencent,腾讯 Tencent,s03,腾讯云 TokenHub 大模型服务平台,https://cloud.tencent.com/product/tokenhub,混元／MaaS 主题证据,,2026-11-02
+tencent,腾讯 Tencent,s04,「腾讯招聘」-BOSS直聘,https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html,公开企业主页路径指向腾讯；反爬未能完整渲染。,,2026-11-02
+tencent,腾讯 Tencent,s05,【腾讯招聘】-猎聘,https://www.liepin.com/company/7983148/,公开企业主页主体：腾讯。,,2026-11-02
+tencent-shanghai,腾讯（上海）,s01,腾讯（上海） 公开入口,https://www.tencent.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+tencent-shanghai,腾讯（上海）,s02,Home - Tencent,https://www.tencent.com/,公开官网主体观察：https://www.tencent.com/；只核验入口归属。,,2026-11-02
+tencent-shanghai,腾讯（上海）,s03,首页 | 腾讯招聘,https://careers.tencent.com/,公开招聘入口主体观察：https://careers.tencent.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tencent-shanghai,腾讯（上海）,s04,【腾讯科技(上海)有限公司招聘】-猎聘,https://www.liepin.com/company/9561840/,公开企业主页主体：腾讯（上海）；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tencent-shanghai,腾讯（上海）,s05,BOSS直聘企业主页 · 腾讯,https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html,公开企业主页主体：腾讯；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tencent-shanghai,腾讯（上海）,s06,腾讯华东总部2021年迁入徐汇滨江！ 重点打造人工智能和大数据产业,https://www.thepaper.cn/newsDetail_forward_4231222,腾讯华东总部、优图实验室、AI与大数据重点及上海公司沿革。,2019-08-22,2026-11-03
+tencent-shanghai,腾讯（上海）,s07,维基百科：腾讯,https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF,腾讯控股HKEX:700上市身份。,,2026-11-03
+xiaomi,小米 Xiaomi,s01,小米官网,https://www.mi.com/,集团／品牌官网身份,,2026-11-02
+xiaomi,小米 Xiaomi,s02,小米招聘,https://hr.xiaomi.com/,官方招聘入口,,2026-11-02
+xiaomi,小米 Xiaomi,s03,小米 MiMo 官网,https://mimo.xiaomi.com/zh/,MiMo 主题证据,,2026-11-02
+xiaomi,小米 Xiaomi,s04,「小米科技有限责任公司」-BOSS直聘,https://www.zhipin.com/gongsi/f68813333acd05f11XZ83t25.html,公开企业主页路径指向小米科技；反爬未能完整渲染。,,2026-11-02
+xiaomi,小米 Xiaomi,s05,【小米招聘】-猎聘,https://www.liepin.com/company/2174886/,公开企业主页主体：小米。,,2026-11-02
 zhipu,智谱 Z.ai,s01,智谱招聘,https://www.zhipuai.cn/zh/joinus,业务岗位、招聘入口、工作城市,,2026-10-30
 zhipu,智谱 Z.ai,s02,GLM技术团队公开招聘,https://developer.volcengine.com/articles/7329842394735034418,talent@zhipuai.cn,2024-01-30,2026-10-30
 zhipu,智谱 Z.ai,s03,智谱投资者关系,https://www.zhipuai.cn/investor_relations/,年报、招股书与IR邮箱,,2026-10-30
 zhipu,智谱 Z.ai,s04,36氪智谱档案,https://pitchhub.36kr.com/project/1958565851436035,历史融资方（非完整当前股东）,,2026-10-30
 zhipu,智谱 Z.ai,s05,智谱华章招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/18815b858c0b88250nd72N66Fw~~.html,公开企业主页主体：智谱华章；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 zhipu,智谱 Z.ai,s06,【智谱·AI招聘】-猎聘,https://www.liepin.com/company/10087865/,页面品牌为智谱·AI；简介列清华技术成果转化、GLM-130B、ChatGLM、Bigmodel.ai、CodeGeeX，与智谱业务对应。工商信息需登录，本轮未核验；只确认公开企业入口归属，不保证具体岗位持续开放。,,2026-11-01
+agora,声网 Agora,s01,声网 Agora 公开入口,https://www.shengwang.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+agora,声网 Agora,s02,全球领先的对话式AI与实时音视频云服务商 - 声网,https://www.shengwang.cn/,公开官网主体观察：https://www.shengwang.cn/；只核验入口归属。,,2026-11-02
+agora,声网 Agora,s03,声网 - 社会招聘,https://app.mokahr.com/apply/agora/6334,公开招聘入口主体观察：https://app.mokahr.com/apply/agora/6334；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+agora,声网 Agora,s04,【声网招聘】-猎聘,https://www.liepin.com/company/7932501/,公开企业主页主体：上海兆言网络科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+agora,声网 Agora,s05,BOSS直聘企业主页 · 声网,https://www.zhipin.com/gongsi/1cca46c508edea961HVy3dm5GFY~.html,公开企业主页主体：声网；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+agora,声网 Agora,s06,声网Q3营收同比增12%，连续四季度实现GAAP盈利,https://www.donews.com/news/detail/1/6262157.html,声网2025年Q3营收、利润、中国区与海外Agora收入及客户数。,2025-11-20,2026-11-03
+agora,声网 Agora,s07,声网 Agora 官网,https://www.shengwang.cn/,对话式AI引擎、RTE产品矩阵与硬件开发套件等业务口径。,,2026-11-03
 approaching-ai,趋境科技 Approaching.AI,s01,趋境官网,https://approaching-ai.com/,产品与技术定位,,2026-10-30
 approaching-ai,趋境科技 Approaching.AI,s02,Approaching-AI公开组织介绍,https://github.com/Approaching-AI,种子背景、联系邮箱、技术,,2026-10-30
 approaching-ai,趋境科技 Approaching.AI,s03,上证报：趋境B轮,https://finance.eastmoney.com/a/202610263907819429.html,B轮融资报道,2026-10-26,2026-10-30
@@ -66,6 +147,18 @@ enflame,燧原科技 Enflame,s03,燧原官方LinkedIn招聘帖,https://www.linke
 enflame,燧原科技 Enflame,s04,上交所披露文件,https://static.sse.com.cn/stock/disclosure/announcement/c/202601/002175_20260122_654W.pdf,IR邮箱与公司业务,2026-01-22,2026-10-30
 enflame,燧原科技 Enflame,s05,「燧原科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/4810d76a541af10b1HZ73Nq-Flc~.html,公开企业主页主体：燧原科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 enflame,燧原科技 Enflame,s06,【燧原科技招聘】-猎聘,https://www.liepin.com/company/9609962/,公开企业主页主体：燧原科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+huawei,华为 Huawei,s01,华为官网,https://www.huawei.com/,集团官网身份,,2026-11-02
+huawei,华为 Huawei,s02,华为招聘官网,https://career.huawei.com/,官方招聘入口,,2026-11-02
+huawei,华为 Huawei,s03,华为云：盘古大模型产品页,https://www.huaweicloud.com/product/pangu,盘古大模型主题证据,,2026-11-02
+huawei,华为 Huawei,s04,「华为技术有限公司」-BOSS直聘,https://www.zhipin.com/gongsi/21124e51a5ea83a80nR80ti8.html,公开企业主页路径指向华为技术；反爬未能完整渲染。,,2026-11-02
+huawei,华为 Huawei,s05,【华为招聘】-猎聘,https://www.liepin.com/company/954482/,公开企业主页主体：华为。,,2026-11-02
+iluvatar-corex,天数智芯,s01,天数智芯 公开入口,https://www.iluvatar.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+iluvatar-corex,天数智芯,s02,天数智芯,https://www.iluvatar.com/,公开官网主体观察：https://www.iluvatar.com/；只核验入口归属。,,2026-11-02
+iluvatar-corex,天数智芯,s03,天数智芯-社会招聘,https://app.mokahr.com/social-recruitment/iluvatar/98705,公开招聘入口主体观察：https://app.mokahr.com/social-recruitment/iluvatar/98705；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+iluvatar-corex,天数智芯,s04,【深圳市天数智芯科技有限责任公司招聘信息】-猎聘,https://www.liepin.com/company/gs36025035/,公开企业主页主体：深圳市天数智芯科技有限责任公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+iluvatar-corex,天数智芯,s05,BOSS直聘企业主页 · 上海天数智芯半导体,https://www.zhipin.com/gongsi/eca871c5822d742f1H1y3di9F1c~.html,公开企业主页主体：天数智芯；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+iluvatar-corex,天数智芯,s06,融资十轮、出货五万片 天数智芯披露十年造芯路,https://m.21jingji.com/article/20251223/herald/d55752bdac55c138f40e88d0fa195a15.html,天数智芯港交所资料集、累计交付5.2万片、2024年收入5.40亿元及产品代际。,2025-12-23,2026-11-03
+iluvatar-corex,天数智芯,s07,天数智芯官网,https://www.iluvatar.com/,天垓、智铠、彤央产品线与天数智算软件栈。,,2026-11-03
 infinigence,无问芯穹 Infinigence AI,s01,无问芯穹官方公司介绍,https://www.infinigence-ai.com/about-us.html,产品、城市、HR与业务邮箱,,2026-10-30
 infinigence,无问芯穹 Infinigence AI,s02,启明官方被投访谈,https://www.qimingvc.com/cn/news/启明星-无问芯穹夏立雪：打造“最高效的token工厂”,启明投资关系与融资,2026-05,2026-10-30
 infinigence,无问芯穹 Infinigence AI,s03,投资界C轮记录,https://vc.pedaily.cn/invest/427290.html,2026年10月投资方名单,2026-10-12,2026-10-30
@@ -74,6 +167,10 @@ infinigence,无问芯穹 Infinigence AI,s05,【上海无问芯穹智能科技股
 infrawaves,基流科技 Infrawaves,s01,光速光合融资消息转载,https://finance.sina.com.cn/jjxw/2025-01-27/doc-inehmenv9274790.shtml,历史投资方,2025-01-27,2026-10-30
 infrawaves,基流科技 Infrawaves,s02,基流科技公开招聘转载,https://k.sina.com.cn/article_2674405451_9f68304b019015ivm.html,投递邮箱及产品方向,2024,2026-10-30
 infrawaves,基流科技 Infrawaves,s03,沙利文IPO材料解读,https://finance.sina.com.cn/roll/2026-05-07/doc-inhwzrtr5296412.shtml,业务、系统产品与公司身份,2026-05-07,2026-10-30
+kingsoft-cloud,金山云 Kingsoft Cloud,s01,金山云官网,https://www.ksyun.com/,公司官网身份,,2026-11-02
+kingsoft-cloud,金山云 Kingsoft Cloud,s02,金山云星流模型服务,https://www.ksyun.com/nv/product/KSP,星流模型服务主题证据,,2026-11-02
+kingsoft-cloud,金山云 Kingsoft Cloud,s03,【金山云网络招聘】-猎聘,https://www.liepin.com/company/3526408/,公开企业主页主体：金山云网络。,,2026-11-02
+kingsoft-cloud,金山云 Kingsoft Cloud,s04,「金山云网络技术」-BOSS直聘,https://www.zhipin.com/gongsi/b47cc77979caf7091nR70ti-EA~~.html,公开企业主页路径指向金山云网络技术；反爬未能完整渲染。,,2026-11-02
 luchentech,潞晨科技 Colossal-AI,s01,潞晨官方招聘,https://www.luchentech.com/join,产品研发方向及resume投递邮箱,,2026-10-30
 luchentech,潞晨科技 Colossal-AI,s02,36氪潞晨融资档案,https://pitchhub.36kr.com/project/1678554927068166,历轮投资背景,,2026-10-30
 luchentech,潞晨科技 Colossal-AI,s03,潞晨科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/c547103fed7ec7641n1z2d20FFY~.html,公开企业主页主体：潞晨科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
@@ -84,6 +181,12 @@ metax,沐曦股份 MetaX,s03,沐曦官方联系,https://www.metax-tech.com/conta
 metax,沐曦股份 MetaX,s04,沐曦官方招聘,https://www.metax-tech.com/join,社招入口,,2026-10-30
 metax,沐曦股份 MetaX,s05,沐曦集成电路招聘-BOSS直聘,https://www.zhipin.com/gongsi/9efce839f9c116fd1nd639m7FVc~.html,公开企业主页主体：沐曦集成电路；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 metax,沐曦股份 MetaX,s06,【沐曦集成电路(上海)股份有限公司招聘】-猎聘,https://www.liepin.com/company/12451581/,公开企业主页主体：沐曦集成电路(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+montage-technology,澜起科技,s01,澜起科技 公开入口,https://www.montage-tech.com/cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+montage-technology,澜起科技,s02,澜起科技,https://www.montage-tech.com/cn/,公开官网主体观察：https://www.montage-tech.com/cn/；只核验入口归属。,,2026-11-02
+montage-technology,澜起科技,s03,加入我们 | 澜起科技,https://www.montage-tech.com/cn/Open_Positions,公开招聘入口主体观察：https://www.montage-tech.com/cn/Open_Positions；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+montage-technology,澜起科技,s04,【澜起科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/9809097/,公开企业主页主体：澜起科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+montage-technology,澜起科技,s05,BOSS直聘企业主页 · 澜起科技,https://www.zhipin.com/gongsi/8edc14afee1b2a0c03xy3di1FA~~.html,公开企业主页主体：澜起科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+montage-technology,澜起科技,s06,澜起科技去年净利润同比增长逾200% DDR5内存接口芯片需求旺盛,https://www.stcn.com/article/detail/1654805.html,澜起科技688008的2024年营收36.39亿元、归母净利润14.12亿元及DDR5/运力芯片进展。,2025-04-10,2026-11-03
 moore-threads,摩尔线程 Moore Threads,s01,摩尔线程官方招聘,https://www.mthreads.com/jobs,官网招聘与GPU业务,,2026-10-30
 moore-threads,摩尔线程 Moore Threads,s02,科创板日报：摩尔线程融资,https://www.cls.cn/detail/1523388,历史五源、红杉、厚雪投资,2023,2026-10-30
 moore-threads,摩尔线程 Moore Threads,s03,摩尔线程官方招聘门户,https://mthreads.zhiye.com/campus,校园投递入口,,2026-10-30
@@ -95,11 +198,23 @@ qingcheng-ai,清程极智 Qingcheng.AI,s03,科创板日报融资报道,https://a
 qingcheng-ai,清程极智 Qingcheng.AI,s04,CCF会议手册企业招聘页,https://ccf-tc.oss-cn-beijing.aliyuncs.com/ConferenceManual-CCFHPCChina2024.pdf,career邮箱与办公城市,2024,2026-10-30
 qingcheng-ai,清程极智 Qingcheng.AI,s05,清程极智招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/b97152d54ced29ea1HZ-3Nq5F1M~.html,公开企业主页主体：清程极智；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 qingcheng-ai,清程极智 Qingcheng.AI,s06,【北京清程极智科技有限公司招聘】-猎聘,https://www.liepin.com/company/13844083/,公开企业主页主体：北京清程极智科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+qiniu,七牛云,s01,七牛云 公开入口,https://www.qiniu.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+qiniu,七牛云,s02,七牛云 | 一站式中立音视频云 + AI,https://www.qiniu.com/,公开官网主体观察：https://www.qiniu.com/；只核验入口归属。,,2026-11-02
+qiniu,七牛云,s03,七牛云社会招聘,https://jobs.qiniu.com/,公开招聘入口主体观察：https://jobs.qiniu.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+qiniu,七牛云,s04,【七牛招聘】-猎聘,https://www.liepin.com/company/7688655/,公开企业主页主体：七牛云；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+qiniu,七牛云,s05,BOSS直聘企业主页 · 七牛云,https://www.zhipin.com/gongsi/b3b788a71aceed831XZy3Nk~.html,公开企业主页主体：七牛云；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+qiniu,七牛云,s06,七牛云：营收14.4亿、亏损4.6亿,https://www.163.com/dy/article/JSI0KVL80511D6RL.html,七牛智能2024年营收14.37亿元、净亏损4.59亿元、员工325人及收入结构。,2025-04-07,2026-11-03
 siliconflow,硅基流动 SiliconFlow,s01,硅基流动官方融资公告,https://siliconflow.cn/news/dl5ov97pt579ortwy57woavu,阿里云领投、创新工场跟投,2025-06,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s02,硅基流动官方介绍,https://www.siliconflow.cn/about,定位、产品、地址,,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s03,硅基流动官网,https://www.siliconflow.cn/,市场合作邮箱,,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s04,硅基流动招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/015ae67e8b3d5ee203173dm4ElE~.html,公开企业主页主体：硅基流动；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 siliconflow,硅基流动 SiliconFlow,s05,【硅基流动招聘】-猎聘,https://www.liepin.com/company/21146791/,公开企业主页主体：硅基流动；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+ucloud,优刻得,s01,优刻得 公开入口,https://www.ucloud.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+ucloud,优刻得,s02,UCloud优刻得-首家公有云科创板上市公司,https://www.ucloud.cn/,公开官网主体观察：https://www.ucloud.cn/；只核验入口归属。,,2026-11-02
+ucloud,优刻得,s03,UCloud,https://ucloud.zhiye.com/,公开招聘入口主体观察：https://ucloud.zhiye.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ucloud,优刻得,s04,【UCloud招聘】-猎聘,https://www.liepin.com/company/7012417/,公开企业主页主体：UCloud；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ucloud,优刻得,s05,BOSS直聘企业主页 · UCloud,https://www.zhipin.com/gongsi/239c3ad6c7a3ce811XB93dW5Elc~.html,公开企业主页主体：UCloud；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ucloud,优刻得,s06,优刻得2024年营收15.03亿元 净亏损2.41亿元,https://www.gplp.cn/archives/130600,优刻得2024年营收15.03亿元、净亏损2.41亿元、2020年1月20日上市及研发人员。,2025-04-23,2026-11-03
 aixcoder,硅心科技 / aiXcoder,s01,aiXcoder官方关于我们,https://www.aixcoder.com/zh/about,研发方向与2025融资背景,,2026-10-30
 aixcoder,硅心科技 / aiXcoder,s02,aiXcoder官方产品,https://www.aixcoder.com/zh/products,产品及商务邮箱,,2026-10-30
 aixcoder,硅心科技 / aiXcoder,s03,动点科技A轮报道,https://cn.technode.com/post/2022-03-22/aixcoder-a/,高瓴创投投资,2022-03-22,2026-10-30
@@ -111,11 +226,40 @@ dify,Dify / LangGenius,s01,Dify官方融资公告,https://dify.ai/blog/dify-rais
 dify,Dify / LangGenius,s02,Dify官方招聘,https://join.dify.ai/,joinus邮箱、城市、总部与岗位,,2026-10-30
 dify,Dify / LangGenius,s03,Dify官方伙伴计划,https://dify.ai/partners,business邮箱与服务伙伴定位,,2026-10-30
 dify,Dify / LangGenius,s04,「Dify招聘」-BOSS直聘,https://www.zhipin.com/gongsi/0add7ea9160d6a401XN_2Nq5GFU~.html,公开企业主页主体：Dify；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+aispeech,思必驰,s01,思必驰关于我们,https://www.aispeech.com/about/,官网关于页作为主体入口；草稿注明 web search 不可用，训练知识待独立核实。,,2026-11-02
+aispeech,思必驰,s02,思必驰官网,https://www.aispeech.com,公开官网主体与标题观察：思必驰|专业的大模型人机对话平台企业；只核验入口归属。,,2026-11-02
+aispeech,思必驰,s03,思必驰加入我们,https://www.aispeech.com/about/joinus,官方招聘／加入我们入口；页面披露招聘邮箱时同步 contacts，不猜测用途。,,2026-11-02
+aispeech,思必驰,s04,【思必驰科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/4270001/,公开企业主页主体：思必驰科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+aispeech,思必驰,s05,BOSS直聘企业主页 · 思必驰科技股份有限公司（苏州工业园区）,https://www.zhipin.com/gongsi/58e6a9f85ea7787d1nF-3ty_EFE~.html,公开企业主页主体：思必驰科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+aispeech,思必驰,s06,江苏AI芯片企业，要IPO了 - 智东西,https://m.zhidx.com/p/560283.html,思必驰科创板IPO获受理、2007年10月成立、2025年营收6.88亿元、净亏损0.80亿元、AI芯片年均出货超6000万颗。,2026-05-25,2026-11-03
+aispeech,思必驰,s07,两年前上会被否，如今重启IPO（上海证券报）,https://finance.sina.com.cn/stock/roll/2025-04-27/doc-ineuqytw2905886.shtml,2023年5月首次科创板IPO上会被否，2025年4月重启辅导；2007年成立。,2025-04-27,2026-11-03
+bilibili,哔哩哔哩,s01,哔哩哔哩 公开入口,https://www.bilibili.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+bilibili,哔哩哔哩,s02,哔哩哔哩 (゜-゜)つロ 干杯~-bilibili,https://www.bilibili.com/,公开官网主体观察：https://www.bilibili.com/；只核验入口归属。,,2026-11-02
+bilibili,哔哩哔哩,s03,哔哩哔哩-招聘,https://jobs.bilibili.com/,公开招聘入口主体观察：https://jobs.bilibili.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bilibili,哔哩哔哩,s04,【上海哔哩哔哩科技有限公司招聘】-猎聘,https://www.liepin.com/company/9736931/,公开企业主页主体：上海哔哩哔哩科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bilibili,哔哩哔哩,s05,BOSS直聘企业主页 · 哔哩哔哩,https://www.zhipin.com/gongsi/5bfc56c0e972e7c41Xx-3A~~.html,公开企业主页主体：哔哩哔哩；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bilibili,哔哩哔哩,s06,哔哩哔哩股份有限公司宣布2024年第四季度及财政年度的财务业绩,https://ir.bilibili.com/media/01sdjzrs/4q24-%E5%8F%8A%E5%85%A8%E5%B9%B4%E4%B8%9A%E7%BB%A9%E6%8A%A5%E5%91%8A.pdf,B站2024年净营业额268.32亿元、Q4净利润0.889亿元及BILI/9626上市身份。,2025-02-20,2026-11-03
 caiyun,彩云科技,s01,彩云官方主页,https://www.caiyunapp.com/?lang=zh,产品与开放平台联系,,2026-10-30
 caiyun,彩云科技,s02,彩云官方招聘,https://www.caiyunapp.com/jobs/,hr邮箱、岗位城市与B1轮,,2026-10-30
 caiyun,彩云科技,s03,钛媒体创始人采访转载,https://finance.sina.com.cn/cj/2024-11-17/doc-incwinct8191921.shtml,历史投资方,2024-11-17,2026-10-30
 caiyun,彩云科技,s04,「彩云科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/ee270ba65ab755ca03Zz2dm7Fg~~.html,公开企业主页主体：彩云科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 caiyun,彩云科技,s05,【彩云科技AI招聘】-猎聘,https://www.liepin.com/company/9497504/,公开企业主页主体：彩云科技AI；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+cloudwalk-suzhou,云从科技（苏州）,s01,云从科技（苏州） 公开入口,https://www.cloudwalk.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+cloudwalk-suzhou,云从科技（苏州）,s02,关联网站观察（原采集标签：云从科技（苏州）官网）,https://www.cloudwalk.com,公开官网主体与标题观察：云从科技；只核验入口归属。,,2026-11-02
+cloudwalk-suzhou,云从科技（苏州）,s03,【云从科技招聘】-猎聘,https://www.liepin.com/company/9144450/,公开企业主页主体：云从科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+cloudwalk-suzhou,云从科技（苏州）,s04,BOSS直聘企业主页 · 江苏云从曦和人工智能有限公司（园区苏州单元；优于重庆集团页）,https://www.zhipin.com/gongsi/6cb230c06036b9a20XVy09q0FA~~.html,公开企业主页主体：云从科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+cloudwalk-suzhou,云从科技（苏州）,s05,新浪财经公司资料 · 云从科技集团股份有限公司（688327）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688327.phtml,2015-03-27成立、2022-05-27上市、广州南沙注册地址及人工智能解决方案主营。,,2026-11-03
+ctrip,携程集团,s01,携程集团 公开入口,https://www.trip.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+ctrip,携程集团,s02,Trip.com官方網站：全球機票、酒店、高鐵網上預訂,https://www.trip.com/,公开官网主体观察：https://www.trip.com/；只核验入口归属。,,2026-11-02
+ctrip,携程集团,s03,Trip.com Group Careers,https://careers.trip.com/,公开招聘入口主体观察：https://careers.trip.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ctrip,携程集团,s04,【携程集团招聘】-猎聘,https://www.liepin.com/company/182339/,公开企业主页主体：携程计算机技术(上海)有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ctrip,携程集团,s05,BOSS直聘企业主页 · 携程集团,https://www.zhipin.com/gongsi/ef2ede3e92bf51f91nV72966ElM~.html,公开企业主页主体：携程集团；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ctrip,携程集团,s06,携程发布2024Q4及全年财报，入境游增长超100%，将持续加码AI,https://www.forbeschina.com/business/69541,携程2024年净营收533亿元、净利润172亿元及AI产品/组织调整。,2025-02-25,2026-11-03
+ctrip,携程集团,s07,维基百科：携程集团,https://zh.wikipedia.org/wiki/%E6%94%9C%E7%A8%8B%E9%9B%86%E5%9B%A2,携程NASDAQ:TCOM/09961.HK上市身份与上海总部。,,2026-11-03
+deepglint-suzhou,格灵深瞳（苏州）,s01,格灵深瞳（苏州） 公开入口,https://www.deepglint.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+deepglint-suzhou,格灵深瞳（苏州）,s02,【格灵深瞳招聘】-猎聘,https://www.liepin.com/company/8026723/,公开企业主页主体：格灵深瞳；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+deepglint-suzhou,格灵深瞳（苏州）,s03,BOSS直聘企业主页 · 北京格灵深瞳信息技术股份有限公司（集团页；无苏州专页）,https://www.zhipin.com/gongsi/e133cb4e607d0b7b1nd83N25FFI~.html,公开企业主页主体：格灵深瞳；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+deepglint-suzhou,格灵深瞳（苏州）,s04,新浪财经公司资料 · 北京格灵深瞳信息技术股份有限公司（688207）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688207.phtml,2013-08-16成立、2022-03-17上市、北京注册地址及计算机视觉应用主营。,,2026-11-03
 flowith,Flowith,s01,上海证券报：Flowith融资,https://finance.sina.com.cn/roll/2026-03-04/doc-inhpvtwp3773487.shtml,投资方及产品定位,2026-03-04,2026-10-30
 flowith,Flowith,s02,Flowith公司官方LinkedIn,https://www.linkedin.com/company/flowith,上海/旧金山招聘与产品,,2026-10-30
 flowith,Flowith,s03,Flowith官方招聘跳转,https://flowith.io/career,跳转Workable职位页,,2026-10-30
@@ -123,6 +267,35 @@ flowith,Flowith,s04,Flowith官方条款,https://flowith.io/compliance/terms-of-s
 genspark,Genspark / MainFunc,s01,蓝驰官方被投融资稿,https://lanchiventures.com/lanchi-ventures-backed-genspark-raises-275m-series-b-launches-ai-workspace-to-put-busywork-on-autopilot/,融资与模型编排方向,2025-11-20,2026-10-30
 genspark,Genspark / MainFunc,s02,Genspark官方招聘,https://www.genspark.ai/business/careers,产品与招聘/办公地域,,2026-10-30
 genspark,Genspark / MainFunc,s03,Genspark官方帮助,https://www.genspark.ai/helpcenter/account-management,support邮箱,,2026-10-30
+gstarsoft,苏州浩辰软件,s01,苏州浩辰软件 公开入口,https://www.gstarsoft.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+gstarsoft,苏州浩辰软件,s02,【浩辰软件招聘】-猎聘,https://www.liepin.com/company/7965554/,公开企业主页主体：浩辰软件；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+gstarsoft,苏州浩辰软件,s03,BOSS直聘企业主页 · 浩辰软件（虎丘浩辰大厦，39岗）,https://www.zhipin.com/gongsi/1dab676601967f7c1XV-2t28GA~~.html,公开企业主页主体：浩辰软件；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+gstarsoft,苏州浩辰软件,s04,新浪财经公司资料 · 苏州浩辰软件股份有限公司（688657）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688657.phtml,公司全称、2001-11-27成立、2023-10-10上市、CAD相关软件主营、苏州工业园区注册地址。,,2026-11-03
+huana,汇纳科技,s01,汇纳科技 公开入口,https://www.hunainfo.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+huana,汇纳科技,s02,【汇纳科技招聘】-猎聘,https://www.liepin.com/company/7875821/,公开企业主页主体：汇纳科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+huana,汇纳科技,s03,BOSS直聘企业主页 · 汇纳科技股份有限公司（沪/宁/穗，无苏州站点）,https://www.zhipin.com/gongsi/410d5e6ed40124f80XV72w~~.html,公开企业主页主体：汇纳科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+huana,汇纳科技,s04,新浪财经公司资料 · 汇纳科技股份有限公司（300609）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/300609.phtml,2004-07-14成立、2017-02-15上市、AI与大数据赋能线下商业等主营、上海宝山注册地址。,,2026-11-03
+hyc,苏州华兴源创,s01,苏州华兴源创 公开入口,https://www.hyc-tech.com/about/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+hyc,苏州华兴源创,s02,【华兴源创招聘】-猎聘,https://www.liepin.com/company/7996092/,公开企业主页主体：华兴源创；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hyc,苏州华兴源创,s03,BOSS直聘企业主页 · 苏州华兴源创科技股份有限公司（688001）,https://www.zhipin.com/gongsi/83df002b468697d31nB82Nq9GQ~~.html,公开企业主页主体：华兴源创科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hyc,苏州华兴源创,s04,新浪财经公司资料 · 苏州华兴源创科技股份有限公司（688001）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688001.phtml,2005-06-15成立、2019-07-22上市、平板显示及集成电路检测设备主营、苏州工业园区注册地址。,,2026-11-03
+iflytek-suzhou,科大讯飞苏州研究院,s01,科大讯飞苏州研究院 公开入口,https://www.iflytek.com/about/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+iflytek-suzhou,科大讯飞苏州研究院,s02,关联网站观察（原采集标签：科大讯飞苏州研究院官网）,https://www.iflytek.com,公开官网主体与标题观察：科大讯飞；只核验入口归属。,,2026-11-02
+iflytek-suzhou,科大讯飞苏州研究院,s03,【科大讯飞招聘】-猎聘,https://www.liepin.com/company/4454894/,公开企业主页主体：科大讯飞；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+iflytek-suzhou,科大讯飞苏州研究院,s04,BOSS直聘企业主页 · 科大讯飞股份有限公司（集团页；无苏州研究院专页）,https://www.zhipin.com/gongsi/b01839ea2a062a5c1n1_3dU~.html,公开企业主页主体：科大讯飞；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+iflytek-suzhou,科大讯飞苏州研究院,s05,新浪财经公司资料 · 科大讯飞股份有限公司（002230）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002230.phtml,1999-12-30成立、2008-05-12上市、合肥注册地址及语音软件/行业应用主营。,,2026-11-03
+iflytek-suzhou,科大讯飞苏州研究院,s06,科大讯飞苏州研究院致力打造全球影响力的人工智能高地,https://jsnews.jschina.com.cn/sz/a/201905/t20190515_2308051.shtml,科大讯飞苏州研究院在苏州工业园区人工智能产业园开业，科大讯飞苏州科技有限公司自2018年2月成立，下设苏州研究院和双创中心。,2019-05-15,2026-11-03
+imed,视见科技,s01,视见科技 公开入口,https://www.imedtech.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+imed,视见科技,s02,成立4个月即获2000万元投资，视见医疗如何走顺AI这条路？,https://www.leiphone.com/category/aihealth/uAajA2xNRw9wtHYg.html,深圳视见医疗2017年2月成立、港中文实验室孵化、完成近2000万元首轮融资。,2017-07-14,2026-11-03
+intellifusion-suzhou,云天励飞（苏州）,s01,云天励飞（苏州） 公开入口,https://www.intellifusion.com/about/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+intellifusion-suzhou,云天励飞（苏州）,s02,【云天励飞招聘】-猎聘,https://www.liepin.com/company/8714658/,公开企业主页主体：云天励飞；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+intellifusion-suzhou,云天励飞（苏州）,s03,BOSS直聘企业主页 · 深圳云天励飞技术股份有限公司（集团页；无苏州专页）,https://www.zhipin.com/gongsi/7abf0e922983b2650nNy29y-.html,公开企业主页主体：云天励飞技术股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+intellifusion-suzhou,云天励飞（苏州）,s04,新浪财经公司资料 · 深圳云天励飞技术股份有限公司（688343）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688343.phtml,2014-08-27成立、2023-04-04上市、AI算法与芯片产品主营、深圳注册地址。,,2026-11-03
+kedacom,苏州科达,s01,苏州科达 公开入口,https://www.kedacom.com/about/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+kedacom,苏州科达,s02,苏州科达官网,https://www.kedacom.com,公开官网主体与标题观察：苏州科达官网；只核验入口归属。,,2026-11-02
+kedacom,苏州科达,s03,【科达 KEDACOM招聘】-猎聘,https://www.liepin.com/company/7868925/,公开企业主页主体：科达 KEDACOM；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kedacom,苏州科达,s04,BOSS直聘企业主页 · 苏州科达科技股份有限公司,https://www.zhipin.com/gongsi/a4b048155f44150d1HFy09S-.html,公开企业主页主体：苏州科达；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kedacom,苏州科达,s05,新浪财经公司资料 · 苏州科达科技股份有限公司（603660）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/603660.phtml,2004-06-10成立、2016-12-01上市、视频会议/视频监控/融合通信主营、苏州高新区注册地址。,,2026-11-03
 manus,蝴蝶效应 / Manus,s01,Manus官方历史经营更新,https://www.manus.im/blog/manus-100m-arr,Benchmark历史融资、产品与办公城市,,2026-10-30
 manus,蝴蝶效应 / Manus,s02,Manus官方招聘,https://careers.manus.im/en,hiring@manus.ai与开放岗位,,2026-10-30
 metasota,秘塔科技 MetaSota,s01,秘塔官方公司页,https://metasota.ai/,产品、地址与wutingting联系邮箱,,2026-10-30
@@ -132,11 +305,44 @@ metasota,秘塔科技 MetaSota,s04,BOSS直聘上海秘塔网络科技有限公�
 metasota,秘塔科技 MetaSota,s05,猎聘上海秘塔网络科技有限公司企业页,https://m.liepin.com/company/9596565/,备用平台招聘入口，直接读取遇验证码，搜索索引可辨主体,,2026-10-30
 metasota,秘塔科技 MetaSota,s06,秘塔科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/61d379287be645371nFz39u8Ew~~.html,公开企业主页主体：秘塔科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 metasota,秘塔科技 MetaSota,s07,【上海秘塔网络科技有限公司招聘】-猎聘,https://www.liepin.com/company/9596565/,公开企业主页主体：上海秘塔网络科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+sensetime,商汤科技,s01,商汤科技 公开入口,https://www.sensetime.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+sensetime,商汤科技,s02,商汤科技 SenseTime,https://www.sensetime.com/cn/,公开官网主体观察：https://www.sensetime.com/cn/；只核验入口归属。,,2026-11-02
+sensetime,商汤科技,s03,商汤科技招聘 | 坚持原创，让 AI 引领人类进步,https://hr.sensetime.com/,公开招聘入口主体观察：https://hr.sensetime.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+sensetime,商汤科技,s04,【商汤科技SenseTime招聘】-猎聘,https://www.liepin.com/company/8349238/,公开企业主页主体：商汤科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+sensetime,商汤科技,s05,BOSS直聘企业主页 · 商汤科技,https://www.zhipin.com/gongsi/c7ac76928d861b761nF-2dW1Fg~~.html,公开企业主页主体：商汤科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+sensetime,商汤科技,s06,商汤2024年净亏损43亿收窄33.7%，4月将发布日日新6.0大模型,https://news.qq.com/rain/a/20250327A01QM900,商汤2024年收入37.7亿元、生成式AI收入24.04亿元、净亏损43.07亿元及大装置算力。,2025-03-27,2026-11-03
 today-ai,此间无限 Today AI,s01,36氪转载IT桔子：此间无限,https://www.36kr.com/p/3719509378512261,早期投资背景,2026-03-12,2026-10-30
 today-ai,此间无限 Today AI,s02,Today_AI官方招募,https://weibo.com/2/detail/5348624412445354,hr@today.ai公开招聘,2026-09-29,2026-10-30
 today-ai,此间无限 Today AI,s03,Today官方产品介绍,https://today.ai/articles/blog/what-is-today,长期记忆/主动Agent,,2026-10-30
 today-ai,此间无限 Today AI,s04,Today官方支持,https://today.ai/support?language=en,support邮箱,,2026-10-30
 today-ai,此间无限 Today AI,s05,此间无限招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f2a3062321b01da303x73Nm8FVM~.html,公开企业主页主体：此间无限；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+tongcheng-ai,同程旅行AI部门,s01,同程旅行AI部门 公开入口,https://ir.ly.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+tongcheng-ai,同程旅行AI部门,s02,关联网站观察（原采集标签：同程旅行AI部门官网）,https://www.ly.com,公开官网主体与标题观察：同程旅行；只核验入口归属。,,2026-11-02
+tongcheng-ai,同程旅行AI部门,s03,【同程旅行招聘】-猎聘,https://www.liepin.com/company/3698161/,公开企业主页主体：同程旅行；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tongcheng-ai,同程旅行AI部门,s04,BOSS直聘企业主页 · 同程旅行（苏州吴中同程旅行大厦）,https://www.zhipin.com/gongsi/5655835880426ec51nN62t-0.html,公开企业主页主体：同程旅行；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tongcheng-ai,同程旅行AI部门,s05,同程旅行 2025 年报（港交所披露）,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800528.pdf,2025年年报：程心AI旅游大模型、2025年3月推出DeepTrip智能体，总部位于苏州工业园区。,2026-04-28,2026-11-03
+tongyuan-mworks,苏州同元软控（MWORKS）,s01,苏州同元软控（MWORKS） 公开入口,https://www.tongyuan.cc/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+tongyuan-mworks,苏州同元软控（MWORKS）,s02,苏州同元软控（MWORKS）官网,https://www.tongyuan.cc,公开官网主体与标题观察：同元软控官网；只核验入口归属。,,2026-11-02
+tongyuan-mworks,苏州同元软控（MWORKS）,s03,【同元软控招聘】-猎聘,https://www.liepin.com/company/8000987/,公开企业主页主体：同元软控；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tongyuan-mworks,苏州同元软控（MWORKS）,s04,BOSS直聘企业主页 · 苏州同元软控技术股份有限公司（园区，83岗）,https://www.zhipin.com/gongsi/cb021b2050a4357a1HV80924FA~~.html,公开企业主页主体：苏州同元软控信息技术有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tongyuan-mworks,苏州同元软控（MWORKS）,s05,苏州同元软控技术股份有限公司官网,https://china-modelica.com/,同元软控成立于2008年、专业从事信息物理系统计算仿真工业软件，自研货架产品MWORKS。,,2026-11-03
+tongyuan-mworks,苏州同元软控（MWORKS）,s06,同元软控 | 项目信息-36氪,https://pitchhub.36kr.com/project/2012739734161157,公开融资事件列表（2022年A轮等）；金额以披露为限。,,2026-11-03
+xiaohongshu,小红书 Xiaohongshu,s01,小红书,https://www.xiaohongshu.com/,产品主站身份,,2026-11-02
+xiaohongshu,小红书 Xiaohongshu,s02,小红书招聘,https://job.xiaohongshu.com/,官方招聘入口,,2026-11-02
+xiaohongshu,小红书 Xiaohongshu,s03,App Store：点点 - 你的 AI 生活助手,https://apps.apple.com/cn/app/%E7%82%B9%E7%82%B9-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E5%8A%A9%E6%89%8B/id6529536122,点点 AI 助手主题证据,,2026-11-02
+xiaohongshu,小红书 Xiaohongshu,s04,「小红书科技有限公司」-BOSS直聘,https://www.zhipin.com/gongsi/dfb87d16a41d08301XZ60tu1ElE~.html,公开企业主页路径指向小红书科技；反爬未能完整渲染。,,2026-11-02
+xiaohongshu,小红书 Xiaohongshu,s05,【小红书招聘】-猎聘,https://www.liepin.com/company/7921271/,公开企业主页主体：小红书。,,2026-11-02
+xverse,元象科技,s01,元象科技 公开入口,https://www.xverse.cn,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+xverse,元象科技,s02,元象科技官网,https://www.xverse.cn,公开官网主体与标题观察：元象XVERSE；只核验入口归属。,,2026-11-02
+xverse,元象科技,s03,【元象唯思招聘】-猎聘,https://www.liepin.com/company/12741253/,公开企业主页主体：元象唯思；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+xverse,元象科技,s04,BOSS直聘企业主页 · 深圳元象信息科技有限公司（集团页，无苏州地址）,https://www.zhipin.com/gongsi/03b7a6b599ffafd31nF-2dm8GFc~.html,公开企业主页主体：元象科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+xverse,元象科技,s05,元象XVERSE2025届校园招聘正式启动-学生处,https://www.scfai.edu.cn/xsc/info/1015/3747.htm,高校转载元象 2025 届校招公告：官网投递 careers.xverse.cn，邮件投递 join@xverse.cn；工作地点深圳。,,2026-11-03
+yitu,依图科技,s01,依图科技 公开入口,https://www.yitutech.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+yitu,依图科技,s02,依图科技 | YITU 拓展人工智能新疆界,https://www.yitutech.com/,公开官网主体观察：https://www.yitutech.com/；只核验入口归属。,,2026-11-02
+yitu,依图科技,s03,加入依图 | 依图科技,https://www.yitutech.com/cn/join-us,公开招聘入口主体观察：https://www.yitutech.com/cn/join-us；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+yitu,依图科技,s04,【依图招聘】-猎聘,https://www.liepin.com/company/8812425/,公开企业主页主体：依图；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+yitu,依图科技,s05,BOSS直聘企业主页 · 依图,https://www.zhipin.com/gongsi/2015455f127866b91nZ429m-Eg~~.html,公开企业主页主体：依图；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+yitu,依图科技,s06,依图科技获2亿美元C+轮融资,https://zhidx.com/news/4216.html,依图2018年2亿美元C+轮、投资方及2012年成立/业务板块。,2018-06-12,2026-11-03
 aisphere,爱诗科技 / PixVerse,s01,爱诗科技官网,https://aishiai.com/,产品、公司动态、加入我们；C轮领投方,2026-01-12,2026-10-30
 aisphere,爱诗科技 / PixVerse,s02,PixVerse官方Join Us,https://pixverse.ai/en/careers?trk=public_post_comment-text,招聘入口与开放团队,,2026-10-30
 aisphere,爱诗科技 / PixVerse,s03,「爱诗科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/846753040df0fa341XJ83NS0FFQ~.html,公开企业主页主体：爱诗科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
@@ -167,9 +373,19 @@ jsdesign,即时设计 / JSDesign,s03,靖亚关于即时设计融资,https://www.
 jsdesign,即时设计 / JSDesign,s04,优设网即时设计企业招聘帖,https://www.uisdc.com/job/440540.html,招聘渠道与公司主体,,2026-10-30
 jsdesign,即时设计 / JSDesign,s05,即时设计招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/b7ac160552afe5941nF709W9FVs~.html,公开企业主页主体：即时设计；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 jsdesign,即时设计 / JSDesign,s06,【即时设计招聘】-猎聘,https://www.liepin.com/company/12738537/,公开企业主页主体：即时设计；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+kuaishou,快手 Kuaishou,s01,快手,https://www.kuaishou.com/,产品／集团站点身份,,2026-11-02
+kuaishou,快手 Kuaishou,s02,快手招聘,https://zhaopin.kuaishou.cn/,官方招聘入口,,2026-11-02
+kuaishou,快手 Kuaishou,s03,快手 IR：可灵 AI 向全球用户开放内测,https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kuaishoukelingaixiangquanqiuyonghuquanmiankaifangneice,可灵 AI 主题证据,,2026-11-02
+kuaishou,快手 Kuaishou,s04,「快手」-BOSS直聘,https://www.zhipin.com/gongsi/480261c022ea03d81nV53tQ~.html,公开企业主页路径指向快手；反爬未能完整渲染。,,2026-11-02
+kuaishou,快手 Kuaishou,s05,【快手招聘】-猎聘,https://www.liepin.com/company/8605497/,公开企业主页主体：快手。,,2026-11-02
 liblib,LiblibAI / 哩布哩布,s01,LiblibAI官方加入我们,https://www.liblib.art/us/joinus,投资方、城市、公开投递邮箱,,2026-10-30
 liblib,LiblibAI / 哩布哩布,s02,LiblibAI协议,https://www.liblib.art/document/article_member,客服邮箱,,2026-10-30
 liblib,LiblibAI / 哩布哩布,s03,【LiblibAI招聘】-猎聘,https://www.liepin.com/company/21341713/,公开企业主页主体：LiblibAI；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+netease,网易 NetEase,s01,网易,https://www.163.com/,集团门户身份,,2026-11-02
+netease,网易 NetEase,s02,网易社会招聘,https://hr.163.com/,官方社招入口,,2026-11-02
+netease,网易 NetEase,s03,网易伏羲：AOP 与网易有灵平台介绍,https://fuxi.netease.com/database/1200,伏羲 AI 主题证据,,2026-11-02
+netease,网易 NetEase,s04,【网易公司招聘】-猎聘,https://www.liepin.com/company/9421495/,公开企业主页主体：网易公司。,,2026-11-02
+netease,网易 NetEase,s05,「网易」-BOSS直聘企业主页,https://www.zhipin.com/gongsi/38bd5c757efa4ab6331z.html,公开企业主页主体：网易；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 shengshu,生数科技 / Vidu,s01,生数官方新闻,https://www.genspi.com/zh/news/,产品与融资日期,,2026-10-30
 shengshu,生数科技 / Vidu,s02,生数科技完成近20亿元B轮融资,https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202604/t20260414_243817.html,投资方,2026-04-14,2026-10-30
 shengshu,生数科技 / Vidu,s03,生数官网隐私摘要,https://www.genspi.com/zh/privacy-summary/,招聘平台与HR联络邮箱,,2026-10-30
@@ -185,23 +401,74 @@ xmov,魔珐科技 / Xmov,s02,36氪魔珐档案,https://pitchhub.36kr.com/project
 xmov,魔珐科技 / Xmov,s03,2022年元宇宙研究融资表,https://13115299.s21i.faiusr.com/61/1/ABUIABA9GAAgyZ3llQYo48mJ0wY.pdf,C轮背景,2022-05,2026-10-30
 xmov,魔珐科技 / Xmov,s04,鱼泡魔珐科技Xmov公司页,https://www.yupao.com/qiye/1846165860981542987.html,招聘渠道与公司主体,,2026-10-30
 xmov,魔珐科技 / Xmov,s05,魔珐科技Xmov招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/6641c9a76c022a8703F409q5GQ~~.html,公开企业主页主体：魔珐科技Xmov；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+abb-china,ABB（中国）上海,s01,ABB（中国）上海 公开入口,https://www.abb.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+abb-china,ABB（中国）上海,s02,ABB Group | Helping industries outrun – leaner and cleaner | ABB,https://www.abb.com/,公开官网主体观察：https://www.abb.com/；只核验入口归属。,,2026-11-02
+abb-china,ABB（中国）上海,s03,ABB的招聘 | ABB的职位,https://www.abb.com/careers,公开招聘入口主体观察：https://www.abb.com/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+abb-china,ABB（中国）上海,s04,【ABB(中国)有限公司上海分公司招聘信息】-猎聘,https://www.liepin.com/company/gs25867560/,公开企业主页主体：ABB(中国)有限公司上海分公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+abb-china,ABB（中国）上海,s05,BOSS直聘企业主页 · ABB(中国)有限公司,https://www.zhipin.com/gongsi/a5cacae589456b6b33Z72dm-Fg~~.html,公开企业主页主体：ABB中国；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+abb-china,ABB（中国）上海,s06,ABB计划拆分机器人业务，2024年营收达到23亿美元,https://www.21ic.com/a/985351.html,ABB机器人业务2024年销售收入23亿美元、上海为生产基地之一，以及2025年分拆上市计划。,2025-04-18,2026-11-03
+abb-china,ABB（中国）上海,s07,ABB机器人超级工厂在沪正式开业,https://www.gongboshi.cn/news/show-122.html,上海浦东康桥机器人超级工厂的投资、面积、投产与研发功能。,2023-01-09,2026-11-03
+abb-china,ABB（中国）上海,s08,维基百科：ABB,https://zh.wikipedia.org/wiki/ABB,ABB集团为SIX:ABBN上市公司，支持母公司上市身份。,,2026-11-03
 ai-indeed,实在智能,s01,实在智能官网关于我们,https://www.ai-indeed.com/about,当前产品、城市和一般联系邮箱,,2026-10-30
 ai-indeed,实在智能,s02,实在智能企业投融展资料,https://developer.cloud.tencent.com/article/2232603,历史投资方,,2026-10-30
 ai-indeed,实在智能,s03,实在智能主站加入我们,https://www.ai-indeed.com/apply,官方招聘入口及校园邮箱；主站未显示社会邮箱,,2026-10-30
 ai-indeed,实在智能,s04,「实在智能招聘」-BOSS直聘,https://www.zhipin.com/gongsi/d6af9f5c23af35ee1Xd-0ty7Fg~~.html,公开企业主页主体：实在智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 ai-indeed,实在智能,s05,【实在智能招聘】-猎聘,https://www.liepin.com/company/9629488/,公开企业主页主体：实在智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+baosight,宝信软件,s01,宝信软件 公开入口,https://www.baosight.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+baosight,宝信软件,s02,上海宝信软件股份有限公司,https://www.baosight.com/,公开官网主体观察：https://www.baosight.com/；只核验入口归属。,,2026-11-02
+baosight,宝信软件,s03,【宝信招聘】-猎聘,https://www.liepin.com/company/182942/,公开企业主页主体：上海宝信软件股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+baosight,宝信软件,s04,BOSS直聘企业主页 · 上海宝信软件,https://www.zhipin.com/gongsi/06e7cea657de47da03d43d-7Fg~~.html,公开企业主页主体：上海宝信软件股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+baosight,宝信软件,s05,上海宝信软件股份有限公司2024年年度报告摘要,https://paper.cnstock.com/html/2025-04/01/content_2043445.htm,宝信软件2024年营业收入136.44亿元、归母净利润22.65亿元及收入结构。,2025-04-01,2026-11-03
+blacklake,黑湖科技,s01,黑湖科技 公开入口,https://www.blacklake.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+blacklake,黑湖科技,s02,黑湖科技 | 让 AI 参与工厂的每一次关键决策,https://www.blacklake.cn/,公开官网主体观察：https://www.blacklake.cn/；只核验入口归属。,,2026-11-02
+blacklake,黑湖科技,s03,黑湖招聘 | 把 AI 带进工厂，把舞台交给你,https://job.blacklake.cn/,公开招聘入口主体观察：https://job.blacklake.cn/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+blacklake,黑湖科技,s04,【黑湖科技招聘】-猎聘,https://www.liepin.com/company/9409922/,公开企业主页主体：上海黑湖网络科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+blacklake,黑湖科技,s05,BOSS直聘企业主页 · 黑湖科技,https://www.zhipin.com/gongsi/5d86be45f29507461HZy3t67.html,公开企业主页主体：黑湖科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+blacklake,黑湖科技,s06,黑湖科技完成近10亿元D轮融资,https://www.blacklake.cn/news/d-round-financing-nearly-1-billion-yuan,黑湖科技近10亿元D轮、营收年增速超60%、全面盈利及3万多家工厂客户。,2026-04-23,2026-11-03
+blacklake,黑湖科技,s07,黑湖科技官网,https://www.blacklake.cn/,工业AI Agent、工程/报价/质检智能体与制造协同产品口径。,,2026-11-03
+bosch,博世（中国）苏州,s01,博世（中国）苏州 公开入口,https://www.bosch.com.cn/our-company/bosch-in-china/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+bosch,博世（中国）苏州,s02,关联网站观察（原采集标签：博世（中国）苏州官网）,https://www.bosch.com.cn,公开官网主体与标题观察：主页 | 博世在中国；只核验入口归属。,,2026-11-02
+bosch,博世（中国）苏州,s03,【博世中国招聘】-猎聘,https://www.liepin.com/company/8179352/,公开企业主页主体：博世中国；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bosch,博世（中国）苏州,s04,BOSS直聘企业主页 · 博世汽车部件（苏州）有限公司（园区；优先苏州法人页）,https://www.zhipin.com/gongsi/a9bc7853a78f0ea31nJy3t60EA~~.html,公开企业主页主体：博世汽车部件（苏州）有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+cas-brain-inspired-computing,苏州中科类脑,s01,苏州中科类脑 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+cas-brain-inspired-computing,苏州中科类脑,s02,BOSS直聘企业主页 · 合肥中科类脑智能技术有限公司（无苏州专页）,https://www.zhipin.com/gongsi/39a2d715dbec5d671XZ-3tS0GQ~~.html,公开企业主页主体：合肥中科类脑智能技术有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 cyclone,弘玑 Cyclone,s01,弘玑官网,https://www.cyclone-robotics.com/,当前产品框架,,2026-10-30
 cyclone,弘玑 Cyclone,s02,弘玑智联公司页,https://www.zhaopin.com/companydetail/CZ284680080.htm,投资方、总部与招聘,,2026-10-30
 cyclone,弘玑 Cyclone,s03,上海交大弘玑宣讲会,https://xsb.seiee.sjtu.edu.cn/xsb/detail/2494_2422.htm?nocache=1,公开投递邮箱,2021-10-11,2026-10-30
 cyclone,弘玑 Cyclone,s04,弘玑官方关于我们,https://www.cyclone-robotics.com/h-col-222.html,包含当前加入我们栏目；邮箱仍是历史高校公开入口,,2026-10-30
 cyclone,弘玑 Cyclone,s05,「CYCLONE RPA招聘」-BOSS直聘,https://www.zhipin.com/gongsi/025511600cbce33b03Ry2NW4Fg~~.html,公开企业主页主体：CYCLONE RPA；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 cyclone,弘玑 Cyclone,s06,【上海弘玑信息技术有限公司招聘】-猎聘,https://www.liepin.com/company/10040025/,公开企业主页主体：上海弘玑信息技术有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+deepblue,深兰科技,s01,深兰科技 公开入口,https://www.deepblueai.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+deepblue,深兰科技,s02,深兰科技——致力于人工智能基础研究和应用开发,https://www.deepblueai.com/,公开官网主体观察：https://www.deepblueai.com/；只核验入口归属。,,2026-11-02
+deepblue,深兰科技,s03,【深兰科技(上海)有限公司招聘】-猎聘,https://www.liepin.com/company/9496603/,公开企业主页主体：深兰人工智能科技(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+deepblue,深兰科技,s04,BOSS直聘企业主页 · 深兰科技,https://www.zhipin.com/gongsi/94a237f837ad41040nJ92tS5.html,公开企业主页主体：深兰科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+deepblue,深兰科技,s05,深兰科技获浦东创投集团数亿元Pre-IPO轮融资,https://news.qq.com/rain/a/20250403A04P4K00,深兰科技Pre-IPO轮、浦东创投参与及自动驾驶/机器人/工业智能/AI医疗业务。,2025-04-03,2026-11-03
+deepblue,深兰科技,s06,深兰科技官网,https://www.deepblueai.com/,清洁机器人、数字健康机器人、智能公交与行业智能体等产品口径。,,2026-11-03
 deepexi,滴普科技 / Deepexi,s01,滴普官方投资者关系,https://www.deepexi.com/investor-relations,上市及资本背景,,2026-10-30
 deepexi,滴普科技 / Deepexi,s02,天津大学滴普2027招聘简章,https://job.tju.edu.cn/recruitment/content/type/2/id/6673.html,产品框架、城市和投递邮箱,2026-10,2026-10-30
 deepexi,滴普科技 / Deepexi,s03,滴普官方招聘职位,https://www.deepexi.com/join-us/campus/c5,招聘入口,,2026-10-30
 deepexi,滴普科技 / Deepexi,s04,21财经滴普A轮融资,https://m.21jingji.com/article/20190924/herald/55cdc0794c1004069ea3d54a60d20f6a.html,历史轮次和投资方,2019-09-24,2026-10-30
 deepexi,滴普科技 / Deepexi,s05,「滴普科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/cac78b09c82e4f6d0nJ539W0FA~~.html,公开企业主页主体：滴普科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 deepexi,滴普科技 / Deepexi,s06,【滴普科技招聘】-猎聘,https://www.liepin.com/company/21242291/,公开企业主页主体：滴普科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+eucs,苏州优科斯,s01,苏州优科斯 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+gcl-energy,协鑫能科,s01,协鑫能科 公开入口,https://www.gcl-et.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+gcl-energy,协鑫能科,s02,协鑫能科官网,https://www.gcl-et.com,公开官网主体与标题观察：协鑫能源科技股份有限公司；只核验入口归属。,,2026-11-02
+gcl-energy,协鑫能科,s03,【协鑫能源科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/12269593/,公开企业主页主体：协鑫能源科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+gcl-energy,协鑫能科,s04,BOSS直聘企业主页 · 协鑫能源科技股份有限公司（运营地址园区协鑫能源中心）,https://www.zhipin.com/gongsi/de58008d08b730941n1929i1Els~.html,公开企业主页主体：协鑫能源科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+gcl-energy,协鑫能科,s05,新浪财经公司资料 · 协鑫能源科技股份有限公司（002015）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002015.phtml,1992-05-05成立、2004-07-08上市、清洁能源运营/移动能源运营/综合能源服务主营、江阴注册地址。,,2026-11-03
+gcl-energy,协鑫能科,s06,协鑫能源科技股份有限公司官网,https://www.gcl-et.com/,官网股票代码002015.SZ及“算电协同，驱动AIDC新时代”业务表述。,,2026-11-03
+hexagon-manufacturing-intelligence,苏州海克斯康,s01,苏州海克斯康 公开入口,https://www.hexagon.com/solutions/manufacturing-intelligence,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+hexagon-manufacturing-intelligence,苏州海克斯康,s02,【海克斯康招聘】-猎聘,https://www.liepin.com/company/8031463/,公开企业主页主体：海克斯康；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hexagon-manufacturing-intelligence,苏州海克斯康,s03,BOSS直聘企业主页 · 海克斯康制造智能技术（青岛）有限公司（无苏州专页）,https://www.zhipin.com/gongsi/defdb1e7090b101c1HZy3Nm0GFU~.html,公开企业主页主体：海克斯康制造智能技术（青岛）有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hexagon-manufacturing-intelligence,苏州海克斯康,s04,公司概况 | 海克斯康制造智能官网,https://www.hexagonmi.com.cn/introduction,发展历程：1994年成立国内第一家测量机合资公司QI-TECH、2001年海克斯康计量成立、2008年并购思瑞；以及设计/仿真/生产制造软件方案。,,2026-11-03
+huawei-suzhou-research-institute,华为（苏州研究院）,s01,华为（苏州研究院） 公开入口,https://career.huawei.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+huawei-suzhou-research-institute,华为（苏州研究院）,s02,关联网站观察（原采集标签：华为（苏州研究院）官网）,https://www.huawei.com/cn,公开官网主体与标题观察：华为官网；只核验入口归属。,,2026-11-02
+huawei-suzhou-research-institute,华为（苏州研究院）,s03,【华为招聘】-猎聘,https://www.liepin.com/company/12211625/,公开企业主页主体：华为；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+huawei-suzhou-research-institute,华为（苏州研究院）,s04,BOSS直聘企业主页 · 苏州华为技术研发有限公司（园区江韵路，118岗）,https://www.zhipin.com/gongsi/45a17ba7c953f1321XRz3tq1EVY~.html,公开企业主页主体：苏州华为技术研发有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+huawei-suzhou-research-institute,华为（苏州研究院）,s05,“园易链”系列活动之“走进华为”顺利举办 - 苏州工业园区管理委员会,http://www.sipac.gov.cn/szgyyq/dthg202503/202503/25a465ca0fc74fff80e2c0b05d668f92.shtml,华为苏州研究所作为企业业务BG中国总部与智能汽车解决方案BU总部，业务涵盖WLAN、网络云引擎、行业解决方案、智能汽车集成方案测试等。,2025-03-21,2026-11-03
+huawei-suzhou-research-institute,华为（苏州研究院）,s06,华为官网,https://www.huawei.com/cn,华为创立于1987年，全球领先的ICT基础设施和智能终端提供商。,,2026-11-03
+innovis,苏州英诺维信,s01,苏州英诺维信 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+innovis,苏州英诺维信,s02,BOSS直聘企业主页 · 深圳市英诺维信自动化设备有限公司（无苏州专页）,https://www.zhipin.com/gongsi/ee12175f1fbfcccd1XR60929GQ~~.html,公开企业主页主体：深圳市英诺维信自动化设备有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 intsig,合合信息 / Intsig,s01,合合信息官方投资者关系,https://www.intsig.com/investor-relation,上市、产品与IR邮箱,,2026-10-30
 intsig,合合信息 / Intsig,s02,合合信息官网加入我们,https://www.intsig.com/join,当前社招、校招、实习入口,,2026-10-30
 intsig,合合信息 / Intsig,s03,合合信息2025年年度报告,https://static.cninfo.com.cn/finalpage/2026-03-17/1225013125.PDF,机构股东法定名称,2026-03-17,2026-10-30
@@ -213,21 +480,86 @@ laiye,来也科技 / Laiye,s02,来也关于我们,https://laiye.com/about,城市
 laiye,来也科技 / Laiye,s03,动脉网来也档案,https://www.vbdata.cn/companyDetail/efd50b329ed651930a793e9c79341fa8,历史A轮融资,,2026-10-30
 laiye,来也科技 / Laiye,s04,来也科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/4094c3f06bfd243a1nV52N28.html,公开企业主页主体：来也科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 laiye,来也科技 / Laiye,s05,【来也科技招聘】-猎聘,https://www.liepin.com/company/9224242/,公开企业主页主体：来也科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+midea-building-technologies,美的楼宇科技苏州,s01,美的楼宇科技苏州 公开入口,https://www.mdbt.com.cn/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+midea-building-technologies,美的楼宇科技苏州,s02,【苏州美的楼宇设备销售有限公司招聘】-猎聘,https://www.liepin.com/company/21440641/,公开企业主页主体：苏州美的楼宇设备销售有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+midea-building-technologies,美的楼宇科技苏州,s03,BOSS直聘企业主页 · 苏州美的楼宇设备销售有限公司（优先于荆州工厂页）,https://www.zhipin.com/gongsi/73348f2f1ecb05831H1-09-8EVI~.html,公开企业主页主体：苏州美的楼宇设备销售有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+midea-building-technologies,美的楼宇科技苏州,s04,新浪财经公司资料 · 美的集团股份有限公司（000333）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/000333.phtml,2000-04-07成立、2013-09-18上市、家电及暖通空调等主营。,,2026-11-03
+midea-building-technologies,美的楼宇科技苏州,s05,美的楼宇科技：一年更名两次完成过渡，关注公共建筑中空调减碳,https://www.jiemian.com/article/6953535.html,2021年9月事业部更名为美的楼宇科技，与智慧家居、机器人等并列为美的集团五大业务板块之一。,,2026-11-03
 powerlaw,幂律智能 / PowerLaw AI,s01,幂律官方站,https://www.milvai.cn/,产品、一般合作邮箱,,2026-10-30
 powerlaw,幂律智能 / PowerLaw AI,s02,蓝驰幂律融资公告,https://www.lanchivc.com/7296/,投资方与产品,2023-12-07,2026-10-30
 powerlaw,幂律智能 / PowerLaw AI,s03,幂律官网加入我们导航,https://www.milvai.cn/,直接跳转BOSS官方公司职位页,,2026-10-30
 powerlaw,幂律智能 / PowerLaw AI,s04,幂律科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/25a357d750036d3e1XV53du7FA~~.html,公开企业主页主体：幂律科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 powerlaw,幂律智能 / PowerLaw AI,s05,【北京幂律智能科技有限责任公司招聘】-猎聘,https://www.liepin.com/company/13286763/,公开企业主页主体：北京幂律智能科技有限责任公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+qisda,苏州佳世达电通有限公司,s01,佳世达科技（苏州） 公开入口,https://www.qisda.com/About-Qisda,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+qisda,苏州佳世达电通有限公司,s02,关联网站观察（原采集标签：佳世达科技（苏州）官网）,https://www.qisda.com,公开官网主体与标题观察：Qisda；只核验入口归属。,,2026-11-02
+qisda,苏州佳世达电通有限公司,s03,【佳世达电通招聘】-猎聘,https://www.liepin.com/company/949828/,公开企业主页主体：佳世达电通；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+qisda,苏州佳世达电通有限公司,s04,BOSS直聘企业主页 · 苏州佳世达电通有限公司（新区，49岗）,https://www.zhipin.com/gongsi/bde327843e586f161XB939-7EA~~.html,公开企业主页主体：苏州佳世达电通有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+qisda,苏州佳世达电通有限公司,s05,佳世達科技 - 维基百科,https://zh.wikipedia.org/wiki/佳世達科技,台证所上市股票代号2352（1996年上市）、1984年4月21日成立。,,2026-11-03
+qisda,苏州佳世达电通有限公司,s06,苏州市省级信用管理示范企业风采展示（四）——苏州佳世达电通有限公司,https://credit.suzhou.gov.cn/news/show/380530.html,苏州佳世达电通1993-06-25在高新区设立、员工近万名，主营液晶显示器、POS机、电路板等。,2023-01-05,2026-11-03
 recurrent-ai,循环智能 / Recurrent AI,s01,循环智能官网关于我们,https://www.rcrai.com/about-us/about,B轮领投、城市、HR及商务邮箱,,2026-10-30
 recurrent-ai,循环智能 / Recurrent AI,s02,36氪循环智能档案,https://pitchhub.36kr.com/project/1745257247972481,历史投资方,,2026-10-30
 recurrent-ai,循环智能 / Recurrent AI,s03,循环智能招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/cd23d6c21b1975da0XR50t69EA~~.html,公开企业主页主体：循环智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 recurrent-ai,循环智能 / Recurrent AI,s04,【循环智能招聘】-猎聘,https://www.liepin.com/company/12197849/,公开企业主页主体：循环智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+schneider-electric-china,施耐德电气（中国）上海,s01,施耐德电气（中国）上海 公开入口,https://www.schneider-electric.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+schneider-electric-china,施耐德电气（中国）上海,s02,【施耐德电气招聘】-猎聘,https://www.liepin.com/company/2547498/,公开企业主页主体：施耐德；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+schneider-electric-china,施耐德电气（中国）上海,s03,Schneider Electric 中国 | 您的能源科技伙伴,https://www.schneider-electric.cn/zh/,公开官网主体观察：https://www.schneider-electric.cn/zh/；只核验入口归属。,,2026-11-02
+schneider-electric-china,施耐德电气（中国）上海,s04,在施耐德电气工作 | Schneider Electric 中国,https://www.schneider-electric.cn/zh/about-us/careers/overview/,公开招聘入口主体观察：https://www.schneider-electric.cn/zh/about-us/careers/overview/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+schneider-electric-china,施耐德电气（中国）上海,s05,BOSS直聘企业主页 · 施耐德电气,https://www.zhipin.com/gongsi/5564ed2c1573e28f03Z53d61.html,公开企业主页主体：施耐德；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+schneider-electric-china,施耐德电气（中国）上海,s06,施耐德电气_企业展示_上海市普陀区人民政府,https://www.shpt.gov.cn/qyzs-yinshang/20231013/919708.html,施耐德电气中国研发中心、2000余名研发工程师、上海分公司及零碳工厂。,2024-11-04,2026-11-03
+schneider-electric-china,施耐德电气（中国）上海,s07,维基百科：施耐德电气,https://zh.wikipedia.org/wiki/%E6%96%BD%E8%80%90%E5%BE%B7%E7%94%B5%E6%B0%94,施耐德电气Euronext:SU上市身份。,,2026-11-03
+shanghai-electric,上海电气,s01,上海电气 公开入口,https://www.shanghai-electric.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+shanghai-electric,上海电气,s02,【上海电气招聘】-猎聘,https://www.liepin.com/company/9806195/,公开企业主页主体：上海电气；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-electric,上海电气,s03,BOSS直聘企业主页 · 上海电气集团数字...,https://www.zhipin.com/gongsi/ea3669611747bf8d1XN40tW5EQ~~.html,公开企业主页主体：上海电气；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-electric,上海电气,s04,上海电气：2024年全年营收订单双增长 三大板块毛利率提升,https://www.cs.com.cn/ssgs/gsxw/202503/t20250329_6482265.html,上海电气2024年营收1162亿元、归母净利润7.52亿元、新增订单1536亿元及三大板块。,2025-03-29,2026-11-03
+siemens,西门子（中国）苏州,s01,西门子（中国）苏州 公开入口,https://www.siemens.com/cn/zh/company/about/locations/suzhou.html,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+siemens,西门子（中国）苏州,s02,关联网站观察（原采集标签：西门子（中国）苏州官网）,https://www.siemens.com/cn/zh,公开官网主体与标题观察：Siemens；只核验入口归属。,,2026-11-02
+siemens,西门子（中国）苏州,s03,【西门子招聘】-猎聘,https://www.liepin.com/company/33708/,公开企业主页主体：西门子；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+siemens,西门子（中国）苏州,s04,BOSS直聘企业主页 · 西门子（中国）有限公司（北京望京；含苏州岗位）,https://www.zhipin.com/gongsi/8a3fcf06cb9151b31ndy29W6GA~~.html,公开企业主页主体：西门子（中国）有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+siemens,西门子（中国）苏州,s05,西門子公司 - 维基百科,https://zh.wikipedia.org/wiki/西門子公司,1847年成立、法兰克福证券交易所上市的德国综合企业。,,2026-11-03
+siemens,西门子（中国）苏州,s06,西门子中国 · 关于我们,https://www.siemens.com.cn/zh/about-us.html,官网工业AI产品表述（如面向自动化工程的AI智能体）；不证明苏州团队。,,2026-11-03
+sip-ai-industrial-park,苏州工业园区AI产业园,s01,苏州工业园区AI产业园 公开入口,https://www.sipac.gov.cn,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+sip-ai-industrial-park,苏州工业园区AI产业园,s02,关联网站观察（原采集标签：苏州工业园区AI产业园官网）,https://www.sipac.gov.cn,公开官网主体与标题观察：苏州工业园区管理委员会；只核验入口归属。,,2026-11-02
+synyi,森亿智能,s01,森亿智能 公开入口,https://www.synyi.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+synyi,森亿智能,s02,首页 | 森亿智能,https://www.synyi.com/,公开官网主体观察：https://www.synyi.com/；只核验入口归属。,,2026-11-02
+synyi,森亿智能,s03,【森亿智能招聘】-猎聘,https://www.liepin.com/company/8892437/,公开企业主页主体：森亿智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+synyi,森亿智能,s04,BOSS直聘企业主页 · 上海森亿智慧信息科技,https://www.zhipin.com/gongsi/d4848fc5c02d4d6203x429u0F1I~.html,公开企业主页主体：森亿；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+synyi,森亿智能,s05,8年超13亿！潜力独角兽森亿智能再获融资,https://www.163.com/dy/article/J7N90KPE0511DLVT.html,森亿智能2024年战略融资、投资方、2016年成立及累计融资超13亿元。,2024-07-22,2026-11-03
+transwarp,星环科技,s01,星环科技 公开入口,https://www.transwarp.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+transwarp,星环科技,s02,星环科技-构建新一代AI基础设施软件,https://www.transwarp.cn/,公开官网主体观察：https://www.transwarp.cn/；只核验入口归属。,,2026-11-02
+transwarp,星环科技,s03,【星环科技招聘】-猎聘,https://www.liepin.com/company/7979550/,公开企业主页主体：星环科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+transwarp,星环科技,s04,BOSS直聘企业主页 · 星环,https://www.zhipin.com/gongsi/1cb2a74b71a8e1351nd92NS7EVo~.html,公开企业主页主体：星环；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+transwarp,星环科技,s05,星环信息科技（上海）股份有限公司2024年年度报告,https://static.cninfo.com.cn/finalpage/2025-04-26/1223325316.PDF,星环科技688031的2024年营业收入3.71亿元、同比下降24.31%及AI基础设施定位。,2025-04-26,2026-11-03
+tztek,苏州天准科技,s01,苏州天准科技 公开入口,https://www.tztek.com.cn/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+tztek,苏州天准科技,s02,【天准招聘】-猎聘,https://www.liepin.com/company/8186807/,公开企业主页主体：天准；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tztek,苏州天准科技,s03,BOSS直聘企业主页 · 苏州天准科技股份有限公司（虎丘，187岗）,https://www.zhipin.com/gongsi/bb1aac3bb9c5c31f0HF72dm6FA~~.html,公开企业主页主体：天准科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tztek,苏州天准科技,s04,新浪财经公司资料 · 苏州天准科技股份有限公司（688003）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688003.phtml,2009-08-20成立、2019-07-22上市、工业视觉等装备主营、苏州高新区注册地址。,,2026-11-03
+uii,联影智能,s01,联影智能 公开入口,https://www.uii-ai.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+uii,联影智能,s02,联影智能官方网站-AI医疗诊断-医疗AI大模型-医疗人工智能诊断,https://www.uii-ai.com/,公开官网主体观察：https://www.uii-ai.com/；只核验入口归属。,,2026-11-02
+uii,联影智能,s03,联影智能社会招聘,https://uii-ai.zhiye.com/social/jobs,公开招聘入口主体观察：https://uii-ai.zhiye.com/social/jobs；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+uii,联影智能,s04,【联影智能招聘】-猎聘,https://www.liepin.com/company/9761547/,公开企业主页主体：联影智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+uii,联影智能,s05,BOSS直聘企业主页 · 联影智能,https://www.zhipin.com/gongsi/76efa3ea6d08658503F42N60EFE~.html,公开企业主页主体：联影智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+uii,联影智能,s06,69.72亿元资金流向：机器人、生物医药赛道融资活跃，联影智能完成10亿元A轮融资,https://www.21jingji.com/article/20250623/herald/a5517493cf2a0ac7c47702b8c9cf46d0.html,联影智能10亿元A轮、领投/跟投方、2017年成立及联影集团关系。,2025-06-23,2026-11-03
+uii,联影智能,s07,联影智能官网,https://www.uii-ai.com/,医疗AI诊断、影像大模型与临床/科研产品矩阵。,,2026-11-03
+uzero-intelligence,苏州优智汇,s01,苏州优智汇 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+uzero-intelligence,苏州优智汇,s02,关联网站观察（原采集标签：苏州优智汇官网）,https://www.uzero.ai,公开官网主体与标题观察：uZero | AI for Producers；只核验入口归属。,,2026-11-02
+westwell,西井科技,s01,西井科技 公开入口,https://www.westwell.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+westwell,西井科技,s02,Westwell 西井科技 | 以 AI + 新能源技术重塑全球物流运转方式的领导者,https://www.westwell-lab.com/,公开官网主体观察：https://www.westwell-lab.com/；只核验入口归属。,,2026-11-02
+westwell,西井科技,s03,加入我们 | 西井科技,https://www.westwell-lab.com/about/careers,公开招聘入口主体观察：https://www.westwell-lab.com/about/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+westwell,西井科技,s04,【西井科技招聘】-猎聘,https://www.liepin.com/company/8617067/,公开企业主页主体：西井科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+westwell,西井科技,s05,BOSS直聘企业主页 · 上海西井科技,https://www.zhipin.com/gongsi/a9c46db75720c8e403Zy290~.html,公开企业主页主体：西井科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+westwell,西井科技,s06,西井科技重启IPO辅导 辅导机构变更为国泰海通证券 复星集团、平安资本等投了,https://www.cls.cn/detail/2002105,西井科技14轮融资、E轮6亿元、平安资本/中移资本、18国业务及IPO辅导。,2025-04-12,2026-11-03
 yingdao,影刀 / 杭州分叉智能,s01,影刀官网联系页,https://www.yingdao.com/contactus/?from=community,官网、总部、商务邮箱,,2026-10-30
 yingdao,影刀 / 杭州分叉智能,s02,亿邦影刀C轮融资,https://m.ebrun.com/ebrungo/zb/482074.html,历史投资背景,2022-04-26,2026-10-30
 yingdao,影刀 / 杭州分叉智能,s03,影刀AI官网,https://www.yingdao.com/ai,AI与自动化产品,,2026-10-30
 yingdao,影刀 / 杭州分叉智能,s04,影刀主站加入我们链接,https://www.yingdao.com/,现行招聘入口,,2026-10-30
 yingdao,影刀 / 杭州分叉智能,s05,分叉智能科技(影刀)招聘-BOSS直聘,https://www.zhipin.com/gongsi/17a964cf8a8f963c0XZ83N-8FQ~~.html,公开企业主页主体：分叉智能科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 yingdao,影刀 / 杭州分叉智能,s06,【影刀RPA招聘】-猎聘,https://www.liepin.com/company/10239799/,公开企业主页主体：影刀RPA；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+yuanzhi-ai,苏州远志科技,s01,苏州远志科技 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+zpmc,振华重工,s01,振华重工 公开入口,https://www.zpmc.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+zpmc,振华重工,s02,"Shanghai Zhenhua Heavy Industries Co., Ltd. (ZPMC) - Shanghai Zhenhua ...",https://www.zpmc.com/,公开官网主体观察：https://www.zpmc.com/；只核验入口归属。,,2026-11-02
+zpmc,振华重工,s03,"Shanghai Zhenhua Heavy Industries Co., Ltd. (ZPMC) - Shanghai Zhenhua Heavy Indu",https://www.zpmc.com/hr/recruiting-information,公开招聘入口主体观察：https://www.zpmc.com/hr/recruiting-information；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+zpmc,振华重工,s04,BOSS直聘企业主页 · 上海振华重工电气公司,https://www.zhipin.com/gongsi/5c483d8f53a8f86703V92dS-Ew~~.html,公开企业主页主体：振华重工；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+zpmc,振华重工,s05,振华重工发布2024年年报：多维发力稳增长 全球港机龙头锚定高质量发展新航向,https://caifuhao.eastmoney.com/news/20250328152118764337850,振华重工2024年营收344.56亿元、归母净利润5.34亿元、港机订单与A+B股代码。,2025-03-28,2026-11-03
 deepdraw,深绘智能 / Deepdraw,s01,深绘官网,https://www.deepdraw.cn/,产品和方向,,2026-10-30
 deepdraw,深绘智能 / Deepdraw,s02,光云科技2021财报附注,https://static.sse.com.cn/stock/disclosure/announcement/c/202208/688365_20220805_6WXN.pdf,收购并表与股权,2022-08-05,2026-10-30
 deepdraw,深绘智能 / Deepdraw,s03,「深绘智能招聘」-BOSS直聘,https://www.zhipin.com/gongsi/c748e2cd9a3c964703d839s~.html,公开企业主页主体：深绘智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
@@ -235,6 +567,11 @@ deepdraw,深绘智能 / Deepdraw,s04,【深绘智能招聘】-猎聘,https://www
 infimind,极睿科技 / Infimind,s01,极睿官方关于我们,https://www.infimind.com/about,产品、投资背景、城市与商务邮箱,,2026-10-30
 infimind,极睿科技 / Infimind,s02,极睿旗下AIFashion官网,https://www.aifashion.com/,历史公开求职邮箱,,2026-10-30
 infimind,极睿科技 / Infimind,s03,【北京极睿科技有限责任公司招聘】-猎聘,https://www.liepin.com/company/9960391/,公开企业主页主体：北京极睿科技有限责任公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+jd,京东 JD.com,s01,关于京东,https://about.jd.com/company/,集团关于页身份,,2026-11-02
+jd,京东 JD.com,s02,京东招聘-首页,https://zhaopin.jd.com/home,官方招聘入口,,2026-11-02
+jd,京东 JD.com,s03,JoyAI 官网：京东 AIGC 平台,https://jdai.jd.com/portal,JoyAI 主题证据,,2026-11-02
+jd,京东 JD.com,s04,【京东招聘】-猎聘,https://www.liepin.com/company/1663745/,公开企业主页主体：京东。,,2026-11-02
+jd,京东 JD.com,s05,「京东集团」-BOSS直聘企业主页,https://www.zhipin.com/gongsi/33e052361693f8371nF-3d25.html,公开企业主页主体：京东集团；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 kuaizi,筷子科技 / Kuaizi,s01,金沙江Kuaizi被投页,https://gsrventuresglobal.com/details/kuaizi,投资关系和业务,,2026-10-30
 kuaizi,筷子科技 / Kuaizi,s02,36氪筷子档案,https://pitchhub.36kr.com/project/1679679398531845,融资与官网,,2026-10-30
 kuaizi,筷子科技 / Kuaizi,s03,筷子官网根域,https://kuaizi.ai/,现行官网跳转，避免旧目录404,,2026-10-30
@@ -245,6 +582,11 @@ leyan,乐言科技,s02,乐言官方招聘页,https://www.leyantech.com/joinUS.ht
 leyan,乐言科技,s03,乐言关于我们,https://www.leyantech.com/aboutUs.html,方向与覆盖区域,,2026-10-30
 leyan,乐言科技,s04,乐言科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/bfb355f61045ec851ndy39S_GFs~.html,公开企业主页主体：乐言科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 leyan,乐言科技,s05,【乐言科技招聘】-猎聘,https://www.liepin.com/company/8826410/,公开企业主页主体：乐言科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+pdd-holdings,拼多多集团 PDD Holdings,s01,拼多多,https://www.pinduoduo.com/,中国区电商品牌站身份,,2026-11-02
+pdd-holdings,拼多多集团 PDD Holdings,s02,拼多多集团-PDD校园招聘官网,https://careers.pinduoduo.com/,官方招聘入口（校招站同时承载集团招聘入口）,,2026-11-02
+pdd-holdings,拼多多集团 PDD Holdings,s03,PDD Holdings Form 20-F FY2025 (SEC),https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm,年报披露平台使用 AI 的主题证据,,2026-11-02
+pdd-holdings,拼多多集团 PDD Holdings,s04,「拼多多集团-PDD」-BOSS直聘,https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html,公开企业主页路径指向拼多多集团-PDD；反爬未能完整渲染。,,2026-11-02
+pdd-holdings,拼多多集团 PDD Holdings,s05,【拼多多(上海)网络科技有限公司招聘】-猎聘,https://www.liepin.com/company/9976959/,公开企业主页主体：拼多多上海运营实体；简介指向拼多多集团-PDD。,,2026-11-02
 quickcep,快牛智营 / QuickCEP,s01,QuickCEP官网,https://www.quickcep.cn/,产品及主体,,2026-10-30
 quickcep,快牛智营 / QuickCEP,s02,QuickCEP国际官网,https://www.quickcep.com/,产品与支持邮箱,,2026-10-30
 quickcep,快牛智营 / QuickCEP,s03,复星锐正融资动态,https://www.frzcapital.cn/news/index_7.html,新轮次投资背景,2025-11-28,2026-10-30
@@ -285,6 +627,31 @@ agibot,智元机器人,s02,智元官方商店联系页,https://store.agibot.com/
 agibot,智元机器人,s03,智元官方招聘,https://agirobot.jobs.feishu.cn/,招聘入口及公司业务,,2026-10-30
 agibot,智元机器人,s04,「智元机器人招聘」-BOSS直聘,https://www.zhipin.com/gongsi/07b072ef03f6aac71XN629m-E1M~.html,公开企业主页主体：智元机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 agibot,智元机器人,s05,【智元机器人招聘】-猎聘,https://www.liepin.com/company/13530971/,公开企业主页主体：智元机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+agve,苏州艾吉威机器人,s01,苏州艾吉威机器人 公开入口,https://www.agve.com.cn,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+agve,苏州艾吉威机器人,s02,【苏州艾吉威机器人有限公司招聘】-猎聘,https://www.liepin.com/company/9806813/,公开企业主页主体：苏州艾吉威机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+agve,苏州艾吉威机器人,s03,BOSS直聘企业主页 · 苏州艾吉威机器人有限公司（21岗）,https://www.zhipin.com/gongsi/874c6b1e202fddd31X1639q7Eg~~.html,公开企业主页主体：苏州艾吉威机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+agve,苏州艾吉威机器人,s04,关于我们 - 艾吉威机器人,https://www.agvsz.com/about-us/,苏州艾吉威机器人有限公司成立于2011年，专注移动机器人（AGV）研产销，获相关专利180余项，总部苏州工业园区、生产基地湖北天门。,,2026-11-03
+bozhong,苏州博众精工,s01,苏州博众精工 公开入口,https://www.bozhong.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+bozhong,苏州博众精工,s02,【博众精工招聘】-猎聘,https://www.liepin.com/company/9793213/,公开企业主页主体：博众精工；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bozhong,苏州博众精工,s03,BOSS直聘企业主页 · 博众精工科技股份有限公司（吴江湖心西路，373岗）,https://www.zhipin.com/gongsi/8ebcd2ab59df0c691HZ_3Nm9GVE~.html,公开企业主页主体：博众精工科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bozhong,苏州博众精工,s04,新浪财经公司资料 · 博众精工科技股份有限公司（688097）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688097.phtml,公司全称、2006-09-22成立、2021-05-12上市、自动化设备与柔性产线主营、吴江注册地址。,,2026-11-03
+didi,滴滴 DiDi,s01,滴滴官网,https://www.didiglobal.com/,集团官网身份,,2026-11-02
+didi,滴滴 DiDi,s02,滴滴招聘,https://talent.didiglobal.com/,官方招聘入口,,2026-11-02
+didi,滴滴 DiDi,s03,DiDi IR：FY2025 业绩公告（含 Robotaxi R2）,https://ir.didiglobal.com/static-files/433e2d74-b1a6-4551-8449-477fd20cbb7a,Robotaxi／自动驾驶主题证据,,2026-11-02
+didi,滴滴 DiDi,s04,「滴滴」-BOSS直聘,https://www.zhipin.com/gongsi/8548fadc0b5c265403V93t61EQ~~.html,公开企业主页路径指向滴滴；反爬未能完整渲染。,,2026-11-02
+didi,滴滴 DiDi,s05,【滴滴招聘】-猎聘,https://www.liepin.com/company/8076624/,公开企业主页主体：滴滴。,,2026-11-02
+elite-robots,苏州艾利特机器人,s01,苏州艾利特机器人 公开入口,https://www.elite-robots.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+elite-robots,苏州艾利特机器人,s02,【艾利特机器人招聘】-猎聘,https://www.liepin.com/company/9751741/,公开企业主页主体：艾利特机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+elite-robots,苏州艾利特机器人,s03,BOSS直聘企业主页 · 艾利特智能机器人股份有限公司（苏州）,https://www.zhipin.com/gongsi/c4f6c7b9b99ce2a503By2du5GVc~.html,公开企业主页主体：艾利特机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+elite-robots,苏州艾利特机器人,s04,艾利特机器人完成6亿元D+轮融资,https://www.elibot.com/about/news/170,2026-03-25宣布完成6亿元D+轮，投资方含LHCP、达晨财智、元禾控股、园丰资本等；苏州全球总部+郑州中原总部。,2026-03-25,2026-11-03
+elite-robots,苏州艾利特机器人,s05,艾利特机器人品牌介绍,https://www.elibot.com/about/news/58,2016年北京艾利特科技成立、2018年苏州工业园区全球生产基地设立等发展历程。,,2026-11-03
+elite-robots,苏州艾利特机器人,s06,艾利特机器人官网 - 智能操作机器人专家，赋能具身智能未来,https://www.elibot.com/,官方官网主体：艾利特机器人；页脚公开市场合作邮箱 market@elibot.cn、售后技术支持邮箱 technical@elibot.cn。,,2026-11-03
+elite-robots,苏州艾利特机器人,s07,加入我们-艾利特官网,https://www.elibot.com/about/join,官方加入我们页两处公开招聘邮箱 hr@elibot.cn；不表示具体岗位开放。,,2026-11-03
+flexiv,非夕科技,s01,非夕科技 公开入口,https://www.flexiv.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+flexiv,非夕科技,s02,非夕科技官网,https://www.flexiv.com,公开官网主体与标题观察：Home | Flexiv；只核验入口归属。,,2026-11-02
+flexiv,非夕科技,s03,【上海非夕机器人科技有限公司招聘】-猎聘,https://www.liepin.com/company/9416705/,公开企业主页主体：上海非夕机器人科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+flexiv,非夕科技,s04,招贤纳士 | 非夕科技 | Flexiv,https://www.flexiv.cn/join,官方招聘／加入我们入口。,,2026-11-02
+flexiv,非夕科技,s05,BOSS直聘企业主页 · 上海非夕机器人科技有限公司（集团页，仅上海地址）,https://www.zhipin.com/gongsi/03872f27297614c01nd939S1FQ~~.html,公开企业主页主体：上海非夕机器人科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 fourier,傅利叶,s01,傅利叶官网,https://www.fftai.com/en/,当前产品方向,,2026-10-30
 fourier,傅利叶,s02,傅利叶完成近8亿元E轮,https://www.yicai.com/news/102430454.html,投资方,2025-01-07,2026-10-30
 fourier,傅利叶,s03,傅利叶产品资料,https://www.fftai.com/uploads/upload/files/20250519/9367c1adcb832047765641f301645c90.pdf,商务邮箱,,2026-10-30
@@ -304,27 +671,156 @@ galbot,银河通用,s03,银河通用再融25亿元,https://companies.caixin.com/
 galbot,银河通用,s04,银河通用2027校招,https://career.nankai.edu.cn/correcruit/content/id/116497.html,招聘邮箱及工作地域,2026-07-27,2026-10-30
 galbot,银河通用,s05,「银河通用机器人招聘」-BOSS直聘,https://www.zhipin.com/gongsi/274adc549f8801231Xxy2Nq4GVY~.html,公开企业主页主体：银河通用机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 galbot,银河通用,s06,【北京银河通用机器人有限公司招聘】-猎聘,https://www.liepin.com/company/13921475/,公开企业主页主体：北京银河通用机器人有限公司 (page title)；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+gaussian-robotics,高仙机器人,s01,高仙机器人 公开入口,https://www.gs-robot.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+gaussian-robotics,高仙机器人,s02,高仙机器人_商用清洁机器人_智能洗地机器人_工业智能清洁解决方案,https://www.gs-robot.com/,公开官网主体观察：https://www.gs-robot.com/；只核验入口归属。,,2026-11-02
+gaussian-robotics,高仙机器人,s03,【苏州高仙机器人科技有限公司招聘信息】-猎聘,https://www.liepin.com/company/gs93533663/,公开企业主页主体：苏州高仙机器人科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+gaussian-robotics,高仙机器人,s04,BOSS直聘企业主页 · 高仙机器人,https://www.zhipin.com/gongsi/d268a36feef47b601Hx40966GFQ~.html,公开企业主页主体：高仙机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+gaussian-robotics,高仙机器人,s05,融资12亿！高仙机器人完成C轮融资，今日资本、软银愿景联合领投,https://www.sohu.com/a/500343308_489960,高仙12亿元C轮、投资方、产品矩阵与全球40多个国家和地区落地。,2021-11-10,2026-11-03
+gaussian-robotics,高仙机器人,s06,清洁机器人企业高仙完成D++轮融资,https://robot.ofweek.com/2023-01/ART-8321200-8500-30584542.html,高仙完成D++轮融资及商用清洁机器人业务。,2023-01-11,2026-11-03
+gaussian-robotics,高仙机器人,s07,高仙机器人官网,https://www.gs-robot.com/,奂影S1、Scrubber、Vacuum等产品线。,,2026-11-03
+gaussian-robotics,高仙机器人,s08,Careers - 高仙,https://www.gs-robot.com/careers/,官方职业页与 Our vacancies 列表（当日 10 个岗位，含 Channel Commercial Manager 上海、Overseas Market Strategy Manager）；未公开招聘邮箱。,,2026-11-03
+hikrobot,海康机器人（苏州）,s01,海康机器人（苏州） 公开入口,https://www.hikrobotics.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+hikrobot,海康机器人（苏州）,s02,关联网站观察（原采集标签：海康机器人（苏州）官网）,https://www.hikrobotics.com,公开官网主体与标题观察：海康机器人；只核验入口归属。,,2026-11-02
+hikrobot,海康机器人（苏州）,s03,【杭州海康机器人股份有限公司招聘】-猎聘,https://www.liepin.com/company/9851123/,公开企业主页主体：杭州海康机器人股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hikrobot,海康机器人（苏州）,s04,BOSS直聘企业主页 · 杭州海康机器人股份有限公司（滨江母公司；无苏州专页）,https://www.zhipin.com/gongsi/783eef2c5e13ec441XFz3t6_FQ~~.html,公开企业主页主体：杭州海康机器人股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hikrobot,海康机器人（苏州）,s05,关于海康机器人,https://www.hikrobotics.com/cn/about/,发展历程：2014年成立机器视觉业务中心、2016年杭州海康机器人技术有限公司成立、累计服务客户20000+、移动机器人累计下线20万台、17大区域分公司。,,2026-11-03
+huaheng-welding,昆山华恒焊接,s01,昆山华恒焊接 公开入口,https://www.huaheng.com.cn/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+huaheng-welding,昆山华恒焊接,s02,BOSS直聘企业主页 · 昆山华恒焊接股份有限公司,https://www.zhipin.com/gongsi/777c6c96160046831n180964GA~~.html,公开企业主页主体：昆山华恒焊接股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+huaheng-welding,昆山华恒焊接,s03,华恒股份:2025年年度报告（东方财富新三板）,https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202604151821240645,NEEQ: 833444 昆山华恒焊接股份有限公司2025年年报，含上海华恒、徐州华恒等全资子公司释义。,2026-04-15,2026-11-03
+huaheng-welding,昆山华恒焊接,s04,昆山华恒焊接创业板IPO申请未获通过,https://m.yicai.com/news/706098.html,2011年创业板IPO申请未获通过，说明其为已有经营历史的老牌企业。,2011-03-11,2026-11-03
+im-motors,智己汽车,s01,智己汽车 公开入口,https://www.immotors.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+im-motors,智己汽车,s02,智己汽车-智能时代出行的变革者-IM智己汽车官网,https://www.immotors.com/,公开官网主体观察：https://www.immotors.com/；只核验入口归属。,,2026-11-02
+im-motors,智己汽车,s03,【智己汽车科技有限公司招聘】-猎聘,https://www.liepin.com/company/12520237/,公开企业主页主体：智己汽车科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+im-motors,智己汽车,s04,BOSS直聘企业主页 · 智己汽车,https://www.zhipin.com/gongsi/5f7561bbc87f23e21nd_3tS-FFc~.html,公开企业主页主体：智己汽车；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+im-motors,智己汽车,s05,94亿融资到手 智己汽车能上岸吗,https://finance.sina.com.cn/zmt/2025-01-16/doc-inefcrkf6388972.shtml,智己B1轮及B轮合计94亿元、2020年由上汽/张江高科/阿里巴巴设立、注册资本100亿元。,2025-01-16,2026-11-03
+innovusion,图达通,s01,图达通 公开入口,https://www.innovusion.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+innovusion,图达通,s02,图达通官网,https://www.seyond.cn/,公开官网主体与标题观察：图达通官网 / Seyond；只核验入口归属。,,2026-11-02
+innovusion,图达通,s03,【Seyond图达通招聘】-猎聘,https://www.liepin.com/company/9973591/,公开企业主页主体：Seyond图达通；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+innovusion,图达通,s04,BOSS直聘企业主页 · 图达通／Seyond（苏州相城，87岗）,https://www.zhipin.com/gongsi/d57c78db41a23ed3331_2Nu8GA~~.html,公开企业主页主体：图达通智能科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+innovusion,图达通,s05,Seyond Holdings Ltd. 完成De-SPAC交易公告（港交所）,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1210/2025121000287.pdf,2025-12-10 De-SPAC交割，股份代号2665于港交所主板开始买卖。,2025-12-10,2026-11-03
+innovusion,图达通,s06,图达通官网,https://www.seyond.cn/,Seyond图达通成立于硅谷、激光雷达及解决方案提供商。,,2026-11-03
+innovusion,图达通,s07,Learn more about Seyond Career Opportunity,https://www.seyond.cn/careers/,官方招聘介绍页；联系区仅列 info@cn.seyond.com 与合规邮箱，未公开专门招聘邮箱；校招入口另见 seyond.zhiye.com。,,2026-11-03
+inovance-technology,苏州汇川技术,s01,苏州汇川技术 公开入口,https://www.inovance.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+inovance-technology,苏州汇川技术,s02,苏州汇川技术官网,https://www.inovance.com,公开官网主体与标题观察：汇川技术官网；只核验入口归属。,,2026-11-02
+inovance-technology,苏州汇川技术,s03,【汇川技术招聘】-猎聘,https://www.liepin.com/company/1938395/,公开企业主页主体：汇川技术；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+inovance-technology,苏州汇川技术,s04,汇川技术招聘官网,https://recruit.inovance.com/,官方招聘站入口。,,2026-11-02
+inovance-technology,苏州汇川技术,s05,BOSS直聘企业主页 · 苏州汇川技术有限公司（吴中，优先于深圳母公司页）,https://www.zhipin.com/gongsi/51148f5b7a4421193nR93925FA~~.html,公开企业主页主体：苏州汇川技术；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+inovance-technology,苏州汇川技术,s06,新浪财经公司资料 · 深圳市汇川技术股份有限公司（300124）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/300124.phtml,2003-04-10成立、2010-09-28上市、变频器/伺服/PLC/机器视觉等主营、深圳注册地址。,,2026-11-03
+jaka,节卡机器人,s01,节卡机器人 公开入口,https://www.jaka.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+jaka,节卡机器人,s02,节卡机器人官网,https://www.jaka.com,公开官网主体与标题观察：节卡机器人官网；只核验入口归属。,,2026-11-02
+jaka,节卡机器人,s03,【节卡机器人招聘】-猎聘,https://www.liepin.com/company/9401362/,公开企业主页主体：节卡机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+jaka,节卡机器人,s04,节卡招贤纳士／加入我们,https://www.jaka.com/zh/join,官方招聘／加入我们入口。,,2026-11-02
+jaka,节卡机器人,s05,BOSS直聘企业主页 · 节卡机器人股份有限公司（上海母公司页）,https://www.zhipin.com/gongsi/81990c218f4828221nd50t28GA~~.html,公开企业主页主体：节卡机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+jaka,节卡机器人,s06,科创板一IPO审议会议取消 原定8月8日召开（证券时报）,https://stcn.com/article/detail/3003922.html,节卡股份成立于2014年，2022-2024年营收2.81/3.5/4亿元，审议会因需进一步核查被取消。,2025-08-08,2026-11-03
+jaka,节卡机器人,s07,节卡股份撤回科创板IPO 原计划募资近7亿元（证券时报）,https://www.stcn.com/article/detail/3548994.html,2025-12-19上交所终止其科创板IPO审核。,2025-12-19,2026-11-03
+jundo,苏州钧舵机器人,s01,苏州钧舵机器人 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+jundo,苏州钧舵机器人,s02,【苏州钧舵机器人有限公司招聘】-猎聘,https://www.liepin.com/company/12160493/,公开企业主页主体：苏州钧舵机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+jundo,苏州钧舵机器人,s03,BOSS直聘企业主页 · 苏州钧舵机器人有限公司（吴江，76岗）,https://www.zhipin.com/gongsi/03ee3ece1be410ca1HV93Nq0EQ~~.html,公开企业主页主体：苏州钧舵机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+jundo,苏州钧舵机器人,s04,创投观察站｜给机器人造更灵巧手，哈工大博士领衔团队获B+轮融资,https://www.xhby.net/content/s68e8f5fce4b0c463b33c1e06.html,苏州钧舵机器人完成B+轮融资，创始人介党阳来自哈工大机器人研究所。,2025-10-10,2026-11-03
+jundo,苏州钧舵机器人,s05,苏州“潜在独角兽”，获美的集团战略入股,https://finance.sina.com.cn/stock/relnews/hk/2026-08-11/doc-inimyaai4196010.shtml,钧舵机器人新一轮战略融资，投资方含硅港资本、点亮资本、美的集团等，注册资本增至约1235.4万元。,2026-08-11,2026-11-03
+keenon,擎朗智能,s01,擎朗智能 公开入口,https://www.keenon.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+keenon,擎朗智能,s02,KEENON Robotics - Smart Service Robots & Solutions,https://www.keenon.com/,公开官网主体观察：https://www.keenon.com/；只核验入口归属。,,2026-11-02
+keenon,擎朗智能,s03,【深圳市擎朗智能科技有限公司招聘信息】-猎聘,https://www.liepin.com/company/gs130194987/,公开企业主页主体：深圳市擎朗智能科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+keenon,擎朗智能,s04,BOSS直聘企业主页 · 擎朗智能,https://www.zhipin.com/gongsi/256dd9a902bb05381Hx-2dq6EA~~.html,公开企业主页主体：擎朗智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+keenon,擎朗智能,s05,机器人企业擎朗智能完成2亿美元D轮融资,https://www.cls.cn/detail/835614,擎朗2亿美元D轮、软银愿景领投、中金甲子/Prosperity7跟投。,2021-09-15,2026-11-03
+keenon,擎朗智能,s06,擎朗智能官网,https://www.keenon.com/,送餐/酒店/清洁等服务机器人产品与具身AI定位。,,2026-11-03
+kepler-robotics,开普勒机器人,s01,开普勒机器人 公开入口,https://www.keplerbot.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+kepler-robotics,开普勒机器人,s02,【开普勒机器人招聘】-猎聘,https://www.liepin.com/company/13928431/,公开企业主页主体：上海开普勒机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kepler-robotics,开普勒机器人,s03,BOSS直聘企业主页 · 开普勒机器人有限公司,https://www.zhipin.com/gongsi/df65785ecc0b2c9003R629W4FVQ~.html,公开企业主页主体：上海开普勒机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kepler-robotics,开普勒机器人,s04,“70后”全球化老兵入局人形机器人，开普勒完成Pre-A轮融资,https://m.rccaijing.com/news-7324687326767674663.html,开普勒2023年8月成立、Pre-A投资方、先行者K2工业场景训练。,2025-05-06,2026-11-03
+kepler-robotics,开普勒机器人,s05,Kepler Forerunner Series General-Purpose Humanoid Robot · Contact,https://www.gotokepler.com/contact,官方联系页：contact@gotokepler.com（联系）、sales@/business@/pr@/investor@gotokepler.com 分用途列出；未公开招聘邮箱。,,2026-11-03
+leader-drive,苏州绿的谐波,s01,苏州绿的谐波 公开入口,https://www.leader-drive.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+leader-drive,苏州绿的谐波,s02,BOSS直聘企业主页 · 苏州绿的谐波传动科技股份有限公司（木渎，13岗）,https://www.zhipin.com/gongsi/1576c829fe8024871nZ-3N20GFI~.html,公开企业主页主体：苏州绿的谐波传动科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+leader-drive,苏州绿的谐波,s03,新浪财经公司资料 · 苏州绿的谐波传动科技股份有限公司（688017）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688017.phtml,2011-01-13成立、2020-08-28上市、精密传动装置主营、苏州吴中注册地址。,,2026-11-03
 limx,逐际动力,s01,逐际Pre-IPO融资公告,https://www.limxdynamics.com/en/news/BK000064,投资方与产品,2026-07-14,2026-10-30
 limx,逐际动力,s02,逐际FAQ,https://www.limxdynamics.com/en/faq,技术定位、总部、招聘及商务邮箱,,2026-10-30
 limx,逐际动力,s03,逐际动力招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f175c119152444b31XZ_39W8E1I~.html,公开企业主页主体：逐际动力；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 limx,逐际动力,s04,【深圳逐际动力科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/13423055/,公开企业主页主体：深圳逐际动力科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+microport-medbot,微创机器人,s01,微创机器人 公开入口,https://www.medbotics.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+microport-medbot,微创机器人,s02,【微创机器人招聘】-猎聘,https://www.liepin.com/company/9755879/,公开企业主页主体：上海微创医疗机器人(集团)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+microport-medbot,微创机器人,s03,BOSS直聘企业主页 · 微创机器人,https://www.zhipin.com/gongsi/80b1e114613885391ndy2N64FVQ~.html,公开企业主页主体：微创机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+microport-medbot,微创机器人,s04,2.57亿，增长146%，微创机器人最新年报,https://www.vbdata.cn/newsDetail/52f969000bfc11f0b7af00163e034e34,微创机器人2024年收入2.57亿元、同比增长146%、净亏损6.47亿元及产品订单。,2025-03-28,2026-11-03
+nio,蔚来,s01,蔚来 公开入口,https://www.nio.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+nio,蔚来,s02,NIO蔚来汽车官方网站,http://www.nio.cn/,公开官网主体观察：http://www.nio.cn/；只核验入口归属。,,2026-11-02
+nio,蔚来,s03,【NIO蔚来招聘】-猎聘,https://www.liepin.com/company/8524725/,公开企业主页主体：蔚来；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+nio,蔚来,s04,BOSS直聘企业主页 · NIO蔚来,https://www.zhipin.com/gongsi/c61d023bc6632dd91XZy2dQ~.html,公开企业主页主体：蔚来汽车；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+nio,蔚来,s05,蔚来季报图解：营收197亿，交付72689辆车 毛利率提升至11.7%,https://finance.sina.com.cn/tech/csj/2025-03-21/doc-ineqmmwh2752537.shtml,蔚来2024年营收657.32亿元、交付22.197万辆及NIO/9866/新交所上市身份。,2025-03-21,2026-11-03
 noematrix,穹彻智能,s01,穹彻官网新闻,https://www.noematrix.ai/,Noe-0和战略投资,2026-06-18,2026-10-30
 noematrix,穹彻智能,s02,关于穹彻,https://www.noematrix.ai/about,技术方向,,2026-10-30
 noematrix,穹彻智能,s03,加入穹彻,https://www.noematrix.ai/join-us,招聘邮箱、岗位及城市,,2026-10-30
 noematrix,穹彻智能,s04,上海穹彻智能科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/5c10d1143d91fc941Hx50tu7FlA~.html,公开企业主页主体：上海穹彻智能科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 noematrix,穹彻智能,s05,【上海穹彻智能科技有限公司招聘】-猎聘,https://www.liepin.com/company/21172769/,公开企业主页主体：上海穹彻智能科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+nullmax,纽劢科技,s01,纽劢科技 公开入口,https://www.nullmax.ai,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+nullmax,纽劢科技,s02,Nullmax - Bring AI-First Mobility to Life,https://www.nullmax.ai/,公开官网主体观察：https://www.nullmax.ai/；只核验入口归属。,,2026-11-02
+nullmax,纽劢科技,s03,Join Us - Nullmax,https://www.nullmax.ai/careers,公开招聘入口主体观察：https://www.nullmax.ai/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+nullmax,纽劢科技,s04,【Nullmax 纽劢科技招聘】-猎聘,https://www.liepin.com/company/9247292/,公开企业主页主体：Nullmax；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+nullmax,纽劢科技,s05,BOSS直聘企业主页 · 纽劢科技,https://www.zhipin.com/gongsi/6a532e5fe11431ff0X143NW5.html,公开企业主页主体：纽劢科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+nullmax,纽劢科技,s06,Nullmax获得近7.8亿元B轮融资，加速智驾落地,https://chedongxi.com/news/39878.html,Nullmax约7.8亿元B轮、岩山科技独家领投及控股安排。,2023-10-12,2026-11-03
+nullmax,纽劢科技,s07,Nullmax获得近7.8亿元B轮融资，加速推进自动驾驶落地,https://www.stcn.com/article/detail/1001750.html,B轮金额、投资方与MaxDrive/MaxVision产品线。,2023-10-12,2026-11-03
+qianjing-rehabilitation,钱璟康复（常州）,s01,苏州钱璟康复 公开入口,https://www.qianjingkang.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+qianjing-rehabilitation,钱璟康复（常州）,s02,BOSS直聘企业主页 · 常州市钱璟康复股份有限公司（武进；无苏州专页）,https://www.zhipin.com/gongsi/4af0faaff75433911HN42tm1.html,公开企业主页主体：常州市钱璟康复股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+qianjing-rehabilitation,钱璟康复（常州）,s03,关于我们 - 常州市钱璟康复股份有限公司,https://www.qjrehab.com/profile.html,常州市钱璟康复股份有限公司始建于1996年，致力于康复器材、辅具及康复医疗器械，下辖子公司近二十家。,,2026-11-03
+quicktron,快仓智能,s01,快仓智能 公开入口,https://www.quicktron.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+quicktron,快仓智能,s02,Home| Quicktron Robotics - We Move The Future,https://www.quicktron.com/,公开官网主体观察：https://www.quicktron.com/；只核验入口归属。,,2026-11-02
+quicktron,快仓智能,s03,【快仓智能招聘】-猎聘,https://www.liepin.com/company/7961673/,公开企业主页主体：快仓智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+quicktron,快仓智能,s04,BOSS直聘企业主页 · 快仓智能,https://www.zhipin.com/gongsi/864998ddffc4800b1nd93Nu7FVQ~.html,公开企业主页主体：快仓智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+quicktron,快仓智能,s05,快仓智能完成D轮过亿美元融资,https://www.jiemian.com/article/11714250.html,快仓D轮过亿美元及金杜鹃资本、远雄集团、无锡梁溪科创、潍坊鸢飞产业基金参投。,2024-09-12,2026-11-03
+quicktron,快仓智能,s06,关于我们 - 快仓智能,https://www.quicktron.com.cn/about-us,快仓2014年成立、AMR产品线、全球部署与500多名员工。,,2026-11-03
+quicktron,快仓智能,s07,关于快仓,https://www.quicktron.com/zh_CN/about-us,官方关于页含“加入我们”招聘介绍段落；页面未列邮箱。,,2026-11-03
+quicktron,快仓智能,s08,快仓 2026 届校园招聘简章,https://myjob.dlmu.edu.cn/attachment/myjob/ueditor/file/20251013/6206_2026%E5%BF%AB%E4%BB%93%E6%8B%9B%E8%81%98%E7%AE%80%E7%AB%A0.pdf,公司 2026 届校招简章（高校就业网托管）“校招答疑”列邮箱 career@quicktron.com、电话 021-54560716。,2025-10-13,2026-11-03
 robotera,星动纪元,s01,星动纪元官网,https://www.robotera.com/en/,产品、投资方及招聘/商务邮箱,2026-05-08,2026-10-30
 robotera,星动纪元,s02,星动纪元官方招聘,https://k0fqxcszc9.jobs.feishu.cn/,招聘入口及城市,,2026-10-30
 robotera,星动纪元,s03,星动纪元招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/21a13d36251e40d41X152ti1ElQ~.html,公开企业主页主体：星动纪元；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 robotera,星动纪元,s04,【北京星动纪元科技有限公司招聘】-猎聘,https://www.liepin.com/company/13746241/,公开企业主页主体：北京星动纪元科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+rokae-liqtech,苏州李群自动化,s01,苏州李群自动化 公开入口,https://www.liqtech.com.cn,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+rokae-liqtech,苏州李群自动化,s02,BOSS直聘企业主页 · 李群智能机器人股份有限公司（东莞松山湖；无苏州专页）,https://www.zhipin.com/gongsi/b0480a1f1da1642d1nN839m6GA~~.html,公开企业主页主体：李群智能机器人股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+rokae-liqtech,苏州李群自动化,s03,李群官方公司简介（官方检索摘要；正文未读到）,https://www.qkmtech.com/company-profile,官方检索摘要将李群自动化标为QKM，主营工业机器人；页面正文404，不据此确认苏州法人。,,2026-11-03
+rokae-liqtech,苏州李群自动化,s04,珞石机器人ROKAE官网（官方检索摘要；正文访问超时）,https://www.rokae.com/,官方检索摘要将ROKAE对应珞石机器人；与李群QKM为不同品牌，不能作为李群同一主体别名。,,2026-11-03
+shanghai-fanuc,上海发那科,s01,上海发那科 公开入口,https://www.shanghai-fanuc.com.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+shanghai-fanuc,上海发那科,s02,【上海发那科机器人有限公司招聘】-猎聘,https://www.liepin.com/company/177212/,公开企业主页主体：上海发那科；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-fanuc,上海发那科,s03,上海发那科-智能制造专家,https://www.shanghai-fanuc.com.cn/,公开官网主体观察：https://www.shanghai-fanuc.com.cn/；只核验入口归属。,,2026-11-02
+shanghai-fanuc,上海发那科,s04,加入我们-上海发那科-智能制造专家,https://www.shanghai-fanuc.com.cn/about-join.html,公开招聘入口主体观察：https://www.shanghai-fanuc.com.cn/about-join.html；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-fanuc,上海发那科,s05,BOSS直聘企业主页 · 发那科,https://www.zhipin.com/gongsi/c56b579f4fcd11681nZ72N29EA~~.html,公开企业主页主体：发那科；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+shanghai-fanuc,上海发那科,s06,上海电气拟30.82亿元收购上海发那科50%股权,https://leaderobot.com/news/4740,上海发那科50%股权收购、30.82亿元交易对价及1997年合资背景。,2024-10-21,2026-11-03
+shanghai-fanuc,上海发那科,s07,发那科上海机器人新工厂开建，投产后年产值将达100亿,https://m.jiemian.com/article/5344481_yidian.html,上海发那科由上海电气与日本发那科各占50%、工厂与系统集成业务。,2020-12-02,2026-11-03
 spirit-ai,千寻智能,s01,顺为资本动态,https://shunwei.com/?taxonomy=&term=,千寻投资方与数据路线,,2026-10-30
 spirit-ai,千寻智能,s02,千寻关于我们,https://www.spirit-ai.com/about,办公地及商业邮箱,,2026-10-30
 spirit-ai,千寻智能,s03,千寻加入我们,https://www.spirit-ai.com/career,模型与机器人招聘方向,,2026-10-30
 spirit-ai,千寻智能,s04,千寻智能招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/c5a3fedbe7332abf1Hd_0t67EVc~.html,公开企业主页主体：千寻智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+step-electric,新时达,s01,新时达 公开入口,https://www.stepelectric.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+step-electric,新时达,s02,【上海新时达电气股份有限公司招聘】-猎聘,https://www.liepin.com/company/963703/,公开企业主页主体：新时达；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+step-electric,新时达,s03,上海新时达电气股份有限公司-专注于生产力创新的工业智能化科技企业,https://www.stepelectric.com/,公开官网主体观察：https://www.stepelectric.com/；只核验入口归属。,,2026-11-02
+step-electric,新时达,s04,人才招聘-上海新时达电气股份有限公司,https://www.stepelectric.com/join.html,公开招聘入口主体观察：https://www.stepelectric.com/join.html；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+step-electric,新时达,s05,BOSS直聘企业主页 · 新时达,https://www.zhipin.com/gongsi/f4db365ac20c73060Hd829W5Fw~~.html,公开企业主页主体：新时达；只核验入口归属，不表示具体岗位开放。,,2026-11-03
+step-electric,新时达,s06,新时达2024年年报：营收微降，净利润减亏，机器人业务成亮点,https://news.qq.com/rain/a/20250429A01GFG00,新时达2024年营收33.57亿元、归母净利润-2.88亿元及机器人/电梯控制业务。,2025-04-29,2026-11-03
 tars,它石智航,s01,恒旭资本投资公告,https://eng.hengxucapital.com/index.php?c=show&id=539,投资背景及技术路线,2026-04-16,2026-10-30
 tars,它石智航,s02,它石智航2027校招,https://job.ustc.edu.cn/Recruitment/info.aspx?itemid=80004,官方投递入口、产品及公司信息,2026-08-17,2026-10-30
 tars,它石智航,s03,它石智航招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/b5d335b06c1161fd1HNy3tW_F1Y~.html,公开企业主页主体：它石智航；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 tars,它石智航,s04,【它石智航招聘】-猎聘,https://www.liepin.com/company/21147939/,公开企业主页主体：它石智航；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+tesla-shanghai-rd,特斯拉上海研发创新中心,s01,特斯拉上海研发创新中心 公开入口,https://www.tesla.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+tesla-shanghai-rd,特斯拉上海研发创新中心,s02,纯电动车、太阳能和清洁能源 | 特斯拉中国,https://www.tesla.cn/,公开官网主体观察：https://www.tesla.cn/；只核验入口归属。,,2026-11-02
+tesla-shanghai-rd,特斯拉上海研发创新中心,s03,工作机会 | 特斯拉中国,https://www.tesla.cn/careers,公开招聘入口主体观察：https://www.tesla.cn/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tesla-shanghai-rd,特斯拉上海研发创新中心,s04,【特斯拉中国招聘】-猎聘,https://www.liepin.com/company/8626076/,公开企业主页主体：特斯拉；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tesla-shanghai-rd,特斯拉上海研发创新中心,s05,BOSS直聘企业主页 · 特斯拉 Tesla,https://www.zhipin.com/gongsi/a3fff2b435110f101Xx40tm7.html,公开企业主页主体：Tesla；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+tesla-shanghai-rd,特斯拉上海研发创新中心,s06,特斯拉上海研发中心和数据中心落成，系海外首个整车研发中心,https://m.thepaper.cn/newsDetail_forward_15059240,特斯拉上海研发创新中心落成、28个实验室及软件/硬件/电子/材料/动力团队。,2021-10-25,2026-11-03
+timi-robot,钛米机器人,s01,钛米机器人 公开入口,https://www.timirobot.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+timi-robot,钛米机器人,s02,首页 - 上海钛米机器人股份有限公司,http://www.tmirob.com/,公开官网主体观察：http://www.tmirob.com/；只核验入口归属。,,2026-11-02
+timi-robot,钛米机器人,s03,【上海钛米机器人科技有限公司招聘】-猎聘,https://www.liepin.com/company/9103656/,公开企业主页主体：钛米；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+timi-robot,钛米机器人,s04,BOSS直聘企业主页 · 钛米机器人,https://www.zhipin.com/gongsi/b19d837cf4c97e781XR82Nm6Ew~~.html,公开企业主页主体：钛米机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+timi-robot,钛米机器人,s05,「钛米」完成2亿B轮融资，或是医疗服务机器人领域最大单笔融资,https://www.36kr.com/p/1721985122305,钛米2亿元B轮、金浦/鼎晖/IDG/科沃斯/国科嘉和及医疗机器人产品。,2018-07-17,2026-11-03
+udit,友道智途,s01,友道智途 公开入口,https://www.udit.com.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+udit,友道智途,s02,【上海友道智途科技有限公司招聘】-猎聘,https://www.liepin.com/company/13130971/,公开企业主页主体：友道智途；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+udit,友道智途,s03,友道智途_上海友道智途科技公司官网,https://www.utopilot.com.cn/,公开官网主体观察：https://www.utopilot.com.cn/；只核验入口归属。,,2026-11-02
+udit,友道智途,s04,加入上海友道智途科技有限公司,https://utopilot.jobs.feishu.cn/,公开招聘入口主体观察：https://utopilot.jobs.feishu.cn/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+udit,友道智途,s05,BOSS直聘企业主页 · 友道智途,https://www.zhipin.com/gongsi/1722e8fc1861cecc1XR-3t26EVA~.html,公开企业主页主体：友道智途；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+udit,友道智途,s06,上汽集团成立商用车智能驾驶科创公司，推进自动驾驶在多场景下的商业化应用,https://www.utopilot.com.cn/news/99.html,友道智途2021年成立、临港落户及港口/厂区/干线L3-L4业务。,2021-08-27,2026-11-03
+udit,友道智途,s07,上汽集团上半年赚133亿元，新设商用车智能驾驶公司,https://www.yicai.com/news/101154080.html,6.43亿元专项基金、上汽/上港/恒旭出资及友道智途投资结构。,2021-08-26,2026-11-03
+uls-robotics,傲鲨智能,s01,傲鲨智能 公开入口,https://www.ulsrobotics.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+uls-robotics,傲鲨智能,s02,【傲鲨智能招聘】-猎聘,https://www.liepin.com/company/9703235/,公开企业主页主体：傲鲨智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+uls-robotics,傲鲨智能,s03,ULSROBOTICS傲鲨_外骨骼机器人科技公司官网,https://www.ulsrobotics.com/,公开官网主体观察：https://www.ulsrobotics.com/；只核验入口归属。,,2026-11-02
+uls-robotics,傲鲨智能,s04,傲鲨招聘_傲鲨智能ULS Robotics,https://www.ulsrobotics.com/h-col-115.html,公开招聘入口主体观察：https://www.ulsrobotics.com/h-col-115.html；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+uls-robotics,傲鲨智能,s05,BOSS直聘企业主页 · 傲鲨智能,https://www.zhipin.com/gongsi/99361d1fc989b7261XN-09u_Fg~~.html,公开企业主页主体：傲鲨智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+uls-robotics,傲鲨智能,s06,国仪投资与彬复资本共同领投B轮，助力傲鲨智能科技发展,https://www.163.com/dy/article/JV2O3CH305118K7K.html,傲鲨智能2025年5月B轮、国仪投资/彬复资本领投及外骨骼业务。,2025-05-08,2026-11-03
 unitree,宇树科技,s01,宇树公司介绍,https://www.unitree.com/operate/company/,业务及历史投资方,,2026-10-30
 unitree,宇树科技,s02,宇树联系我们,https://www.unitree.com/cn/contact/,招聘和商务邮箱及地址,,2026-10-30
 unitree,宇树科技,s03,宇树加入我们,https://www.unitree.com/position/,招聘入口与产品研发方向,,2026-10-30
@@ -335,12 +831,66 @@ x-square,自变量机器人,s02,自变量加入我们,https://x2robot.com/join,�
 x-square,自变量机器人,s03,自变量社会招聘,https://x2-robot.jobs.feishu.cn/,招聘邮箱与商务邮箱,,2026-10-30
 x-square,自变量机器人,s04,自变量机器人招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/859fcb4d7a9bef4a1HZ43dy4ElQ~.html,公开企业主页主体：自变量机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 x-square,自变量机器人,s05,【自变量机器人科技(深圳)有限公司招聘】-猎聘,https://www.liepin.com/company/13737447/,公开企业主页主体：自变量机器人科技(深圳)有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+acm-research,盛美半导体,s01,盛美半导体 公开入口,https://www.acmrcsh.com/investors,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+acm-research,盛美半导体,s02,盛美半导体官网,https://www.acmrcsh.com,公开官网主体与标题观察：ACM Research；只核验入口归属。,,2026-11-02
+acm-research,盛美半导体,s03,【盛美半导体设备(上海)股份有限公司招聘】-猎聘,https://www.liepin.com/company/12182817/,公开企业主页主体：盛美半导体设备(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+acm-research,盛美半导体,s04,BOSS直聘企业主页 · 盛美半导体设备（上海）股份有限公司（无苏州地址）,https://www.zhipin.com/gongsi/c8a45e3e7b1960221nFz2Ny0GFA~.html,公开企业主页主体：盛美半导体设备（上海）股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+acm-research,盛美半导体,s05,新浪财经公司资料 · 盛美半导体设备(上海)股份有限公司（688082）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688082.phtml,公司全称、2005-05-17成立、2021-11-18上市、半导体专用设备主营及上海注册地址；不核实苏州基地。,,2026-11-03
+amec,中微公司,s01,中微公司 公开入口,https://www.amec-inc.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+amec,中微公司,s02,中微公司,https://www.amec-inc.com/,公开官网主体观察：https://www.amec-inc.com/；只核验入口归属。,,2026-11-02
+amec,中微公司,s03,中微公司AMEC - 社会招聘,https://app.mokahr.com/apply/amec/28371,公开招聘入口主体观察：https://app.mokahr.com/apply/amec/28371；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+amec,中微公司,s04,【中微半导体设备(上海)股份有限公司招聘】-猎聘,https://www.liepin.com/company/8353297/,公开企业主页主体：中微半导体设备(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+amec,中微公司,s05,BOSS直聘企业主页 · 中微公司,https://www.zhipin.com/gongsi/cf776faeb179fcfe03Nz2924GFY~.html,公开企业主页主体：中微公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+amec,中微公司,s06,中微公司2024年营收同比增长近45% 刻蚀设备业务领跑市场,https://www.stcn.com/article/detail/1673114.html,中微公司688012的2024年营收90.65亿元、刻蚀设备收入72.77亿元及增速。,2025-04-17,2026-11-03
+amlogic,晶晨股份,s01,晶晨股份 公开入口,https://www.amlogic.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+amlogic,晶晨股份,s02,晶晨半导体（上海）股份有限公司,https://www.amlogic.cn/,公开官网主体观察：https://www.amlogic.cn/；只核验入口归属。,,2026-11-02
+amlogic,晶晨股份,s03,【晶晨半导体招聘】-猎聘,https://www.liepin.com/company/8607877/,公开企业主页主体：晶晨半导体(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+amlogic,晶晨股份,s04,BOSS直聘企业主页 · 上海晶晨半导体,https://www.zhipin.com/gongsi/eb39a413542d9e361XN43tS8E1M~.html,公开企业主页主体：晶晨半导体(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+amlogic,晶晨股份,s05,晶晨股份2024年净利润同比增长64.85% 多个新产品商用后迅速打开市场,https://stcn.com/article/detail/1552033.html,晶晨股份688099的2024年营收59.26亿元、净利润8.21亿元及产品线进展。,2025-02-27,2026-11-03
+asr-microelectronics,翱捷科技,s01,翱捷科技 公开入口,https://www.asrmicro.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+asr-microelectronics,翱捷科技,s02,翱捷科技官网,https://www.asrmicro.com,公开官网主体与标题观察：翱捷科技股份有限公司（ASR）；只核验入口归属。,,2026-11-02
+asr-microelectronics,翱捷科技,s03,【翱捷科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/9104301/,公开企业主页主体：翱捷科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+asr-microelectronics,翱捷科技,s04,BOSS直聘企业主页 · 翱捷科技股份有限公司（上海注册；无苏州专页）,https://www.zhipin.com/gongsi/5f76892c56861aac1n1909-7FlI~.html,公开企业主页主体：翱捷科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+asr-microelectronics,翱捷科技,s05,新浪财经公司资料 · 翱捷科技股份有限公司（688220）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688220.phtml,公司全称、2015-04-30成立、2022-01-14上市、无线通信芯片设计主营及上海注册地址。,,2026-11-03
+bestechnic,恒玄科技,s01,恒玄科技 公开入口,https://www.bestechnic.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+bestechnic,恒玄科技,s02,恒玄科技：超低功耗无线计算SoC领先供应商,https://www.bestechnic.com/,公开官网主体观察：https://www.bestechnic.com/；只核验入口归属。,,2026-11-02
+bestechnic,恒玄科技,s03,恒玄科技,https://bestechnic.zhiye.com/,公开招聘入口主体观察：https://bestechnic.zhiye.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bestechnic,恒玄科技,s04,【恒玄科技(上海)股份有限公司招聘】-猎聘,https://www.liepin.com/company/8632785/,公开企业主页主体：恒玄科技(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bestechnic,恒玄科技,s05,BOSS直聘企业主页 · 恒玄科技,https://www.zhipin.com/gongsi/973dc257096386bd0Hx-2dy0.html,公开企业主页主体：恒玄科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+bestechnic,恒玄科技,s06,恒玄科技2024年实现营收32.63亿元，净利润4.60亿元,https://www.52audio.com/archives/236646.html,恒玄科技688608的2024年营收32.63亿元、净利润4.60亿元及产品方向。,2025-04-27,2026-11-03
+china-wafer-level-csp,苏州晶方半导体,s01,苏州晶方半导体 公开入口,https://www.wlcsp.com.cn/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+china-wafer-level-csp,苏州晶方半导体,s02,【晶方科技招聘】-猎聘,https://www.liepin.com/company/9851617/,公开企业主页主体：晶方科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+china-wafer-level-csp,苏州晶方半导体,s03,新浪财经公司资料 · 苏州晶方半导体科技股份有限公司（603005）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/603005.phtml,公司全称、2005-06-10成立、2014-02-10上市、传感器领域封装测试主营、苏州工业园区注册地址。,,2026-11-03
+ecarx-holdings,亿咖通科技,s01,亿咖通科技 公开入口,https://www.ecarx.com/investors,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+ecarx-holdings,亿咖通科技,s02,【浙江亿咖通科技有限公司招聘】-猎聘,https://www.liepin.com/company/9111318/,公开企业主页主体：浙江亿咖通科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ecarx-holdings,亿咖通科技,s03,BOSS直聘企业主页 · 亿咖通科技ECARX（湖北注册；含苏州岗）,https://www.zhipin.com/gongsi/ab246e19a0a354f81XRz09y9EFI~.html,公开企业主页主体：亿咖通（湖北）技术有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+ecarx-holdings,亿咖通科技,s04,吉利系企业加速上市 亿咖通以SPAC方式登陆纳斯达克,https://www.caixin.com/2022-12-22/101980873.html,亿咖通2022年12月21日（美国时间）以SPAC方式登陆纳斯达克，李书福为最大投资者。,2022-12-22,2026-11-03
+ecarx-holdings,亿咖通科技,s05,亿咖通科技登陆纳斯达克 苏州高铁新城直投基金首个IPO诞生,https://szdushi.com.cn/news/1671937624175385.shtml,股票代码ECX、2017年成立、苏州高铁新城2021年5月投资7000万美元参与A+轮、2021年营收4.15亿美元（报道口径）。,2022-12-25,2026-11-03
+galaxycore,格科微,s01,格科微 公开入口,https://www.gcoreinc.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+galaxycore,格科微,s02,格科微集团官网,https://www.gcoreinc.com/,公开官网主体观察：https://www.gcoreinc.com/；只核验入口归属。,,2026-11-02
+galaxycore,格科微,s03,【格科招聘】-猎聘,https://www.liepin.com/company/7883923/,公开企业主页主体：格科微电子(上海)有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+galaxycore,格科微,s04,BOSS直聘企业主页 · 格科微,https://www.zhipin.com/gongsi/0dfad9eb545634e11nd72d60Fg~~.html,公开企业主页主体：格科微；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+galaxycore,格科微,s05,格科微2024年财报：营收63.83亿元，同增35.90%,https://www.163.com/dy/article/JU8QKGGU0538VQMO.html,格科微688728的2024年营收63.83亿元、归母净利润1.87亿元及显示驱动业务。,2025-04-28,2026-11-03
+good-ark-semiconductor,苏州固锝电子,s01,昆山固锝电子 公开入口,https://www.good-ark.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+good-ark-semiconductor,苏州固锝电子,s02,【苏州固锝电子股份有限公司招聘】-猎聘,https://www.liepin.com/company/9811705/,公开企业主页主体：苏州固锝电子股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+good-ark-semiconductor,苏州固锝电子,s03,新浪财经公司资料 · 苏州固锝电子股份有限公司（002079）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002079.phtml,公司全称、1990-11-12成立、2006-11-16上市、分立器件和集成电路封装主营、苏州通安注册地址。,,2026-11-03
+good-ark-semiconductor,苏州固锝电子,s04,苏州固锝官方联系页（官方检索摘要；正文访问超时）,https://twn.goodark.com/contact.php,官方联系页检索摘要列示苏州高新区通安经济开发区华金路200号；正文访问超时，不证明昆山基地或具体岗位地点。,,2026-11-03
 haivivi,跃然创新 Haivivi,s01,跃然创新完成2亿元A轮系列融资,https://m.jiemian.com/article/13234208.html,投资方及CocoMate,2025-08-25,2026-10-30
 haivivi,跃然创新 Haivivi,s02,Haivivi官网,https://www.haivivi.cn/,产品与业务方向,,2026-10-30
 haivivi,跃然创新 Haivivi,s03,Haivivi联系我们,https://www.haivivi.cn/contact-us,总部与商务邮箱,,2026-10-30
 haivivi,跃然创新 Haivivi,s04,BOSS直聘：深圳跃然创新科技有限公司,https://m.zhipin.com/companys/ff637f836e8ccf6b03B43N69FlE~.html,HAIVIVI品牌与招聘者、投递入口,,2026-10-30
 haivivi,跃然创新 Haivivi,s05,HAIVIVI招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/8bb3ae416db67d351nx93t-6F1o~.html,公开企业主页主体：HAIVIVI；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 haivivi,跃然创新 Haivivi,s06,【深圳跃然创新科技有限公司招聘】-猎聘,https://www.liepin.com/company/21354707/,公开企业主页主体：深圳跃然创新科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+hesai,禾赛科技,s01,禾赛科技 公开入口,https://www.hesaitech.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+hesai,禾赛科技,s02,【禾赛科技招聘】-猎聘,https://www.liepin.com/company/8399607/,公开企业主页主体：上海禾赛科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hesai,禾赛科技,s03,BOSS直聘企业主页 · 上海禾赛科技有限公司,https://www.zhipin.com/gongsi/065fb86d5d93aefb1nJ-3d27GFE~.html,公开企业主页主体：上海禾赛科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hesai,禾赛科技,s04,为激光雷达正名，禾赛2024年财报数据很好看,https://laser.ofweek.com/2025-03/ART-8110-2400-30658905.html,禾赛2024年营收20.8亿元、出货50.19万台、ADAS出货及盈利表述。,2025-03-13,2026-11-03
+hua-hong-semiconductor,华虹半导体,s01,华虹半导体 公开入口,https://www.huahong.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+hua-hong-semiconductor,华虹半导体,s02,华虹宏力半导体有限公司,https://www.huahonggrace.com/s/index.php,公开官网主体观察：https://www.huahonggrace.com/s/index.php；只核验入口归属。,,2026-11-02
+hua-hong-semiconductor,华虹半导体,s03,华虹宏力半导体有限公司,https://www.huahonggrace.com/s/career_recruitment.php,公开招聘入口主体观察：https://www.huahonggrace.com/s/career_recruitment.php；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hua-hong-semiconductor,华虹半导体,s04,【华虹半导体有限公司招聘信息】-猎聘,https://www.liepin.com/company/gs133577005/,公开企业主页主体：华虹半导体有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hua-hong-semiconductor,华虹半导体,s05,BOSS直聘企业主页 · 上海华虹宏力半导...,https://www.zhipin.com/gongsi/dcd998755e3305bc1Hx92tW-Eg~~.html,公开企业主页主体：华虹；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+hua-hong-semiconductor,华虹半导体,s06,华虹半导体2024年营收143亿元 特色工艺各平台产品持续放量,https://www.cls.cn/detail/1986517,华虹半导体2024年营收143.88亿元、归母净利润3.81亿元及特色工艺平台。,2025-03-28,2026-11-03
 hypershell,极壳科技 Hypershell,s01,极壳B+轮融资,https://www.nbd.com.cn/articles/2026-05-18/4396408.html,投资方及历史资本背景,2026-05-18,2026-10-30
 hypershell,极壳科技 Hypershell,s02,Hypershell官方联系页,https://hypershell.tech/pages/contact-us/_%7Burl%7D,商务及客服邮箱,,2026-10-30
 hypershell,极壳科技 Hypershell,s03,Hypershell官方公司页,https://www.linkedin.com/company/hypershell-tech,产品定位与深圳总部,,2026-10-30
@@ -348,6 +898,47 @@ hypershell,极壳科技 Hypershell,s04,极壳中国官网,https://hypershell.cn/
 hypershell,极壳科技 Hypershell,s05,极壳官方招聘站,https://career.hypershell.cn/,官方投递入口,,2026-10-30
 hypershell,极壳科技 Hypershell,s06,极壳科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/080d7abb4ba64b261XRy2d-5FlY~.html,公开企业主页主体：极壳科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 hypershell,极壳科技 Hypershell,s07,【极壳科技招聘】-猎聘,https://www.liepin.com/company/21135601/,公开企业主页主体：极壳科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+innolight,旭创科技,s01,旭创科技 公开入口,https://www.innolight.com.cn/investors,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+innolight,旭创科技,s02,【苏州旭创科技招聘】-猎聘,https://www.liepin.com/company/7918125/,公开企业主页主体：苏州旭创科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+innolight,旭创科技,s03,BOSS直聘企业主页 · 苏州旭创科技有限公司（320岗；排除产业园公司）,https://www.zhipin.com/gongsi/ebcb394e3577d4b633Z_2d6_.html,公开企业主页主体：苏州旭创科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+innolight,旭创科技,s04,新浪财经公司资料 · 中际旭创股份有限公司（300308）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/300308.phtml,2005-06-27成立、2012-04-10上市、高速光模块研发设计制造主营、山东龙口注册地址；不单独核实苏州子公司。,,2026-11-03
+inventec-kunshan,英业达（昆山）,s01,英业达（昆山） 公开入口,https://www.inventec.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+inventec-kunshan,英业达（昆山）,s02,关联网站观察（原采集标签：英业达（昆山）官网）,https://www.inventec.com,公开官网主体与标题观察：英業達；只核验入口归属。,,2026-11-02
+inventec-kunshan,英业达（昆山）,s03,BOSS直聘企业主页 · 英业达科技有限公司（上海闵行；无昆山专页）,https://www.zhipin.com/gongsi/056aaf93844df7e003Z639m4.html,公开企业主页主体：英业达科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+inventec-kunshan,英业达（昆山）,s04,英業達 - 维基百科,https://zh.wikipedia.org/wiki/英業達,台证所上市股票代号2356、1975年成立。,,2026-11-03
+inventec-kunshan,英业达（昆山）,s05,英業達官網,https://www.inventec.com,总部台湾、成立年份1975、生产据点含上海、重庆、南京等；未列昆山。,,2026-11-03
+kinco,步科股份,s01,步科股份 公开入口,https://www.kinco.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+kinco,步科股份,s02,Kinco步科-领先的机器人与智能设备的运动控制与人机交互部件供应商,https://www.kinco.cn/,公开官网主体观察：https://www.kinco.cn/；只核验入口归属。,,2026-11-02
+kinco,步科股份,s03,人才招聘,https://www.kinco.cn/talent-recruitment,公开招聘入口主体观察：https://www.kinco.cn/talent-recruitment；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kinco,步科股份,s04,【步科股份招聘】-猎聘,https://www.liepin.com/company/8192646/,公开企业主页主体：上海步科自动化股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kinco,步科股份,s05,BOSS直聘企业主页 · 上海步科自动化,https://www.zhipin.com/gongsi/08741ad68b8a3b9803J62Ny6Fls~.html,公开企业主页主体：上海步科自动化股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kinco,步科股份,s06,步科股份2024年度营收增8.45% 归母净利润降18.73%,https://news.qq.com/rain/a/20250213A05LEB00,步科股份688160的2024年营收5.49亿元、归母净利润4932万元。,2025-02-13,2026-11-03
+kunshan-longteng-optoelectronics,昆山龙腾光电,s01,昆山龙腾光电 公开入口,https://www.lt-display.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+kunshan-longteng-optoelectronics,昆山龙腾光电,s02,BOSS直聘企业主页 · 昆山龙腾光电股份有限公司（开发区龙腾路）,https://www.zhipin.com/gongsi/e616683246cb33731nd-0tS0GVM~.html,公开企业主页主体：昆山龙腾光电股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+kunshan-longteng-optoelectronics,昆山龙腾光电,s03,新浪财经公司资料 · 昆山龙腾光电股份有限公司（688055）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688055.phtml,2005-07-12成立、2020-08-17上市、TFT-LCD研发生产销售主营、昆山注册地址。,,2026-11-03
+maiwei,迈为科技,s01,迈为科技 公开入口,https://www.mwsolar.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+maiwei,迈为科技,s02,【苏州迈为科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/9327342/,公开企业主页主体：苏州迈为科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+maiwei,迈为科技,s03,BOSS直聘企业主页 · 迈为（吴江，68岗；优于「迈为股份」副本页）,https://www.zhipin.com/gongsi/c36ab5c22f2ca7a21n1429--FQ~~.html,公开企业主页主体：苏州迈为科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+maiwei,迈为科技,s04,新浪财经公司资料 · 苏州迈为科技股份有限公司（300751）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/300751.phtml,2010-09-08成立、2018-11-09上市、高端智能制造装备主营、苏州吴江注册地址。,,2026-11-03
+memsensing-microsystems,苏州敏芯微电子,s01,苏州敏芯微电子 公开入口,https://www.memsensing.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+memsensing-microsystems,苏州敏芯微电子,s02,苏州敏芯微电子官网,https://www.memsensing.com,公开官网主体与标题观察：苏州敏芯微电子技术股份有限公司；只核验入口归属。,,2026-11-02
+memsensing-microsystems,苏州敏芯微电子,s03,【苏州敏芯微电子技术股份有限公司招聘】-猎聘,https://www.liepin.com/company/9512294/,公开企业主页主体：苏州敏芯微电子技术股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+memsensing-microsystems,苏州敏芯微电子,s04,BOSS直聘企业主页 · 苏州敏芯微电子技术股份有限公司,https://www.zhipin.com/gongsi/09eb1081c7e8fd470HB_29-7EQ~~.html,公开企业主页主体：苏州敏芯微电子技术股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+memsensing-microsystems,苏州敏芯微电子,s05,新浪财经公司资料 · 苏州敏芯微电子技术股份有限公司（688286）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688286.phtml,2007-09-25成立、2020-08-10上市、MEMS传感器主营、苏州工业园区注册地址。,,2026-11-03
+memsensing-microsystems,苏州敏芯微电子,s06,苏州敏芯微电子官网,https://www.memsensing.com/,官网称创立于2007年、2020年8月登陆科创板（代码688286）。,,2026-11-03
+moons,鸣志电器,s01,鸣志电器 公开入口,https://www.moons.com.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+moons,鸣志电器,s02,鸣志(MOONS')-致力为客户提供运动控制及智能照明整体解决方案【鸣志中文网站】,https://www.moons.com.cn/,公开官网主体观察：https://www.moons.com.cn/；只核验入口归属。,,2026-11-02
+moons,鸣志电器,s03,上海鸣志电器股份有限公司,https://moons1.zhiye.com/,公开招聘入口主体观察：https://moons1.zhiye.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+moons,鸣志电器,s04,【鸣志招聘】-猎聘,https://www.liepin.com/company/7915579/,公开企业主页主体：鸣志；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+moons,鸣志电器,s05,BOSS直聘企业主页 · 上海鸣志电器,https://www.zhipin.com/gongsi/7a7926a3e73d01701n183tm_EVQ~.html,公开企业主页主体：鸣志电器；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+moons,鸣志电器,s06,鸣志电器：2024年上半年公司机器人（包含人形机器人）相关应用占营业收入约8%,https://www.stcn.com/article/detail/1537740.html,鸣志电器603728的机器人相关应用占营收约8%及关节电机产品。,2025-02-21,2026-11-03
+novosense,纳芯微电子,s01,纳芯微电子 公开入口,https://www.novosns.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+novosense,纳芯微电子,s02,纳芯微电子官网,https://www.novosns.com,公开官网主体与标题观察：高性能高可靠性模拟及混合信号芯片 | novosns.com；只核验入口归属。,,2026-11-02
+novosense,纳芯微电子,s03,【纳芯微电子招聘】-猎聘,https://www.liepin.com/company/8781310/,公开企业主页主体：纳芯微电子；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+novosense,纳芯微电子,s04,纳芯微招聘官网,https://careers.novosns.com/,官方招聘／加入我们入口。,,2026-11-02
+novosense,纳芯微电子,s05,BOSS直聘企业主页 · 苏州纳芯微电子股份有限公司,https://www.zhipin.com/gongsi/fbbc72be7ea916a603B62tW4EA~~.html,公开企业主页主体：纳芯微电子；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+novosense,纳芯微电子,s06,新浪财经公司资料 · 苏州纳芯微电子股份有限公司（688052）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688052.phtml,2013-05-17成立、2022-04-22上市、模拟集成电路主营、苏州工业园区注册地址。,,2026-11-03
+novosense,纳芯微电子,s07,纳芯微招聘官网,https://careers.novosns.com/,官网称科创板股票代码688052、2013年成立、聚焦传感器/信号链/电源管理。,,2026-11-03
 plaud,Plaud / 机智连接,s01,Plaud中国官网,https://www.plaud.cn/,公司实体与当前产品,,2026-10-30
 plaud,Plaud / 机智连接,s02,Plaud官方职位,https://jobs.ashbyhq.com/plaud/c477787c-bf6b-422f-aeef-2493f2d47fbe/,自筹起步、旧金山及业务定位,,2026-10-30
 plaud,Plaud / 机智连接,s03,Forbes Plaud创始人报道,https://www.forbes.com.au/news/innovation/how-an-ai-notetaker-became-one-of-the-few-profitable-ai-startups/,自筹、众筹及小额外部资本,,2026-10-30
@@ -355,15 +946,52 @@ plaud,Plaud / 机智连接,s04,Plaud官方联系信息,https://eu.plaud.ai/polic
 plaud,Plaud / 机智连接,s05,Plaud官方Ashby招聘站,https://jobs.ashbyhq.com/plaud,官方招聘入口,,2026-10-30
 plaud,Plaud / 机智连接,s06,Plaud招聘-BOSS直聘,https://www.zhipin.com/gongsi/fe2eb5ce48f3cab603d90tm5FFA~.html,公开企业主页主体：Plaud；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 plaud,Plaud / 机智连接,s07,【Plaud招聘】-猎聘,https://www.liepin.com/company/21321599/,公开企业主页主体：Plaud；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+quanta-computer-kunshan,广达电脑（昆山）,s01,广达电脑（昆山） 公开入口,https://www.quantatw.com/Quanta/english/about/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+quanta-computer-kunshan,广达电脑（昆山）,s02,关联网站观察（原采集标签：广达电脑（昆山）官网）,https://www.quantatw.com,公开官网主体与标题观察：Quanta；只核验入口归属。,,2026-11-02
+quanta-computer-kunshan,广达电脑（昆山）,s03,BOSS直聘企业主页 · 达丰（上海）电脑有限公司（广达中国厂；无昆山专页）,https://www.zhipin.com/gongsi/39d26d87adc9d5f603J92921Fg~~.html,公开企业主页主体：达丰（上海）电脑有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+quanta-computer-kunshan,广达电脑（昆山）,s04,廣達電腦 - 维基百科,https://zh.wikipedia.org/wiki/廣達電腦,台证所上市股票代号2382（1999年上市）、1988年5月9日成立、总部桃园；不证明昆山基地。,,2026-11-03
 sharge,闪极科技 SHARGE,s01,投中网：闪极获A+轮融资,https://finance.sina.com.cn/tech/roll/2024-12-18/doc-inczwpwu0990527.shtml,投资方与产品转型,2024-12-18,2026-10-30
 sharge,闪极科技 SHARGE,s02,闪极官方联系我们,https://www.shargetech.com/lxwm,招聘及商务邮箱,,2026-10-30
 sharge,闪极科技 SHARGE,s03,闪极科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/12d6f5d0d224b1b00HZ_3dW0EA~~.html,公开企业主页主体：闪极科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 sharge,闪极科技 SHARGE,s04,【闪极科技招聘】-猎聘,https://www.liepin.com/company/12562971/,公开企业主页主体：闪极科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+sien-integrated-circuits,芯联集成,s01,芯联集成 公开入口,https://www.sienicx.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+sien-integrated-circuits,芯联集成,s02,【芯联集成电路制造股份有限公司招聘】-猎聘,https://www.liepin.com/company/9761593/,公开企业主页主体：芯联集成电路制造股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+sien-integrated-circuits,芯联集成,s03,BOSS直聘企业主页 · 芯联集成电路制造股份有限公司（绍兴；非苏州）,https://www.zhipin.com/gongsi/30857ee5896cff411Hd43Nu6F1A~.html,公开企业主页主体：芯联集成电路制造股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+sien-integrated-circuits,芯联集成,s04,新浪财经公司资料 · 芯联集成电路制造股份有限公司（688469）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688469.phtml,2018-03-09成立、2023-05-10上市、MEMS和功率器件晶圆代工主营、浙江绍兴注册地址。,,2026-11-03
+sien-integrated-circuits,芯联集成,s05,芯联集成官网（官方检索摘要；正文访问超时）,https://cn.smecs.com/,官方检索摘要显示芯联集成的功率、MEMS与系统技术平台业务；官网正文访问超时，仅支持名称／域名线索，不验证苏州机构。,,2026-11-03
+sien-integrated-circuits,芯联集成,s06,上海证券交易所公司概况 688469（官方检索摘要）,https://www.sse.com.cn/star/market/stocklist/info/company/index.shtml?COMPANY_CODE=688469,"交易所检索摘要列示芯联集成电路制造股份有限公司、英文 UNITED NOVA TECHNOLOGY CO.,LTD.、绍兴注册地址；打开正文为空壳，不据此刷新财务或岗位信息。",,2026-11-03
+smic,中芯国际,s01,中芯国际 公开入口,https://www.smics.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+smic,中芯国际,s02,【中芯国际招聘】-猎聘,https://www.liepin.com/company/8391401/,公开企业主页主体：中芯国际；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+smic,中芯国际,s03,中芯国际-首页,https://www.smics.com/,公开官网主体观察：https://www.smics.com/；只核验入口归属。,,2026-11-02
+smic,中芯国际,s04,中芯国际,https://smics.zhiye.com/,公开招聘入口主体观察：https://smics.zhiye.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+smic,中芯国际,s05,BOSS直聘企业主页 · 中芯国际,https://www.zhipin.com/gongsi/5b98b6c596d2f9d933xy2dS4.html,公开企业主页主体：中芯国际；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+smic,中芯国际,s06,中芯国际发布2024年报，全年销售收入创历史新高,https://www.smics.com/site/news_read/3666,中芯国际2024年销售收入80.3亿美元、同比增长27%、毛利率18.0%及产能情况。,,2026-11-03
+unisoc,紫光展锐,s01,紫光展锐 公开入口,https://www.unisoc.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+unisoc,紫光展锐,s02,紫光展锐-用芯成就美好世界,https://www.unisoc.com/cn,公开官网主体观察：https://www.unisoc.com/cn；只核验入口归属。,,2026-11-02
+unisoc,紫光展锐,s03,加入我们-紫光展锐（上海）科技有限公司,https://www.unisoc.com/cn/about/join-us,公开招聘入口主体观察：https://www.unisoc.com/cn/about/join-us；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+unisoc,紫光展锐,s04,【紫光展锐招聘】-猎聘,https://www.liepin.com/company/7976384/,公开企业主页主体：紫光展锐；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+unisoc,紫光展锐,s05,BOSS直聘企业主页 · 紫光展锐,https://www.zhipin.com/gongsi/b50933efab0d163d1XV52ti-GA~~.html,公开企业主页主体：紫光展锐；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+unisoc,紫光展锐,s06,新一轮40亿元股权融资落定，紫光展锐IPO加速推进,https://stcn.com/article/detail/1322348.html,紫光展锐40亿元股权融资、投资方构成、IPO筹备及全场景通信芯片定位。,2024-09-18,2026-11-03
+united-imaging,联影医疗,s01,联影医疗 公开入口,https://www.united-imaging.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+united-imaging,联影医疗,s02,联影医疗官方网站,https://www.united-imaging.com/,公开官网主体观察：https://www.united-imaging.com/；只核验入口归属。,,2026-11-02
+united-imaging,联影医疗,s03,联影_招聘_集团_人才_校招_管培,https://www.united-imaging.com/zh-cn/careers,公开招聘入口主体观察：https://www.united-imaging.com/zh-cn/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+united-imaging,联影医疗,s04,【上海联影招聘】-猎聘,https://www.liepin.com/company/849538/,公开企业主页主体：联影；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+united-imaging,联影医疗,s05,BOSS直聘企业主页 · 上海联影医疗科技,https://www.zhipin.com/gongsi/4c056cf0a78424e21X17092_ElM~.html,公开企业主页主体：联影医疗；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+united-imaging,联影医疗,s06,联影医疗：预计2024年总营收103亿元 持续加码研发推动技术创新,https://www.stcn.com/article/detail/1552446.html,联影医疗688271的2024年营收103亿元、归母净利润12.62亿元及海外业务。,2025-02-28,2026-11-03
+verisilicon,芯原股份,s01,芯原股份 公开入口,https://www.verisilicon.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
+verisilicon,芯原股份,s02,VeriSilicon - A Silicon Platform as a Service Company,https://www.verisilicon.com/,公开官网主体观察：https://www.verisilicon.com/；只核验入口归属。,,2026-11-02
+verisilicon,芯原股份,s03,加入我们,https://www.verisilicon.com/cn/Careers,公开招聘入口主体观察：https://www.verisilicon.com/cn/Careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+verisilicon,芯原股份,s04,【芯原微电子(上海)股份有限公司招聘】-猎聘,https://www.liepin.com/company/7909389/,公开企业主页主体：芯原；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+verisilicon,芯原股份,s05,芯原股份：2024年实现营业总收入23.22亿元,https://finance.sina.com.cn/stock/relnews/cn/2025-04-27/doc-ineuqumz7641512.shtml,芯原股份688521的2024年营收23.22亿元、归母净利润-6.01亿元及IP产品线。,2025-04-27,2026-11-03
 viaim,未来智能 viaim,s01,启明创投周报36/2025,https://www.qimingvc.com/cn/news/启明周报-启明创投投资企业融资及动态速递-vol-36-2025,启明投资关系与A轮,,2026-10-30
 viaim,未来智能 viaim,s02,未来智能项目库,https://pitchhub.36kr.com/project/3264263460172807,其他历史投资方与公司实体,,2026-10-30
 viaim,未来智能 viaim,s03,viaim官方FAQ,https://store.viaim.ai/pages/faq,产品区别,,2026-10-30
 viaim,未来智能 viaim,s04,viaim支持页,https://store.viaim.ai/pages/support-1,客服邮箱,,2026-10-30
 viaim,未来智能 viaim,s05,安徽艾德未来智能招聘页,https://m.zhipin.com/companys/3c2c021c1f89cff21H1729y0Flo~.html,公司实体、总部与招聘入口,,2026-10-30
+wistron-kunshan,昆山纬创,s01,昆山纬创 公开入口,https://www.wistron.com/About-Wistron,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
+wistron-kunshan,昆山纬创,s02,BOSS直聘企业主页 · 纬创资通（昆山）有限公司（鸿雁路；排除汽车电子子公司）,https://www.zhipin.com/gongsi/cb432962e62e73bd03Z729-8.html,公开企业主页主体：纬创资通（昆山）有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+wistron-kunshan,昆山纬创,s03,緯創資通 - 维基百科,https://zh.wikipedia.org/wiki/緯創資通,台证所上市股票代号3231（2003年上市）、2001年5月30日成立。,,2026-11-03
+wistron-kunshan,昆山纬创,s04,綠色轉型的先鋒——緯創資通（昆山）有限公司 - 緯創ESG,https://esg.wistron.com/ch/local/66d16c6958a93,纬创资通（昆山）有限公司2023年12月获江苏省绿色工厂荣誉、2024年3月授牌。,,2026-11-03
 anew-labs,Anew Labs 新生实验室,s01,Anew Labs (新生实验室) | AI Drug Discovery & AI Pharmaceutical Company,https://anewbt.com/,当前名称、AI制药定位、平台与AnewDDE、地点及部分平台Coming Soon状态；不单独支持字节拆分或现行股权。,,2026-10-31
 anew-labs,Anew Labs 新生实验室,s02,bytedance/AnewOmni — Programming Biomolecular Interactions with All-Atom Generative Model,https://github.com/bytedance/AnewOmni,字节官方组织下的研究代码及ByteDance版权，支持研究来源联系，不证明当前股权或法律独立性。,,2026-10-31
 anew-labs,Anew Labs 新生实验室,s03,"Reuters: ByteDance completes $290 million fundraising for AI drug unit after its spin-off, sources say",https://www.streetinsider.com/Reuters/ByteDance%2Bcompletes%2B%24290%2Bmillion%2Bfundraising%2Bfor%2BAI%2Bdrug%2Bunit%2Bafter%2Bits%2Bspin-off%2C%2Bsources%2Bsay/27066461.html,路透原稿转载，匿名消息人士称拆分、融资及母公司持股；未获当事方正式确认。,2026-09-16,2026-10-31

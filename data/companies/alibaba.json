@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "id": "alibaba",
+  "name": "阿里巴巴集团 Alibaba",
+  "aliases": [
+    "阿里巴巴",
+    "阿里巴巴集团",
+    "Alibaba",
+    "Alibaba Group"
+  ],
+  "category_id": "01",
+  "focus": "电商与云计算等综合互联网集团；AI 切面以通义千问／阿里云百炼等模型与云侧服务为主",
+  "products": "淘宝天猫等电商、阿里云、通义千问／百炼模型服务、钉钉等",
+  "locations_text": "杭州；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与腾讯、字节同属综合母平台；公开 AI 证据偏云侧千问／百炼 MaaS。蚂蚁集团另建档案，不因生态联系合并法人。",
+    "peer_names": [
+      "腾讯",
+      "字节跳动",
+      "京东"
+    ]
+  },
+  "investment": {
+    "summary": "港交所／纽交所上市集团（阿里巴巴集团控股）；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://www.alibabagroup.com/",
+    "careers_url": "https://talent.alibaba.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "category_id=01 取千问／百炼基础模型与云模型服务切面；零售主业另属电商。蚂蚁集团见 ant-group。talent.alibaba.com 为公开检索确认的集团招聘入口（页面为强前端应用）。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "阿里巴巴集团官方网站",
+      "url": "https://www.alibabagroup.com/",
+      "supports": "集团官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "Alibaba Group Careers",
+      "url": "https://talent.alibaba.com/",
+      "supports": "集团招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "阿里云百炼：什么是阿里云百炼",
+      "url": "https://www.alibabacloud.com/help/zh/model-studio/what-is-model-studio",
+      "supports": "云侧千问／模型服务主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「阿里巴巴集团招聘」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html",
+      "supports": "公开企业主页路径指向阿里巴巴集团；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【阿里巴巴集团招聘】-猎聘",
+      "url": "https://www.liepin.com/company/1072424/",
+      "supports": "公开企业主页主体：阿里巴巴集团。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "阿里巴巴集团",
+    "original_track": "01",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市综合互联网／云母平台，已有千问／百炼等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-036b0e09fb751461",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.alibabagroup.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "阿里巴巴集团 Alibaba",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-072dc89d376dd43e",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://talent.alibaba.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "阿里巴巴集团 Alibaba",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-ad3f6a9232d2dcad",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/5d627415a46b4a750nJ9.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "阿里巴巴集团 Alibaba",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染；路径来自公开搜索中的阿里巴巴集团企业页。"
+    },
+    {
+      "id": "ch-1ff6c7b3553b9298",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/1072424/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "阿里巴巴集团",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

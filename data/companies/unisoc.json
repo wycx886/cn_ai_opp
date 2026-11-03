@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "unisoc",
+  "name": "紫光展锐",
+  "aliases": [
+    "UNISOC",
+    "展锐",
+    "紫光展锐（上海）科技有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "大陆主要的平台型手机/物联网芯片设计企业，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-762b1fb32c614132",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.unisoc.com/cn",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "紫光展锐",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-7b4a158f753e0a98",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.unisoc.com/cn/about/join-us",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "紫光展锐",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-ffec2d15c4b24361",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7976384/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "紫光展锐",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e0f78126a299d08f",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/b50933efab0d163d1XV52ti-GA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "紫光展锐",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.unisoc.com",
+    "careers_url": "https://www.unisoc.com/cn/about/join-us",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "紫光展锐 公开入口",
+      "url": "https://www.unisoc.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "紫光展锐-用芯成就美好世界",
+      "url": "https://www.unisoc.com/cn",
+      "supports": "公开官网主体观察：https://www.unisoc.com/cn；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "加入我们-紫光展锐（上海）科技有限公司",
+      "url": "https://www.unisoc.com/cn/about/join-us",
+      "supports": "公开招聘入口主体观察：https://www.unisoc.com/cn/about/join-us；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【紫光展锐招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7976384/",
+      "supports": "公开企业主页主体：紫光展锐；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 紫光展锐",
+      "url": "https://www.zhipin.com/gongsi/b50933efab0d163d1XV52ti-GA~~.html",
+      "supports": "公开企业主页主体：紫光展锐；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "新一轮40亿元股权融资落定，紫光展锐IPO加速推进",
+      "url": "https://stcn.com/article/detail/1322348.html",
+      "supports": "紫光展锐40亿元股权融资、投资方构成、IPO筹备及全场景通信芯片定位。",
+      "published_date": "2024-09-18",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "40亿元融资为2024年9月完成口径；IPO进度与完整股东名册未核验。",
+  "category_id": "09",
+  "focus": "手机SoC、物联网与汽车芯片",
+  "products": "5G手机SoC、物联网芯片、汽车电子芯片",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：手机SoC、物联网与汽车芯片。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2024年完成新一轮40亿元股权融资，投资方包括上海/北京国资平台、工银资本、交银金融资产投资、人保资本、中信建投、国泰君安、弘毅投资等；公司推进IPO，尚未上市。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "紫光展锐",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

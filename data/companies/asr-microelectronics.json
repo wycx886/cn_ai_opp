@@ -1,0 +1,154 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "asr-microelectronics",
+  "name": "翱捷科技",
+  "aliases": [
+    "ASR Microelectronics",
+    "ASR",
+    "翱捷",
+    "翱捷科技股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板上市（688220，2022-01）的无线通信与物联网芯片厂商，2015年成立，已形成持续芯片产品线；苏州研发中心口径本轮未核实。列为 later。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-1398d08a1ba91fb4",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.asrmicro.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "翱捷科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-418b9d57e2b444c4",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9104301/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "翱捷科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-b0156466617fd2ac",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/5f76892c56861aac1n1909-7FlI~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "翱捷科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.asrmicro.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "翱捷科技 公开入口",
+      "url": "https://www.asrmicro.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "翱捷科技官网",
+      "url": "https://www.asrmicro.com",
+      "supports": "公开官网主体与标题观察：翱捷科技股份有限公司（ASR）；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【翱捷科技股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9104301/",
+      "supports": "公开企业主页主体：翱捷科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 翱捷科技股份有限公司（上海注册；无苏州专页）",
+      "url": "https://www.zhipin.com/gongsi/5f76892c56861aac1n1909-7FlI~.html",
+      "supports": "公开企业主页主体：翱捷科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 翱捷科技股份有限公司（688220）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688220.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "公司全称、2015-04-30成立、2022-01-14上市、无线通信芯片设计主营及上海注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：注册地为上海，苏州研发口径未证实。 原采集地域为“上海总部/苏州工业园区研发”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "09",
+  "focus": "IoT/NB-IoT/通信基带芯片，边缘AI处理器，AIoT终端",
+  "products": "IoT/NB-IoT/通信基带芯片，边缘AI处理器，AIoT终端",
+  "locations_text": "上海（s05 已有资料列注册地址）；苏州研发单元及园区归属待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：IoT/NB-IoT/通信基带芯片，边缘AI处理器，AIoT终端。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所科创板上市（688220，2022-01-14）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "翱捷科技",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

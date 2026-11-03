@@ -1,0 +1,166 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "keenon",
+  "name": "擎朗智能",
+  "aliases": [
+    "Keenon Robotics",
+    "擎朗",
+    "Keenon",
+    "深圳市擎朗智能科技有限公司",
+    "擎朗智能",
+    "KEENON Robotics"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "全球出货的商用服务机器人新进厂商，D轮2亿美元、海外市场占比高，产品与海外运营岗位对口；列为第一波。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-1f9100f318b4c63b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.keenon.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "擎朗智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "英文官网；中文站未单独核验。"
+    },
+    {
+      "id": "ch-79c6c214b4ad0ef1",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/gs130194987/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "深圳市擎朗智能科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-a4327a87dcd0fb46",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/256dd9a902bb05381Hx-2dq6EA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "擎朗智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.keenon.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "擎朗智能 公开入口",
+      "url": "https://www.keenon.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "KEENON Robotics - Smart Service Robots & Solutions",
+      "url": "https://www.keenon.com/",
+      "supports": "公开官网主体观察：https://www.keenon.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【深圳市擎朗智能科技有限公司招聘信息】-猎聘",
+      "url": "https://www.liepin.com/company/gs130194987/",
+      "supports": "公开企业主页主体：深圳市擎朗智能科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 擎朗智能",
+      "url": "https://www.zhipin.com/gongsi/256dd9a902bb05381Hx-2dq6EA~~.html",
+      "supports": "公开企业主页主体：擎朗智能；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "机器人企业擎朗智能完成2亿美元D轮融资",
+      "url": "https://www.cls.cn/detail/835614",
+      "supports": "擎朗2亿美元D轮、软银愿景领投、中金甲子/Prosperity7跟投。",
+      "published_date": "2021-09-15",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "擎朗智能官网",
+      "url": "https://www.keenon.com/",
+      "supports": "送餐/酒店/清洁等服务机器人产品与具身AI定位。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "最近可核验融资停留在2021年D轮，未找到2022年后新融资披露；当前估值未核验。",
+  "category_id": "08",
+  "focus": "商用服务机器人与具身AI",
+  "products": "送餐/酒店/清洁/配送服务机器人、具身AI解决方案",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：商用服务机器人与具身AI。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2021年完成2亿美元D轮融资，软银愿景基金领投，中金甲子、Prosperity7 Ventures跟投；公开披露未找到更近轮次。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "擎朗智能",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

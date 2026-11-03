@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "united-imaging",
+  "name": "联影医疗",
+  "aliases": [
+    "United Imaging",
+    "联影",
+    "上海联影医疗科技股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板上市的高端医学影像设备龙头，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-4c75d8f8b4208c9c",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.united-imaging.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "联影医疗",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-73939113cd0d157b",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.united-imaging.com/zh-cn/careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "联影医疗",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e54ee1690a2b2457",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/849538/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "联影",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-67d1e75fe852b962",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/4c056cf0a78424e21X17092_ElM~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "联影医疗",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.united-imaging.com",
+    "careers_url": "https://www.united-imaging.com/zh-cn/careers",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "联影医疗 公开入口",
+      "url": "https://www.united-imaging.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "联影医疗官方网站",
+      "url": "https://www.united-imaging.com/",
+      "supports": "公开官网主体观察：https://www.united-imaging.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "联影_招聘_集团_人才_校招_管培",
+      "url": "https://www.united-imaging.com/zh-cn/careers",
+      "supports": "公开招聘入口主体观察：https://www.united-imaging.com/zh-cn/careers；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【上海联影招聘】-猎聘",
+      "url": "https://www.liepin.com/company/849538/",
+      "supports": "公开企业主页主体：联影；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海联影医疗科技",
+      "url": "https://www.zhipin.com/gongsi/4c056cf0a78424e21X17092_ElM~.html",
+      "supports": "公开企业主页主体：联影医疗；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "联影医疗：预计2024年总营收103亿元 持续加码研发推动技术创新",
+      "url": "https://www.stcn.com/article/detail/1552446.html",
+      "supports": "联影医疗688271的2024年营收103亿元、归母净利润12.62亿元及海外业务。",
+      "published_date": "2025-02-28",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "09",
+  "focus": "高端医学影像设备",
+  "products": "CT/MR/PET-CT/PET-MR、X射线、放疗设备",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：高端医学影像设备。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "科创板上市（688271）；2024年营收103亿元，归母净利润12.62亿元，海外收入保持较快增长。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "联影医疗",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "innolight",
+  "name": "旭创科技",
+  "aliases": [
+    "InnoLight Technology",
+    "InnoLight",
+    "苏州旭创科技",
+    "苏州旭创科技有限公司",
+    "中际旭创"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "按中际旭创（300308，2012年上市）体系处理：高速光模块研发制造商，属AI数据中心网络的成熟供应商；苏州旭创子公司层级本轮未逐项核对。列为 later。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-19b2d0e4f3454c44",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7918125/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州旭创科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-d8b6382004ea1537",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/ebcb394e3577d4b633Z_2d6_.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州旭创科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.innolight.com.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "旭创科技 公开入口",
+      "url": "https://www.innolight.com.cn/investors",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【苏州旭创科技招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7918125/",
+      "supports": "公开企业主页主体：苏州旭创科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州旭创科技有限公司（320岗；排除产业园公司）",
+      "url": "https://www.zhipin.com/gongsi/ebcb394e3577d4b633Z_2d6_.html",
+      "supports": "公开企业主页主体：苏州旭创科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 中际旭创股份有限公司（300308）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/300308.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2005-06-27成立、2012-04-10上市、高速光模块研发设计制造主营、山东龙口注册地址；不单独核实苏州子公司。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "09",
+  "focus": "高速光模块（400G/800G/1.6T），AI数据中心算力网络互联",
+  "products": "高速光模块（400G/800G/1.6T），AI数据中心算力网络互联",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：高速光模块（400G/800G/1.6T），AI数据中心算力网络互联。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "中际旭创深交所创业板上市（300308，2012-04-10）；苏州旭创子公司层级本轮未逐项核对。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "旭创科技",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

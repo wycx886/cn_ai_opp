@@ -1,0 +1,153 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "im-motors",
+  "name": "智己汽车",
+  "aliases": [
+    "IM Motors",
+    "智己",
+    "智己汽车科技有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "上汽高端智能电动车单元，2024年完成94亿元B轮，智能驾驶/座舱与产品岗位密集；作为有独立法人边界的新进单元列入第一波。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-5c26aaf6565de09c",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.immotors.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "智己汽车",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-89eee63faa93ff78",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/12520237/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "智己汽车科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-613a061e5c3a1c06",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/5f7561bbc87f23e21nd_3tS-FFc~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "智己汽车",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.immotors.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "智己汽车 公开入口",
+      "url": "https://www.immotors.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "智己汽车-智能时代出行的变革者-IM智己汽车官网",
+      "url": "https://www.immotors.com/",
+      "supports": "公开官网主体观察：https://www.immotors.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【智己汽车科技有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/12520237/",
+      "supports": "公开企业主页主体：智己汽车科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 智己汽车",
+      "url": "https://www.zhipin.com/gongsi/5f7561bbc87f23e21nd_3tS-FFc~.html",
+      "supports": "公开企业主页主体：智己汽车；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "94亿融资到手 智己汽车能上岸吗",
+      "url": "https://finance.sina.com.cn/zmt/2025-01-16/doc-inefcrkf6388972.shtml",
+      "supports": "智己B1轮及B轮合计94亿元、2020年由上汽/张江高科/阿里巴巴设立、注册资本100亿元。",
+      "published_date": "2025-01-16",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "B轮具体投资方名单与各轮估值未完整披露；销量与经营数据未在本次核验。",
+  "category_id": "08",
+  "focus": "高端智能电动车与智能驾驶/座舱",
+  "products": "智己L6/L7/LS6/LS7等车型、IM AD智能驾驶、智能座舱",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：高端智能电动车与智能驾驶/座舱。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2024年12月完成B1轮，B轮合计募资94亿元；公司2020年由上汽集团、张江高科、阿里巴巴共同设立，注册资本100亿元，本轮由国有与市场化机构继续加持。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "智己汽车",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

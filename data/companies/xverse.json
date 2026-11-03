@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "xverse",
+  "name": "元象科技",
+  "aliases": [
+    "XVERSE Technology",
+    "XVERSE",
+    "元象唯思",
+    "元象"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "元象XVERSE为2021年初成立的AI与3D技术公司，创始人姚星曾任腾讯副总裁并创立腾讯AI Lab，自研XVERSE系列大模型，属AI原生新进。官网称深圳公司，苏州主体与融资本轮未核实。列为第一波。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-c367b3b3cb0181d7",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.xverse.cn",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "元象科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-1074a4ba42595cae",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/12741253/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "元象唯思",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-c367ec7602e2f733",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/03b7a6b599ffafd31nF-2dm8GFc~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "元象科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-6cc0a8d1f42db68b",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://careers.xverse.cn/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "元象科技",
+        "role": null
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": "入口来自高校转载的 2025 届校招公告；2026-11-03 未能直接读取该站。"
+    }
+  ],
+  "contacts": {
+    "website": "https://www.xverse.cn",
+    "careers_url": "https://careers.xverse.cn/",
+    "recruitment_email": "join@xverse.cn",
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "元象科技 公开入口",
+      "url": "https://www.xverse.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "元象科技官网",
+      "url": "https://www.xverse.cn",
+      "supports": "公开官网主体与标题观察：元象XVERSE；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【元象唯思招聘】-猎聘",
+      "url": "https://www.liepin.com/company/12741253/",
+      "supports": "公开企业主页主体：元象唯思；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 深圳元象信息科技有限公司（集团页，无苏州地址）",
+      "url": "https://www.zhipin.com/gongsi/03b7a6b599ffafd31nF-2dm8GFc~.html",
+      "supports": "公开企业主页主体：元象科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "元象XVERSE2025届校园招聘正式启动-学生处",
+      "url": "https://www.scfai.edu.cn/xsc/info/1015/3747.htm",
+      "supports": "高校转载元象 2025 届校招公告：官网投递 careers.xverse.cn，邮件投递 join@xverse.cn；工作地点深圳。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官网称深圳公司，苏州主体未证实。 2026-11-03：join@xverse.cn 来自高校转载的 2025 届校招公告，属较早校招渠道，时效与社招适用性待确认。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "04",
+  "focus": "大语言模型（XVERSE系列基础模型）研发与商业化落地",
+  "products": "大语言模型（XVERSE系列基础模型）研发与商业化落地",
+  "locations_text": "深圳（已有官网核查备注）；原苏州工业园区主体待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：大语言模型（XVERSE系列基础模型）研发与商业化落地。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "本轮未核实融资披露；官网仅可核成立时间与创始人背景。",
+    "verification_status": "not_found"
+  },
+  "provenance": {
+    "original_name": "元象科技",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

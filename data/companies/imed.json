@@ -1,0 +1,77 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "imed",
+  "name": "视见科技",
+  "aliases": [],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "unresolved",
+    "wave": "watchlist",
+    "rationale": "s02 为深圳视见医疗报道，与原视见科技／苏州标签对应关系待核实；保留 watchlist，不先判断新进或已有玩家。",
+    "source_ids": [
+      "s02"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "视见科技 公开入口",
+      "url": "https://www.imedtech.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "organization",
+      "title": "成立4个月即获2000万元投资，视见医疗如何走顺AI这条路？",
+      "url": "https://www.leiphone.com/category/aihealth/uAajA2xNRw9wtHYg.html",
+      "published_date": "2017-07-14",
+      "checked_at": "2026-11-03",
+      "supports": "深圳视见医疗2017年2月成立、港中文实验室孵化、完成近2000万元首轮融资。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：可核主体为深圳视见医疗，苏州主体未证实。 主体边界：深圳视见医疗报道与原“视见科技”及苏州标签是否同一研究对象待核实；不据报道直接确认苏州主体或融资。 原采集关联名称（不再作为同一主体别名匹配）：iMed Technology、iMed。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.imedtech.com 保留为关联／历史线索，未确认属于本研究单元。",
+  "category_id": "04",
+  "focus": "待核实主体；原采集业务线索：医疗AI影像分析（CT/MRI/眼底），辅助诊断",
+  "products": "待核实产品／主体对应关系；原采集线索：医疗AI影像分析（CT/MRI/眼底），辅助诊断",
+  "locations_text": "原苏州工业园区标签待核实；s02 为深圳视见医疗报道，对应关系待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "主体、地域与业务对应关系待核实，现有材料仅作研究线索，不构成同业地位或招聘结论。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "主体对应关系待核实；以下旧融资线索不可直接归属本档案：2017年完成近2000万元首轮融资（报道口径）；后续融资本轮未核实。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "视见科技",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [],
+    "relationship_status": "unresolved",
+    "summary": "深圳视见医疗报道与原“视见科技”及苏州标签是否同一研究对象待核实；不据报道直接确认苏州主体或融资。",
+    "source_ids": [
+      "s02"
+    ],
+    "checked_at": "2026-11-03"
+  }
+}

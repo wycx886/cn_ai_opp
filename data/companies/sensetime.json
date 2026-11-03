@@ -1,0 +1,182 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "sensetime",
+  "name": "商汤科技",
+  "aliases": [
+    "SenseTime",
+    "商汤",
+    "SenseTime Group",
+    "绝影 SenseAuto",
+    "商汤集团股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "港交所上市的AI平台公司，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-9fe63600af8eb6a2",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.sensetime.com/cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "商汤科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-80e44b86cb3f1bf0",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://hr.sensetime.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "商汤科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-011d2f92b3755f92",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8349238/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "商汤科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-4bfa18614dff3350",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/c7ac76928d861b761nF-2dW1Fg~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "商汤科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.sensetime.com",
+    "careers_url": "https://hr.sensetime.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "商汤科技 公开入口",
+      "url": "https://www.sensetime.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "商汤科技 SenseTime",
+      "url": "https://www.sensetime.com/cn/",
+      "supports": "公开官网主体观察：https://www.sensetime.com/cn/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "商汤科技招聘 | 坚持原创，让 AI 引领人类进步",
+      "url": "https://hr.sensetime.com/",
+      "supports": "公开招聘入口主体观察：https://hr.sensetime.com/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【商汤科技SenseTime招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8349238/",
+      "supports": "公开企业主页主体：商汤科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 商汤科技",
+      "url": "https://www.zhipin.com/gongsi/c7ac76928d861b761nF-2dW1Fg~~.html",
+      "supports": "公开企业主页主体：商汤科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "商汤2024年净亏损43亿收窄33.7%，4月将发布日日新6.0大模型",
+      "url": "https://news.qq.com/rain/a/20250327A01QM900",
+      "supports": "商汤2024年收入37.7亿元、生成式AI收入24.04亿元、净亏损43.07亿元及大装置算力。",
+      "published_date": "2025-03-27",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "04",
+  "focus": "计算机视觉、大模型与生成式AI",
+  "products": "日日新SenseNova大模型、大装置算力、绝影智能汽车、智慧城市/医疗",
+  "locations_text": "上海徐汇",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：计算机视觉、大模型与生成式AI。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "港交所上市（0020）；2024年收入37.7亿元，同比增长10.8%，生成式AI收入24.04亿元、占比63.7%，净亏损43.07亿元、同比收窄33.7%。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "商汤科技",
+    "original_track": "04",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "tongcheng-ai",
+  "name": "同程旅行AI部门",
+  "aliases": [
+    "Tongcheng Travel AI"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "同程旅行（港股0780）总部位于苏州工业园区，其AI能力（程心AI旅游大模型、DeepTrip智能体）属上市OTA平台内的既有业务扩展；本轮未找到独立法人或正式拆分单元证据，故不按新进单元处理。列为 later。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-1c6e44ef4aca9520",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.ly.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "同程旅行",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "待核实：页面观察主体为“同程旅行”；不能作为“同程旅行AI部门”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-8b2774e6ca51f65b",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/3698161/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "同程旅行",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "猎聘为同程旅行集团主页，AI部门非独立法人主页。 待核实：页面观察主体为“同程旅行”；不能作为“同程旅行AI部门”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-2a7f6cc739907c16",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/5655835880426ec51nN62t-0.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "同程旅行",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "待核实：页面观察主体为“同程旅行”；不能作为“同程旅行AI部门”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "同程旅行AI部门 公开入口",
+      "url": "https://ir.ly.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "关联网站观察（原采集标签：同程旅行AI部门官网）",
+      "url": "https://www.ly.com",
+      "supports": "公开官网主体与标题观察：同程旅行；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【同程旅行招聘】-猎聘",
+      "url": "https://www.liepin.com/company/3698161/",
+      "supports": "公开企业主页主体：同程旅行；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 同程旅行（苏州吴中同程旅行大厦）",
+      "url": "https://www.zhipin.com/gongsi/5655835880426ec51nN62t-0.html",
+      "supports": "公开企业主页主体：同程旅行；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "同程旅行 2025 年报（港交所披露）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042800528.pdf",
+      "published_date": "2026-04-28",
+      "checked_at": "2026-11-03",
+      "supports": "2025年年报：程心AI旅游大模型、2025年3月推出DeepTrip智能体，总部位于苏州工业园区。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 主体边界：集团年报可支持AI产品及总部线索，不能证明名为“AI部门”的独立团队、法人或编制；本条为业务研究线索。 集团／品牌入口仅供关联寻源，不计为本地区单元已确认渠道。 原采集关联名称（不再作为同一主体别名匹配）：Tongcheng Travel AI、同程旅行、Tongcheng Travel、同程艺龙。 原采集地域为“苏州工业园区（总部）”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.ly.com 保留为关联／历史线索，未确认属于本研究单元。",
+  "category_id": "04",
+  "focus": "业务研究线索（当前本地团队归属待核实）：旅游出行场景大模型应用与智能客服AI Agent",
+  "products": "原采集产品／业务关注点（不表示本地单元当前归属）：旅游出行场景大模型应用与智能客服AI Agent",
+  "locations_text": "苏州（s05 集团年报总部口径）；招聘页另有吴中线索，AI团队地点待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：同程旅行港交所上市（0780）体系内AI业务；不单独披露融资。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "同程旅行AI部门",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [
+      "tongcheng-travel"
+    ],
+    "relationship_status": "unresolved",
+    "summary": "集团年报可支持AI产品及总部线索，不能证明名为“AI部门”的独立团队、法人或编制；本条为业务研究线索。",
+    "source_ids": [
+      "s05"
+    ],
+    "checked_at": "2026-11-03"
+  }
+}

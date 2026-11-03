@@ -1,0 +1,181 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "smic",
+  "name": "中芯国际",
+  "aliases": [
+    "SMIC",
+    "中芯",
+    "中芯国际集成电路",
+    "中芯国际集成电路制造有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板与港交所上市的晶圆代工龙头，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-c261503605b66dd0",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8391401/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "中芯国际",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-25d9ecb2b8fc02ba",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.smics.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "中芯国际",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-5251665e807d61fa",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://smics.zhiye.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "中芯国际",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "官方招聘门户（zhiye ATS），含社会／校园／海外招聘入口。"
+    },
+    {
+      "id": "ch-c83c2075b449a2ee",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/5b98b6c596d2f9d933xy2dS4.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "中芯国际",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.smics.com/",
+    "careers_url": "https://smics.zhiye.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "中芯国际 公开入口",
+      "url": "https://www.smics.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【中芯国际招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8391401/",
+      "supports": "公开企业主页主体：中芯国际；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "中芯国际-首页",
+      "url": "https://www.smics.com/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "公开官网主体观察：https://www.smics.com/；只核验入口归属。"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "中芯国际",
+      "url": "https://smics.zhiye.com/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "公开招聘入口主体观察：https://smics.zhiye.com/；只核验入口归属，不表示具体岗位开放。"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 中芯国际",
+      "url": "https://www.zhipin.com/gongsi/5b98b6c596d2f9d933xy2dS4.html",
+      "supports": "公开企业主页主体：中芯国际；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "中芯国际发布2024年报，全年销售收入创历史新高",
+      "url": "https://www.smics.com/site/news_read/3666",
+      "supports": "中芯国际2024年销售收入80.3亿美元、同比增长27%、毛利率18.0%及产能情况。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "09",
+  "focus": "晶圆代工（成熟与先进制程）",
+  "products": "8/12英寸晶圆代工、逻辑/电源/存储/射频工艺平台",
+  "locations_text": "上海浦东；北京、天津、深圳等",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：晶圆代工（成熟与先进制程）。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "科创板与港交所上市（688981/00981）；2024年销售收入80.3亿美元，同比增长27%，毛利率18.0%，产能利用率85.6%。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "中芯国际",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

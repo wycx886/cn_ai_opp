@@ -1,0 +1,171 @@
+{
+  "schema_version": 3,
+  "id": "didi",
+  "name": "滴滴 DiDi",
+  "aliases": [
+    "滴滴",
+    "DiDi",
+    "滴滴出行"
+  ],
+  "category_id": "08",
+  "focus": "出行与本地交通平台；AI 切面以 Robotaxi／自动驾驶研发与运营投入为公开证据",
+  "products": "网约车与出行服务、Robotaxi 相关业务等",
+  "locations_text": "北京；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相对美团本地生活，滴滴公开 AI 证据更偏自动驾驶／Robotaxi 具身出行，故主分类落在具身智能与机器人赛道相邻的出行落地。",
+    "peer_names": [
+      "美团",
+      "华为",
+      "百度"
+    ]
+  },
+  "investment": {
+    "summary": "曾于纽交所上市后摘牌等资本市场历程以 IR／监管披露为准；本档案不作完整融资年表。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": "https://www.didiglobal.com/",
+    "careers_url": "https://talent.didiglobal.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "category_id=08 取 Robotaxi／自动驾驶公开投入；主业仍为出行平台。自动驾驶子公司边界需另证，不在本条合并。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "滴滴官网",
+      "url": "https://www.didiglobal.com/",
+      "supports": "集团官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "滴滴招聘",
+      "url": "https://talent.didiglobal.com/",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "DiDi IR：FY2025 业绩公告（含 Robotaxi R2）",
+      "url": "https://ir.didiglobal.com/static-files/433e2d74-b1a6-4551-8449-477fd20cbb7a",
+      "supports": "Robotaxi／自动驾驶主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「滴滴」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/8548fadc0b5c265403V93t61EQ~~.html",
+      "supports": "公开企业主页路径指向滴滴；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【滴滴招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8076624/",
+      "supports": "公开企业主页主体：滴滴。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "滴滴",
+    "original_track": "08",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "成熟出行母平台，已有 Robotaxi 等 AI／自动驾驶主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-76339df3df9cbd90",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.didiglobal.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "滴滴 DiDi",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-28e9cbd46a4a57ca",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://talent.didiglobal.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "滴滴 DiDi",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-fd530d09eff1995d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/8548fadc0b5c265403V93t61EQ~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "滴滴 DiDi",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染。"
+    },
+    {
+      "id": "ch-cc751140064b643f",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8076624/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "滴滴",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

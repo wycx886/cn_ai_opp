@@ -1,0 +1,191 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "innovusion",
+  "name": "图达通",
+  "aliases": [
+    "Innovusion",
+    "Seyond",
+    "Seyond图达通",
+    "图达通智能科技"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "图达通（Seyond）为硅谷创立的图像级激光雷达公司，2025年12月10日经De-SPAC登陆港交所主板（2665），上市不足一年、仍处规模化阶段，按新进玩家处理（区别于已成规模的禾赛）。注意：草稿所写NASDAQ: INVZ为另一家公司，不适用。列为第一波。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-b60fd41038828d27",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.seyond.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "图达通",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-134011403da3de73",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9973591/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "Seyond图达通",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-b5e0fe2c78d2eeb6",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/d57c78db41a23ed3331_2Nu8GA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "图达通智能科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-523b78f55e48c4a8",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.seyond.cn/careers/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "图达通",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s07"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.seyond.cn/",
+    "careers_url": "https://www.seyond.cn/careers/",
+    "recruitment_email": null,
+    "other_email": "info@cn.seyond.com",
+    "other_email_purpose": "一般联系（招聘页联系区，非专门招聘邮箱）"
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "图达通 公开入口",
+      "url": "https://www.innovusion.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "图达通官网",
+      "url": "https://www.seyond.cn/",
+      "supports": "公开官网主体与标题观察：图达通官网 / Seyond；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【Seyond图达通招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9973591/",
+      "supports": "公开企业主页主体：Seyond图达通；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 图达通／Seyond（苏州相城，87岗）",
+      "url": "https://www.zhipin.com/gongsi/d57c78db41a23ed3331_2Nu8GA~~.html",
+      "supports": "公开企业主页主体：图达通智能科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "Seyond Holdings Ltd. 完成De-SPAC交易公告（港交所）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1210/2025121000287.pdf",
+      "published_date": "2025-12-10",
+      "checked_at": "2026-11-03",
+      "supports": "2025-12-10 De-SPAC交割，股份代号2665于港交所主板开始买卖。"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "图达通官网",
+      "url": "https://www.seyond.cn/",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "Seyond图达通成立于硅谷、激光雷达及解决方案提供商。"
+    },
+    {
+      "id": "s07",
+      "scope": "channel",
+      "title": "Learn more about Seyond Career Opportunity",
+      "url": "https://www.seyond.cn/careers/",
+      "supports": "官方招聘介绍页；联系区仅列 info@cn.seyond.com 与合规邮箱，未公开专门招聘邮箱；校招入口另见 seyond.zhiye.com。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03：官方招聘页未公开专门招聘邮箱，recruitment_email 保持空。",
+  "category_id": "08",
+  "focus": "高精度激光雷达（LiDAR）传感器，自动驾驶+机器人感知",
+  "products": "高精度激光雷达（LiDAR）传感器，自动驾驶+机器人感知",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：高精度激光雷达（LiDAR）传感器，自动驾驶+机器人感知。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2025年12月10日经De-SPAC登陆港交所主板（2665）；草稿“NASDAQ: INVZ”为另一家公司。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "图达通",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

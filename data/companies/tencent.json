@@ -1,0 +1,171 @@
+{
+  "schema_version": 3,
+  "id": "tencent",
+  "name": "腾讯 Tencent",
+  "aliases": [
+    "腾讯",
+    "Tencent",
+    "腾讯控股"
+  ],
+  "category_id": "01",
+  "focus": "社交、内容与金融科技等综合互联网集团；AI 切面以混元与腾讯云 TokenHub 等模型服务为主",
+  "products": "微信、QQ、游戏业务、腾讯云、混元／TokenHub 等",
+  "locations_text": "深圳；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与字节、阿里同属综合母平台；公开 AI 证据偏混元模型与云侧 TokenHub，区别于百度文心／千帆的搜索＋云叙事。",
+    "peer_names": [
+      "字节跳动",
+      "阿里巴巴集团",
+      "百度"
+    ]
+  },
+  "investment": {
+    "summary": "港交所上市（腾讯控股）；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://www.tencent.com/",
+    "careers_url": "https://careers.tencent.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "category_id=01 取混元／TokenHub 切面。校招另有 join.qq.com，本条 careers_url 取 careers.tencent.com 社招主站。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "腾讯官网",
+      "url": "https://www.tencent.com/",
+      "supports": "集团官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "腾讯招聘",
+      "url": "https://careers.tencent.com/",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "腾讯云 TokenHub 大模型服务平台",
+      "url": "https://cloud.tencent.com/product/tokenhub",
+      "supports": "混元／MaaS 主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「腾讯招聘」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html",
+      "supports": "公开企业主页路径指向腾讯；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【腾讯招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7983148/",
+      "supports": "公开企业主页主体：腾讯。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "腾讯",
+    "original_track": "01",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市综合互联网母平台，已有混元／TokenHub 等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-d23b7106d8f7b828",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.tencent.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "腾讯 Tencent",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-82e987b513005e6b",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://careers.tencent.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "腾讯 Tencent",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-320801bd3ce75303",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/2e64a887a110ea9f1nRz.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "腾讯 Tencent",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染。"
+    },
+    {
+      "id": "ch-ae2c2c1c5fed02fe",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7983148/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "腾讯",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

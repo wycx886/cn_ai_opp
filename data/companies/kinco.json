@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "kinco",
+  "name": "步科股份",
+  "aliases": [
+    "Kinco",
+    "步科",
+    "上海步科自动化股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板上市的运动控制与机器人部件厂商，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-8ac0ac945efa716a",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.kinco.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "步科股份",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "草稿域名 kinco.com 为美国手套品牌；已改为核验通过的步科官网。"
+    },
+    {
+      "id": "ch-4581f449f67afd82",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.kinco.cn/talent-recruitment",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "步科股份",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "官网人才招聘栏目；标题为通用“人才招聘”，主体由官网导航确认。"
+    },
+    {
+      "id": "ch-0670385098580b9b",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8192646/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海步科自动化股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-679eb2c98708db4d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/08741ad68b8a3b9803J62Ny6Fls~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海步科自动化股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.kinco.cn/",
+    "careers_url": "https://www.kinco.cn/talent-recruitment",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "步科股份 公开入口",
+      "url": "https://www.kinco.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Kinco步科-领先的机器人与智能设备的运动控制与人机交互部件供应商",
+      "url": "https://www.kinco.cn/",
+      "supports": "公开官网主体观察：https://www.kinco.cn/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "人才招聘",
+      "url": "https://www.kinco.cn/talent-recruitment",
+      "supports": "公开招聘入口主体观察：https://www.kinco.cn/talent-recruitment；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【步科股份招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8192646/",
+      "supports": "公开企业主页主体：上海步科自动化股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海步科自动化",
+      "url": "https://www.zhipin.com/gongsi/08741ad68b8a3b9803J62Ny6Fls~.html",
+      "supports": "公开企业主页主体：上海步科自动化股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "步科股份2024年度营收增8.45% 归母净利润降18.73%",
+      "url": "https://news.qq.com/rain/a/20250213A05LEB00",
+      "supports": "步科股份688160的2024年营收5.49亿元、归母净利润4932万元。",
+      "published_date": "2025-02-13",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "09",
+  "focus": "伺服系统、运动控制与人机界面",
+  "products": "伺服驱动、步进电机、HMI、机器人关节与运动控制部件",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：伺服系统、运动控制与人机界面。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "科创板上市（688160）；2024年营收5.49亿元，同比增长8.45%，归母净利润4932万元。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "步科股份",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

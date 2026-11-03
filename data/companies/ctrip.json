@@ -1,0 +1,193 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "ctrip",
+  "name": "携程集团",
+  "aliases": [
+    "Trip.com Group",
+    "携程",
+    "Ctrip",
+    "Trip.com",
+    "携程计算机技术(上海)有限公司",
+    "携程集团有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "纳斯达克与港交所上市的在线旅游平台，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-b4a254b6f3a06940",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.trip.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "携程集团",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "集团官网（跳转 hk.trip.com）；上海单元未单列，只核验入口归属。"
+    },
+    {
+      "id": "ch-fd1fddfd18b2753c",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://careers.trip.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "携程集团",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "集团招聘站；上海岗位未单列，只核验入口归属。"
+    },
+    {
+      "id": "ch-a07b77153162bc0d",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/182339/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "携程计算机技术(上海)有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e166898fe8cd18c6",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/ef2ede3e92bf51f91nV72966ElM~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "携程集团",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.trip.com",
+    "careers_url": "https://careers.trip.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "携程集团 公开入口",
+      "url": "https://www.trip.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Trip.com官方網站：全球機票、酒店、高鐵網上預訂",
+      "url": "https://www.trip.com/",
+      "supports": "公开官网主体观察：https://www.trip.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Trip.com Group Careers",
+      "url": "https://careers.trip.com/",
+      "supports": "公开招聘入口主体观察：https://careers.trip.com/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【携程集团招聘】-猎聘",
+      "url": "https://www.liepin.com/company/182339/",
+      "supports": "公开企业主页主体：携程计算机技术(上海)有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 携程集团",
+      "url": "https://www.zhipin.com/gongsi/ef2ede3e92bf51f91nV72966ElM~.html",
+      "supports": "公开企业主页主体：携程集团；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "携程发布2024Q4及全年财报，入境游增长超100%，将持续加码AI",
+      "url": "https://www.forbeschina.com/business/69541",
+      "supports": "携程2024年净营收533亿元、净利润172亿元及AI产品/组织调整。",
+      "published_date": "2025-02-25",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "维基百科：携程集团",
+      "url": "https://zh.wikipedia.org/wiki/%E6%94%9C%E7%A8%8B%E9%9B%86%E5%9B%A2",
+      "supports": "携程NASDAQ:TCOM/09961.HK上市身份与上海总部。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "04",
+  "focus": "在线旅游与AI旅行助手",
+  "products": "携程/去哪儿/Trip.com/Skyscanner、AI旅行助手、智能客服与内容榜单",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：在线旅游与AI旅行助手。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "纳斯达克与港交所上市（TCOM/9961）；2024年净营业收入533亿元，净利润172亿元，持续加码AI。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "携程集团",
+    "original_track": "04",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

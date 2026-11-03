@@ -40,9 +40,10 @@ def render(root):
     page += "这是查找已有业务、具体团队及新孵化项目的起点，不是正式目标、已发现岗位或股权关系清单。公司规模不自动表示主题能力领先；访问官网不等于项目核验，不将全部机构统称为 hyperscaler。硬件与软件标签可交叉，主题证据缺失表示尚未附入本表，不等于没有相关业务。\n\n"
     for group, title in GROUPS.items():
         entries = [p for p in platforms.values() if p["group"] == group]
-        page += "## %s · %d 个入口\n\n| 机构／平台 | ID | 业务标签 | 官方入口 | 本次访问 | 口径说明 |\n| --- | --- | --- | --- | --- | --- |\n" % (title, len(entries))
+        page += "## %s · %d 个入口\n\n| 机构／平台 | ID | 正式档案 | 业务标签 | 官方入口 | 本次访问 | 口径说明 |\n| --- | --- | --- | --- | --- | --- | --- |\n" % (title, len(entries))
         for p in entries:
-            page += "| %s | `%s` | %s | [官方入口](%s) | %s · %s | %s |\n" % tuple(map(md, [p["name"], p["id"], ", ".join(p.get("sectors", [])), p["official_url"], ACCESS[p["access"]], p["checked_at"], p["notes"]]))
+            route = '[档案](companies/%s.md)' % p['company_id'] if p.get('company_id') else '未绑定同层级档案'
+            page += "| %s | `%s` | %s | %s | [官方入口](%s) | %s · %s | %s |\n" % tuple(map(md, [p["name"], p["id"], route, ", ".join(p.get("sectors", [])), p["official_url"], ACCESS[p["access"]], p["checked_at"], p["notes"]]))
         page += "\n"
     page += "## 已附的主题活动证据\n\n以下只展示明确附入的材料；与正式机构档案、市场地位和当前岗位分别核验。历史公告保留原公开日期。\n\n| 机构 | 主题／角色 | 来源 | 支持范围 | 公开日期 | 核查日期 |\n| --- | --- | --- | --- | --- | --- |\n"
     for p in platforms.values():

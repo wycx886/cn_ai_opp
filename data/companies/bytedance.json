@@ -1,0 +1,171 @@
+{
+  "schema_version": 3,
+  "id": "bytedance",
+  "name": "字节跳动 ByteDance",
+  "aliases": [
+    "字节跳动",
+    "ByteDance",
+    "北京字节跳动"
+  ],
+  "category_id": "01",
+  "focus": "互联网内容与效率产品；集团侧有 Seed／豆包等基础模型与火山引擎模型服务",
+  "products": "抖音、今日头条、飞书、剪映、豆包、火山引擎／豆包大模型相关服务",
+  "locations_text": "北京；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与腾讯、阿里同属综合互联网母平台；AI 证据侧重自研 Seed／豆包基座与云侧开放，区别于快手以可灵视频生成产品为公开旗舰。",
+    "peer_names": [
+      "腾讯",
+      "阿里巴巴集团",
+      "快手"
+    ]
+  },
+  "investment": {
+    "summary": "未上市公司；公开报道多轮融资与员工持股，具体轮次与估值以公司／监管披露为准，本档案不展开未核验轮次表。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": "https://www.bytedance.com/",
+    "careers_url": "https://jobs.bytedance.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "母平台档案；抖音等业务品牌招聘入口可能分列，本条以字节跳动集团官网与招聘站为准。category_id=01 取 Seed／豆包基座证据为主业 AI 切面，不表示集团全部业务均为基础模型。BOSS 直聘企业主页抓取遇反爬「请稍候」，主体 ID 来自公开搜索结果中的字节跳动公司页路径。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "字节跳动官网",
+      "url": "https://www.bytedance.com/",
+      "supports": "集团官方网站身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "字节跳动招聘官网",
+      "url": "https://jobs.bytedance.com/",
+      "supports": "官方社招／校招入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "字节跳动 Seed：Seed2.1 正式发布",
+      "url": "https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity",
+      "supports": "集团具名基础模型产品线证据（与 incumbents 主题证据一致）",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「字节跳动招聘」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html",
+      "supports": "公开企业主页主体：字节跳动；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【字节跳动招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7863078/",
+      "supports": "公开企业主页主体：字节跳动；简介与产品线匹配集团。只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "字节跳动",
+    "original_track": "01",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "中国综合互联网母平台；已有 AI 主题公开证据（Seed／豆包／火山引擎），作为已有玩家资料批次建档，不等于第一波新进候选。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-5b366c2710e7b096",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.bytedance.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "字节跳动 ByteDance",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-c906fdd8f78a47d5",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://jobs.bytedance.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "字节跳动 ByteDance",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-c5d454825a88075d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/f409f37f83a6135b0nV_2d25EA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "字节跳动",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染；路径与公开搜索标题指向字节跳动企业主页。"
+    },
+    {
+      "id": "ch-3cd64baf61d63409",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7863078/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "字节跳动",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

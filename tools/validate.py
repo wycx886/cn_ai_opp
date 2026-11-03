@@ -6,7 +6,7 @@ import re
 import subprocess
 import sys
 from urllib.parse import unquote, urlparse
-from record_checks import load, record_path, reject_placeholders, schema_validator, today, validate_record
+from record_checks import load, normalized_organization_name, record_path, reject_placeholders, schema_validator, today, validate_record
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -56,6 +56,7 @@ def validate_data(root=ROOT):
     assert all_records,'Empty company dataset'
     assert len(all_records)==len({r['id'] for r in all_records}),'Duplicate company IDs across types'
     assert len(all_records)==len({r['name'] for r in all_records}),'Duplicate company names across types'
+    validate_platform_bindings(platforms, all_records)
     for kind in ('operating_organization','investment_firm'):
         records=[r for r in all_records if r['organization_type']==kind]
         if kind=='operating_organization':
@@ -65,6 +66,19 @@ def validate_data(root=ROOT):
     assert not (root/'data/investors').exists(),'Use data/companies for every complete company profile'
     assert not (root/'data/platforms.json').exists(),'Use data/lists/incumbents.json for discovery seeds'
     return all_records
+
+
+def validate_platform_bindings(platforms, records):
+    records={r['id']:r for r in records}
+    for seed in platforms['platforms']:
+        if 'company_id' not in seed:continue
+        assert seed['company_id'] in records,'Platform route refers to missing company'
+        record=records[seed['company_id']]
+        context=record.get('organizational_context',{})
+        assert context.get('form') not in {'internal_team','research_lab','product_project'},'Platform seed cannot route to a child unit or project instead of the same-level company'
+        seed_names={normalized_organization_name(n) for n in [seed['name'],*seed['aliases']]}
+        company_names={normalized_organization_name(n) for n in [record['name'],*record['aliases']]}
+        assert seed_names & company_names,'Platform route needs a matching evidenced organization identity'
 
 
 def validate_vc_list(root=ROOT):

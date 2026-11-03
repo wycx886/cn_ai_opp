@@ -1,0 +1,111 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "good-ark-semiconductor",
+  "name": "苏州固锝电子",
+  "aliases": [
+    "Good-Ark Semiconductor",
+    "固锝电子",
+    "Good-Ark",
+    "苏州固锝电子股份有限公司",
+    "苏州固锝",
+    "固锝"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "按已有具名主体资料归入成熟玩家 later；s03 支持苏州固锝电子股份有限公司的上市身份，原“昆山”标签不成立为已确认地点。",
+    "source_ids": [
+      "s03"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-0557e6923ebcc3a2",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9811705/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州固锝电子股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "主体按已具名的苏州固锝电子股份有限公司规范；原“昆山”标签不再作为已证实地区。"
+    }
+  ],
+  "contacts": {
+    "website": "https://www.goodark.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "昆山固锝电子 公开入口",
+      "url": "https://www.good-ark.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【苏州固锝电子股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9811705/",
+      "supports": "公开企业主页主体：苏州固锝电子股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 苏州固锝电子股份有限公司（002079）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002079.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "公司全称、1990-11-12成立、2006-11-16上市、分立器件和集成电路封装主营、苏州通安注册地址。"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "苏州固锝官方联系页（官方检索摘要；正文访问超时）",
+      "url": "https://twn.goodark.com/contact.php",
+      "supports": "官方联系页检索摘要列示苏州高新区通安经济开发区华金路200号；正文访问超时，不证明昆山基地或具体岗位地点。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：公开资料公司全称为苏州固锝电子股份有限公司、注册地苏州高新区通安，与档案名“昆山”不一致，待人工核对是否为同一主体。 原采集名称“昆山固锝电子”保留于 provenance；现以来源中具名机构为研究对象，原地区分支假设未证实。 官网更正为 goodark.com（官方检索线索，s04）；旧 good-ark.com 仅在 s01 保留待核实。 原采集地域为“昆山”，本次按来源支持范围更正；不代表在该地有开放岗位。 本次为存量证据的主体／口径纠错；渠道日期保持原采集日期，未声称重新登录平台核验。",
+  "category_id": "09",
+  "focus": "半导体分立器件（二极管/整流器），新能源+AI硬件功率器件",
+  "products": "半导体分立器件（二极管/整流器），新能源+AI硬件功率器件",
+  "locations_text": "苏州高新区通安（s03、官方联系页检索线索）；原昆山标签待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：半导体分立器件（二极管/整流器），新能源+AI硬件功率器件。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "苏州固锝电子深交所主板上市（002079，2006-11-16）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "昆山固锝电子",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

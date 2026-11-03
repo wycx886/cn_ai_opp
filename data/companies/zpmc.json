@@ -1,0 +1,152 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "zpmc",
+  "name": "振华重工",
+  "aliases": [
+    "ZPMC",
+    "上海振华重工（集团）股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上交所上市的港口机械与自动化码头龙头，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-b7b2fab9790a2ab3",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.zpmc.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "振华重工",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-76983c209a988cf8",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.zpmc.com/hr/recruiting-information",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "振华重工",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-367043d82302e122",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/5c483d8f53a8f86703V92dS-Ew~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "振华重工",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.zpmc.com",
+    "careers_url": "https://www.zpmc.com/hr/recruiting-information",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "振华重工 公开入口",
+      "url": "https://www.zpmc.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Shanghai Zhenhua Heavy Industries Co., Ltd. (ZPMC) - Shanghai Zhenhua ...",
+      "url": "https://www.zpmc.com/",
+      "supports": "公开官网主体观察：https://www.zpmc.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Shanghai Zhenhua Heavy Industries Co., Ltd. (ZPMC) - Shanghai Zhenhua Heavy Indu",
+      "url": "https://www.zpmc.com/hr/recruiting-information",
+      "supports": "公开招聘入口主体观察：https://www.zpmc.com/hr/recruiting-information；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海振华重工电气公司",
+      "url": "https://www.zhipin.com/gongsi/5c483d8f53a8f86703V92dS-Ew~~.html",
+      "supports": "公开企业主页主体：振华重工；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "振华重工发布2024年年报：多维发力稳增长 全球港机龙头锚定高质量发展新航向",
+      "url": "https://caifuhao.eastmoney.com/news/20250328152118764337850",
+      "supports": "振华重工2024年营收344.56亿元、归母净利润5.34亿元、港机订单与A+B股代码。",
+      "published_date": "2025-03-28",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "06",
+  "focus": "港口机械与自动化码头系统",
+  "products": "岸桥/场桥、自动化码头、海工装备与钢结构",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：港口机械与自动化码头系统。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所A+B股上市（600320/900947）；2024年营收344.56亿元，同比增长4.62%，归母净利润5.34亿元。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "振华重工",
+    "original_track": "06",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

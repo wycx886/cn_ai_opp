@@ -1,0 +1,181 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "hua-hong-semiconductor",
+  "name": "华虹半导体",
+  "aliases": [
+    "Hua Hong Semiconductor",
+    "华虹",
+    "Hua Hong",
+    "华虹半导体有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板与港交所上市的特色工艺晶圆代工厂，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-d263dc24ce934d7b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.huahonggrace.com/s/index.php",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "华虹半导体",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "草稿域名 huahong.com 仅返回 HUAHONG.COM；已改为华虹半导体运营主体官网。"
+    },
+    {
+      "id": "ch-c3b8f226e00e5fed",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.huahonggrace.com/s/career_recruitment.php",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "华虹半导体",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "官网招聘栏目；只核验入口归属。"
+    },
+    {
+      "id": "ch-016d2e255d57bce7",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/gs133577005/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "华虹半导体有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-0ad8291c467860f2",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/dcd998755e3305bc1Hx92tW-Eg~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "华虹",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.huahonggrace.com/s/index.php",
+    "careers_url": "https://www.huahonggrace.com/s/career_recruitment.php",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "华虹半导体 公开入口",
+      "url": "https://www.huahong.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "华虹宏力半导体有限公司",
+      "url": "https://www.huahonggrace.com/s/index.php",
+      "supports": "公开官网主体观察：https://www.huahonggrace.com/s/index.php；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "华虹宏力半导体有限公司",
+      "url": "https://www.huahonggrace.com/s/career_recruitment.php",
+      "supports": "公开招聘入口主体观察：https://www.huahonggrace.com/s/career_recruitment.php；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【华虹半导体有限公司招聘信息】-猎聘",
+      "url": "https://www.liepin.com/company/gs133577005/",
+      "supports": "公开企业主页主体：华虹半导体有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海华虹宏力半导...",
+      "url": "https://www.zhipin.com/gongsi/dcd998755e3305bc1Hx92tW-Eg~~.html",
+      "supports": "公开企业主页主体：华虹；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "华虹半导体2024年营收143亿元 特色工艺各平台产品持续放量",
+      "url": "https://www.cls.cn/detail/1986517",
+      "supports": "华虹半导体2024年营收143.88亿元、归母净利润3.81亿元及特色工艺平台。",
+      "published_date": "2025-03-28",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "09",
+  "focus": "特色工艺晶圆代工",
+  "products": "8英寸/12英寸特色工艺：嵌入式存储、功率器件、模拟与电源管理、逻辑射频",
+  "locations_text": "上海张江；无锡等",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：特色工艺晶圆代工。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "科创板与港交所上市（688347/01347）；2024年营收143.88亿元，归母净利润3.81亿元，全年产能利用率接近100%。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "华虹半导体",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

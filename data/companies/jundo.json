@@ -1,0 +1,136 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "jundo",
+  "name": "苏州钧舵机器人",
+  "aliases": [
+    "Jundo Robotics",
+    "苏州钧舵机器人有限公司",
+    "钧舵机器人"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "苏州本地创业的工业灵巧手/电动夹爪厂商，2025年完成B+轮，2026年8月获美的集团等战略入股，属具身智能核心零部件新进玩家。列为第一波。",
+    "source_ids": [
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-293e14200ae7a660",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/12160493/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州钧舵机器人有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-1892d6bf1bc6b3fa",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/03ee3ece1be410ca1HV93Nq0EQ~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州钧舵机器人有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.jundorobot.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州钧舵机器人 公开入口",
+      "url": "https://www.itjuzi.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【苏州钧舵机器人有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/12160493/",
+      "supports": "公开企业主页主体：苏州钧舵机器人有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州钧舵机器人有限公司（吴江，76岗）",
+      "url": "https://www.zhipin.com/gongsi/03ee3ece1be410ca1HV93Nq0EQ~~.html",
+      "supports": "公开企业主页主体：苏州钧舵机器人有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "创投观察站｜给机器人造更灵巧手，哈工大博士领衔团队获B+轮融资",
+      "url": "https://www.xhby.net/content/s68e8f5fce4b0c463b33c1e06.html",
+      "published_date": "2025-10-10",
+      "checked_at": "2026-11-03",
+      "supports": "苏州钧舵机器人完成B+轮融资，创始人介党阳来自哈工大机器人研究所。"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "苏州“潜在独角兽”，获美的集团战略入股",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-11/doc-inimyaai4196010.shtml",
+      "published_date": "2026-08-11",
+      "checked_at": "2026-11-03",
+      "supports": "钧舵机器人新一轮战略融资，投资方含硅港资本、点亮资本、美的集团等，注册资本增至约1235.4万元。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "08",
+  "focus": "协作机器人末端执行器/灵巧手，具身AI感知",
+  "products": "协作机器人末端执行器/灵巧手，具身AI感知",
+  "locations_text": "苏州；BOSS 采集标题指向吴江，原工业园区标签及岗位具体地点待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：协作机器人末端执行器/灵巧手，具身AI感知。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2025年完成B+轮；2026年8月获硅港资本、点亮资本、美的集团等战略入股，金额未披露。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州钧舵机器人",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

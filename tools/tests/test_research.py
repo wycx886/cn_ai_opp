@@ -14,9 +14,9 @@ from unittest.mock import patch
 REPO = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(REPO / "tools"))
 from organizations import select
-from record_checks import load, platform_url, record_path, validate_record
+from record_checks import channel_markdown, load, platform_url, record_path, validate_record
 from targets import render
-from validate import validate_vc_list
+from validate import validate_platform_bindings, validate_vc_list
 from investors import build_outputs as investment_outputs
 
 
@@ -375,6 +375,65 @@ class ResearchTests(unittest.TestCase):
         MERGE.apply_changes(MERGE.plan_changes(self.batch(self.entry(investor=True)), self.root))
         self.assertEqual(load(self.investor)["channels"][0]["owner"]["scope"], "organization")
         self.assertTrue(CHANNEL_AUDIT.has_platform(load(self.investor)))
+
+    def test_merge_preserves_observed_legal_alias_and_updates_stale_owner_evidence(self):
+        record = load(self.company)
+        legal_alias = '合成测试机器人科技有限公司'
+        record['aliases'].append(legal_alias)
+        self.company.write_text(json.dumps(record), encoding='utf-8')
+        entry = self.entry()
+        entry['observed_name'] = legal_alias
+        MERGE.apply_changes(MERGE.plan_changes(self.batch(entry), self.root))
+        updated = load(self.company)
+        self.assertEqual(updated['channels'][0]['owner']['name'], legal_alias)
+        updated['sources'][-1]['supports'] = '合成的旧主体描述，尚未更新'
+        self.company.write_text(json.dumps(updated), encoding='utf-8')
+        MERGE.apply_changes(MERGE.plan_changes(self.batch(entry), self.root))
+        updated = load(self.company)
+        self.assertIn(legal_alias, updated['sources'][-1]['supports'])
+        self.assertEqual(len(updated['channels']), 1)
+        self.assertEqual(updated['checked_at'], record['checked_at'])
+        self.assertEqual(MERGE.plan_changes(self.batch(entry), self.root), {})
+
+    def test_group_channel_cannot_be_confirmed_as_a_regional_unit(self):
+        MERGE.apply_changes(MERGE.plan_changes(self.batch(), self.root))
+        record = load(self.company)
+        channel = record['channels'][0]
+        channel['owner']['name'] = '合成母集团（不同研究层级）'
+        with self.assertRaisesRegex(ValueError, 'Confirmed channel owner'):
+            validate_record(record, self.root)
+        channel['verification_status'] = 'partial'
+        with self.assertRaisesRegex(ValueError, 'Partial channels need'):
+            validate_record(record, self.root)
+        channel['notes'] = '待核实：集团入口不证明本地团队归属。'
+        channel['owner']['role'] = '集团入口'
+        validate_record(record, self.root)
+        self.assertFalse(CHANNEL_AUDIT.has_platform(record))
+        page = channel_markdown(record)
+        self.assertIn(channel['notes'], page)
+        self.assertIn(channel['owner']['role'], page)
+
+    def test_discovery_seed_routes_to_same_level_profile_instead_of_local_child(self):
+        record = load(self.company)
+        seeds = {'platforms': [{'id': 'synthetic-seed', 'name': record['name'],
+                                'aliases': [], 'company_id': record['id']}]}
+        validate_platform_bindings(seeds, [record])
+        # A company can be a discovery platform even when it has a parent;
+        # its own seed still points to that exact company, not its parent.
+        record['organizational_context'] = {'form': 'corporate_subsidiary', 'parent_platform_ids': ['bytedance']}
+        validate_platform_bindings(seeds, [record])
+        child = self.internal_unit()
+        child['name'] = record['name']
+        seeds['platforms'][0]['company_id'] = child['id']
+        with self.assertRaisesRegex(AssertionError, 'child unit'):
+            validate_platform_bindings(seeds, [child])
+        seeds['platforms'][0]['company_id'] = 'missing-profile'
+        with self.assertRaisesRegex(AssertionError, 'missing company'):
+            validate_platform_bindings(seeds, [record])
+        seeds['platforms'][0]['company_id'] = record['id']
+        seeds['platforms'][0]['name'] = '完全不同的合成集团'
+        with self.assertRaisesRegex(AssertionError, 'matching evidenced'):
+            validate_platform_bindings(seeds, [record])
 
     def test_merge_rejects_stale_observation(self):
         entry = self.entry()

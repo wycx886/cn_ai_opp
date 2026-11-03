@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "kunshan-longteng-optoelectronics",
+  "name": "昆山龙腾光电",
+  "aliases": [
+    "Kunshan Longteng Optoelectronics",
+    "龙腾光电",
+    "昆山龙腾光电股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2005年成立、2020年科创板上市（688055）的TFT-LCD面板厂商，注册于昆山，属成熟显示硬件玩家。注意：草稿所写“新三板”与公开资料不符。列为 later。",
+    "source_ids": [
+      "s03"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-de42b2c6c2bc297f",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/e616683246cb33731nd-0tS0GVM~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "昆山龙腾光电股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.lt-display.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "昆山龙腾光电 公开入口",
+      "url": "https://www.lt-display.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 昆山龙腾光电股份有限公司（开发区龙腾路）",
+      "url": "https://www.zhipin.com/gongsi/e616683246cb33731nd-0tS0GVM~.html",
+      "supports": "公开企业主页主体：昆山龙腾光电股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 昆山龙腾光电股份有限公司（688055）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688055.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2005-07-12成立、2020-08-17上市、TFT-LCD研发生产销售主营、昆山注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "09",
+  "focus": "TFT-LCD面板制造，AI终端显示硬件供应链",
+  "products": "TFT-LCD面板制造，AI终端显示硬件供应链",
+  "locations_text": "昆山",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：TFT-LCD面板制造，AI终端显示硬件供应链。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所科创板上市（688055，2020-08-17）；草稿“新三板”口径有误；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "昆山龙腾光电",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

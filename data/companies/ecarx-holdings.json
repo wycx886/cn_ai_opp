@@ -1,0 +1,138 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "ecarx-holdings",
+  "name": "亿咖通科技",
+  "aliases": [
+    "ECARX Holdings",
+    "ECARX",
+    "浙江亿咖通科技有限公司",
+    "亿咖通",
+    "亿咖通（湖北）技术有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "吉利系车载智能计算平台供应商，2017年成立，2022年12月经SPAC登陆纳斯达克（ECX）；苏州高铁新城曾投资其A+轮。上市逾三年、已有规模营收，按既有玩家处理。列为 later。",
+    "source_ids": [
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-f5d9a55fe6abb8d3",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9111318/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "浙江亿咖通科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-e5d32ef5516698b2",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/ab246e19a0a354f81XRz09y9EFI~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "亿咖通（湖北）技术有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.ecarx.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "亿咖通科技 公开入口",
+      "url": "https://www.ecarx.com/investors",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【浙江亿咖通科技有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9111318/",
+      "supports": "公开企业主页主体：浙江亿咖通科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 亿咖通科技ECARX（湖北注册；含苏州岗）",
+      "url": "https://www.zhipin.com/gongsi/ab246e19a0a354f81XRz09y9EFI~.html",
+      "supports": "公开企业主页主体：亿咖通（湖北）技术有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "吉利系企业加速上市 亿咖通以SPAC方式登陆纳斯达克",
+      "url": "https://www.caixin.com/2022-12-22/101980873.html",
+      "published_date": "2022-12-22",
+      "checked_at": "2026-11-03",
+      "supports": "亿咖通2022年12月21日（美国时间）以SPAC方式登陆纳斯达克，李书福为最大投资者。"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "亿咖通科技登陆纳斯达克 苏州高铁新城直投基金首个IPO诞生",
+      "url": "https://szdushi.com.cn/news/1671937624175385.shtml",
+      "published_date": "2022-12-25",
+      "checked_at": "2026-11-03",
+      "supports": "股票代码ECX、2017年成立、苏州高铁新城2021年5月投资7000万美元参与A+轮、2021年营收4.15亿美元（报道口径）。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "09",
+  "focus": "车载智能计算平台（SoC+OS+软件栈），智能座舱芯片与AI软件",
+  "products": "车载智能计算平台（SoC+OS+软件栈），智能座舱芯片与AI软件",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：车载智能计算平台（SoC+OS+软件栈），智能座舱芯片与AI软件。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2022年12月经SPAC登陆纳斯达克（ECX）；2021年5月A+轮获苏州高铁新城直投7000万美元（报道口径）。本轮未核对最新财报。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "亿咖通科技",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

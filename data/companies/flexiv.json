@@ -1,0 +1,173 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "flexiv",
+  "name": "非夕科技",
+  "aliases": [
+    "Flexiv Robotics",
+    "Flexiv",
+    "上海非夕机器人科技有限公司",
+    "非夕",
+    "Flexiv Ltd."
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "2016年在硅谷创立的自适应力控机器人公司，在上海、北京等地设办公室，属具身智能/智能机器人新进玩家。苏州制造基地与最新融资本轮未核实。列为第一波。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-29dd767b17ef519b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.flexiv.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "非夕科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-2b5b09221aeee9c8",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9416705/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海非夕机器人科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-830568cbd73236b2",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.flexiv.cn/join",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "非夕科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-662c6b6c8e8e816d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/03872f27297614c01nd939S1FQ~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "上海非夕机器人科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.flexiv.com",
+    "careers_url": "https://www.flexiv.cn/join",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "非夕科技 公开入口",
+      "url": "https://www.flexiv.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "非夕科技官网",
+      "url": "https://www.flexiv.com",
+      "supports": "公开官网主体与标题观察：Home | Flexiv；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【上海非夕机器人科技有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9416705/",
+      "supports": "公开企业主页主体：上海非夕机器人科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "招贤纳士 | 非夕科技 | Flexiv",
+      "url": "https://www.flexiv.cn/join",
+      "supports": "官方招聘／加入我们入口。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海非夕机器人科技有限公司（集团页，仅上海地址）",
+      "url": "https://www.zhipin.com/gongsi/03872f27297614c01nd939S1FQ~~.html",
+      "supports": "公开企业主页主体：上海非夕机器人科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官网办公地点未列苏州，苏州制造基地未证实。 原采集地域为“上海总部/苏州制造基地”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "08",
+  "focus": "自适应力控机器人与灵巧手，具身智能精密装配",
+  "products": "自适应力控机器人与灵巧手，具身智能精密装配",
+  "locations_text": "上海等已披露办公地点；原“苏州制造基地”待核实（原核查备注）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：自适应力控机器人与灵巧手，具身智能精密装配。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "本轮未重新核对融资轮次；官网仅核实创立时间与办公地点。",
+    "verification_status": "not_found"
+  },
+  "provenance": {
+    "original_name": "非夕科技",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

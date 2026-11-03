@@ -1,0 +1,144 @@
+{
+  "schema_version": 3,
+  "id": "baidu",
+  "name": "百度 Baidu",
+  "aliases": [
+    "百度",
+    "Baidu",
+    "百度网讯"
+  ],
+  "category_id": "01",
+  "focus": "搜索与智能云等互联网集团；AI 切面以文心／ERNIE 与千帆大模型平台为主",
+  "products": "百度搜索、百度智能云、文心大模型、千帆平台等",
+  "locations_text": "北京；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与阿里云、腾讯云同在云＋模型赛道公开产品；文心／千帆是其对外具名旗舰，区别于华为昇腾偏算力基础设施叙事。",
+    "peer_names": [
+      "阿里巴巴集团",
+      "腾讯",
+      "华为"
+    ]
+  },
+  "investment": {
+    "summary": "纳斯达克／港交所上市；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://home.baidu.com/",
+    "careers_url": "https://talent.baidu.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "BOSS 直聘仍未写入：公开搜索至少出现 ab9fdc6f043679990HY~（标题「百度招聘」，职位量很大）与 1fcce9a1d32b4fa61Xd40t28EVM~（亦标「百度」）两套 gongsi 路径，集团级主页未能在无浏览器条件下唯一定位；猎聘采用 Baidu 主页 884492（另有百度网讯 1384197 等实体页，不重复写入）。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "关于百度",
+      "url": "https://home.baidu.com/",
+      "supports": "集团关于页／官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "百度招聘",
+      "url": "https://talent.baidu.com/",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "百度智能云：文心大模型产品页",
+      "url": "https://cloud.baidu.com/product/model.html",
+      "supports": "文心／ERNIE 主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "【Baidu招聘】-猎聘",
+      "url": "https://www.liepin.com/company/884492/",
+      "supports": "公开企业主页主体：Baidu。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "百度",
+    "original_track": "01",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市互联网／智能云母平台，已有文心／千帆等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-2c8bbb692583cb3e",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://home.baidu.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "百度 Baidu",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-334b214694005b89",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://talent.baidu.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "百度 Baidu",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-73ffad72578c6edb",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/884492/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "Baidu",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ]
+}

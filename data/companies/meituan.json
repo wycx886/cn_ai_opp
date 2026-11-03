@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "id": "meituan",
+  "name": "美团 Meituan",
+  "aliases": [
+    "美团",
+    "Meituan",
+    "北京三快在线",
+    "三快"
+  ],
+  "category_id": "01",
+  "focus": "本地生活与零售科技平台；AI 切面以 LongCat 大模型及商家 AI 应用为主",
+  "products": "美团／大众点评本地生活、外卖、LongCat 模型、商家 AI 工作台等",
+  "locations_text": "北京；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：主业本地生活，区别于阿里／京东电商主叙事；公开 AI 证据以 LongCat 基座与商家工具落地为主。",
+    "peer_names": [
+      "阿里巴巴集团",
+      "京东",
+      "滴滴"
+    ]
+  },
+  "investment": {
+    "summary": "港交所上市；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://www.meituan.com/",
+    "careers_url": "https://zhaopin.meituan.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "category_id=01 取 LongCat 基座公开证据；主业仍为本地生活。BOSS 页主体常为北京三快在线科技有限公司（美团常用运营主体），已列入 aliases。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "美团官网",
+      "url": "https://www.meituan.com/",
+      "supports": "集团官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "美团招聘",
+      "url": "https://zhaopin.meituan.com/",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "美团新闻：发布 LongCat-2.5 大模型",
+      "url": "https://www.meituan.com/news/NN261102280001343",
+      "supports": "LongCat 主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「北京三快在线科技有限公司」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/3b8311f4893d640d03B42dw~.html",
+      "supports": "公开企业主页主体为美团常用运营实体北京三快；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【美团招聘】-猎聘",
+      "url": "https://www.liepin.com/company/2036768/",
+      "supports": "公开企业主页主体：美团。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "美团",
+    "original_track": "01",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市本地生活母平台，已有 LongCat 等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-cc90958dbbf06496",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.meituan.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "美团 Meituan",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-9ab6066747b6bce9",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://zhaopin.meituan.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "美团 Meituan",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-0b69fd03e21d8993",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/3b8311f4893d640d03B42dw~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "美团 Meituan",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "主体为北京三快在线（美团运营实体）；反爬未能完整渲染。"
+    },
+    {
+      "id": "ch-05995c2d3dc8c036",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/2036768/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "美团",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "qianjing-rehabilitation",
+  "name": "钱璟康复（常州）",
+  "aliases": [
+    "Qianjing Rehabilitation",
+    "钱璟康复",
+    "常州市钱璟康复股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "按已有具名主体资料归入成熟玩家 later；s03 官方介绍支持常州市钱璟康复股份有限公司；苏州分支与上市状态待核实。",
+    "source_ids": [
+      "s03"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-c65caffdd7b04046",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/4af0faaff75433911HN42tm1.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "常州市钱璟康复股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.qjrehab.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州钱璟康复 公开入口",
+      "url": "https://www.qianjingkang.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 常州市钱璟康复股份有限公司（武进；无苏州专页）",
+      "url": "https://www.zhipin.com/gongsi/4af0faaff75433911HN42tm1.html",
+      "supports": "公开企业主页主体：常州市钱璟康复股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "关于我们 - 常州市钱璟康复股份有限公司",
+      "url": "https://www.qjrehab.com/profile.html",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "常州市钱璟康复股份有限公司始建于1996年，致力于康复器材、辅具及康复医疗器械，下辖子公司近二十家。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官网主体在常州，与档案“苏州”口径不一致。 原采集名称“苏州钱璟康复”保留于 provenance；现以来源中具名机构为研究对象，原地区分支假设未证实。 官网以已读取的 s03（qjrehab.com）为准；旧 qianjingkang.com 未证实关联，保留 s01。 原采集地域为“苏州”，本次按来源支持范围更正；不代表在该地有开放岗位。 本次为存量证据的主体／口径纠错；渠道日期保持原采集日期，未声称重新登录平台核验。",
+  "category_id": "08",
+  "focus": "康复机器人设备及AI辅助康复方案",
+  "products": "康复机器人设备及AI辅助康复方案",
+  "locations_text": "常州（s03 官方具名主体）；原苏州分支待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：康复机器人设备及AI辅助康复方案。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "官网主体为常州市钱璟康复股份有限公司；草稿“北交所上市”未获证实，融资与挂牌状态待核。",
+    "verification_status": "not_found"
+  },
+  "provenance": {
+    "original_name": "苏州钱璟康复",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

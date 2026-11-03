@@ -1,0 +1,202 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "gaussian-robotics",
+  "name": "高仙机器人",
+  "aliases": [
+    "Gaussian Robotics",
+    "高仙",
+    "Gaussian",
+    "Ecobot",
+    "苏州高仙机器人科技有限公司",
+    "高仙机器人"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "全球部署的商用清洁机器人新进厂商，C轮12亿元、产品矩阵与海外渠道成熟，适合产品/海外商业化研究；列为第一波。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-bfde930ddf623be8",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.gs-robot.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "高仙机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-7e6bc6a00149bb36",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/gs93533663/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州高仙机器人科技有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-ebc1bd98920a9206",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/d268a36feef47b601Hx40966GFQ~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "高仙机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-05153b415a427b74",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.gs-robot.com/careers/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "高仙机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-03",
+      "source_ids": [
+        "s08"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.gs-robot.com",
+    "careers_url": "https://www.gs-robot.com/careers/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "高仙机器人 公开入口",
+      "url": "https://www.gs-robot.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "高仙机器人_商用清洁机器人_智能洗地机器人_工业智能清洁解决方案",
+      "url": "https://www.gs-robot.com/",
+      "supports": "公开官网主体观察：https://www.gs-robot.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【苏州高仙机器人科技有限公司招聘信息】-猎聘",
+      "url": "https://www.liepin.com/company/gs93533663/",
+      "supports": "公开企业主页主体：苏州高仙机器人科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 高仙机器人",
+      "url": "https://www.zhipin.com/gongsi/d268a36feef47b601Hx40966GFQ~.html",
+      "supports": "公开企业主页主体：高仙机器人；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "融资12亿！高仙机器人完成C轮融资，今日资本、软银愿景联合领投",
+      "url": "https://www.sohu.com/a/500343308_489960",
+      "supports": "高仙12亿元C轮、投资方、产品矩阵与全球40多个国家和地区落地。",
+      "published_date": "2021-11-10",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "清洁机器人企业高仙完成D++轮融资",
+      "url": "https://robot.ofweek.com/2023-01/ART-8321200-8500-30584542.html",
+      "supports": "高仙完成D++轮融资及商用清洁机器人业务。",
+      "published_date": "2023-01-11",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "高仙机器人官网",
+      "url": "https://www.gs-robot.com/",
+      "supports": "奂影S1、Scrubber、Vacuum等产品线。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "channel",
+      "title": "Careers - 高仙",
+      "url": "https://www.gs-robot.com/careers/",
+      "supports": "官方职业页与 Our vacancies 列表（当日 10 个岗位，含 Channel Commercial Manager 上海、Overseas Market Strategy Manager）；未公开招聘邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "D++轮金额与投资方未在可读页面完整披露；公司未上市，最新估值未核验。",
+  "category_id": "08",
+  "focus": "商用清洁机器人与全球运营",
+  "products": "奂影S1、Scrubber 50/75、Vacuum 40等商用清洁机器人及配套工作站",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：商用清洁机器人与全球运营。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2021年完成12亿元C轮融资，今日资本、软银愿景基金联合领投，美团超额认购、蓝驰/远翼跟投；2023年完成D++轮，金额未披露。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "高仙机器人",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

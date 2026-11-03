@@ -1,0 +1,126 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "bozhong",
+  "name": "苏州博众精工",
+  "aliases": [
+    "Bozhong Precision Group",
+    "博众精工科技股份有限公司",
+    "博众精工"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板上市（688097，2021-05）的自动化设备与柔性产线厂商，2006年成立、注册于苏州吴江，属成熟智能制造装备玩家。列为 later。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-f598b5373440c7d5",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9793213/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "博众精工",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-c3a146af186a622d",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/8ebcd2ab59df0c691HZ_3Nm9GVE~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "博众精工科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.bozhong.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州博众精工 公开入口",
+      "url": "https://www.bozhong.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【博众精工招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9793213/",
+      "supports": "公开企业主页主体：博众精工；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 博众精工科技股份有限公司（吴江湖心西路，373岗）",
+      "url": "https://www.zhipin.com/gongsi/8ebcd2ab59df0c691HZ_3Nm9GVE~.html",
+      "supports": "公开企业主页主体：博众精工科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 博众精工科技股份有限公司（688097）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688097.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "公司全称、2006-09-22成立、2021-05-12上市、自动化设备与柔性产线主营、吴江注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 原采集地域为“苏州（吴中区）”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "08",
+  "focus": "智能制造装备、自动化产线系统集成，新能源/3C机器人",
+  "products": "智能制造装备、自动化产线系统集成，新能源/3C机器人",
+  "locations_text": "苏州吴江（s04 已有资料列注册地址）；原吴中区标签更正，岗位地点另核",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：智能制造装备、自动化产线系统集成，新能源/3C机器人。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所科创板上市（688097，2021-05-12）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州博众精工",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

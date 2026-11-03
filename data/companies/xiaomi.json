@@ -1,0 +1,171 @@
+{
+  "schema_version": 3,
+  "id": "xiaomi",
+  "name": "小米 Xiaomi",
+  "aliases": [
+    "小米",
+    "Xiaomi",
+    "小米科技"
+  ],
+  "category_id": "01",
+  "focus": "消费电子与智能制造集团；AI 切面以 MiMo 通用智能基座等公开模型产品为主",
+  "products": "小米手机与 IoT、汽车相关业务、小爱同学、MiMo 模型等",
+  "locations_text": "北京；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相对华为同属终端／ICT 相邻集团；公开 AI 证据以 MiMo 基座为主，不与金山软件／金山云合并。",
+    "peer_names": [
+      "华为",
+      "百度",
+      "金山云"
+    ]
+  },
+  "investment": {
+    "summary": "港交所上市；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://www.mi.com/",
+    "careers_url": "https://hr.xiaomi.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "category_id=01 取 MiMo 基座证据；终端硬件亦可对照 09，本档案以具名大模型产品线为主切面。官网／招聘站强前端，标题抓取不稳定。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "小米官网",
+      "url": "https://www.mi.com/",
+      "supports": "集团／品牌官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "小米招聘",
+      "url": "https://hr.xiaomi.com/",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "小米 MiMo 官网",
+      "url": "https://mimo.xiaomi.com/zh/",
+      "supports": "MiMo 主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「小米科技有限责任公司」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/f68813333acd05f11XZ83t25.html",
+      "supports": "公开企业主页路径指向小米科技；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【小米招聘】-猎聘",
+      "url": "https://www.liepin.com/company/2174886/",
+      "supports": "公开企业主页主体：小米。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "小米",
+    "original_track": "01",
+    "original_subtrack": "cloud_ict_adjacent"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市消费电子母平台，已有 MiMo 等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-2573147170e9f50b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.mi.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "小米 Xiaomi",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-197ffda7b4a1f419",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://hr.xiaomi.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "小米 Xiaomi",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-5aa8569d079ef02b",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/f68813333acd05f11XZ83t25.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "小米 Xiaomi",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染。"
+    },
+    {
+      "id": "ch-718631353cd27ebb",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/2174886/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "小米",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "gstarsoft",
+  "name": "苏州浩辰软件",
+  "aliases": [
+    "Gstarsoft",
+    "浩辰软件",
+    "GstarCAD",
+    "浩辰CAD",
+    "苏州浩辰软件股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2001年成立、2023年科创板上市（688657）的CAD软件厂商，注册于苏州工业园区，属成熟工业软件玩家。注意：草稿所列代码688133与公开资料不符，实际为688657。列为 later。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-060ee0514125bbcc",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7965554/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "浩辰软件",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-a794366f4b187122",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/1dab676601967f7c1XV-2t28GA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "浩辰软件",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.gstarsoft.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州浩辰软件 公开入口",
+      "url": "https://www.gstarsoft.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【浩辰软件招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7965554/",
+      "supports": "公开企业主页主体：浩辰软件；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 浩辰软件（虎丘浩辰大厦，39岗）",
+      "url": "https://www.zhipin.com/gongsi/1dab676601967f7c1XV-2t28GA~~.html",
+      "supports": "公开企业主页主体：浩辰软件；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 苏州浩辰软件股份有限公司（688657）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688657.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "公司全称、2001-11-27成立、2023-10-10上市、CAD相关软件主营、苏州工业园区注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "04",
+  "focus": "CAD软件+AI设计辅助，工业设计数字化国产替代",
+  "products": "CAD软件+AI设计辅助，工业设计数字化国产替代",
+  "locations_text": "苏州高新区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：CAD软件+AI设计辅助，工业设计数字化国产替代。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所科创板上市（688657，2023-10-10）；草稿所列688133有误；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州浩辰软件",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "gcl-energy",
+  "name": "协鑫能科",
+  "aliases": [
+    "GCL Energy Technology",
+    "GCL Energy",
+    "协鑫",
+    "协鑫能源科技股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "深交所上市（002015）的清洁能源与移动能源运营商，1992年成立，属协鑫集团体系成熟玩家；官网已有AIDC/算电协同表述，但不证明AI业务规模。列为 later。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-bc2fbebb25eda9c7",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.gcl-et.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "协鑫能科",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-1181d0947dcccd4b",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/12269593/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "协鑫能源科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-b8dad2e07790ac0f",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/de58008d08b730941n1929i1Els~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "协鑫能源科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.gcl-et.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "协鑫能科 公开入口",
+      "url": "https://www.gcl-et.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "协鑫能科官网",
+      "url": "https://www.gcl-et.com",
+      "supports": "公开官网主体与标题观察：协鑫能源科技股份有限公司；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【协鑫能源科技股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/12269593/",
+      "supports": "公开企业主页主体：协鑫能源科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 协鑫能源科技股份有限公司（运营地址园区协鑫能源中心）",
+      "url": "https://www.zhipin.com/gongsi/de58008d08b730941n1929i1Els~.html",
+      "supports": "公开企业主页主体：协鑫能源科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 协鑫能源科技股份有限公司（002015）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002015.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "1992-05-05成立、2004-07-08上市、清洁能源运营/移动能源运营/综合能源服务主营、江阴注册地址。"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "协鑫能源科技股份有限公司官网",
+      "url": "https://www.gcl-et.com/",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "官网股票代码002015.SZ及“算电协同，驱动AIDC新时代”业务表述。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 原采集地域为“苏州（吴中）”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "06",
+  "focus": "新能源移动充电/换电站+AI调度管理系统，储能AI",
+  "products": "新能源移动充电/换电站+AI调度管理系统，储能AI",
+  "locations_text": "江阴（s05 已有资料列注册地址）；苏州办公点及原吴中区归属待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：新能源移动充电/换电站+AI调度管理系统，储能AI。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "深交所主板上市（002015，2004-07-08）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "协鑫能科",
+    "original_track": "06",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "nio",
+  "name": "蔚来",
+  "aliases": [
+    "NIO",
+    "蔚来汽车",
+    "乐道",
+    "萤火虫",
+    "蔚来集团",
+    "NIO Inc."
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "多地上市的智能电动车集团，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-9d23dabebd58194f",
+      "layer": "official",
+      "platform": "website",
+      "url": "http://www.nio.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "蔚来",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "https 在本机 curl 返回 567，http 200；只核验入口归属。"
+    },
+    {
+      "id": "ch-f1279f3889e8883d",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8524725/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "蔚来",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-31c8534cc60bb5c9",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/c61d023bc6632dd91XZy2dQ~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "蔚来汽车",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "http://www.nio.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "蔚来 公开入口",
+      "url": "https://www.nio.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "NIO蔚来汽车官方网站",
+      "url": "http://www.nio.cn/",
+      "supports": "公开官网主体观察：http://www.nio.cn/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【NIO蔚来招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8524725/",
+      "supports": "公开企业主页主体：蔚来；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · NIO蔚来",
+      "url": "https://www.zhipin.com/gongsi/c61d023bc6632dd91XZy2dQ~.html",
+      "supports": "公开企业主页主体：蔚来汽车；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "蔚来季报图解：营收197亿，交付72689辆车 毛利率提升至11.7%",
+      "url": "https://finance.sina.com.cn/tech/csj/2025-03-21/doc-ineqmmwh2752537.shtml",
+      "supports": "蔚来2024年营收657.32亿元、交付22.197万辆及NIO/9866/新交所上市身份。",
+      "published_date": "2025-03-21",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "未核实到独立招聘页与招聘邮箱；招聘入口见 channels 中的猎聘/BOSS 页面。",
+  "category_id": "08",
+  "focus": "智能电动汽车与自研智能驾驶/座舱",
+  "products": "蔚来品牌车型、NIO AD智能驾驶、换电体系、NIO Phone",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：智能电动汽车与自研智能驾驶/座舱。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "纽交所、港交所与新交所上市（NIO/9866）；2024年营收657.32亿元，同比增长18.2%，交付22.197万辆。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "蔚来",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

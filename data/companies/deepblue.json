@@ -1,0 +1,164 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "deepblue",
+  "name": "深兰科技",
+  "aliases": [
+    "DeepBlue",
+    "深兰",
+    "深兰人工智能科技(上海)股份有限公司",
+    "深兰科技（上海）有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "多线布局AI装备的新进公司，2025年获浦东创投Pre-IPO投资；业务线较分散、公开财务与客户验证有限，先列观察而非第一波。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-2233df29ddf53382",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.deepblueai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "深兰科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-fa6f324a9221954c",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9496603/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "深兰人工智能科技(上海)股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-308ba06713af8326",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/94a237f837ad41040nJ92tS5.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "深兰科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.deepblueai.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "深兰科技 公开入口",
+      "url": "https://www.deepblueai.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "深兰科技——致力于人工智能基础研究和应用开发",
+      "url": "https://www.deepblueai.com/",
+      "supports": "公开官网主体观察：https://www.deepblueai.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【深兰科技(上海)有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9496603/",
+      "supports": "公开企业主页主体：深兰人工智能科技(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 深兰科技",
+      "url": "https://www.zhipin.com/gongsi/94a237f837ad41040nJ92tS5.html",
+      "supports": "公开企业主页主体：深兰科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "深兰科技获浦东创投集团数亿元Pre-IPO轮融资",
+      "url": "https://news.qq.com/rain/a/20250403A04P4K00",
+      "supports": "深兰科技Pre-IPO轮、浦东创投参与及自动驾驶/机器人/工业智能/AI医疗业务。",
+      "published_date": "2025-04-03",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "深兰科技官网",
+      "url": "https://www.deepblueai.com/",
+      "supports": "清洁机器人、数字健康机器人、智能公交与行业智能体等产品口径。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "公开报道存在对经营与债务的争议，本记录未做司法/信用核验；融资仅按公司宣布与媒体披露记录。",
+  "category_id": "06",
+  "focus": "计算机视觉、智能机器人与自动驾驶",
+  "products": "商用清洁机器人、数字健康机器人、熊猫智能公交、AI工作手机/智能体",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：计算机视觉、智能机器人与自动驾驶。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2025年4月获浦东创投集团数亿元Pre-IPO轮投资；公司称此前已完成多轮融资，本轮具体金额与估值未完整披露。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "深兰科技",
+    "original_track": "06",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

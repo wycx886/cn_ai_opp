@@ -143,6 +143,10 @@
 
 `contacts.careers_url` 可能是官方页、招聘平台或历史帖子，不能一律计为 Layer 1。`sources` 中引用了 GitHub、X 或领英网址，也不能由域名推断它就是该机构或负责人的渠道。结构化覆盖率按已核实的 `channels` 计算，既有未结构化信息另作提示。
 
+`owner.name` 为网页实际观察到的主体名称，不能统一替换为档案标签。`confirmed` 必须匹配目标名称或有来源确认的同一主体别名；母集团、其他城市法人、关联销售公司的入口保留为 `partial`，用 `owner.role` 和 `notes` 说明范围与待核实关系。`partial` 不计入已确认渠道覆盖率，阅读版同时展示这些说明。地区业务集合不自动成为独立公司；注册地址、历史基地、当前办公地与具体岗位地点分别判断，地域不确定时直接在 `locations_text` 标明待核实和依据。
+
+已有玩家底表的可选 `company_id` 只路由到同层级完整机构档案，稳定底表 ID 不必与档案 ID 相同（例如 `trip-com` → `ctrip`）。未绑定时省略，不用上海／苏州团队替代集团档案；完整研究仍只维护在 `data/companies/`。
+
 ## 人物资料与公开主页
 
 人物统一放 `people[]`，契约见 [person.schema.json](schemas/person.schema.json)。`name`、`role`、`background`、`previous_firms` 是身份事实；`source_ids`、`checked_at`、`verification_status`、`notes` 记录其核验依据和限制。`profiles[]` 独立记录平台、URL、核验状态、来源与日期；替换身份依据时，旧依据用 `historical_source_ids` 保留，不参与当前核查日期判断；不在 `channels[]` 或 VC 的 `team[]` 复制人物。

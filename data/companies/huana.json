@@ -1,0 +1,125 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "huana",
+  "name": "汇纳科技",
+  "aliases": [
+    "Huana Information Technology",
+    "汇纳科技股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2004年成立、2017年创业板上市（300609）的线下商业客流与行业数字化解决方案厂商，属成熟AI应用玩家。注意：公开资料注册地为上海宝山，与本档案“苏州工业园区”口径不一致，待核对。列为 later。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-aa9ce9e589b73313",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7875821/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "汇纳科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-9977a0a649b32265",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/410d5e6ed40124f80XV72w~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "汇纳科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.hunainfo.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "汇纳科技 公开入口",
+      "url": "https://www.hunainfo.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【汇纳科技招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7875821/",
+      "supports": "公开企业主页主体：汇纳科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 汇纳科技股份有限公司（沪/宁/穗，无苏州站点）",
+      "url": "https://www.zhipin.com/gongsi/410d5e6ed40124f80XV72w~~.html",
+      "supports": "公开企业主页主体：汇纳科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 汇纳科技股份有限公司（300609）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/300609.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2004-07-14成立、2017-02-15上市、AI与大数据赋能线下商业等主营、上海宝山注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：公开注册地为上海宝山，苏州工业园区口径未证实。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "04",
+  "focus": "商业空间客流AI分析，零售/商场智能运营解决方案",
+  "products": "商业空间客流AI分析，零售/商场智能运营解决方案",
+  "locations_text": "上海宝山（s05 已有资料列注册地址）；原苏州工业园区关联待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：商业空间客流AI分析，零售/商场智能运营解决方案。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "深交所创业板上市（300609，2017-02-15）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "汇纳科技",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

@@ -51,7 +51,7 @@ GLM、BigModel、智谱清言、CogAgent、CodeGeeX
 | 类别 | 平台与用途 | 公开链接 | 归属 | 核查日期 | 状态／来源 |
 | --- | --- | --- | --- | --- | --- |
 | Layer 2 招聘平台 | boss_zhipin / recruitment | [入口](https://www.zhipin.com/gongsi/18815b858c0b88250nd72N66Fw~~.html) | 智谱 Z.ai | 2026-10-31 | confirmed / s05 |
-| Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/10087865/) | 智谱 Z.ai | 2026-11-01 | confirmed / s06 |
+| Layer 2 招聘平台 | liepin / recruitment | [入口](https://www.liepin.com/company/10087865/) | 智谱 Z.ai | 2026-11-01 | confirmed / s06；通过平台品牌名与GLM、ChatGLM、BigModel等公开产品简介核对归属；工商信息登录受限，未作工商主体核验。 |
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 

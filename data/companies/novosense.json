@@ -1,0 +1,189 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "novosense",
+  "name": "纳芯微电子",
+  "aliases": [
+    "NOVOSENSE",
+    "纳芯微"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2013年成立、2022年科创板上市（688052）的模拟及混合信号芯片厂商，注册于苏州工业园区，属成熟芯片玩家。列为 later。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-3bbda225486d5d11",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.novosns.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "纳芯微电子",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-77cc004f419b21dc",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8781310/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "纳芯微电子",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-58ff330975b2076e",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://careers.novosns.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "纳芯微电子",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-7df7cbe6f6ec9c1e",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/fbbc72be7ea916a603B62tW4EA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "纳芯微电子",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.novosns.com",
+    "careers_url": "https://careers.novosns.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "纳芯微电子 公开入口",
+      "url": "https://www.novosns.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "纳芯微电子官网",
+      "url": "https://www.novosns.com",
+      "supports": "公开官网主体与标题观察：高性能高可靠性模拟及混合信号芯片 | novosns.com；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【纳芯微电子招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8781310/",
+      "supports": "公开企业主页主体：纳芯微电子；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "纳芯微招聘官网",
+      "url": "https://careers.novosns.com/",
+      "supports": "官方招聘／加入我们入口。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州纳芯微电子股份有限公司",
+      "url": "https://www.zhipin.com/gongsi/fbbc72be7ea916a603B62tW4EA~~.html",
+      "supports": "公开企业主页主体：纳芯微电子；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 苏州纳芯微电子股份有限公司（688052）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688052.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2013-05-17成立、2022-04-22上市、模拟集成电路主营、苏州工业园区注册地址。"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "纳芯微招聘官网",
+      "url": "https://careers.novosns.com/",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "官网称科创板股票代码688052、2013年成立、聚焦传感器/信号链/电源管理。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "09",
+  "focus": "模拟与混合信号芯片，传感器信号链/隔离/驱动IC，汽车+工业",
+  "products": "模拟与混合信号芯片，传感器信号链/隔离/驱动IC，汽车+工业",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：模拟与混合信号芯片，传感器信号链/隔离/驱动IC，汽车+工业。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所科创板上市（688052，2022-04-22）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "纳芯微电子",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

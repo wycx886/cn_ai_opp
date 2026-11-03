@@ -1,0 +1,181 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "moons",
+  "name": "鸣志电器",
+  "aliases": [
+    "Moons'",
+    "鸣志",
+    "Moons",
+    "上海鸣志电器股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上交所上市的运动控制部件厂商，机器人业务占比仍低，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-df672d7d77f08c1d",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.moons.com.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "鸣志电器",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-b7fbe8e3e8d02717",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://moons1.zhiye.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "鸣志电器",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-fcbf382a3da1acee",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7915579/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "鸣志",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-c07742bb495b44bb",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/7a7926a3e73d01701n183tm_EVQ~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "鸣志电器",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.moons.com.cn",
+    "careers_url": "https://moons1.zhiye.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "鸣志电器 公开入口",
+      "url": "https://www.moons.com.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "鸣志(MOONS')-致力为客户提供运动控制及智能照明整体解决方案【鸣志中文网站】",
+      "url": "https://www.moons.com.cn/",
+      "supports": "公开官网主体观察：https://www.moons.com.cn/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "上海鸣志电器股份有限公司",
+      "url": "https://moons1.zhiye.com/",
+      "supports": "公开招聘入口主体观察：https://moons1.zhiye.com/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【鸣志招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7915579/",
+      "supports": "公开企业主页主体：鸣志；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海鸣志电器",
+      "url": "https://www.zhipin.com/gongsi/7a7926a3e73d01701n183tm_EVQ~.html",
+      "supports": "公开企业主页主体：鸣志电器；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "鸣志电器：2024年上半年公司机器人（包含人形机器人）相关应用占营业收入约8%",
+      "url": "https://www.stcn.com/article/detail/1537740.html",
+      "supports": "鸣志电器603728的机器人相关应用占营收约8%及关节电机产品。",
+      "published_date": "2025-02-21",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "机器人相关收入占比为公司2025年2月公告口径（对应2024年上半年），后续占比未核验。",
+  "category_id": "09",
+  "focus": "运动控制与机器人关节部件",
+  "products": "步进电机、空心杯/无框电机、伺服系统、机器人关节模组",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：运动控制与机器人关节部件。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所上市（603728）；2024年上半年机器人相关应用约占营收8%，公司提示占比较低。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "鸣志电器",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

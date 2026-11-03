@@ -4,76 +4,76 @@
 
 [项目首页](../../README.md) · [机器清单](../lists/incumbents.json) · [已有玩家方法](../../skills/find-incumbents/SKILL.md) · [项目与拆分机构](corporate-ventures.md)
 
-当前中国AI机会研究的已有玩家／母平台发现底表：互联网优先，兼顾软件、成熟技术供应商、云与ICT、硬件芯片及跨行业集团。sectors为可交叉的编辑性业务标签；topic_evidence仅表示所列材料支持的主题活动，不是头部排名、完整能力核验或正式目标档案。底表可继续扩展，不代表完整市场全集；通用Skill本身不限中国或AI。
+当前中国AI机会研究的已有玩家／母平台发现底表：互联网优先，兼顾软件、成熟技术供应商、云与ICT、硬件芯片及跨行业集团。sectors为可交叉的编辑性业务标签；topic_evidence仅表示所列材料支持的主题活动，不是头部排名、完整能力核验或正式目标档案。底表可继续扩展，不代表完整市场全集；通用Skill本身不限中国或AI。 company_id（如有）只路由到同层级完整档案；集团底表不映射到地区团队，不含该字段表示尚未绑定正式集团档案。
 
 这是查找已有业务、具体团队及新孵化项目的起点，不是正式目标、已发现岗位或股权关系清单。公司规模不自动表示主题能力领先；访问官网不等于项目核验，不将全部机构统称为 hyperscaler。硬件与软件标签可交叉，主题证据缺失表示尚未附入本表，不等于没有相关业务。
 
 ## 互联网与数字平台 · 24 个入口
 
-| 机构／平台 | ID | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
-| --- | --- | --- | --- | --- | --- |
-| 阿里巴巴集团 | `alibaba` | internet, software, cloud | [官方入口](https://www.alibabagroup.com/en-US/about-alibaba) | 仅检索线索 · 2026-10-31 | 蚂蚁集团另列；具体业务和子公司按当前证据归属。 |
-| 腾讯 | `tencent` | internet, software, cloud | [官方入口](https://www.tencent.com/Who%20we%20are/) | 仅检索线索 · 2026-10-31 | 集团、业务部门、实验室和被投机构分别核实。 |
-| 百度 | `baidu` | internet, software, cloud | [官方入口](https://ir.baidu.com/) | 仅检索线索 · 2026-10-31 | 不将创始人个人发起或被投机构自动当作集团拆分。 |
-| 字节跳动 | `bytedance` | internet, software, cloud | [官方入口](https://www.bytedance.com/about) | 仅检索线索 · 2026-10-31 | 团队、实验室、项目和拆分机构分别建档；控制权单独核实。 |
-| 蚂蚁集团 | `ant-group` | software, financial_services | [官方入口](https://www.antgroup.com/en/news-media/press-releases/1718258859000) | 仅检索线索 · 2026-10-31 | 与阿里巴巴分别作为寻源入口；不据生态联系推断子公司关系。 |
-| 京东 | `jd` | internet, logistics | [官方入口](https://ir.jd.com/about-JD) | 仅检索线索 · 2026-10-31 | 使用官方IR确认集团身份；具体项目不等于整个集团。 |
-| 美团 | `meituan` | internet, local_services | [官方入口](https://www.meituan.com/) | 已读取 · 2026-10-31 | 内部单元、被投机构及实际拆分关系分别核实。 |
-| 拼多多集团 PDD Holdings | `pdd-holdings` | internet, retail | [官方入口](https://investor.pddholdings.com/) | 已读取 · 2026-10-31 | 集团与拼多多、Temu等产品或业务层级分别核实。 |
-| 快手 | `kuaishou` | internet, media | [官方入口](https://ir.kuaishou.com/) | 已读取 · 2026-10-31 | 模型、创意产品、项目团队和独立机构分别识别。 |
-| 网易 | `netease` | internet, software, media | [官方入口](https://ir.netease.com/) | 已读取 · 2026-10-31 | 集团、旗下业务和其项目分别归属，不能仅据品牌推断独立。 |
-| 小红书 | `xiaohongshu` | internet, media | [官方入口](https://www.xiaohongshu.com/) | 访问受限 · 2026-10-31 | 主站需登录；主体可参考官方协议，项目仍需单独证据。 |
-| 哔哩哔哩 | `bilibili` | internet, media | [官方入口](https://www.bilibili.com/blackboard/aboutUs.html) | 仅检索线索 · 2026-10-31 | 使用官方关于我们页面；IR访问限制不代表项目不存在。 |
-| 滴滴 | `didi` | internet, mobility | [官方入口](https://ir.didiglobal.com/) | 已读取 · 2026-10-31 | 内部业务、独立融资子公司与法律拆分分别核实。 |
-| 携程集团 Trip.com Group | `trip-com` | internet, travel | [官方入口](https://investors.trip.com/) | 已读取 · 2026-10-31 | 集团和旅行产品品牌不作为同一层级重复计数。 |
-| 微博 | `weibo` | internet, media | [官方入口](https://zh.ir.weibo.com/) | 仅检索线索 · 2026-10-31 | 与新浪分别看待，当前控制权不凭历史印象推断。 |
-| 知乎 | `zhihu` | internet, software | [官方入口](https://ir.zhihu.com/) | 已读取 · 2026-10-31 | 搜索、知识产品及其团队按具体单元核实。 |
-| 三六零 360 | `qihoo-360` | software, security | [官方入口](https://www.360.cn/) | 已读取 · 2026-10-31 | 集团品牌、AI产品和法律主体分别核实。 |
-| 58同城／58集团 | `fifty-eight` | internet, local_services | [官方入口](https://about.58.com/official/HomePage) | 仅检索线索 · 2026-10-31 | 官方介绍主要可检索；JS页面访问不构成具体项目确认。 |
-| 贝壳 | `ke-holdings` | internet, real_estate | [官方入口](https://investors.ke.com/) | 已读取 · 2026-10-31 | 平台、旗下品牌和孵化业务分别核实。 |
-| 金山软件 | `kingsoft` | software | [官方入口](https://ir.kingsoft.com/corporate-info/business-overview/) | 仅检索线索 · 2026-10-31 | 金山软件、金山办公、金山云名称不互换；项目按当期主体归属。 |
-| 唯品会 | `vipshop` | internet, retail | [官方入口](https://ir.vip.com/) | 已读取 · 2026-10-31 | 作为排查入口，不据集团规模推断已存在拆分项目。 |
-| 爱奇艺 | `iqiyi` | internet, media | [官方入口](https://ir.iqiyi.com/) | 已读取 · 2026-10-31 | 与百度单列寻源；当前控制关系另查。 |
-| 同程旅行 | `tongcheng-travel` | internet, travel | [官方入口](https://www.tongchengir.com/) | 仅检索线索 · 2026-10-31 | 与携程、腾讯单列寻源，不据历史关联推断控制权。 |
-| 汽车之家 | `autohome` | internet, automotive | [官方入口](https://ir.autohome.com.cn/) | 已读取 · 2026-10-31 | 平台、新业务和当前股东关系分别核实。 |
+| 机构／平台 | ID | 正式档案 | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 阿里巴巴集团 | `alibaba` | [档案](companies/alibaba.md) | internet, software, cloud | [官方入口](https://www.alibabagroup.com/en-US/about-alibaba) | 已读取 · 2026-11-02 | 蚂蚁集团另列；具体业务和子公司按当前证据归属。 |
+| 腾讯 | `tencent` | [档案](companies/tencent.md) | internet, software, cloud | [官方入口](https://www.tencent.com/Who%20we%20are/) | 已读取 · 2026-11-02 | 集团、业务部门、实验室和被投机构分别核实。 |
+| 百度 | `baidu` | [档案](companies/baidu.md) | internet, software, cloud | [官方入口](https://ir.baidu.com/) | 已读取 · 2026-11-02 | 不将创始人个人发起或被投机构自动当作集团拆分。 |
+| 字节跳动 | `bytedance` | [档案](companies/bytedance.md) | internet, software, cloud | [官方入口](https://www.bytedance.com/about) | 已读取 · 2026-11-02 | 团队、实验室、项目和拆分机构分别建档；控制权单独核实。 |
+| 蚂蚁集团 | `ant-group` | [档案](companies/ant-group.md) | software, financial_services | [官方入口](https://www.antgroup.com/en/news-media/press-releases/1718258859000) | 已读取 · 2026-11-02 | 与阿里巴巴分别作为寻源入口；不据生态联系推断子公司关系。 |
+| 京东 | `jd` | [档案](companies/jd.md) | internet, logistics | [官方入口](https://ir.jd.com/about-JD) | 已读取 · 2026-11-02 | 使用官方IR确认集团身份；具体项目不等于整个集团。 |
+| 美团 | `meituan` | [档案](companies/meituan.md) | internet, local_services | [官方入口](https://www.meituan.com/) | 已读取 · 2026-11-02 | 内部单元、被投机构及实际拆分关系分别核实。 |
+| 拼多多集团 PDD Holdings | `pdd-holdings` | [档案](companies/pdd-holdings.md) | internet, retail | [官方入口](https://investor.pddholdings.com/) | 已读取 · 2026-11-02 | 集团与拼多多、Temu等产品或业务层级分别核实。 |
+| 快手 | `kuaishou` | [档案](companies/kuaishou.md) | internet, media | [官方入口](https://ir.kuaishou.com/) | 已读取 · 2026-11-02 | 模型、创意产品、项目团队和独立机构分别识别。 |
+| 网易 | `netease` | [档案](companies/netease.md) | internet, software, media | [官方入口](https://ir.netease.com/) | 已读取 · 2026-11-02 | 集团、旗下业务和其项目分别归属，不能仅据品牌推断独立。 |
+| 小红书 | `xiaohongshu` | [档案](companies/xiaohongshu.md) | internet, media | [官方入口](https://www.xiaohongshu.com/) | 已读取 · 2026-11-02 | 主站需登录；主体可参考官方协议，项目仍需单独证据。 |
+| 哔哩哔哩 | `bilibili` | [档案](companies/bilibili.md) | internet, media | [官方入口](https://www.bilibili.com/blackboard/aboutUs.html) | 已读取 · 2026-11-02 | 使用官方关于我们页面；IR访问限制不代表项目不存在。 |
+| 滴滴 | `didi` | [档案](companies/didi.md) | internet, mobility | [官方入口](https://ir.didiglobal.com/) | 已读取 · 2026-11-02 | 内部业务、独立融资子公司与法律拆分分别核实。 |
+| 携程集团 Trip.com Group | `trip-com` | [档案](companies/ctrip.md) | internet, travel | [官方入口](https://investors.trip.com/) | 已读取 · 2026-10-31 | 集团和旅行产品品牌不作为同一层级重复计数。 |
+| 微博 | `weibo` | 未绑定同层级档案 | internet, media | [官方入口](https://zh.ir.weibo.com/) | 仅检索线索 · 2026-10-31 | 与新浪分别看待，当前控制权不凭历史印象推断。 |
+| 知乎 | `zhihu` | 未绑定同层级档案 | internet, software | [官方入口](https://ir.zhihu.com/) | 已读取 · 2026-10-31 | 搜索、知识产品及其团队按具体单元核实。 |
+| 三六零 360 | `qihoo-360` | 未绑定同层级档案 | software, security | [官方入口](https://www.360.cn/) | 已读取 · 2026-11-02 | 集团品牌、AI产品和法律主体分别核实。 |
+| 58同城／58集团 | `fifty-eight` | 未绑定同层级档案 | internet, local_services | [官方入口](https://about.58.com/official/HomePage) | 仅检索线索 · 2026-10-31 | 官方介绍主要可检索；JS页面访问不构成具体项目确认。 |
+| 贝壳 | `ke-holdings` | 未绑定同层级档案 | internet, real_estate | [官方入口](https://investors.ke.com/) | 已读取 · 2026-10-31 | 平台、旗下品牌和孵化业务分别核实。 |
+| 金山软件 | `kingsoft` | 未绑定同层级档案 | software | [官方入口](https://ir.kingsoft.com/corporate-info/business-overview/) | 仅检索线索 · 2026-10-31 | 金山软件、金山办公、金山云名称不互换；项目按当期主体归属。 |
+| 唯品会 | `vipshop` | 未绑定同层级档案 | internet, retail | [官方入口](https://ir.vip.com/) | 已读取 · 2026-10-31 | 作为排查入口，不据集团规模推断已存在拆分项目。 |
+| 爱奇艺 | `iqiyi` | 未绑定同层级档案 | internet, media | [官方入口](https://ir.iqiyi.com/) | 已读取 · 2026-10-31 | 与百度单列寻源；当前控制关系另查。 |
+| 同程旅行 | `tongcheng-travel` | 未绑定同层级档案 | internet, travel | [官方入口](https://www.tongchengir.com/) | 仅检索线索 · 2026-10-31 | 与携程、腾讯单列寻源，不据历史关联推断控制权。 |
+| 汽车之家 | `autohome` | 未绑定同层级档案 | internet, automotive | [官方入口](https://ir.autohome.com.cn/) | 已读取 · 2026-11-02 | 平台、新业务和当前股东关系分别核实。 |
 
 ## 云、ICT与终端集团 · 8 个入口
 
-| 机构／平台 | ID | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
-| --- | --- | --- | --- | --- | --- |
-| 华为 | `huawei` | hardware, software, cloud, telecom | [官方入口](https://www.huawei.com/en/corporate-information) | 仅检索线索 · 2026-10-31 | 相关ICT集团；不以此将其全部业务定义为互联网或hyperscaler。 |
-| 小米 | `xiaomi` | hardware, software, consumer_devices, automotive | [官方入口](https://www.mi.com/global/about/) | 已读取 · 2026-10-31 | 相关终端集团；不因人物背景与金山合并。 |
-| 联想集团 | `lenovo` | hardware, software | [官方入口](https://investor.lenovo.com/en/about/profile.php) | 仅检索线索 · 2026-10-31 | 相关计算与终端集团；实验室、业务及拆分逐项核实。 |
-| 中兴通讯 | `zte` | hardware, software, telecom | [官方入口](https://www.zte.com.cn/global/index.html) | 已读取 · 2026-10-31 | 相关ICT集团，具体AI单元和法人分别核实。 |
-| 金山云 | `kingsoft-cloud` | cloud, software | [官方入口](https://ir.ksyun.com/corporate-profile/) | 仅检索线索 · 2026-10-31 | 与金山软件分别列入口；不自动合并为同一法人或业务。 |
-| 中国移动 | `china-mobile` | telecom, cloud | [官方入口](https://www.chinamobileltd.com/en/ir/reports/ar2024.pdf) | 仅检索线索 · 2026-10-31 | 公司网页访问受限，官方年报提供身份入口；专业公司和研究院另核。 |
-| 中国电信 | `china-telecom` | telecom, cloud | [官方入口](https://www.chinatelecom-h.com/en/company/company_overview.php?cat=2002) | 仅检索线索 · 2026-10-31 | 相关电信与云集团；专业子公司和创新团队分别核实。 |
-| 中国联通 | `china-unicom` | telecom, cloud | [官方入口](https://www.chinaunicom.com.hk/en/about/profile.php) | 已读取 · 2026-10-31 | 相关电信与云集团；专业子公司和创新团队分别核实。 |
+| 机构／平台 | ID | 正式档案 | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 华为 | `huawei` | [档案](companies/huawei.md) | hardware, software, cloud, telecom | [官方入口](https://www.huawei.com/en/corporate-information) | 已读取 · 2026-11-02 | 相关ICT集团；不以此将其全部业务定义为互联网或hyperscaler。 |
+| 小米 | `xiaomi` | [档案](companies/xiaomi.md) | hardware, software, consumer_devices, automotive | [官方入口](https://www.mi.com/global/about/) | 已读取 · 2026-11-02 | 相关终端集团；不因人物背景与金山合并。 |
+| 联想集团 | `lenovo` | 未绑定同层级档案 | hardware, software | [官方入口](https://investor.lenovo.com/en/about/profile.php) | 已读取 · 2026-11-02 | 相关计算与终端集团；实验室、业务及拆分逐项核实。 |
+| 中兴通讯 | `zte` | 未绑定同层级档案 | hardware, software, telecom | [官方入口](https://www.zte.com.cn/global/index.html) | 已读取 · 2026-11-02 | 相关ICT集团，具体AI单元和法人分别核实。 |
+| 金山云 | `kingsoft-cloud` | [档案](companies/kingsoft-cloud.md) | cloud, software | [官方入口](https://ir.ksyun.com/corporate-profile/) | 已读取 · 2026-11-02 | 与金山软件分别列入口；不自动合并为同一法人或业务。 |
+| 中国移动 | `china-mobile` | 未绑定同层级档案 | telecom, cloud | [官方入口](https://www.chinamobileltd.com/en/ir/reports/ar2024.pdf) | 仅检索线索 · 2026-11-02 | 公司网页访问受限，官方年报提供身份入口；专业公司和研究院另核。 |
+| 中国电信 | `china-telecom` | 未绑定同层级档案 | telecom, cloud | [官方入口](https://www.chinatelecom-h.com/en/company/company_overview.php?cat=2002) | 已读取 · 2026-11-02 | 相关电信与云集团；专业子公司和创新团队分别核实。 |
+| 中国联通 | `china-unicom` | 未绑定同层级档案 | telecom, cloud | [官方入口](https://www.chinaunicom.com.hk/en/about/profile.php) | 已读取 · 2026-11-02 | 相关电信与云集团；专业子公司和创新团队分别核实。 |
 
 ## 软件与成熟技术供应商 · 4 个入口
 
-| 机构／平台 | ID | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
-| --- | --- | --- | --- | --- | --- |
-| 科大讯飞 | `iflytek` | software, enterprise_services | [官方入口](https://cogskl.iflytek.com/about) | 已读取 · 2026-10-31 | 实验室与认知智能、星火及教育／医疗研究方向；不采用营销性的性能领先结论。 |
-| 商汤 SenseTime | `sensetime` | software, enterprise_services | [官方入口](https://www.sensetime.com/en/index) | 已读取 · 2026-10-31 | SenseNova、SenseCore及汽车等AI产品方向；不是市场排名证据。 |
-| 用友 | `yonyou` | software, enterprise_services | [官方入口](https://yonyou.com/YonBIP/product/YonGPT/) | 仅检索线索 · 2026-10-31 | 具名企业大模型及产品能力；本次依据官方检索内容，不等同逐项产品测试。 |
-| 金蝶 | `kingdee` | software, enterprise_services | [官方入口](https://www.kingdee.com/products/cosmic_platform.html) | 仅检索线索 · 2026-10-31 | 企业级平台与Agent产品能力；本次依据官方检索内容，不表示市场排名。 |
+| 机构／平台 | ID | 正式档案 | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 科大讯飞 | `iflytek` | 未绑定同层级档案 | software, enterprise_services | [官方入口](https://cogskl.iflytek.com/about) | 已读取 · 2026-10-31 | 实验室与认知智能、星火及教育／医疗研究方向；不采用营销性的性能领先结论。 |
+| 商汤 SenseTime | `sensetime` | [档案](companies/sensetime.md) | software, enterprise_services | [官方入口](https://www.sensetime.com/en/index) | 已读取 · 2026-10-31 | SenseNova、SenseCore及汽车等AI产品方向；不是市场排名证据。 |
+| 用友 | `yonyou` | 未绑定同层级档案 | software, enterprise_services | [官方入口](https://yonyou.com/YonBIP/product/YonGPT/) | 仅检索线索 · 2026-10-31 | 具名企业大模型及产品能力；本次依据官方检索内容，不等同逐项产品测试。 |
+| 金蝶 | `kingdee` | 未绑定同层级档案 | software, enterprise_services | [官方入口](https://www.kingdee.com/products/cosmic_platform.html) | 仅检索线索 · 2026-10-31 | 企业级平台与Agent产品能力；本次依据官方检索内容，不表示市场排名。 |
 
 ## 硬件、芯片与基础设施 · 3 个入口
 
-| 机构／平台 | ID | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
-| --- | --- | --- | --- | --- | --- |
-| 浪潮信息 IEIT | `ieit` | hardware, infrastructure | [官方入口](https://www.ieisystem.com/) | 已读取 · 2026-10-31 | 具名AI服务器与AIStation等产品；浪潮信息与整个浪潮集团不互换。 |
-| 寒武纪 | `cambricon` | hardware, semiconductors | [官方入口](https://www.cambricon.com/index.php?a=lists&c=index&catid=7&m=content) | 仅检索线索 · 2026-10-31 | AI芯片及云边端产品定位；本次依据官方检索内容，不因成立年份或上市单独判定已有地位。 |
-| OPPO | `oppo` | hardware, software, consumer_devices | [官方入口](https://www.oppo.com/cn/discover/technology/oppo-ai/) | 已读取 · 2026-10-31 | 端侧模型、智能体与终端AI产品研究；旗下品牌及业务单元仍需去重。 |
+| 机构／平台 | ID | 正式档案 | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 浪潮信息 IEIT | `ieit` | 未绑定同层级档案 | hardware, infrastructure | [官方入口](https://www.ieisystem.com/) | 已读取 · 2026-10-31 | 具名AI服务器与AIStation等产品；浪潮信息与整个浪潮集团不互换。 |
+| 寒武纪 | `cambricon` | 未绑定同层级档案 | hardware, semiconductors | [官方入口](https://www.cambricon.com/index.php?a=lists&c=index&catid=7&m=content) | 仅检索线索 · 2026-10-31 | AI芯片及云边端产品定位；本次依据官方检索内容，不因成立年份或上市单独判定已有地位。 |
+| OPPO | `oppo` | 未绑定同层级档案 | hardware, software, consumer_devices | [官方入口](https://www.oppo.com/cn/discover/technology/oppo-ai/) | 已读取 · 2026-10-31 | 端侧模型、智能体与终端AI产品研究；旗下品牌及业务单元仍需去重。 |
 
 ## 跨行业已有玩家 · 3 个入口
 
-| 机构／平台 | ID | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
-| --- | --- | --- | --- | --- | --- |
-| 比亚迪 | `byd` | automotive, hardware | [官方入口](https://prod2.byd.com/cn/news/2024/detail502) | 仅检索线索 · 2026-10-31 | 整车智能、璇玑架构等历史战略依据；当前开展情况须补查最新报告，不能单据此认定AI技术领先。 |
-| 美的 | `midea` | industrial, hardware, consumer_devices | [官方入口](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033001929_c.pdf) | 已读取 · 2026-10-31 | 工业／家庭智能体及内部AI活动的正式披露；成熟工业集团不直接等同通用模型头部。 |
-| 海尔（智慧家庭线索） | `haier` | industrial, hardware, consumer_devices | [官方入口](https://www.haier.com/press-events/news/20260108_284891.shtml) | 仅检索线索 · 2026-10-31 | Uhome大模型、智慧家庭及智能体活动；品牌入口不替代集团与海尔智家法人的具体核实。 |
+| 机构／平台 | ID | 正式档案 | 业务标签 | 官方入口 | 本次访问 | 口径说明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 比亚迪 | `byd` | 未绑定同层级档案 | automotive, hardware | [官方入口](https://prod2.byd.com/cn/news/2024/detail502) | 仅检索线索 · 2026-10-31 | 整车智能、璇玑架构等历史战略依据；当前开展情况须补查最新报告，不能单据此认定AI技术领先。 |
+| 美的 | `midea` | 未绑定同层级档案 | industrial, hardware, consumer_devices | [官方入口](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033001929_c.pdf) | 已读取 · 2026-10-31 | 工业／家庭智能体及内部AI活动的正式披露；成熟工业集团不直接等同通用模型头部。 |
+| 海尔（智慧家庭线索） | `haier` | 未绑定同层级档案 | industrial, hardware, consumer_devices | [官方入口](https://www.haier.com/press-events/news/20260108_284891.shtml) | 仅检索线索 · 2026-10-31 | Uhome大模型、智慧家庭及智能体活动；品牌入口不替代集团与海尔智家法人的具体核实。 |
 
 ## 已附的主题活动证据
 
@@ -81,6 +81,39 @@
 
 | 机构 | 主题／角色 | 来源 | 支持范围 | 公开日期 | 核查日期 |
 | --- | --- | --- | --- | --- | --- |
+| 阿里巴巴集团 | AI / technology_provider | [阿里云百炼：什么是阿里云百炼](https://www.alibabacloud.com/help/zh/model-studio/what-is-model-studio) | 阿里云官方帮助文档说明百炼集成千问（Qwen）全系列及第三方模型，提供官方／OpenAI 兼容 API 与多模态调用；证明集团云侧有具名模型服务平台。不证明 ATH 事业群完整组织图，也不做市场排名判断；蚂蚁另列。 | 2026-10 | 2026-11-02 |
+| 阿里巴巴集团 | AI / infrastructure_provider | [阿里云帮助中心：百炼模型大全](https://help.aliyun.com/zh/model-studio/models) | 官方模型目录列出千问系列及图像／视频／音频等可调用模型与计费入口，支持百炼作为对外模型基础设施。目录会持续变更；不据此推断集团所有业务均以 AI 对外售卖。 | 未标明 | 2026-11-02 |
+| 腾讯 | AI / technology_provider | [腾讯云 TokenHub 大模型服务平台](https://cloud.tencent.com/product/tokenhub) | 腾讯云官方产品页将 TokenHub 描述为聚合腾讯自研混元（含 Hy 系列等）及第三方模型的大模型服务平台，覆盖文本／图像／视频等；证明集团有对外 MaaS 入口与具名混元模型。不证明元宝等 C 端产品组织归属细节，也不采用性能排名表述。 | 未标明 | 2026-11-02 |
+| 腾讯 | AI / infrastructure_provider | [腾讯云文档：TokenHub 混元调用指南](https://cloud.tencent.com/document/product/1823/132252) | 官方开发者文档说明腾讯混元可通过 TokenHub API 调用（如 hy3／hy4-preview），支持集团提供可编程模型服务。文档日期以页面为准；不覆盖 CSIG 全部应用产品线。 | 2026-10-13 | 2026-11-02 |
+| 百度 | AI / technology_provider | [百度智能云：文心大模型产品页](https://cloud.baidu.com/product/model.html) | 百度智能云官方产品页介绍文心／ERNIE 系列为百度自主研发大模型，并对外提供服务入口；证明集团有具名基础模型产品。页面含评测领先等营销语，本条不采用排名结论；不证明智能云以外全部百度业务。 | 未标明 | 2026-11-02 |
+| 百度 | AI / infrastructure_provider | [百度智能云千帆大模型平台](https://cloud.baidu.com/product-s/qianfan_home) | 千帆官方产品页将其描述为以 Agent 为核心的企业级大模型服务平台，列出 ERNIE 等自研模型与 Agent／RAG 能力；支持对外模型与应用开发平台存在。不推断创始人个人项目或被投机构归属。 | 未标明 | 2026-11-02 |
+| 字节跳动 | AI / technology_provider | [字节跳动 Seed：Seed2.1 正式发布](https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity) | 官方 Seed 博客确认 Seed2.1 模型系列已上线豆包、TRAE，并在火山引擎开放 API；证明集团有具名基础模型与 C 端／开发者产品线。不证明市场排名，也不覆盖集团全部业务单元。 | 2026-06-23 | 2026-11-02 |
+| 字节跳动 | AI / infrastructure_provider | [火山引擎官网：豆包大模型与火山方舟](https://www.volcengine.com/) | 火山引擎产品页将豆包大模型、火山方舟等作为对外 AI 云／MaaS 能力售卖；支持集团有云侧模型服务入口。页面含份额等营销表述，本条不采用排名结论；云业务≠字节全部团队。 | 未标明 | 2026-11-02 |
+| 蚂蚁集团 | AI / technology_provider | [蚂蚁百灵大模型：Ling / Ring / Ming 产品家族](https://www.ant-ling.com/zh/) | 蚂蚁百灵官网可读正文介绍 Ling（语言）、Ring（推理）、Ming（全模态）模型家族及 Ling-3.1-flash Open API；证明集团有具名对外大模型产品入口。页面主体显示蚂蚁智能（杭州）科技有限公司；不据此推断与阿里巴巴的子公司关系。 | 未标明 | 2026-11-02 |
+| 蚂蚁集团 | AI / technology_provider | [Ant Group press: Ling AI Model Family / Ling-1T](https://www.antgroup.com/en/news-media/press-releases/1759982400000) | 蚂蚁集团官网新闻入口标题与公开摘要称发布 Ling／百灵模型家族及万亿参数语言模型 Ling-1T；与 ant-ling 产品页相互印证。原 press 页仍为强 JS 壳，主题主证据以 ant-ling 正文为准。 | 2025-10 | 2026-11-02 |
+| 京东 | AI / technology_provider | [JoyAI 官网：京东 AIGC 平台](https://jdai.jd.com/portal) | JoyAI 官方门户称由 JoyAI 团队自研，提供语言／语音／图像／视频／数字人等多模态生成能力面向企业场景；证明京东有具名 AIGC 产品入口。不证明言犀与 JoyAI 为同一法人或同一编制；营销数据不采用。 | 未标明 | 2026-11-02 |
+| 京东 | AI / infrastructure_provider | [京东云：JoyBuilder 模型开发平台 2.0](https://www.jdcloud.com/cn/products/jdaip) | 京东云官方产品页将 JoyBuilder 描述为企业级一站式模型开发平台，覆盖数据／训练／调优／部署；支持云侧 AI 开发基础设施对外提供。历史言犀发布稿可另作补充，本条仅采当前产品页；集团零售主业≠全部 AI 商业化。 | 未标明 | 2026-11-02 |
+| 美团 | AI / technology_provider | [美团新闻：发布 LongCat-2.5 大模型](https://www.meituan.com/news/NN261102280001343) | 美团官网新闻确认发布 LongCat-2.5，并可在 longcat.ai 体验及通过 API 调用；同时提及基于 LongCat 的商家 AI 工作台「妙手」。证明集团有具名大模型与应用入口。新闻引述外部媒体评测对比，本条不采用排名；内部 AI Transformation 组织需另证。 | 2026-11-02 | 2026-11-02 |
+| 美团 | AI / technology_provider | [美团技术团队：LongCat-Flash-Omni 发布并开源](https://tech.meituan.com/2025/11/03/LongCat-Flash-Omni.html) | 美团技术博客发布并开源 LongCat-Flash-Omni 全模态模型，给出 Hugging Face／GitHub 与 longcat.ai 体验入口；支持 LongCat 系列为持续产品／研发活动。开源 SOTA 等表述不作为市场结论；集团主业仍为本地生活。 | 2025-11-03 | 2026-11-02 |
+| 拼多多集团 PDD Holdings | AI / industry_adopter | [PDD Holdings Form 20-F FY2025 (SEC)](https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm) | FY2025 年报风险因素披露竞争对手已集成 AI，并称公司在平台、服务与内部运营中使用 AI 方案，面临运营／监管／声誉风险；支持集团将 AI 用于自身电商业务。未披露具名对外大模型／MaaS 产品品牌；不可据此标为技术供应商或市场领先。 | 2025 | 2026-11-02 |
+| 快手 | AI / technology_provider | [快手 IR：可灵 AI 向全球用户开放内测](https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kuaishoukelingaixiangquanqiuyonghuquanmiankaifangneice) | 快手科技官方新闻稿确认视频生成大模型可灵 AI 及网页端（klingai.kuaishou.com／klingai.com）与会员体系；证明集团有具名生成式视频产品并对外运营。稿件含「全球首个」等营销语，本条不采用；可灵团队与集团其他业务分别核实。 | 2024-07-25 | 2026-11-02 |
+| 网易 | AI / technology_provider | [网易伏羲：AOP 与网易有灵平台介绍](https://fuxi.netease.com/database/1200) | 网易伏羲官方内容称其为网易人工智能研究机构，介绍 AOP／网易有灵平台及游戏 Copilot 等落地；证明集团有持续 AI 研发与产品化活动。不自动等同有道「子曰」等教育产品；伏羲与各游戏工作室编制需另核。 | 2024-09-26 | 2026-11-02 |
+| 小红书 | AI / technology_provider | [App Store：点点 - 你的 AI 生活助手](https://apps.apple.com/cn/app/%E7%82%B9%E7%82%B9-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E5%8A%A9%E6%89%8B/id6529536122) | App Store 产品页将「点点」描述为结合小红书真实经验的 AI 生活助手，并由上海生动诗章科技有限公司上架；支持小红书体系有对外 AI 助手产品。主站 xiaohongshu.com 仍偏登录墙；本条不证明完整 AI 组织架构或商业化深度，开发者主体与集团股权需另核。 | 未标明 | 2026-11-02 |
+| 哔哩哔哩 | AI / technology_provider | [bilibili/Index-1.9B GitHub README](https://github.com/bilibili/Index-1.9B) | 哔哩哔哩官方 GitHub 仓库 README 可读正文说明 Index-1.9B 为 B 站自研轻量多语言模型系列（含 Chat／Character／32K），系统提示写明「由哔哩哔哩自主研发」；支持平台有具名开源大模型活动。不证明全部业务以模型对外售卖。 | 2024-06 | 2026-11-02 |
+| 滴滴 | AI / industry_adopter | [DiDi IR：FY2025 业绩公告（含 Robotaxi R2）](https://ir.didiglobal.com/static-files/433e2d74-b1a6-4551-8449-477fd20cbb7a) | 滴滴官方业绩稿称下一代 Robotaxi 车型 R2 于 2026 年 1 月开始交付，并将继续加大自动驾驶研发与运营投入、把自动驾驶融入线上服务；支持集团在出行场景持续开展自动驾驶／AI 相关业务。本条未核验通用大模型或对外 MaaS 产品；自动驾驶团队与法律主体需另核。 | 2026-03-13 | 2026-11-02 |
+| 三六零 360 | AI / technology_provider | [360智脑官网](https://ai.360.com/) | 360智脑官网可读介绍千亿参数智脑大模型及 AI 搜索、浏览器、智绘、数字员工等产品，并提供开放 API；支持三六零有具名对外 AI 产品入口。法律主体与集团品牌需按具体产品页再核。 | 未标明 | 2026-11-02 |
+| 汽车之家 | AI / technology_provider | [芝士车管家（汽车之家旗下 AI 问车）](https://ai.autohome.com.cn/) | 汽车之家 AI 子域可读介绍「芝士车管家」为旗下 AI 问车产品，并公示生成式人工智能产品上线编号；支持有消费级汽车问答 AI 产品。不证明其自研基座模型。 | 未标明 | 2026-11-02 |
+| 华为 | AI / technology_provider | [华为云：盘古大模型产品页](https://www.huaweicloud.com/product/pangu) | 华为云官方产品页列出盘古 LLM／多模态／视觉／预测／气象等基础与行业大模型及场景入口；证明集团云侧有具名大模型产品线。不将华为全部 ICT 业务定义为互联网 hyperscaler；终端／鸿蒙 AI 需另证。 | 未标明 | 2026-11-02 |
+| 华为 | AI / infrastructure_provider | [华为云：昇腾云服务](https://www.huaweicloud.com/product/modelarts/ascend-cloud.html) | 官方昇腾云服务页提供基于昇腾／CloudMatrix 的 AI 算力与训推工具链，面向大模型训练推理；支持集团作为 AI 算力基础设施提供者。性能对比营销语不采用；昇腾云≠华为全部芯片销售通道。 | 未标明 | 2026-11-02 |
+| 小米 | AI / technology_provider | [小米 MiMo 官网](https://mimo.xiaomi.com/zh/) | 小米 MiMo 官方站点介绍 MiMo 为小米通用智能基座，并发布 MiMo-V2.6 等系列，提供 Web 体验与 API 接入；证明集团有具名大模型产品线。不与金山软件合并；小爱／HyperOS 系统级能力需另页核验。 | 未标明 | 2026-11-02 |
+| 联想集团 | AI / technology_provider | [联想用户指南：天禧个人超级智能体](https://download.lenovo.com/manual/thinkpad_x9_15/user_guide/zh-cn/Tianxi.html) | 联想官方机型用户指南可读说明天禧个人超级智能体提供智能问答、知识库与模型广场（集成多款大模型工具）；支持联想在 AI PC／端侧助手有具名产品。另有 ai.lenovo.com.cn「联想AI PC」营销入口可交叉印证。 | 未标明 | 2026-11-02 |
+| 中兴通讯 | AI / infrastructure_provider | [中兴通讯 AI Studio 智算平台解决方案](https://www.zte.com.cn/china/solutions_latest/computing_infrastructure/AIS.html) | 中兴官网解决方案页可读介绍 AI Studio 一站式模型训练、推理部署与智能体应用开发工具链；支持公司在智算／模型平台侧有公开产品方案。不单独证明星云基座模型的全部参数或市场份额。 | 未标明 | 2026-11-02 |
+| 中兴通讯 | AI / technology_provider | [中兴通讯推出星云通信大模型](https://www.zte.com.cn/china/about/news/20240628c1.html) | 中兴官网新闻标题与页面可访问，宣称推出「星云通信大模型」；支持有具名通信大模型发布线索。正文抓取受前端影响不完整，细节以官网后续专题为准。 | 2024-06 | 2026-11-02 |
+| 金山云 | AI / infrastructure_provider | [金山云星流模型服务](https://www.ksyun.com/nv/product/KSP) | 金山云官方产品页介绍星流模型服务：一站式大模型调用、权限／额度管控、多协议兼容与智能路由，并列出可调用的主流模型系列；支持金山云作为模型调用基础设施提供者。与金山软件分别列入口；不自动合并法人。 | 未标明 | 2026-11-02 |
+| 中国移动 | AI / technology_provider | [国资委转载：中国移动九天大模型正式对外提供生成式人工智能服务](http://www.sasac.gov.cn/n2588025/n2588124/c30482038/content.html) | 国务院国资委网站转载中国移动稿件（2024-04-08）称九天自然语言大模型已在网信办备案清单并对外提供生成式 AI 服务；支持移动有具名九天模型活动。jiutian.10086.cn 本次落到 nginx 欢迎页，未能作为产品正文入口，故平台 access 仍标 search_only。 | 2024-04 | 2026-11-02 |
+| 中国电信 | AI / technology_provider | [天翼AI开放平台：星辰大模型](https://www.teleai.com.cn/) | 中国电信天翼AI开放平台可读介绍星辰语义／语音／视觉／多模态大模型及 TeleAgent 等应用；页面主体为中电信人工智能科技（北京）有限公司。支持电信侧有具名大模型开放入口。 | 未标明 | 2026-11-02 |
+| 中国电信 | AI / infrastructure_provider | [天翼云星辰MaaS模型服务平台](https://www.ctyun.cn/products/xirang-maas) | 天翼云产品页可读介绍星辰 MaaS 的模型调用、训练到部署全流程服务；支持云侧模型基础设施对外供给。 | 未标明 | 2026-11-02 |
+| 中国联通 | AI / technology_provider | [联通元景（联通云）](https://www.cucloud.cn/cloudview.html) | 联通云「联通元景」页可读介绍自研语言大模型对话应用及「看见」「听见」多模态／语音应用 APK；支持联通侧有具名元景模型产品入口。 | 未标明 | 2026-11-02 |
 | 科大讯飞 | AI / technology_provider | [认知智能全国重点实验室官方介绍](https://cogskl.iflytek.com/about) | 实验室与认知智能、星火及教育／医疗研究方向；不采用营销性的性能领先结论。 | 未标明 | 2026-10-31 |
 | 商汤 SenseTime | AI / technology_provider | [SenseTime 官方产品与业务介绍](https://www.sensetime.com/en/index) | SenseNova、SenseCore及汽车等AI产品方向；不是市场排名证据。 | 未标明 | 2026-10-31 |
 | 用友 | AI / technology_provider | [用友 YonGPT 官方产品页](https://yonyou.com/YonBIP/product/YonGPT/) | 具名企业大模型及产品能力；本次依据官方检索内容，不等同逐项产品测试。 | 未标明 | 2026-10-31 |

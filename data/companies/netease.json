@@ -1,0 +1,171 @@
+{
+  "schema_version": 3,
+  "id": "netease",
+  "name": "网易 NetEase",
+  "aliases": [
+    "网易",
+    "NetEase",
+    "网易公司"
+  ],
+  "category_id": "05",
+  "focus": "游戏、音乐与互联网服务集团；AI 切面以伏羲等研究机构及游戏／内容侧落地为主",
+  "products": "网易游戏、网易云音乐、邮箱等；伏羲／有灵等 AI 研发与平台",
+  "locations_text": "杭州；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与腾讯同有游戏业务，但公开 AI 证据更集中在伏羲研究与内容／游戏助手，主分类落在多模态／内容生产相邻赛道。",
+    "peer_names": [
+      "腾讯",
+      "字节跳动",
+      "小红书"
+    ]
+  },
+  "investment": {
+    "summary": "纳斯达克／港交所上市；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://www.163.com/",
+    "careers_url": "https://hr.163.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "BOSS 直聘已写入集团命名页 38bd5c757efa4ab6331z（与网易游戏／有道分列；反爬未能完整渲染）。游戏招聘另有 hr.game.163.com，本条 careers_url 取集团社招 hr.163.com。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "网易",
+      "url": "https://www.163.com/",
+      "supports": "集团门户身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "网易社会招聘",
+      "url": "https://hr.163.com/",
+      "supports": "官方社招入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "网易伏羲：AOP 与网易有灵平台介绍",
+      "url": "https://fuxi.netease.com/database/1200",
+      "supports": "伏羲 AI 主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "【网易公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9421495/",
+      "supports": "公开企业主页主体：网易公司。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "「网易」-BOSS直聘企业主页",
+      "url": "https://www.zhipin.com/gongsi/38bd5c757efa4ab6331z.html",
+      "supports": "公开企业主页主体：网易；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    }
+  ],
+  "provenance": {
+    "original_name": "网易",
+    "original_track": "05",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市互联网／游戏母平台，已有伏羲等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-789ba9a90150b915",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.163.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "网易 NetEase",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-564f62b2b6fd8cf3",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://hr.163.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "网易 NetEase",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-bd911f40d2eeac55",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9421495/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "网易公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-f77f883ded443bdc",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/38bd5c757efa4ab6331z.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "网易",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": "公开搜索标题为「网易」且与「网易游戏」「网易有道」分列；反爬页未能完整渲染。"
+    }
+  ]
+}

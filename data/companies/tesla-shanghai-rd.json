@@ -1,0 +1,188 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "tesla-shanghai-rd",
+  "name": "特斯拉上海研发创新中心",
+  "aliases": [
+    "Tesla Shanghai R&D"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "特斯拉的上海整车研发机构，属于成熟平台的区域研发单元；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-0f1cf9e4d0398b02",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.tesla.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "特斯拉中国",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "中国区官网；上海研发中心未单列，只核验入口归属。 待核实：页面观察主体为“特斯拉中国”；不能作为“特斯拉上海研发创新中心”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-d5ea48d0a106bfdf",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.tesla.cn/careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "特斯拉中国",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "中国区招聘站；上海研发中心岗位未单列，只核验入口归属。 待核实：页面观察主体为“特斯拉中国”；不能作为“特斯拉上海研发创新中心”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-6c7f92f51ca672b0",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8626076/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "特斯拉",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "待核实：页面观察主体为“特斯拉”；不能作为“特斯拉上海研发创新中心”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-1a9e405a73cc1013",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/a3fff2b435110f101Xx40tm7.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "Tesla",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": "待核实：页面观察主体为“Tesla”；不能作为“特斯拉上海研发创新中心”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "特斯拉上海研发创新中心 公开入口",
+      "url": "https://www.tesla.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "纯电动车、太阳能和清洁能源 | 特斯拉中国",
+      "url": "https://www.tesla.cn/",
+      "supports": "公开官网主体观察：https://www.tesla.cn/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "工作机会 | 特斯拉中国",
+      "url": "https://www.tesla.cn/careers",
+      "supports": "公开招聘入口主体观察：https://www.tesla.cn/careers；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【特斯拉中国招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8626076/",
+      "supports": "公开企业主页主体：特斯拉；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 特斯拉 Tesla",
+      "url": "https://www.zhipin.com/gongsi/a3fff2b435110f101Xx40tm7.html",
+      "supports": "公开企业主页主体：Tesla；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "特斯拉上海研发中心和数据中心落成，系海外首个整车研发中心",
+      "url": "https://m.thepaper.cn/newsDetail_forward_15059240",
+      "supports": "特斯拉上海研发创新中心落成、28个实验室及软件/硬件/电子/材料/动力团队。",
+      "published_date": "2021-10-25",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "研发中心2021年落成，当前团队与项目未更新核验；未单独设立融资主体。 主体边界：2021年报道支持特斯拉上海研发创新中心历史设立；不视为独立公司，当前组织架构与岗位待核实。 原采集关联名称（不再作为同一主体别名匹配）：特斯拉、Tesla、特斯拉上海研发创新中心。 原采集地域为“上海临港”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.tesla.cn 保留为关联／历史线索，未确认属于本研究单元。 原 contacts.careers_url 入口 https://www.tesla.cn/careers 保留为关联／历史线索，未确认属于本研究单元。",
+  "category_id": "08",
+  "focus": "业务研究线索（当前本地团队归属待核实）：整车研发、智能驾驶与本地化AI",
+  "products": "原采集产品／业务关注点（不表示本地单元当前归属）：整车研发、软件/硬件/电子/材料/动力工程、AI机器学习",
+  "locations_text": "上海（s06 为2021年研发中心落成报道）；当前地点与团队待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：特斯拉在华研发机构，2021年落成，为特斯拉海外首个整车研发中心；不单独披露融资，投入计入集团。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "特斯拉上海研发创新中心",
+    "original_track": "08",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [],
+    "relationship_status": "unresolved",
+    "summary": "2021年报道支持特斯拉上海研发创新中心历史设立；不视为独立公司，当前组织架构与岗位待核实。",
+    "source_ids": [
+      "s06"
+    ],
+    "checked_at": "2026-11-03"
+  }
+}

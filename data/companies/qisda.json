@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "qisda",
+  "name": "苏州佳世达电通有限公司",
+  "aliases": [
+    "佳世达电通（苏州）",
+    "Qisda Suzhou"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "s06 政府材料支持苏州佳世达电通有限公司在高新区的历史设立，按成熟电子制造主体列入 later；集团台湾上市身份不等同苏州公司独立上市，当前股权及规模待核实。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-688ac82cff9d643b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.qisda.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Qisda",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "待核实：页面观察主体为“Qisda”；不能作为“苏州佳世达电通有限公司”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-2b844ffd629b31a9",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/949828/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "佳世达电通",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "待核实：页面观察主体为“佳世达电通”；不能作为“苏州佳世达电通有限公司”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-c9e83aaf17fc3677",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/bde327843e586f161XB939-7EA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州佳世达电通有限公司",
+        "role": "具名本地法人；不表示集团其他业务渠道"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "佳世达科技（苏州） 公开入口",
+      "url": "https://www.qisda.com/About-Qisda",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "关联网站观察（原采集标签：佳世达科技（苏州）官网）",
+      "url": "https://www.qisda.com",
+      "supports": "公开官网主体与标题观察：Qisda；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【佳世达电通招聘】-猎聘",
+      "url": "https://www.liepin.com/company/949828/",
+      "supports": "公开企业主页主体：佳世达电通；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州佳世达电通有限公司（新区，49岗）",
+      "url": "https://www.zhipin.com/gongsi/bde327843e586f161XB939-7EA~~.html",
+      "supports": "公开企业主页主体：苏州佳世达电通有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "佳世達科技 - 维基百科",
+      "url": "https://zh.wikipedia.org/wiki/佳世達科技",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "台证所上市股票代号2352（1996年上市）、1984年4月21日成立。"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "苏州市省级信用管理示范企业风采展示（四）——苏州佳世达电通有限公司",
+      "url": "https://credit.suzhou.gov.cn/news/show/380530.html",
+      "published_date": "2023-01-05",
+      "checked_at": "2026-11-03",
+      "supports": "苏州佳世达电通1993-06-25在高新区设立、员工近万名，主营液晶显示器、POS机、电路板等。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 主体边界：以苏州政府材料中具名的苏州佳世达电通有限公司为研究主体；Qisda集团上市信息不表示本地主体独立上市，当前股权层级待核实。 原档案名称“佳世达科技（苏州）”保留在 provenance；本次按 s06 具名主体规范名称。 原采集关联名称（不再作为同一主体别名匹配）：Qisda、佳世达、佳世达电通、佳世达科技、苏州佳世达电通有限公司。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.qisda.com 保留为关联／历史线索，未确认属于本研究单元。",
+  "category_id": "06",
+  "focus": "医疗影像设备/显示器/工业AI解决方案，医疗+AI",
+  "products": "医疗影像设备/显示器/工业AI解决方案，医疗+AI",
+  "locations_text": "苏州高新区（s06 具名公司设立记录）；原工业园区标签更正，岗位地点另核",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：医疗影像设备/显示器/工业AI解决方案，医疗+AI。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：佳世达台证所上市（2352）；苏州佳世达电通为其在华子公司，不单独披露融资。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "佳世达科技（苏州）",
+    "original_track": "06",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [],
+    "relationship_status": "unresolved",
+    "summary": "以苏州政府材料中具名的苏州佳世达电通有限公司为研究主体；Qisda集团上市信息不表示本地主体独立上市，当前股权层级待核实。",
+    "source_ids": [
+      "s06"
+    ],
+    "checked_at": "2026-11-03"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "id": "pdd-holdings",
+  "name": "拼多多集团 PDD Holdings",
+  "aliases": [
+    "拼多多",
+    "PDD Holdings",
+    "PDD",
+    "拼多多(上海)网络科技"
+  ],
+  "category_id": "07",
+  "focus": "电商零售集团（拼多多／Temu 等）；公开披露将 AI 用于平台与运营，未见具名对外大模型旗舰",
+  "products": "拼多多、Temu 等电商平台及配套运营工具",
+  "locations_text": "上海等地；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与京东、阿里同属电商零售母平台；主题证据偏行业采纳／内部 AI 应用，而非对外基座模型厂商。",
+    "peer_names": [
+      "京东",
+      "阿里巴巴集团",
+      "美团"
+    ]
+  },
+  "investment": {
+    "summary": "纳斯达克上市（PDD Holdings）；股权与财报以 SEC／IR 披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://www.pinduoduo.com/",
+    "careers_url": "https://careers.pinduoduo.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "上市主体为 PDD Holdings；中国招聘常用拼多多品牌站 careers.pinduoduo.com／careers.pddglobalhr.com。猎聘主页主体为拼多多(上海)网络科技有限公司（境内运营实体），已列入 aliases。BOSS 路径来自「拼多多集团-PDD」公开页。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "拼多多",
+      "url": "https://www.pinduoduo.com/",
+      "supports": "中国区电商品牌站身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "拼多多集团-PDD校园招聘官网",
+      "url": "https://careers.pinduoduo.com/",
+      "supports": "官方招聘入口（校招站同时承载集团招聘入口）",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "PDD Holdings Form 20-F FY2025 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm",
+      "supports": "年报披露平台使用 AI 的主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "「拼多多集团-PDD」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html",
+      "supports": "公开企业主页路径指向拼多多集团-PDD；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "【拼多多(上海)网络科技有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9976959/",
+      "supports": "公开企业主页主体：拼多多上海运营实体；简介指向拼多多集团-PDD。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "拼多多集团 PDD Holdings",
+    "original_track": "07",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市电商母平台，年报披露平台侧 AI 使用；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-ac780fc9bca6c788",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.pinduoduo.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "拼多多集团 PDD Holdings",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-f7f8c5b0b0516c00",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://careers.pinduoduo.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "拼多多集团 PDD Holdings",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-faebd2a3adfe10dd",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/ea9c5680f57d53d71HV90ty5.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "拼多多集团 PDD Holdings",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染。"
+    },
+    {
+      "id": "ch-2decdf46a5aeb9d2",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9976959/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "拼多多上海运营实体",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": "境内运营实体页，非开曼上市主体本身。 待核实：页面观察主体为“拼多多上海运营实体”；不能作为“拼多多集团 PDD Holdings”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ]
+}

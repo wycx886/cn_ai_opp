@@ -1,0 +1,100 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "leader-drive",
+  "name": "苏州绿的谐波",
+  "aliases": [
+    "Leader Drive",
+    "绿的谐波",
+    "Leader Harmonics",
+    "苏州绿的谐波传动科技股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2011年成立、2020年科创板上市（688017）的精密传动（谐波减速器）厂商，注册于苏州吴中，属成熟机器人零部件玩家。列为 later。",
+    "source_ids": [
+      "s03"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-7342f76c9f02cc60",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/1576c829fe8024871nZ-3N20GFI~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州绿的谐波传动科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.leader-drive.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州绿的谐波 公开入口",
+      "url": "https://www.leader-drive.com/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州绿的谐波传动科技股份有限公司（木渎，13岗）",
+      "url": "https://www.zhipin.com/gongsi/1576c829fe8024871nZ-3N20GFI~.html",
+      "supports": "公开企业主页主体：苏州绿的谐波传动科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 苏州绿的谐波传动科技股份有限公司（688017）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688017.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2011-01-13成立、2020-08-28上市、精密传动装置主营、苏州吴中注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "08",
+  "focus": "谐波减速器，机器人核心传动零部件",
+  "products": "谐波减速器，机器人核心传动零部件",
+  "locations_text": "苏州",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：谐波减速器，机器人核心传动零部件。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所科创板上市（688017，2020-08-28）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州绿的谐波",
+    "original_track": "08",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

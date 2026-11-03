@@ -1,0 +1,181 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "amec",
+  "name": "中微公司",
+  "aliases": [
+    "AMEC",
+    "中微",
+    "中微半导体设备(上海)股份有限公司",
+    "中微半导体设备（上海）股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "科创板上市的半导体设备龙头，属于成熟平台；列为 later 资料批次。",
+    "source_ids": [
+      "s06"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-0969c1b4d136e138",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.amec-inc.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "中微公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-a709b181197f385c",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://app.mokahr.com/apply/amec/28371",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "中微公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-90aa129d2b70faa1",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8353297/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "中微半导体设备(上海)股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-78b23660607869a1",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/cf776faeb179fcfe03Nz2924GFY~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "中微公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.amec-inc.com",
+    "careers_url": "https://app.mokahr.com/apply/amec/28371",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "中微公司 公开入口",
+      "url": "https://www.amec-inc.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "中微公司",
+      "url": "https://www.amec-inc.com/",
+      "supports": "公开官网主体观察：https://www.amec-inc.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "中微公司AMEC - 社会招聘",
+      "url": "https://app.mokahr.com/apply/amec/28371",
+      "supports": "公开招聘入口主体观察：https://app.mokahr.com/apply/amec/28371；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【中微半导体设备(上海)股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8353297/",
+      "supports": "公开企业主页主体：中微半导体设备(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 中微公司",
+      "url": "https://www.zhipin.com/gongsi/cf776faeb179fcfe03Nz2924GFY~.html",
+      "supports": "公开企业主页主体：中微公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "中微公司2024年营收同比增长近45% 刻蚀设备业务领跑市场",
+      "url": "https://www.stcn.com/article/detail/1673114.html",
+      "supports": "中微公司688012的2024年营收90.65亿元、刻蚀设备收入72.77亿元及增速。",
+      "published_date": "2025-04-17",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "招聘邮箱未公开核实；招聘入口以 contacts.careers_url 及 channels 中的官方/猎聘/BOSS 页面为准。",
+  "category_id": "09",
+  "focus": "半导体刻蚀设备与MOCVD设备",
+  "products": "CCP/ICP刻蚀设备、MOCVD设备、薄膜沉积设备",
+  "locations_text": "上海浦东",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：半导体刻蚀设备与MOCVD设备。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "科创板上市（688012）；2024年营业收入90.65亿元，同比增长44.73%，其中刻蚀设备收入72.77亿元、同比增长54.73%。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "中微公司",
+    "original_track": "09",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "intellifusion-suzhou",
+  "name": "云天励飞（苏州）",
+  "aliases": [],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2014年成立、2023年科创板上市（688343）的AI算法与芯片厂商；与商汤、云从口径一致，按已上市AI平台处理。注册地深圳，苏州单元本轮未核实。列为 later。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-36bfecc2f0003b29",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8714658/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "云天励飞",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "猎聘为企业集团主页（云天励飞），未见单独苏州法人主页。 待核实：页面观察主体为“云天励飞”；不能作为“云天励飞（苏州）”本地团队、法人或岗位归属已确认的证据。"
+    },
+    {
+      "id": "ch-de797720d31b2664",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/7abf0e922983b2650nNy29y-.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "深圳云天励飞技术股份有限公司",
+        "role": "关联机构／集团入口；目标单元归属待核实"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "待核实：页面观察主体为“深圳云天励飞技术股份有限公司”；不能作为“云天励飞（苏州）”本地团队、法人或岗位归属已确认的证据。"
+    }
+  ],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "云天励飞（苏州） 公开入口",
+      "url": "https://www.intellifusion.com/about/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【云天励飞招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8714658/",
+      "supports": "公开企业主页主体：云天励飞；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 深圳云天励飞技术股份有限公司（集团页；无苏州专页）",
+      "url": "https://www.zhipin.com/gongsi/7abf0e922983b2650nNy29y-.html",
+      "supports": "公开企业主页主体：云天励飞技术股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 深圳云天励飞技术股份有限公司（688343）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688343.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2014-08-27成立、2023-04-04上市、AI算法与芯片产品主营、深圳注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 主体边界：现有来源支持深圳云天励飞上市主体，苏州法人／团队待核实。 原采集关联名称（不再作为同一主体别名匹配）：Intellifusion、云天励飞技术股份有限公司、云天励飞。 原采集地域为“苏州工业园区（总部深圳）”，本次按来源支持范围更正；不代表在该地有开放岗位。 原 contacts.website 入口 https://www.intellifusion.com 保留为关联／历史线索，未确认属于本研究单元。",
+  "category_id": "04",
+  "focus": "业务研究线索（当前本地团队归属待核实）：端侧AI芯片+算法，城市智脑/安防/工业视觉AI",
+  "products": "原采集产品／业务关注点（不表示本地单元当前归属）：端侧AI芯片+算法，城市智脑/安防/工业视觉AI",
+  "locations_text": "集团注册地址为深圳（s04）；苏州业务／法人及地点待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "业务研究线索，具体区域单元、当前团队及同业地位仍需核实，不构成招聘或个人适配结论。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "范围说明：集团上市、投资或历史业务资料不等同本地单元独立融资／上市，当前主体及融资边界按组织说明核实。原披露线索：云天励飞上交所科创板上市（688343，2023-04-04）；苏州单元不单独披露融资。",
+    "verification_status": "partial"
+  },
+  "provenance": {
+    "original_name": "云天励飞（苏州）",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "organizational_context": {
+    "form": "unresolved",
+    "parent_platform_ids": [],
+    "relationship_status": "unresolved",
+    "summary": "现有来源支持深圳云天励飞上市主体，苏州法人／团队待核实。",
+    "source_ids": [
+      "s04"
+    ],
+    "checked_at": "2026-11-03"
+  }
+}

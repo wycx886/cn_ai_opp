@@ -1,0 +1,154 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "synyi",
+  "name": "森亿智能",
+  "aliases": [
+    "Synyi",
+    "森亿",
+    "Synyi AI",
+    "上海森亿医疗科技有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "医疗AI与临床数据平台新进厂商，2024年再获战略融资、累计融资超13亿元，医疗大模型与医院客户岗位对口；列为第一波。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-c048dbdab7f70a00",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.synyi.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "森亿智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-15dc60b93495d51f",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/8892437/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "森亿智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-9f02f7f2128d3885",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/d4848fc5c02d4d6203x429u0F1I~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "森亿",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.synyi.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "森亿智能 公开入口",
+      "url": "https://www.synyi.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "首页 | 森亿智能",
+      "url": "https://www.synyi.com/",
+      "supports": "公开官网主体观察：https://www.synyi.com/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【森亿智能招聘】-猎聘",
+      "url": "https://www.liepin.com/company/8892437/",
+      "supports": "公开企业主页主体：森亿智能；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 上海森亿智慧信息科技",
+      "url": "https://www.zhipin.com/gongsi/d4848fc5c02d4d6203x429u0F1I~.html",
+      "supports": "公开企业主页主体：森亿；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "8年超13亿！潜力独角兽森亿智能再获融资",
+      "url": "https://www.163.com/dy/article/J7N90KPE0511DLVT.html",
+      "supports": "森亿智能2024年战略融资、投资方、2016年成立及累计融资超13亿元。",
+      "published_date": "2024-07-22",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "战略融资金额未披露；累计融资与客户数据来自公司/媒体口径。",
+  "category_id": "06",
+  "focus": "医疗AI：临床数据平台与医疗大模型",
+  "products": "临床数据治理平台、医疗大模型、医院智能化解决方案",
+  "locations_text": "上海张江",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：医疗AI：临床数据平台与医疗大模型。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2024年完成新一轮战略融资，投资方为北京新航城基金、长春新区/长春市/长春长发基金；公司称成立8年累计融资超13亿元。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "森亿智能",
+    "original_track": "06",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  }
+}

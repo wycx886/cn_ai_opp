@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-10-31",
-  "scope_note": "当前中国AI机会研究的已有玩家／母平台发现底表：互联网优先，兼顾软件、成熟技术供应商、云与ICT、硬件芯片及跨行业集团。sectors为可交叉的编辑性业务标签；topic_evidence仅表示所列材料支持的主题活动，不是头部排名、完整能力核验或正式目标档案。底表可继续扩展，不代表完整市场全集；通用Skill本身不限中国或AI。",
+  "checked_at": "2026-11-02",
+  "scope_note": "当前中国AI机会研究的已有玩家／母平台发现底表：互联网优先，兼顾软件、成熟技术供应商、云与ICT、硬件芯片及跨行业集团。sectors为可交叉的编辑性业务标签；topic_evidence仅表示所列材料支持的主题活动，不是头部排名、完整能力核验或正式目标档案。底表可继续扩展，不代表完整市场全集；通用Skill本身不限中国或AI。 company_id（如有）只路由到同层级完整档案；集团底表不映射到地区团队，不含该字段表示尚未绑定正式集团档案。",
   "platforms": [
     {
       "id": "alibaba",
@@ -11,14 +11,35 @@
       ],
       "group": "internet_platform",
       "official_url": "https://www.alibabagroup.com/en-US/about-alibaba",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "蚂蚁集团另列；具体业务和子公司按当前证据归属。",
       "sectors": [
         "internet",
         "software",
         "cloud"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "阿里云百炼：什么是阿里云百炼",
+          "url": "https://www.alibabacloud.com/help/zh/model-studio/what-is-model-studio",
+          "supports": "阿里云官方帮助文档说明百炼集成千问（Qwen）全系列及第三方模型，提供官方／OpenAI 兼容 API 与多模态调用；证明集团云侧有具名模型服务平台。不证明 ATH 事业群完整组织图，也不做市场排名判断；蚂蚁另列。",
+          "published_date": "2026-10",
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "阿里云帮助中心：百炼模型大全",
+          "url": "https://help.aliyun.com/zh/model-studio/models",
+          "supports": "官方模型目录列出千问系列及图像／视频／音频等可调用模型与计费入口，支持百炼作为对外模型基础设施。目录会持续变更；不据此推断集团所有业务均以 AI 对外售卖。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "alibaba"
     },
     {
       "id": "tencent",
@@ -28,14 +49,35 @@
       ],
       "group": "internet_platform",
       "official_url": "https://www.tencent.com/Who%20we%20are/",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "集团、业务部门、实验室和被投机构分别核实。",
       "sectors": [
         "internet",
         "software",
         "cloud"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "腾讯云 TokenHub 大模型服务平台",
+          "url": "https://cloud.tencent.com/product/tokenhub",
+          "supports": "腾讯云官方产品页将 TokenHub 描述为聚合腾讯自研混元（含 Hy 系列等）及第三方模型的大模型服务平台，覆盖文本／图像／视频等；证明集团有对外 MaaS 入口与具名混元模型。不证明元宝等 C 端产品组织归属细节，也不采用性能排名表述。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "腾讯云文档：TokenHub 混元调用指南",
+          "url": "https://cloud.tencent.com/document/product/1823/132252",
+          "supports": "官方开发者文档说明腾讯混元可通过 TokenHub API 调用（如 hy3／hy4-preview），支持集团提供可编程模型服务。文档日期以页面为准；不覆盖 CSIG 全部应用产品线。",
+          "published_date": "2026-10-13",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "tencent"
     },
     {
       "id": "baidu",
@@ -45,14 +87,35 @@
       ],
       "group": "internet_platform",
       "official_url": "https://ir.baidu.com/",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "不将创始人个人发起或被投机构自动当作集团拆分。",
       "sectors": [
         "internet",
         "software",
         "cloud"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "百度智能云：文心大模型产品页",
+          "url": "https://cloud.baidu.com/product/model.html",
+          "supports": "百度智能云官方产品页介绍文心／ERNIE 系列为百度自主研发大模型，并对外提供服务入口；证明集团有具名基础模型产品。页面含评测领先等营销语，本条不采用排名结论；不证明智能云以外全部百度业务。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "百度智能云千帆大模型平台",
+          "url": "https://cloud.baidu.com/product-s/qianfan_home",
+          "supports": "千帆官方产品页将其描述为以 Agent 为核心的企业级大模型服务平台，列出 ERNIE 等自研模型与 Agent／RAG 能力；支持对外模型与应用开发平台存在。不推断创始人个人项目或被投机构归属。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "baidu"
     },
     {
       "id": "bytedance",
@@ -62,14 +125,35 @@
       ],
       "group": "internet_platform",
       "official_url": "https://www.bytedance.com/about",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "团队、实验室、项目和拆分机构分别建档；控制权单独核实。",
       "sectors": [
         "internet",
         "software",
         "cloud"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "字节跳动 Seed：Seed2.1 正式发布",
+          "url": "https://seed.bytedance.com/zh/blog/seed2-1-officially-released-advancing-ai-productivity",
+          "supports": "官方 Seed 博客确认 Seed2.1 模型系列已上线豆包、TRAE，并在火山引擎开放 API；证明集团有具名基础模型与 C 端／开发者产品线。不证明市场排名，也不覆盖集团全部业务单元。",
+          "published_date": "2026-06-23",
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "火山引擎官网：豆包大模型与火山方舟",
+          "url": "https://www.volcengine.com/",
+          "supports": "火山引擎产品页将豆包大模型、火山方舟等作为对外 AI 云／MaaS 能力售卖；支持集团有云侧模型服务入口。页面含份额等营销表述，本条不采用排名结论；云业务≠字节全部团队。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "bytedance"
     },
     {
       "id": "ant-group",
@@ -79,13 +163,34 @@
       ],
       "group": "internet_platform",
       "official_url": "https://www.antgroup.com/en/news-media/press-releases/1718258859000",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "与阿里巴巴分别作为寻源入口；不据生态联系推断子公司关系。",
       "sectors": [
         "software",
         "financial_services"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "蚂蚁百灵大模型：Ling / Ring / Ming 产品家族",
+          "url": "https://www.ant-ling.com/zh/",
+          "supports": "蚂蚁百灵官网可读正文介绍 Ling（语言）、Ring（推理）、Ming（全模态）模型家族及 Ling-3.1-flash Open API；证明集团有具名对外大模型产品入口。页面主体显示蚂蚁智能（杭州）科技有限公司；不据此推断与阿里巴巴的子公司关系。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "Ant Group press: Ling AI Model Family / Ling-1T",
+          "url": "https://www.antgroup.com/en/news-media/press-releases/1759982400000",
+          "supports": "蚂蚁集团官网新闻入口标题与公开摘要称发布 Ling／百灵模型家族及万亿参数语言模型 Ling-1T；与 ant-ling 产品页相互印证。原 press 页仍为强 JS 壳，主题主证据以 ant-ling 正文为准。",
+          "published_date": "2025-10",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "ant-group"
     },
     {
       "id": "jd",
@@ -95,13 +200,34 @@
       ],
       "group": "internet_platform",
       "official_url": "https://ir.jd.com/about-JD",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "使用官方IR确认集团身份；具体项目不等于整个集团。",
       "sectors": [
         "internet",
         "logistics"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "JoyAI 官网：京东 AIGC 平台",
+          "url": "https://jdai.jd.com/portal",
+          "supports": "JoyAI 官方门户称由 JoyAI 团队自研，提供语言／语音／图像／视频／数字人等多模态生成能力面向企业场景；证明京东有具名 AIGC 产品入口。不证明言犀与 JoyAI 为同一法人或同一编制；营销数据不采用。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "京东云：JoyBuilder 模型开发平台 2.0",
+          "url": "https://www.jdcloud.com/cn/products/jdaip",
+          "supports": "京东云官方产品页将 JoyBuilder 描述为企业级一站式模型开发平台，覆盖数据／训练／调优／部署；支持云侧 AI 开发基础设施对外提供。历史言犀发布稿可另作补充，本条仅采当前产品页；集团零售主业≠全部 AI 商业化。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "jd"
     },
     {
       "id": "meituan",
@@ -112,12 +238,33 @@
       "group": "internet_platform",
       "official_url": "https://www.meituan.com/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "内部单元、被投机构及实际拆分关系分别核实。",
       "sectors": [
         "internet",
         "local_services"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "美团新闻：发布 LongCat-2.5 大模型",
+          "url": "https://www.meituan.com/news/NN261102280001343",
+          "supports": "美团官网新闻确认发布 LongCat-2.5，并可在 longcat.ai 体验及通过 API 调用；同时提及基于 LongCat 的商家 AI 工作台「妙手」。证明集团有具名大模型与应用入口。新闻引述外部媒体评测对比，本条不采用排名；内部 AI Transformation 组织需另证。",
+          "published_date": "2026-11-02",
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "美团技术团队：LongCat-Flash-Omni 发布并开源",
+          "url": "https://tech.meituan.com/2025/11/03/LongCat-Flash-Omni.html",
+          "supports": "美团技术博客发布并开源 LongCat-Flash-Omni 全模态模型，给出 Hugging Face／GitHub 与 longcat.ai 体验入口；支持 LongCat 系列为持续产品／研发活动。开源 SOTA 等表述不作为市场结论；集团主业仍为本地生活。",
+          "published_date": "2025-11-03",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "meituan"
     },
     {
       "id": "pdd-holdings",
@@ -128,12 +275,24 @@
       "group": "internet_platform",
       "official_url": "https://investor.pddholdings.com/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "集团与拼多多、Temu等产品或业务层级分别核实。",
       "sectors": [
         "internet",
         "retail"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "industry_adopter",
+          "title": "PDD Holdings Form 20-F FY2025 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm",
+          "supports": "FY2025 年报风险因素披露竞争对手已集成 AI，并称公司在平台、服务与内部运营中使用 AI 方案，面临运营／监管／声誉风险；支持集团将 AI 用于自身电商业务。未披露具名对外大模型／MaaS 产品品牌；不可据此标为技术供应商或市场领先。",
+          "published_date": "2025",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "pdd-holdings"
     },
     {
       "id": "kuaishou",
@@ -144,12 +303,24 @@
       "group": "internet_platform",
       "official_url": "https://ir.kuaishou.com/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "模型、创意产品、项目团队和独立机构分别识别。",
       "sectors": [
         "internet",
         "media"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "快手 IR：可灵 AI 向全球用户开放内测",
+          "url": "https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kuaishoukelingaixiangquanqiuyonghuquanmiankaifangneice",
+          "supports": "快手科技官方新闻稿确认视频生成大模型可灵 AI 及网页端（klingai.kuaishou.com／klingai.com）与会员体系；证明集团有具名生成式视频产品并对外运营。稿件含「全球首个」等营销语，本条不采用；可灵团队与集团其他业务分别核实。",
+          "published_date": "2024-07-25",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "kuaishou"
     },
     {
       "id": "netease",
@@ -160,13 +331,25 @@
       "group": "internet_platform",
       "official_url": "https://ir.netease.com/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "集团、旗下业务和其项目分别归属，不能仅据品牌推断独立。",
       "sectors": [
         "internet",
         "software",
         "media"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "网易伏羲：AOP 与网易有灵平台介绍",
+          "url": "https://fuxi.netease.com/database/1200",
+          "supports": "网易伏羲官方内容称其为网易人工智能研究机构，介绍 AOP／网易有灵平台及游戏 Copilot 等落地；证明集团有持续 AI 研发与产品化活动。不自动等同有道「子曰」等教育产品；伏羲与各游戏工作室编制需另核。",
+          "published_date": "2024-09-26",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "netease"
     },
     {
       "id": "xiaohongshu",
@@ -177,13 +360,25 @@
       ],
       "group": "internet_platform",
       "official_url": "https://www.xiaohongshu.com/",
-      "access": "limited",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "主站需登录；主体可参考官方协议，项目仍需单独证据。",
       "sectors": [
         "internet",
         "media"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "App Store：点点 - 你的 AI 生活助手",
+          "url": "https://apps.apple.com/cn/app/%E7%82%B9%E7%82%B9-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E5%8A%A9%E6%89%8B/id6529536122",
+          "supports": "App Store 产品页将「点点」描述为结合小红书真实经验的 AI 生活助手，并由上海生动诗章科技有限公司上架；支持小红书体系有对外 AI 助手产品。主站 xiaohongshu.com 仍偏登录墙；本条不证明完整 AI 组织架构或商业化深度，开发者主体与集团股权需另核。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "xiaohongshu"
     },
     {
       "id": "bilibili",
@@ -193,13 +388,25 @@
       ],
       "group": "internet_platform",
       "official_url": "https://www.bilibili.com/blackboard/aboutUs.html",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "使用官方关于我们页面；IR访问限制不代表项目不存在。",
       "sectors": [
         "internet",
         "media"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "bilibili/Index-1.9B GitHub README",
+          "url": "https://github.com/bilibili/Index-1.9B",
+          "supports": "哔哩哔哩官方 GitHub 仓库 README 可读正文说明 Index-1.9B 为 B 站自研轻量多语言模型系列（含 Chat／Character／32K），系统提示写明「由哔哩哔哩自主研发」；支持平台有具名开源大模型活动。不证明全部业务以模型对外售卖。",
+          "published_date": "2024-06",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "bilibili"
     },
     {
       "id": "didi",
@@ -210,12 +417,24 @@
       "group": "internet_platform",
       "official_url": "https://ir.didiglobal.com/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "内部业务、独立融资子公司与法律拆分分别核实。",
       "sectors": [
         "internet",
         "mobility"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "industry_adopter",
+          "title": "DiDi IR：FY2025 业绩公告（含 Robotaxi R2）",
+          "url": "https://ir.didiglobal.com/static-files/433e2d74-b1a6-4551-8449-477fd20cbb7a",
+          "supports": "滴滴官方业绩稿称下一代 Robotaxi 车型 R2 于 2026 年 1 月开始交付，并将继续加大自动驾驶研发与运营投入、把自动驾驶融入线上服务；支持集团在出行场景持续开展自动驾驶／AI 相关业务。本条未核验通用大模型或对外 MaaS 产品；自动驾驶团队与法律主体需另核。",
+          "published_date": "2026-03-13",
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "didi"
     },
     {
       "id": "trip-com",
@@ -231,7 +450,8 @@
       "sectors": [
         "internet",
         "travel"
-      ]
+      ],
+      "company_id": "ctrip"
     },
     {
       "id": "weibo",
@@ -275,11 +495,22 @@
       "group": "internet_platform",
       "official_url": "https://www.360.cn/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "集团品牌、AI产品和法律主体分别核实。",
       "sectors": [
         "software",
         "security"
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "360智脑官网",
+          "url": "https://ai.360.com/",
+          "supports": "360智脑官网可读介绍千亿参数智脑大模型及 AI 搜索、浏览器、智绘、数字员工等产品，并提供开放 API；支持三六零有具名对外 AI 产品入口。法律主体与集团品牌需按具体产品页再核。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
       ]
     },
     {
@@ -388,11 +619,22 @@
       "group": "internet_platform",
       "official_url": "https://ir.autohome.com.cn/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "平台、新业务和当前股东关系分别核实。",
       "sectors": [
         "internet",
         "automotive"
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "芝士车管家（汽车之家旗下 AI 问车）",
+          "url": "https://ai.autohome.com.cn/",
+          "supports": "汽车之家 AI 子域可读介绍「芝士车管家」为旗下 AI 问车产品，并公示生成式人工智能产品上线编号；支持有消费级汽车问答 AI 产品。不证明其自研基座模型。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
       ]
     },
     {
@@ -403,15 +645,36 @@
       ],
       "group": "cloud_ict_adjacent",
       "official_url": "https://www.huawei.com/en/corporate-information",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "相关ICT集团；不以此将其全部业务定义为互联网或hyperscaler。",
       "sectors": [
         "hardware",
         "software",
         "cloud",
         "telecom"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "华为云：盘古大模型产品页",
+          "url": "https://www.huaweicloud.com/product/pangu",
+          "supports": "华为云官方产品页列出盘古 LLM／多模态／视觉／预测／气象等基础与行业大模型及场景入口；证明集团云侧有具名大模型产品线。不将华为全部 ICT 业务定义为互联网 hyperscaler；终端／鸿蒙 AI 需另证。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "华为云：昇腾云服务",
+          "url": "https://www.huaweicloud.com/product/modelarts/ascend-cloud.html",
+          "supports": "官方昇腾云服务页提供基于昇腾／CloudMatrix 的 AI 算力与训推工具链，面向大模型训练推理；支持集团作为 AI 算力基础设施提供者。性能对比营销语不采用；昇腾云≠华为全部芯片销售通道。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "huawei"
     },
     {
       "id": "xiaomi",
@@ -422,14 +685,26 @@
       "group": "cloud_ict_adjacent",
       "official_url": "https://www.mi.com/global/about/",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "相关终端集团；不因人物背景与金山合并。",
       "sectors": [
         "hardware",
         "software",
         "consumer_devices",
         "automotive"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "小米 MiMo 官网",
+          "url": "https://mimo.xiaomi.com/zh/",
+          "supports": "小米 MiMo 官方站点介绍 MiMo 为小米通用智能基座，并发布 MiMo-V2.6 等系列，提供 Web 体验与 API 接入；证明集团有具名大模型产品线。不与金山软件合并；小爱／HyperOS 系统级能力需另页核验。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "xiaomi"
     },
     {
       "id": "lenovo",
@@ -439,12 +714,23 @@
       ],
       "group": "cloud_ict_adjacent",
       "official_url": "https://investor.lenovo.com/en/about/profile.php",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "相关计算与终端集团；实验室、业务及拆分逐项核实。",
       "sectors": [
         "hardware",
         "software"
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "联想用户指南：天禧个人超级智能体",
+          "url": "https://download.lenovo.com/manual/thinkpad_x9_15/user_guide/zh-cn/Tianxi.html",
+          "supports": "联想官方机型用户指南可读说明天禧个人超级智能体提供智能问答、知识库与模型广场（集成多款大模型工具）；支持联想在 AI PC／端侧助手有具名产品。另有 ai.lenovo.com.cn「联想AI PC」营销入口可交叉印证。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
       ]
     },
     {
@@ -456,12 +742,32 @@
       "group": "cloud_ict_adjacent",
       "official_url": "https://www.zte.com.cn/global/index.html",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "相关ICT集团，具体AI单元和法人分别核实。",
       "sectors": [
         "hardware",
         "software",
         "telecom"
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "中兴通讯 AI Studio 智算平台解决方案",
+          "url": "https://www.zte.com.cn/china/solutions_latest/computing_infrastructure/AIS.html",
+          "supports": "中兴官网解决方案页可读介绍 AI Studio 一站式模型训练、推理部署与智能体应用开发工具链；支持公司在智算／模型平台侧有公开产品方案。不单独证明星云基座模型的全部参数或市场份额。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "中兴通讯推出星云通信大模型",
+          "url": "https://www.zte.com.cn/china/about/news/20240628c1.html",
+          "supports": "中兴官网新闻标题与页面可访问，宣称推出「星云通信大模型」；支持有具名通信大模型发布线索。正文抓取受前端影响不完整，细节以官网后续专题为准。",
+          "published_date": "2024-06",
+          "checked_at": "2026-11-02"
+        }
       ]
     },
     {
@@ -472,13 +778,25 @@
       ],
       "group": "cloud_ict_adjacent",
       "official_url": "https://ir.ksyun.com/corporate-profile/",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "与金山软件分别列入口；不自动合并为同一法人或业务。",
       "sectors": [
         "cloud",
         "software"
-      ]
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "金山云星流模型服务",
+          "url": "https://www.ksyun.com/nv/product/KSP",
+          "supports": "金山云官方产品页介绍星流模型服务：一站式大模型调用、权限／额度管控、多协议兼容与智能路由，并列出可调用的主流模型系列；支持金山云作为模型调用基础设施提供者。与金山软件分别列入口；不自动合并法人。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
+      ],
+      "company_id": "kingsoft-cloud"
     },
     {
       "id": "china-mobile",
@@ -489,11 +807,22 @@
       "group": "cloud_ict_adjacent",
       "official_url": "https://www.chinamobileltd.com/en/ir/reports/ar2024.pdf",
       "access": "search_only",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "公司网页访问受限，官方年报提供身份入口；专业公司和研究院另核。",
       "sectors": [
         "telecom",
         "cloud"
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "国资委转载：中国移动九天大模型正式对外提供生成式人工智能服务",
+          "url": "http://www.sasac.gov.cn/n2588025/n2588124/c30482038/content.html",
+          "supports": "国务院国资委网站转载中国移动稿件（2024-04-08）称九天自然语言大模型已在网信办备案清单并对外提供生成式 AI 服务；支持移动有具名九天模型活动。jiutian.10086.cn 本次落到 nginx 欢迎页，未能作为产品正文入口，故平台 access 仍标 search_only。",
+          "published_date": "2024-04",
+          "checked_at": "2026-11-02"
+        }
       ]
     },
     {
@@ -504,12 +833,32 @@
       ],
       "group": "cloud_ict_adjacent",
       "official_url": "https://www.chinatelecom-h.com/en/company/company_overview.php?cat=2002",
-      "access": "search_only",
-      "checked_at": "2026-10-31",
+      "access": "content_read",
+      "checked_at": "2026-11-02",
       "notes": "相关电信与云集团；专业子公司和创新团队分别核实。",
       "sectors": [
         "telecom",
         "cloud"
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "天翼AI开放平台：星辰大模型",
+          "url": "https://www.teleai.com.cn/",
+          "supports": "中国电信天翼AI开放平台可读介绍星辰语义／语音／视觉／多模态大模型及 TeleAgent 等应用；页面主体为中电信人工智能科技（北京）有限公司。支持电信侧有具名大模型开放入口。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        },
+        {
+          "topic": "AI",
+          "role": "infrastructure_provider",
+          "title": "天翼云星辰MaaS模型服务平台",
+          "url": "https://www.ctyun.cn/products/xirang-maas",
+          "supports": "天翼云产品页可读介绍星辰 MaaS 的模型调用、训练到部署全流程服务；支持云侧模型基础设施对外供给。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
       ]
     },
     {
@@ -521,11 +870,22 @@
       "group": "cloud_ict_adjacent",
       "official_url": "https://www.chinaunicom.com.hk/en/about/profile.php",
       "access": "content_read",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-02",
       "notes": "相关电信与云集团；专业子公司和创新团队分别核实。",
       "sectors": [
         "telecom",
         "cloud"
+      ],
+      "topic_evidence": [
+        {
+          "topic": "AI",
+          "role": "technology_provider",
+          "title": "联通元景（联通云）",
+          "url": "https://www.cucloud.cn/cloudview.html",
+          "supports": "联通云「联通元景」页可读介绍自研语言大模型对话应用及「看见」「听见」多模态／语音应用 APK；支持联通侧有具名元景模型产品入口。",
+          "published_date": null,
+          "checked_at": "2026-11-02"
+        }
       ]
     },
     {
@@ -581,7 +941,8 @@
           "published_date": null,
           "checked_at": "2026-10-31"
         }
-      ]
+      ],
+      "company_id": "sensetime"
     },
     {
       "id": "yonyou",

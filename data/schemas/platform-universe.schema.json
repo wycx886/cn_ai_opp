@@ -28,6 +28,11 @@
             "type": "string",
             "minLength": 1
           },
+          "company_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+            "description": "Optional route to the same-level full organization profile, not a different regional unit, brand or parent."
+          },
           "aliases": {
             "type": "array",
             "items": {

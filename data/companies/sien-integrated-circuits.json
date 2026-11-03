@@ -1,0 +1,145 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "sien-integrated-circuits",
+  "name": "芯联集成",
+  "aliases": [
+    "芯联集成电路",
+    "芯联集成电路制造股份有限公司",
+    "United Nova Technology",
+    "UNT"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "芯联集成（原中芯集成，688469）为2018年成立、2023年科创板上市的MEMS与功率器件晶圆代工厂，已有规模化产能，属成熟制造玩家。注意：公开资料注册地为浙江绍兴，本档案“苏州工业园区”口径未获证实，待核对。列为 later。",
+    "source_ids": [
+      "s04"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-867c10000864d46d",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9761593/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "芯联集成电路制造股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "猎聘页显示总部浙江绍兴；与草稿苏州关联并存疑，入口仍属该公司主体。"
+    },
+    {
+      "id": "ch-5ebc78a68fc06288",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/30857ee5896cff411Hd43Nu6F1A~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "芯联集成电路制造股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://cn.smecs.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "芯联集成 公开入口",
+      "url": "https://www.sienicx.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【芯联集成电路制造股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9761593/",
+      "supports": "公开企业主页主体：芯联集成电路制造股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 芯联集成电路制造股份有限公司（绍兴；非苏州）",
+      "url": "https://www.zhipin.com/gongsi/30857ee5896cff411Hd43Nu6F1A~.html",
+      "supports": "公开企业主页主体：芯联集成电路制造股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 芯联集成电路制造股份有限公司（688469）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688469.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2018-03-09成立、2023-05-10上市、MEMS和功率器件晶圆代工主营、浙江绍兴注册地址。"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "芯联集成官网（官方检索摘要；正文访问超时）",
+      "url": "https://cn.smecs.com/",
+      "supports": "官方检索摘要显示芯联集成的功率、MEMS与系统技术平台业务；官网正文访问超时，仅支持名称／域名线索，不验证苏州机构。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "上海证券交易所公司概况 688469（官方检索摘要）",
+      "url": "https://www.sse.com.cn/star/market/stocklist/info/company/index.shtml?COMPANY_CODE=688469",
+      "supports": "交易所检索摘要列示芯联集成电路制造股份有限公司、英文 UNITED NOVA TECHNOLOGY CO.,LTD.、绍兴注册地址；打开正文为空壳，不据此刷新财务或岗位信息。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：注册地为浙江绍兴，苏州口径未证实。 原采集关联名称（不再作为同一主体别名匹配）：SiEn Integrated Circuits、SiEn、SiEn IC。 主体纠错依据 s05、s06：SiEn／SiEn IC 与 sienicx.com 不再当作芯联集成已确认名称或官网；旧 URL 留在 s01，仅作历史未核实线索。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "category_id": "09",
+  "focus": "功率半导体及模拟IC晶圆代工（SiC/GaN/IGBT/BCD）",
+  "products": "功率半导体及模拟IC晶圆代工（SiC/GaN/IGBT/BCD）",
+  "locations_text": "浙江绍兴（s04 及交易所检索线索）；原苏州关联待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：功率半导体及模拟IC晶圆代工（SiC/GaN/IGBT/BCD）。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "芯联集成上交所科创板上市（688469，2023-05-10），注册地绍兴；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "芯联集成",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

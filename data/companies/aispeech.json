@@ -1,0 +1,190 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "aispeech",
+  "name": "思必驰",
+  "aliases": [
+    "AISpeech",
+    "思必驰科技",
+    "思必驰科技股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "思必驰2007年成立、注册于苏州工业园区，2025年营收6.88亿元，2026年5月科创板IPO获受理；作为成立近二十年的对话式AI与AI芯片厂商，与依图、商汤口径一致按既有AI玩家处理。列为 later。",
+    "source_ids": [
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-14c54d432f3fb911",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.aispeech.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "思必驰",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-00119b3392c6aa6d",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.aispeech.com/about/joinus",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "思必驰",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-63cd593121ed6dfc",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/4270001/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "思必驰科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-907067b2d0ca2743",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/58e6a9f85ea7787d1nF-3ty_EFE~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "思必驰科技股份有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.aispeech.com",
+    "careers_url": "https://www.aispeech.com/about/joinus",
+    "recruitment_email": "hr@aispeech.com",
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "思必驰关于我们",
+      "url": "https://www.aispeech.com/about/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "官网关于页作为主体入口；草稿注明 web search 不可用，训练知识待独立核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "思必驰官网",
+      "url": "https://www.aispeech.com",
+      "supports": "公开官网主体与标题观察：思必驰|专业的大模型人机对话平台企业；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "思必驰加入我们",
+      "url": "https://www.aispeech.com/about/joinus",
+      "supports": "官方招聘／加入我们入口；页面披露招聘邮箱时同步 contacts，不猜测用途。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【思必驰科技股份有限公司招聘】-猎聘",
+      "url": "https://www.liepin.com/company/4270001/",
+      "supports": "公开企业主页主体：思必驰科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 思必驰科技股份有限公司（苏州工业园区）",
+      "url": "https://www.zhipin.com/gongsi/58e6a9f85ea7787d1nF-3ty_EFE~.html",
+      "supports": "公开企业主页主体：思必驰科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "江苏AI芯片企业，要IPO了 - 智东西",
+      "url": "https://m.zhidx.com/p/560283.html",
+      "published_date": "2026-05-25",
+      "checked_at": "2026-11-03",
+      "supports": "思必驰科创板IPO获受理、2007年10月成立、2025年营收6.88亿元、净亏损0.80亿元、AI芯片年均出货超6000万颗。"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "两年前上会被否，如今重启IPO（上海证券报）",
+      "url": "https://finance.sina.com.cn/stock/roll/2025-04-27/doc-ineuqytw2905886.shtml",
+      "published_date": "2025-04-27",
+      "checked_at": "2026-11-03",
+      "supports": "2023年5月首次科创板IPO上会被否，2025年4月重启辅导；2007年成立。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；导入时未重新打开网页核验。",
+  "category_id": "04",
+  "focus": "对话式AI平台（语音识别/NLU/TTS），车载+IoT+客服大模型商业化",
+  "products": "对话式AI平台／DFM 等（以官网与草稿为准，待核实）",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "苏州本土对话式AI与车载／IoT语音候选，相对全国大模型玩家更偏语音平台与垂直商业化。",
+    "peer_names": [
+      "科大讯飞"
+    ]
+  },
+  "investment": {
+    "summary": "未上市：2023年5月科创板IPO被否，2026年5月再次申报获受理；2025年营收6.88亿元、净亏损0.80亿元（报道口径）。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "思必驰",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

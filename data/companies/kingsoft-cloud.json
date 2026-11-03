@@ -1,0 +1,145 @@
+{
+  "schema_version": 3,
+  "id": "kingsoft-cloud",
+  "name": "金山云 Kingsoft Cloud",
+  "aliases": [
+    "金山云",
+    "Kingsoft Cloud",
+    "金山云网络"
+  ],
+  "category_id": "02",
+  "focus": "独立云计算服务商；AI 切面以星流模型服务等模型调用基础设施为主",
+  "products": "公有云／行业云、星流模型服务（KSP）等",
+  "locations_text": "北京；岗位城市以公开招聘渠道为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与华为云、阿里云同属云基础设施供给方；公开 AI 证据偏模型调用／MaaS 底座而非自研基座品牌。与金山软件分别列入口。",
+    "peer_names": [
+      "华为",
+      "阿里巴巴集团",
+      "百度"
+    ]
+  },
+  "investment": {
+    "summary": "纳斯达克上市（Kingsoft Cloud）；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://www.ksyun.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "官方「加入我们」仍指向 Moka apply/kingsoft，本次复核显示关停／「当前网页已关停」。campus.kingsoft.com／careers.ksyun.com／zhaopin.ksyun.com 等候选域名无法解析或无独立社招门户；校招公开信息多指向微信公众号「金山云招聘」，不算稳定 careers_url。招聘暂以猎聘／BOSS 企业主页为公开入口。不与金山软件合并法人。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "金山云官网",
+      "url": "https://www.ksyun.com/",
+      "supports": "公司官网身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "金山云星流模型服务",
+      "url": "https://www.ksyun.com/nv/product/KSP",
+      "supports": "星流模型服务主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "【金山云网络招聘】-猎聘",
+      "url": "https://www.liepin.com/company/3526408/",
+      "supports": "公开企业主页主体：金山云网络。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s04",
+      "title": "「金山云网络技术」-BOSS直聘",
+      "url": "https://www.zhipin.com/gongsi/b47cc77979caf7091nR70ti-EA~~.html",
+      "supports": "公开企业主页路径指向金山云网络技术；反爬未能完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "金山云",
+    "original_track": "02",
+    "original_subtrack": "cloud_ict_adjacent"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市云基础设施母平台，已有星流模型服务等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-2ef6956c2a46b903",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.ksyun.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "金山云 Kingsoft Cloud",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-199163f6d31c60a7",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/b47cc77979caf7091nR70ti-EA~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "金山云 Kingsoft Cloud",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "反爬页未能完整渲染。"
+    },
+    {
+      "id": "ch-c8ff6fcc3f56a659",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/3526408/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "金山云网络",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ]
+}

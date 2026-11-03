@@ -1,0 +1,100 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "china-wafer-level-csp",
+  "name": "苏州晶方半导体",
+  "aliases": [
+    "China Wafer Level CSP",
+    "晶方科技",
+    "WLCSP",
+    "苏州晶方半导体科技股份有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上交所主板上市（603005，2014-02）的传感器封测厂商，2005年成立、注册于苏州工业园区，属成熟封测玩家。列为 later。",
+    "source_ids": [
+      "s03"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-5bd62d8ae25bdbd7",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/9851617/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "晶方科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.wlcsp.com.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州晶方半导体 公开入口",
+      "url": "https://www.wlcsp.com.cn/about",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "【晶方科技招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9851617/",
+      "supports": "公开企业主页主体：晶方科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 苏州晶方半导体科技股份有限公司（603005）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/603005.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "公司全称、2005-06-10成立、2014-02-10上市、传感器领域封装测试主营、苏州工业园区注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "09",
+  "focus": "晶圆级封装（CSP/WLP），图像传感器+MEMS封装，AI硬件封测",
+  "products": "晶圆级封装（CSP/WLP），图像传感器+MEMS封装，AI硬件封测",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：晶圆级封装（CSP/WLP），图像传感器+MEMS封装，AI硬件封测。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所主板上市（603005，2014-02-10）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州晶方半导体",
+    "original_track": "09",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

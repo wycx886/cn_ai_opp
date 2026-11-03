@@ -1,0 +1,155 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "kedacom",
+  "name": "苏州科达",
+  "aliases": [
+    "Kedacom",
+    "科达股份",
+    "科达",
+    "科达 KEDACOM",
+    "KEDACOM"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "2004年成立、2016年上交所上市（603660）的视频会议与视频监控厂商，注册于苏州高新区，属成熟视频AI玩家。列为 later。",
+    "source_ids": [
+      "s05"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-e87bc88ce42981eb",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.kedacom.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州科达",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-252b1a30969ae720",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/7868925/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "科达 KEDACOM",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-dc00f1e599007f40",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/a4b048155f44150d1HFy09S-.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "苏州科达",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.kedacom.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-03",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州科达 公开入口",
+      "url": "https://www.kedacom.com/about/",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "苏州科达官网",
+      "url": "https://www.kedacom.com",
+      "supports": "公开官网主体与标题观察：苏州科达官网；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "【科达 KEDACOM招聘】-猎聘",
+      "url": "https://www.liepin.com/company/7868925/",
+      "supports": "公开企业主页主体：科达 KEDACOM；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 苏州科达科技股份有限公司",
+      "url": "https://www.zhipin.com/gongsi/a4b048155f44150d1HFy09S-.html",
+      "supports": "公开企业主页主体：苏州科达；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "新浪财经公司资料 · 苏州科达科技股份有限公司（603660）",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/603660.phtml",
+      "published_date": null,
+      "checked_at": "2026-11-03",
+      "supports": "2004-06-10成立、2016-12-01上市、视频会议/视频监控/融合通信主营、苏州高新区注册地址。"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "04",
+  "focus": "视频AI、公共安全、智慧城市、企业会议视频系统",
+  "products": "视频AI、公共安全、智慧城市、企业会议视频系统",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：视频AI、公共安全、智慧城市、企业会议视频系统。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "上交所主板上市（603660，2016-12-01）；本轮未核对最新财报数字。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "provenance": {
+    "original_name": "苏州科达",
+    "original_track": "04",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

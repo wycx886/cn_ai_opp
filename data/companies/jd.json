@@ -1,0 +1,171 @@
+{
+  "schema_version": 3,
+  "id": "jd",
+  "name": "京东 JD.com",
+  "aliases": [
+    "京东",
+    "JD.com",
+    "京东集团"
+  ],
+  "category_id": "07",
+  "focus": "零售与物流科技集团；AI 切面含 JoyAI／京东云模型开发平台等",
+  "products": "京东零售、物流、京东云、JoyAI／JoyBuilder 等",
+  "locations_text": "北京；岗位城市以招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相对阿里与拼多多同属电商零售母平台；公开 AI 证据偏 JoyAI 与云侧开发平台，主分类落在零售应用赛道而非纯基座。",
+    "peer_names": [
+      "阿里巴巴集团",
+      "拼多多集团 PDD Holdings",
+      "美团"
+    ]
+  },
+  "investment": {
+    "summary": "纳斯达克／港交所上市；股权与财报以投资者关系披露为准。",
+    "verification_status": "confirmed_disclosure"
+  },
+  "contacts": {
+    "website": "https://about.jd.com/company/",
+    "careers_url": "https://zhaopin.jd.com/home",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "官网取 about.jd.com/company（关于京东）；corporate.jd.com 当前落地页标题异常故未用作主站。BOSS 直聘已写入集团命名页 33e052361693f8371nF-3d25（反爬未能完整渲染）。",
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "关于京东",
+      "url": "https://about.jd.com/company/",
+      "supports": "集团关于页身份",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s02",
+      "title": "京东招聘-首页",
+      "url": "https://zhaopin.jd.com/home",
+      "supports": "官方招聘入口",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "title": "JoyAI 官网：京东 AIGC 平台",
+      "url": "https://jdai.jd.com/portal",
+      "supports": "JoyAI 主题证据",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "title": "【京东招聘】-猎聘",
+      "url": "https://www.liepin.com/company/1663745/",
+      "supports": "公开企业主页主体：京东。",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "「京东集团」-BOSS直聘企业主页",
+      "url": "https://www.zhipin.com/gongsi/33e052361693f8371nF-3d25.html",
+      "supports": "公开企业主页主体：京东集团；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    }
+  ],
+  "provenance": {
+    "original_name": "京东",
+    "original_track": "07",
+    "original_subtrack": "internet_platform"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "上市零售／物流母平台，已有 JoyAI 等 AI 主题证据；列入已有玩家资料批次。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-02"
+  },
+  "channels": [
+    {
+      "id": "ch-e4ca0446b794f0e3",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://about.jd.com/company/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "京东 JD.com",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-7ab89d8ec722cbae",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://zhaopin.jd.com/home",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "京东 JD.com",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-2b80206f2decd3ce",
+      "layer": "recruitment_platform",
+      "platform": "liepin",
+      "url": "https://www.liepin.com/company/1663745/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "京东",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-0775354d77ae3ac5",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/33e052361693f8371nF-3d25.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "京东集团",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": "公开搜索标题为「京东集团」；反爬页未能完整渲染。与「京东」「京东商城」等分部页区分后取集团命名页。"
+    }
+  ]
+}

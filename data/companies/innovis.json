@@ -1,0 +1,89 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "innovis",
+  "name": "苏州英诺维信",
+  "aliases": [
+    "Innovis Suzhou",
+    "深圳市英诺维信自动化设备有限公司"
+  ],
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "unresolved",
+    "wave": "watchlist",
+    "rationale": "未检索到“苏州英诺维信”的可靠公开资料，innovis.cn 无法访问；检索结果仅有名称相近的英诺维尔等其他公司，不予关联，保持 unresolved。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-03"
+  },
+  "channels": [
+    {
+      "id": "ch-26050ae8f7df723c",
+      "layer": "recruitment_platform",
+      "platform": "boss_zhipin",
+      "url": "https://www.zhipin.com/gongsi/ee12175f1fbfcccd1XR60929GQ~~.html",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "深圳市英诺维信自动化设备有限公司",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-02",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
+  "contacts": {
+    "website": "https://www.innovis.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "checked_at": "2026-11-02",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "苏州英诺维信 公开入口",
+      "url": "https://www.itjuzi.com",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 深圳市英诺维信自动化设备有限公司（无苏州专页）",
+      "url": "https://www.zhipin.com/gongsi/ee12175f1fbfcccd1XR60929GQ~~.html",
+      "supports": "公开企业主页主体：深圳市英诺维信自动化设备有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    }
+  ],
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "category_id": "06",
+  "focus": "工业数据AI分析平台，预测性维护与质量管理",
+  "products": "工业数据AI分析平台，预测性维护与质量管理",
+  "locations_text": "苏州工业园区",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：工业数据AI分析平台，预测性维护与质量管理。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "草稿阶段：A轮；待用公开融资披露核实。",
+    "verification_status": "not_found"
+  },
+  "provenance": {
+    "original_name": "苏州英诺维信",
+    "original_track": "06",
+    "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  }
+}

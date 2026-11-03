@@ -10,7 +10,7 @@
 
 JSON 是公开事实的唯一维护源；本目录、公司档案、机构档案和 CSV 自动生成。公司按业务分类，不预设个人求职匹配或优先级。
 
-目前收录 **80 个经营型机构／项目、10 个主赛道、400 条来源记录**；记录 76 个招聘入口、38 个公开招聘邮箱。最近业务资料核查日期：2026-10-31；资料是研究快照，不保证职位仍开放。
+目前收录 **201 个经营型机构／项目、10 个主赛道、1028 条来源记录**；记录 129 个招聘入口、42 个公开招聘邮箱。最近业务资料核查日期：2026-11-03；资料是研究快照，不保证职位仍开放。
 
 ## VC 机构研究
 
@@ -31,41 +31,41 @@ JSON 是公开事实的唯一维护源；本目录、公司档案、机构档案
 
 ## 按赛道找公司
 
-### 01 基础模型 · 9 家
+### 01 基础模型 · 22 家
 
-[零一万物 01.AI](companies/01-ai.md) · [百川智能 Baichuan](companies/baichuan.md) · [深度求索 DeepSeek](companies/deepseek.md) · [澜舟科技 Langboat](companies/langboat.md) · [MiniMax](companies/minimax.md) · [面壁智能 ModelBest](companies/modelbest.md) · [月之暗面 Kimi](companies/moonshot.md) · [阶跃星辰 StepFun](companies/stepfun.md) · [智谱 Z.ai](companies/zhipu.md)
+[零一万物 01.AI](companies/01-ai.md) · [阿里巴巴集团 Alibaba](companies/alibaba.md) · [阿里巴巴（上海）](companies/alibaba-shanghai.md) · [蚂蚁集团 Ant Group](companies/ant-group.md) · [百川智能 Baichuan](companies/baichuan.md) · [百度 Baidu](companies/baidu.md) · [百度（上海）](companies/baidu-shanghai.md) · [字节跳动 ByteDance](companies/bytedance.md) · [字节跳动（上海）](companies/bytedance-shanghai.md) · [深度求索 DeepSeek](companies/deepseek.md) · [澜舟科技 Langboat](companies/langboat.md) · [美团 Meituan](companies/meituan.md) · [美团（上海）](companies/meituan-shanghai.md) · [MiniMax](companies/minimax.md) · [面壁智能 ModelBest](companies/modelbest.md) · [月之暗面 Kimi](companies/moonshot.md) · [上海人工智能实验室](companies/shanghai-ai-lab.md) · [阶跃星辰 StepFun](companies/stepfun.md) · [腾讯 Tencent](companies/tencent.md) · [腾讯（上海）](companies/tencent-shanghai.md) · [小米 Xiaomi](companies/xiaomi.md) · [智谱 Z.ai](companies/zhipu.md)
 
-### 02 算力与基础设施 · 11 家
+### 02 算力与基础设施 · 18 家
 
-[趋境科技 Approaching.AI](companies/approaching-ai.md) · [壁仞科技 Biren](companies/biren.md) · [九章云极 DataCanvas](companies/datacanvas.md) · [燧原科技 Enflame](companies/enflame.md) · [无问芯穹 Infinigence AI](companies/infinigence.md) · [基流科技 Infrawaves](companies/infrawaves.md) · [潞晨科技 Colossal-AI](companies/luchentech.md) · [沐曦股份 MetaX](companies/metax.md) · [摩尔线程 Moore Threads](companies/moore-threads.md) · [清程极智 Qingcheng.AI](companies/qingcheng-ai.md) · [硅基流动 SiliconFlow](companies/siliconflow.md)
+[声网 Agora](companies/agora.md) · [趋境科技 Approaching.AI](companies/approaching-ai.md) · [壁仞科技 Biren](companies/biren.md) · [九章云极 DataCanvas](companies/datacanvas.md) · [燧原科技 Enflame](companies/enflame.md) · [华为 Huawei](companies/huawei.md) · [天数智芯](companies/iluvatar-corex.md) · [无问芯穹 Infinigence AI](companies/infinigence.md) · [基流科技 Infrawaves](companies/infrawaves.md) · [金山云 Kingsoft Cloud](companies/kingsoft-cloud.md) · [潞晨科技 Colossal-AI](companies/luchentech.md) · [沐曦股份 MetaX](companies/metax.md) · [澜起科技](companies/montage-technology.md) · [摩尔线程 Moore Threads](companies/moore-threads.md) · [清程极智 Qingcheng.AI](companies/qingcheng-ai.md) · [七牛云](companies/qiniu.md) · [硅基流动 SiliconFlow](companies/siliconflow.md) · [优刻得](companies/ucloud.md)
 
 ### 03 开发平台与编程工具 · 2 家
 
 [硅心科技 / aiXcoder](companies/aixcoder.md) · [Dify / LangGenius](companies/dify.md)
 
-### 04 通用 Agent、个人应用与搜索 · 6 家
+### 04 通用 Agent、个人应用与搜索 · 24 家
 
-[彩云科技](companies/caiyun.md) · [Flowith](companies/flowith.md) · [Genspark / MainFunc](companies/genspark.md) · [蝴蝶效应 / Manus](companies/manus.md) · [秘塔科技 MetaSota](companies/metasota.md) · [此间无限 Today AI](companies/today-ai.md)
+[思必驰](companies/aispeech.md) · [哔哩哔哩](companies/bilibili.md) · [彩云科技](companies/caiyun.md) · [云从科技（苏州）](companies/cloudwalk-suzhou.md) · [携程集团](companies/ctrip.md) · [格灵深瞳（苏州）](companies/deepglint-suzhou.md) · [Flowith](companies/flowith.md) · [Genspark / MainFunc](companies/genspark.md) · [苏州浩辰软件](companies/gstarsoft.md) · [汇纳科技](companies/huana.md) · [苏州华兴源创](companies/hyc.md) · [科大讯飞苏州研究院](companies/iflytek-suzhou.md) · [视见科技](companies/imed.md) · [云天励飞（苏州）](companies/intellifusion-suzhou.md) · [苏州科达](companies/kedacom.md) · [蝴蝶效应 / Manus](companies/manus.md) · [秘塔科技 MetaSota](companies/metasota.md) · [商汤科技](companies/sensetime.md) · [此间无限 Today AI](companies/today-ai.md) · [同程旅行AI部门](companies/tongcheng-ai.md) · [苏州同元软控（MWORKS）](companies/tongyuan-mworks.md) · [小红书 Xiaohongshu](companies/xiaohongshu.md) · [元象科技](companies/xverse.md) · [依图科技](companies/yitu.md)
 
-### 05 多模态生成与创作工具 · 11 家
+### 05 多模态生成与创作工具 · 13 家
 
-[爱诗科技 / PixVerse](companies/aisphere.md) · [鹿影科技 / Avolution.ai（历史项目）](companies/avolution.md) · [井英科技 / CreativeFitting](companies/creativefitting.md) · [影眸科技 / Deemos / Hyper3D](companies/deemos.md) · [稿定科技 / 稿定设计](companies/gaoding.md) · [硅基智能（南京）](companies/guiji.md) · [即时设计 / JSDesign](companies/jsdesign.md) · [LiblibAI / 哩布哩布](companies/liblib.md) · [生数科技 / Vidu](companies/shengshu.md) · [VAST / Tripo](companies/vast.md) · [魔珐科技 / Xmov](companies/xmov.md)
+[爱诗科技 / PixVerse](companies/aisphere.md) · [鹿影科技 / Avolution.ai（历史项目）](companies/avolution.md) · [井英科技 / CreativeFitting](companies/creativefitting.md) · [影眸科技 / Deemos / Hyper3D](companies/deemos.md) · [稿定科技 / 稿定设计](companies/gaoding.md) · [硅基智能（南京）](companies/guiji.md) · [即时设计 / JSDesign](companies/jsdesign.md) · [快手 Kuaishou](companies/kuaishou.md) · [LiblibAI / 哩布哩布](companies/liblib.md) · [网易 NetEase](companies/netease.md) · [生数科技 / Vidu](companies/shengshu.md) · [VAST / Tripo](companies/vast.md) · [魔珐科技 / Xmov](companies/xmov.md)
 
-### 06 企业与垂直行业软件 · 8 家
+### 06 企业与垂直行业软件 · 33 家
 
-[实在智能](companies/ai-indeed.md) · [弘玑 Cyclone](companies/cyclone.md) · [滴普科技 / Deepexi](companies/deepexi.md) · [合合信息 / Intsig](companies/intsig.md) · [来也科技 / Laiye](companies/laiye.md) · [幂律智能 / PowerLaw AI](companies/powerlaw.md) · [循环智能 / Recurrent AI](companies/recurrent-ai.md) · [影刀 / 杭州分叉智能](companies/yingdao.md)
+[ABB（中国）上海](companies/abb-china.md) · [实在智能](companies/ai-indeed.md) · [宝信软件](companies/baosight.md) · [黑湖科技](companies/blacklake.md) · [博世（中国）苏州](companies/bosch.md) · [苏州中科类脑](companies/cas-brain-inspired-computing.md) · [弘玑 Cyclone](companies/cyclone.md) · [深兰科技](companies/deepblue.md) · [滴普科技 / Deepexi](companies/deepexi.md) · [苏州优科斯](companies/eucs.md) · [协鑫能科](companies/gcl-energy.md) · [苏州海克斯康](companies/hexagon-manufacturing-intelligence.md) · [华为（苏州研究院）](companies/huawei-suzhou-research-institute.md) · [苏州英诺维信](companies/innovis.md) · [合合信息 / Intsig](companies/intsig.md) · [来也科技 / Laiye](companies/laiye.md) · [美的楼宇科技苏州](companies/midea-building-technologies.md) · [幂律智能 / PowerLaw AI](companies/powerlaw.md) · [苏州佳世达电通有限公司](companies/qisda.md) · [循环智能 / Recurrent AI](companies/recurrent-ai.md) · [施耐德电气（中国）上海](companies/schneider-electric-china.md) · [上海电气](companies/shanghai-electric.md) · [西门子（中国）苏州](companies/siemens.md) · [苏州工业园区AI产业园](companies/sip-ai-industrial-park.md) · [森亿智能](companies/synyi.md) · [星环科技](companies/transwarp.md) · [苏州天准科技](companies/tztek.md) · [联影智能](companies/uii.md) · [苏州优智汇](companies/uzero-intelligence.md) · [西井科技](companies/westwell.md) · [影刀 / 杭州分叉智能](companies/yingdao.md) · [苏州远志科技](companies/yuanzhi-ai.md) · [振华重工](companies/zpmc.md)
 
-### 07 零售、电商与营销应用 · 10 家
+### 07 零售、电商与营销应用 · 12 家
 
-[深绘智能 / Deepdraw](companies/deepdraw.md) · [极睿科技 / Infimind](companies/infimind.md) · [筷子科技 / Kuaizi](companies/kuaizi.md) · [乐言科技](companies/leyan.md) · [快牛智营 / QuickCEP](companies/quickcep.md) · [店匠科技 / Shoplazza](companies/shoplazza.md) · [Shulex / 杭州数里行间科技有限公司](companies/shulex.md) · [特看科技 / Tabcut](companies/tabcut.md) · [钛动科技 / Tec-Do](companies/tec-do.md) · [晓多科技 / Xiaoduo AI](companies/xiaoduo.md)
+[深绘智能 / Deepdraw](companies/deepdraw.md) · [极睿科技 / Infimind](companies/infimind.md) · [京东 JD.com](companies/jd.md) · [筷子科技 / Kuaizi](companies/kuaizi.md) · [乐言科技](companies/leyan.md) · [拼多多集团 PDD Holdings](companies/pdd-holdings.md) · [快牛智营 / QuickCEP](companies/quickcep.md) · [店匠科技 / Shoplazza](companies/shoplazza.md) · [Shulex / 杭州数里行间科技有限公司](companies/shulex.md) · [特看科技 / Tabcut](companies/tabcut.md) · [钛动科技 / Tec-Do](companies/tec-do.md) · [晓多科技 / Xiaoduo AI](companies/xiaoduo.md)
 
-### 08 具身智能与机器人 · 11 家
+### 08 具身智能与机器人 · 39 家
 
-[智元机器人](companies/agibot.md) · [傅利叶](companies/fourier.md) · [星海图](companies/galaxea.md) · [银河通用](companies/galbot.md) · [逐际动力](companies/limx.md) · [穹彻智能](companies/noematrix.md) · [星动纪元](companies/robotera.md) · [千寻智能](companies/spirit-ai.md) · [它石智航](companies/tars.md) · [宇树科技](companies/unitree.md) · [自变量机器人](companies/x-square.md)
+[智元机器人](companies/agibot.md) · [苏州艾吉威机器人](companies/agve.md) · [苏州博众精工](companies/bozhong.md) · [滴滴 DiDi](companies/didi.md) · [苏州艾利特机器人](companies/elite-robots.md) · [非夕科技](companies/flexiv.md) · [傅利叶](companies/fourier.md) · [星海图](companies/galaxea.md) · [银河通用](companies/galbot.md) · [高仙机器人](companies/gaussian-robotics.md) · [海康机器人（苏州）](companies/hikrobot.md) · [昆山华恒焊接](companies/huaheng-welding.md) · [智己汽车](companies/im-motors.md) · [图达通](companies/innovusion.md) · [苏州汇川技术](companies/inovance-technology.md) · [节卡机器人](companies/jaka.md) · [苏州钧舵机器人](companies/jundo.md) · [擎朗智能](companies/keenon.md) · [开普勒机器人](companies/kepler-robotics.md) · [苏州绿的谐波](companies/leader-drive.md) · [逐际动力](companies/limx.md) · [微创机器人](companies/microport-medbot.md) · [蔚来](companies/nio.md) · [穹彻智能](companies/noematrix.md) · [纽劢科技](companies/nullmax.md) · [钱璟康复（常州）](companies/qianjing-rehabilitation.md) · [快仓智能](companies/quicktron.md) · [星动纪元](companies/robotera.md) · [苏州李群自动化](companies/rokae-liqtech.md) · [上海发那科](companies/shanghai-fanuc.md) · [千寻智能](companies/spirit-ai.md) · [新时达](companies/step-electric.md) · [它石智航](companies/tars.md) · [特斯拉上海研发创新中心](companies/tesla-shanghai-rd.md) · [钛米机器人](companies/timi-robot.md) · [友道智途](companies/udit.md) · [傲鲨智能](companies/uls-robotics.md) · [宇树科技](companies/unitree.md) · [自变量机器人](companies/x-square.md)
 
-### 09 AI 消费硬件 · 5 家
+### 09 AI 消费硬件 · 31 家
 
-[跃然创新 Haivivi](companies/haivivi.md) · [极壳科技 Hypershell](companies/hypershell.md) · [Plaud / 机智连接](companies/plaud.md) · [闪极科技 SHARGE](companies/sharge.md) · [未来智能 viaim](companies/viaim.md)
+[盛美半导体](companies/acm-research.md) · [中微公司](companies/amec.md) · [晶晨股份](companies/amlogic.md) · [翱捷科技](companies/asr-microelectronics.md) · [恒玄科技](companies/bestechnic.md) · [苏州晶方半导体](companies/china-wafer-level-csp.md) · [亿咖通科技](companies/ecarx-holdings.md) · [格科微](companies/galaxycore.md) · [苏州固锝电子](companies/good-ark-semiconductor.md) · [跃然创新 Haivivi](companies/haivivi.md) · [禾赛科技](companies/hesai.md) · [华虹半导体](companies/hua-hong-semiconductor.md) · [极壳科技 Hypershell](companies/hypershell.md) · [旭创科技](companies/innolight.md) · [英业达（昆山）](companies/inventec-kunshan.md) · [步科股份](companies/kinco.md) · [昆山龙腾光电](companies/kunshan-longteng-optoelectronics.md) · [迈为科技](companies/maiwei.md) · [苏州敏芯微电子](companies/memsensing-microsystems.md) · [鸣志电器](companies/moons.md) · [纳芯微电子](companies/novosense.md) · [Plaud / 机智连接](companies/plaud.md) · [广达电脑（昆山）](companies/quanta-computer-kunshan.md) · [闪极科技 SHARGE](companies/sharge.md) · [芯联集成](companies/sien-integrated-circuits.md) · [中芯国际](companies/smic.md) · [紫光展锐](companies/unisoc.md) · [联影医疗](companies/united-imaging.md) · [芯原股份](companies/verisilicon.md) · [未来智能 viaim](companies/viaim.md) · [昆山纬创](companies/wistron-kunshan.md)
 
 ### 10 科学智能与生物医药 · 7 家
 

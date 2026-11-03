@@ -29,6 +29,7 @@ python3 skills/find-channels/scripts/audit_channels.py --entity companies --wave
 ## 2. 核实并直接更新公司资料
 
 1. **核对主体归属**：核对平台页面中的机构名称、官网、地区和工商/运营主体，区分同名公司、品牌、集团与子公司。复用正式记录的名称／别名；新发现的主体名称需先以公开证据确认，再补充别名。
+   `owner.name` 保存网页实际观察到的机构名称，不改写成目标公司标签。集团主页、其他城市法人及相关销售公司可保留为关联入口，但目标单元对应关系未证实时只能标 `partial`，并在 `notes` 说明待核实项；不得把集团／产品名称补成地区单元的同一主体别名来通过校验。
 2. **区分入口用途**：记录稳定的企业主页、实际核查日期、证据标题与来源。招聘、BP、商务、客服等邮箱用途严格分开，绝不按域名格式猜测邮箱。
 3. **写入结构化 `channels`**：将已核实的公开入口写入该公司 `channels`，证据写入 `sources` 并标 `scope: "channel"`。原业务 `checked_at`、其他事实与既有渠道保持原意，重复核查更新同一入口，不制造副本。
 4. **如实报告缺口**：未找到、访问受限或主体无法确定时，在本次研究报告中逐公司列明平台、实际检查日期与缺口，不写成 `confirmed`，也不创建私人 application 或 inbox 记录。
@@ -43,6 +44,8 @@ python3 skills/find-channels/scripts/audit_channels.py --entity companies --wave
 采集 Agent 可直接编辑公司 JSON 后校验，也可把已经核实的招聘平台企业主页观察 JSON 经标准输入交给 [update_layer2.py](scripts/update_layer2.py)，直接更新公司档案，不经过私人目录。
 
 输入契约见 [channel-batch.schema.json](../../data/schemas/channel-batch.schema.json)：顶层 `schema_version: 1`、`public_only: true`、`entries`；每项包含 `entity_type`、`entity_id`、`platform`、`url`、`observed_name`、`checked_at`、`evidence_title`、`verification_status: "confirmed"`。
+
+此批量工具仅接收主体已核实且与目标名称／有证据别名匹配的观察；集团与地区单元的关联线索应直接编辑 JSON，保留实际 `owner.name`、`partial` 状态和缺口说明后校验。更新同一入口时同步修正主体证据，不沿用旧的归属描述。
 
 ```bash
 # 将采集程序实际观察到的 JSON 输出通过管道交给此命令，直接原子更新公司档案：
